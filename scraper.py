@@ -168,17 +168,17 @@ def fetch_job_detail(job_id):
 
 # ── Parsing ─────────────────────────────────────────────────────────
 def extract_location_raw(description_html):
-    """Full text after the first 'Location:' label, or None.
+    """Full text after the first 'Location:' (or Portuguese 'Localização:') label, or None.
 
     Descriptions are HTML ("<p><strong>Location:</strong> United States only</p>"),
-    so strip tags, then look for a block that starts with 'Location:'.
+    so strip tags, then look for a block that starts with the label.
     """
     if not description_html:
         return None
     text = re.sub(r"(?i)</p>|<br\s*/?>|</li>|</h\d>", "\n", description_html)
     text = html.unescape(re.sub(r"<[^>]+>", "", text)).replace("\xa0", " ")
     for block in text.split("\n"):
-        m = re.match(r"(?i)\s*location\s*:\s*(.*)$", block)
+        m = re.match(r"(?i)\s*(?:location|localiza[cç][aã]o)\s*:\s*(.*)$", block)
         if m:
             value = m.group(1).strip()
             return value or None
