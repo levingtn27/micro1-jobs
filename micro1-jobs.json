@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-09-27T20:30:03Z",
-  "count": 362,
+  "updated_at": "2026-09-28T00:30:04Z",
+  "count": 350,
   "jobs": [
+    {
+      "job_id": "90990ebf-8198-4b79-a799-add474453dbb",
+      "title": "Data Analyst",
+      "domain_slug": "data-analysis",
+      "date_posted": "2026-09-27 21:15:13",
+      "skills": [
+        "Data Analysis",
+        "Data Review",
+        "Attention to detail",
+        "Handling ambiguity",
+        "Error spotting"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote, US-based.",
+      "referral_url": "https://jobs.micro1.ai/post/90990ebf-8198-4b79-a799-add474453dbb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "313b5b7a-a6a8-4acf-9842-017d8506a037",
       "title": "Gmail & Google Calendar AI Assistant Evaluator",
@@ -7392,232 +7412,6 @@
       "yearly": null,
       "location_raw": "Remoto – Profissionais baseados nos seguintes estados: Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/22332d44-d4d7-4444-b777-46fa149a14c3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5f93cf4a-02e4-4bf6-b6d6-105070dfe956",
-      "title": "Portuguese Audio Recording Expert (Portugal)",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 05:13:25",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5f93cf4a-02e4-4bf6-b6d6-105070dfe956?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "065d39e1-31ac-4a73-9bae-bf5bdaaf2b7c",
-      "title": "Portuguese Audio Recording Expert (Brazil)",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 05:12:52",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/065d39e1-31ac-4a73-9bae-bf5bdaaf2b7c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2e0922bd-d93f-4252-9b7b-3ddcf9546709",
-      "title": "Dutch Audio Recording Experts",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 05:10:59",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2e0922bd-d93f-4252-9b7b-3ddcf9546709?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "dfda92a0-f639-4d0a-a8ca-10e92646346b",
-      "title": "Mandarin Audio Recording Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 05:09:28",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/dfda92a0-f639-4d0a-a8ca-10e92646346b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a8c3a3ba-8913-444c-a667-a3219f5fe903",
-      "title": "Italian Audio Recording Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 04:42:20",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a8c3a3ba-8913-444c-a667-a3219f5fe903?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b164a44d-97fc-49ff-a3a2-748a27096e80",
-      "title": "German Audio Recording Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 04:40:24",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b164a44d-97fc-49ff-a3a2-748a27096e80?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2a38d77e-3e6c-4b3f-ab87-58ac146810f4",
-      "title": "Telugu Audio Recording Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 04:37:56",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2a38d77e-3e6c-4b3f-ab87-58ac146810f4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "72536acf-1bed-4da6-9e18-bbf99b55fa50",
-      "title": "Tamil Audio Recording Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 04:34:25",
-      "skills": [
-        "Audio recording"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/72536acf-1bed-4da6-9e18-bbf99b55fa50?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "4de0d6fd-40fe-486e-82fb-66e24d2331b3",
-      "title": "Thai Audio Recording Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-07-30 04:16:07",
-      "skills": [
-        "Audio recording",
-        "Audio editing"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/4de0d6fd-40fe-486e-82fb-66e24d2331b3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0d13155b-b70e-4f8d-87d6-503942c3824f",
-      "title": "Semiconductor Devices & Microelectronics Expert ",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-07-30 02:37:07",
-      "skills": [
-        "semiconductors",
-        "engineering"
-      ],
-      "hourly_min": 66,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0d13155b-b70e-4f8d-87d6-503942c3824f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a83744f0-dd11-43d2-86fa-373afff7eb92",
-      "title": "Mechanical Design / CAD Expert ",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-07-30 01:38:37",
-      "skills": [
-        "Mechanical Design",
-        "CAD"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a83744f0-dd11-43d2-86fa-373afff7eb92?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "972f4b3e-07a1-4a00-bd6a-b16da1f61461",
-      "title": "AI trainer ",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-07-30 00:53:51",
-      "skills": [
-        "data annotation",
-        "prompt engineering",
-        "critical thinking",
-        "written communication",
-        "domain expertise",
-        "feedback delivery",
-        "remote collaboration",
-        "attention to detail",
-        "adaptability",
-        "ethical awareness in ai"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 180,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/972f4b3e-07a1-4a00-bd6a-b16da1f61461?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "be3b2ad9-b1c3-4893-84f1-6060fb8003fd",
-      "title": "Mechanical Engineering Expert",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-07-30 00:45:56",
-      "skills": [
-        "remote collaboration",
-        "Engineering Mechanics",
-        "Thermodynamics",
-        "Fluid Mechanics",
-        "Heat Transfer",
-        "Manufacturing",
-        "Vibrations"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/be3b2ad9-b1c3-4893-84f1-6060fb8003fd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3461d671-c918-45ab-94cf-d52ee9e2e4b5",
