@@ -1,7 +1,89 @@
 {
-  "updated_at": "2026-09-28T16:30:03Z",
-  "count": 350,
+  "updated_at": "2026-09-28T20:30:08Z",
+  "count": 354,
   "jobs": [
+    {
+      "job_id": "95262281-9341-44dc-a5b1-4361ed9daaab",
+      "title": "Salesforce Specialist",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-09-28 18:20:23",
+      "skills": [
+        "Salesforce CRM",
+        "Salesforce Workflow & Automation",
+        "Salesforce Reports & Dashboards",
+        "CRM Data Management"
+      ],
+      "hourly_min": 28,
+      "hourly_max": 92,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/95262281-9341-44dc-a5b1-4361ed9daaab?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "650bf6c3-db6f-4783-ab0c-07324047b834",
+      "title": "Content Writer & Editor",
+      "domain_slug": "other",
+      "date_posted": "2026-09-28 18:08:58",
+      "skills": [
+        "writing evaluation",
+        "editing",
+        "grammar and syntax expertise",
+        "english language proficiency",
+        "content quality assessment",
+        "attention to detail",
+        "remote collaboration",
+        "constructive feedback",
+        "organizational skills",
+        "time management"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/650bf6c3-db6f-4783-ab0c-07324047b834?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "e775ea66-76f5-48e8-bc22-a18fa2d9d8f7",
+      "title": "Airtable Specialist",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-09-28 18:05:57",
+      "skills": [
+        "Airtable",
+        "Workflow Design & Automation",
+        "Database & Data Management",
+        "Product Management"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e775ea66-76f5-48e8-bc22-a18fa2d9d8f7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c19e2caa-4494-4e1c-9417-80a28e463027",
+      "title": "QuickBooks Specialist",
+      "domain_slug": "finance",
+      "date_posted": "2026-09-28 17:49:21",
+      "skills": [
+        "Bookkeeping",
+        "QuickBooks",
+        "Accounting",
+        "Financial Reporting"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c19e2caa-4494-4e1c-9417-80a28e463027?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "90990ebf-8198-4b79-a799-add474453dbb",
       "title": "Data Analyst (AI Evaluation)",
