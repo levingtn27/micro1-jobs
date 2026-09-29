@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-09-28T20:30:08Z",
+  "updated_at": "2026-09-29T00:30:06Z",
   "count": 354,
   "jobs": [
+    {
+      "job_id": "f3ca9a77-ffd0-4eb7-b4ba-10deb5c71abb",
+      "title": " Bilingual Japanese Psychiatrist",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-09-28 19:40:05",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Bilingual in Japanese",
+        "Psychiatry"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f3ca9a77-ffd0-4eb7-b4ba-10deb5c71abb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "64110e6c-a1f5-45dd-9dfb-695b0ee21ee3",
+      "title": " Bilingual Japanese Psychologist (PhD)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-09-28 18:57:00",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Bilingual in Japanese",
+        "Psychologist"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/64110e6c-a1f5-45dd-9dfb-695b0ee21ee3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "95262281-9341-44dc-a5b1-4361ed9daaab",
       "title": "Salesforce Specialist",
@@ -7458,42 +7510,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8e8fd735-11b7-436e-8669-8e2a30bb2e52?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "708b0a8b-9d4e-451b-8a0d-2fa6008ea4a9",
-      "title": "Graba Videos desde Casa (Estados Unidos)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-07-31 20:56:47",
-      "skills": [
-        "Captura de Video",
-        "Atención al Detalle",
-        "Tareas Domésticas"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
-      "referral_url": "https://jobs.micro1.ai/post/708b0a8b-9d4e-451b-8a0d-2fa6008ea4a9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "22332d44-d4d7-4444-b777-46fa149a14c3",
-      "title": "Gravador(a) de Vídeos em Casa (Estados Unidos)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-07-31 15:55:20",
-      "skills": [
-        "Captura de Vídeo",
-        "Atenção a Detalhes",
-        "Tarefas domésticas"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remoto – Profissionais baseados nos seguintes estados: Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
-      "referral_url": "https://jobs.micro1.ai/post/22332d44-d4d7-4444-b777-46fa149a14c3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3461d671-c918-45ab-94cf-d52ee9e2e4b5",
