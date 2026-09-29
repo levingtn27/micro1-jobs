@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-09-29T00:30:06Z",
-  "count": 354,
+  "updated_at": "2026-09-29T04:30:05Z",
+  "count": 356,
   "jobs": [
+    {
+      "job_id": "068bc3c8-4c0b-4b1b-afa2-e7ddcce6dd8b",
+      "title": " Bilingual Indonesian Psychologist (PhD)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-09-29 01:50:26",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Psychologist",
+        "Indonesian"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/068bc3c8-4c0b-4b1b-afa2-e7ddcce6dd8b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6d98998f-fa08-4a82-9f91-c9fdc51cdf84",
+      "title": " Bilingual Indonesian Psychiatrist",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-09-29 01:45:04",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Psychiatry",
+        "Indonesian"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6d98998f-fa08-4a82-9f91-c9fdc51cdf84?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "f3ca9a77-ffd0-4eb7-b4ba-10deb5c71abb",
       "title": " Bilingual Japanese Psychiatrist",
@@ -1654,7 +1706,7 @@
     },
     {
       "job_id": "f3abc8e0-2f0e-4f28-aa3f-ee26ca98861f",
-      "title": "AI Facial Data Collection Contributor (Ethnicity)",
+      "title": "Paid Photo Contributor Opportunity",
       "domain_slug": "robotics",
       "date_posted": "2026-09-17 21:05:20",
       "skills": [
@@ -2702,7 +2754,7 @@
     },
     {
       "job_id": "6fb11cac-25a3-46de-a144-603468023a1c",
-      "title": "AI Facial Data Collection Associate (Twins)",
+      "title": "Paid Photo Contributor Opportunity (Twins)",
       "domain_slug": "robotics",
       "date_posted": "2026-09-14 20:47:56",
       "skills": [
@@ -3101,7 +3153,7 @@
     },
     {
       "job_id": "e07e971f-2ab2-4ce7-9351-33f086f4834f",
-      "title": "Selfie Collection Contributor (Aged 50+)",
+      "title": "Paid Photo Contributor Opportunity (Aged 50+)",
       "domain_slug": "generalist",
       "date_posted": "2026-09-10 22:01:26",
       "skills": [
@@ -3223,7 +3275,7 @@
     },
     {
       "job_id": "6cf1339a-ab22-447e-8fa5-2ce79407fa2b",
-      "title": "AI Facial Data Collection Associate (Siblings)",
+      "title": "Paid Photo Contributor Opportunity (Siblings)",
       "domain_slug": "generalist",
       "date_posted": "2026-09-09 21:24:44",
       "skills": [
