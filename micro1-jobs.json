@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T04:30:05Z",
-  "count": 356,
+  "updated_at": "2026-09-29T08:30:02Z",
+  "count": 354,
   "jobs": [
     {
       "job_id": "068bc3c8-4c0b-4b1b-afa2-e7ddcce6dd8b",
@@ -7650,24 +7650,6 @@
       "referral_url": "https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "2635948c-eb96-440d-8e4d-b32b8af0a25d",
-      "title": "Backend Java Developer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-04-18 06:30:20",
-      "skills": [
-        "JAVA",
-        "Spring Boot",
-        "Microservices"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 110,
-      "monthly_min": "2000.00",
-      "monthly_max": "12000.00",
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2635948c-eb96-440d-8e4d-b32b8af0a25d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "3751d160-6ea1-45e9-8c40-7af439059844",
       "title": "Machine Learning Engineer",
       "domain_slug": "ai-machine-learning",
@@ -7721,23 +7703,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3dda7a92-1d6d-4e5e-ae91-074ab9674a6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "deb16ca4-bc64-47b3-ba00-cb7fc814db65",
-      "title": "UI Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-04-17 06:04:56",
-      "skills": [
-        "UI Design",
-        "frontend development"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/deb16ca4-bc64-47b3-ba00-cb7fc814db65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4e941f66-e98b-44cb-bc92-55018050682f",
