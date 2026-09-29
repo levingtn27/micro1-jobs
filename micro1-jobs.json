@@ -1,7 +1,89 @@
 {
-  "updated_at": "2026-09-29T12:30:15Z",
-  "count": 364,
+  "updated_at": "2026-09-29T16:30:08Z",
+  "count": 368,
   "jobs": [
+    {
+      "job_id": "fbd40f9a-8e82-4e12-9624-348a6de789d7",
+      "title": "Computer Vision Specialist",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-09-29 16:08:41",
+      "skills": [
+        "Computer Vision"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/fbd40f9a-8e82-4e12-9624-348a6de789d7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "d18797b2-d38c-49e9-89f3-ee875f1d7d97",
+      "title": "Electronics Engineer",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-09-29 16:02:06",
+      "skills": [
+        "Electronics Engineering",
+        "electrical system design"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/d18797b2-d38c-49e9-89f3-ee875f1d7d97?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "825a8a6e-cff3-4179-9d74-f36468b987b7",
+      "title": "Mechanical Engineer ",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-09-29 15:43:04",
+      "skills": [
+        "3D CAD modeling",
+        "interpreting technical drawings",
+        "Conceptual understanding of stress analysis/FEA",
+        "Technical documentation (specs",
+        "tolerances)",
+        "SolidWorks",
+        "NX",
+        "Creo",
+        "or CATIA"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/825a8a6e-cff3-4179-9d74-f36468b987b7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3bc1ec11-392d-4d52-afe4-d5bc6badcbc1",
+      "title": "Finnish Transcription Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-09-29 14:19:19",
+      "skills": [
+        "finnish language proficiency",
+        "transcription",
+        "linguistic annotation",
+        "attention to detail",
+        "written and verbal communication",
+        "collaboration",
+        "transcription platforms",
+        "language datasets",
+        "remote work",
+        "guideline interpretation"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 35,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3bc1ec11-392d-4d52-afe4-d5bc6badcbc1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "6d278a40-0028-4b33-b2f0-5db4348e9297",
       "title": "QA & Source Inspection",
@@ -2736,13 +2818,12 @@
     },
     {
       "job_id": "44ad0950-96f2-410a-b3f1-63ff4708da8e",
-      "title": "Payroll and Accounts Payable Analyst",
+      "title": "Accounts Payable Analyst",
       "domain_slug": "finance",
       "date_posted": "2026-09-15 18:27:52",
       "skills": [
-        "Payroll",
         "Accounts Payable",
-        "Payroll Taxes"
+        "High-volume invoice processing"
       ],
       "hourly_min": null,
       "hourly_max": null,
