@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-09-30T12:30:05Z",
-  "count": 384,
+  "updated_at": "2026-09-30T16:30:04Z",
+  "count": 385,
   "jobs": [
+    {
+      "job_id": "d0f83737-b673-439b-a66f-0f23bcd2b707",
+      "title": "Generalist — U.S. Tax Workflow Evaluation",
+      "domain_slug": "finance",
+      "date_posted": "2026-09-30 14:31:34",
+      "skills": [
+        "Financial Literacy",
+        "Tax Filing",
+        "Data Review",
+        "Rubric Evaluation",
+        "Google Workspace"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0",
       "title": "Bloomberg Specialist",
@@ -1053,7 +1073,7 @@
     },
     {
       "job_id": "650bf6c3-db6f-4783-ab0c-07324047b834",
-      "title": "Content Writer & Editor",
+      "title": "Content Writer & Editor (Australia/New Zealand)",
       "domain_slug": "other",
       "date_posted": "2026-09-28 18:08:58",
       "skills": [
