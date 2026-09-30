@@ -1,7 +1,45 @@
 {
-  "updated_at": "2026-09-30T04:30:02Z",
-  "count": 384,
+  "updated_at": "2026-09-30T08:30:05Z",
+  "count": 386,
   "jobs": [
+    {
+      "job_id": "d54c73d6-e3bc-4183-98ae-1f1a8197721d",
+      "title": "Pharmaceutical Expert",
+      "domain_slug": "medicine",
+      "date_posted": "2026-09-30 06:58:39",
+      "skills": [
+        "Pharmaceutical Sciences",
+        "Clinical Pharmacology",
+        "Drug Safety & Evaluation",
+        "Clinical Research"
+      ],
+      "hourly_min": 126,
+      "hourly_max": 441,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "United State",
+      "referral_url": "https://jobs.micro1.ai/post/d54c73d6-e3bc-4183-98ae-1f1a8197721d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9ebedb7a-9911-4b0c-b771-13f3325bdc7d",
+      "title": "Primary Care Physician",
+      "domain_slug": "medicine",
+      "date_posted": "2026-09-30 06:55:40",
+      "skills": [
+        "Primary Care",
+        "Clinical Medicine",
+        "Patient Assessment",
+        "Diagnosis & Treatment Planning"
+      ],
+      "hourly_min": 126,
+      "hourly_max": 441,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "United state",
+      "referral_url": "https://jobs.micro1.ai/post/9ebedb7a-9911-4b0c-b771-13f3325bdc7d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
       "title": "Compliance Attorney",
