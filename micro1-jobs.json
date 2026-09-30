@@ -1,7 +1,92 @@
 {
-  "updated_at": "2026-09-29T20:30:32Z",
-  "count": 389,
+  "updated_at": "2026-09-30T00:30:09Z",
+  "count": 388,
   "jobs": [
+    {
+      "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
+      "title": "Compliance Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-29 22:21:20",
+      "skills": [
+        "compliance law expertise",
+        "legal document analysis",
+        "legal writing",
+        "regulatory research",
+        "us law knowledge",
+        "attention to detail",
+        "critical thinking",
+        "written communication",
+        "verbal communication",
+        "remote collaboration"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote, US-based only.",
+      "referral_url": "https://jobs.micro1.ai/post/306236e1-0ca6-4096-a8b2-4495678ff1ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "01c797e9-0eab-4a2f-988b-a0206e84f21d",
+      "title": "Bankruptcy Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-29 22:20:50",
+      "skills": [
+        "bankruptcy law expertise",
+        "legal document analysis",
+        "legal drafting (motions, pleadings, filings)",
+        "written communication",
+        "verbal communication"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote, US-based only",
+      "referral_url": "https://jobs.micro1.ai/post/01c797e9-0eab-4a2f-988b-a0206e84f21d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "106a1938-b587-4e53-8d54-4b6eba20343a",
+      "title": "Corporate Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-29 22:19:33",
+      "skills": [
+        "US Law",
+        "Transactional document analysis",
+        "Corporate law accuracy",
+        "Written legal reasoning"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote (US Only)",
+      "referral_url": "https://jobs.micro1.ai/post/106a1938-b587-4e53-8d54-4b6eba20343a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "50d0cd3d-0d16-4c70-9094-8a66bbc9dffb",
+      "title": "Litigator / Practicing Attorney (US)",
+      "domain_slug": "law",
+      "date_posted": "2026-09-29 22:18:49",
+      "skills": [
+        "Legal Reasoning",
+        "Litigation & Practice Expertise",
+        "Analytical Rigor",
+        "Calibration in Ambiguous Cases",
+        "Legal Writing",
+        "Communication Precision"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 140,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote, US only.",
+      "referral_url": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "bb3e957b-b767-4771-bfb7-bfa34d74632a",
       "title": " Bilingual Malay Psychiatrist",
@@ -7586,86 +7671,6 @@
       "referral_url": "https://jobs.micro1.ai/post/f400bdbd-3c49-4713-bd38-57ed91f1547a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "fb683031-e95e-4dbd-88c8-59c53ec8240c",
-      "title": "Compliance Attorney",
-      "domain_slug": "law",
-      "date_posted": "2026-08-04 12:32:15",
-      "skills": [
-        "compliance law expertise",
-        "legal document analysis",
-        "legal writing",
-        "regulatory research",
-        "us law knowledge",
-        "attention to detail",
-        "critical thinking",
-        "written communication",
-        "verbal communication",
-        "remote collaboration"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/fb683031-e95e-4dbd-88c8-59c53ec8240c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "73f5291e-366b-41e7-8ff9-14124682d146",
-      "title": "Bankruptcy Attorney",
-      "domain_slug": "law",
-      "date_posted": "2026-08-04 12:30:59",
-      "skills": [
-        "bankruptcy law expertise",
-        "legal document analysis",
-        "legal drafting (motions, pleadings, filings)",
-        "written communication",
-        "verbal communication"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/73f5291e-366b-41e7-8ff9-14124682d146?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "91c54ab1-6764-487b-9a38-1917d848b18f",
-      "title": "Corporate Attorney",
-      "domain_slug": "law",
-      "date_posted": "2026-08-04 12:26:04",
-      "skills": [
-        "legal research",
-        "legal document analysis",
-        "legal drafting",
-        "us corporate law",
-        "litigation",
-        "bankruptcy law",
-        "compliance",
-        "legal annotation",
-        "editorial skills",
-        "legal writing",
-        "legal reasoning",
-        "analytical skills",
-        "attention to detail",
-        "verbal communication",
-        "written communication",
-        "collaboration",
-        "instructional skills",
-        "quality assurance",
-        "guideline development",
-        "translating complex information"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote (US Only)",
-      "referral_url": "https://jobs.micro1.ai/post/91c54ab1-6764-487b-9a38-1917d848b18f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "6ea686cd-9a77-4221-94dc-1e0d952eb187",
       "title": "Clinician  (Oncology / Hematology)",
       "domain_slug": "medicine",
@@ -8316,24 +8321,6 @@
       "referral_url": "https://jobs.micro1.ai/post/ec92f108-3713-478c-9ddf-2d20c5af02c7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "8e8fd735-11b7-436e-8669-8e2a30bb2e52",
-      "title": "Professional Gamer",
-      "domain_slug": "other",
-      "date_posted": "2026-08-01 22:49:54",
-      "skills": [
-        "Gaming",
-        "QA",
-        "Annotation"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 14,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8e8fd735-11b7-436e-8669-8e2a30bb2e52?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "3461d671-c918-45ab-94cf-d52ee9e2e4b5",
       "title": "Gameplay Data Capture Specialist",
       "domain_slug": "other",
@@ -8348,36 +8335,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3461d671-c918-45ab-94cf-d52ee9e2e4b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e4559d84-181c-434d-9346-77b9bd432cfa",
-      "title": "Commercial Real Estate Manager",
-      "domain_slug": "other",
-      "date_posted": "2026-06-09 18:04:07",
-      "skills": [
-        "commercial real estate expertise",
-        "property valuation",
-        "feasibility studies",
-        "lease agreement analysis",
-        "market analysis",
-        "property management",
-        "written communication",
-        "verbal communication",
-        "attention to detail",
-        "regulatory compliance (us, canada, uk, europe)",
-        "team collaboration",
-        "remote work adaptability",
-        "ai data training (preferred)",
-        "technology-driven project experience",
-        "professionalism"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e4559d84-181c-434d-9346-77b9bd432cfa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "761c88b6-14e7-4ee5-b84c-efd10190ebce",
