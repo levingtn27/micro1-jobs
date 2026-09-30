@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T00:30:09Z",
-  "count": 388,
+  "updated_at": "2026-09-30T04:30:02Z",
+  "count": 384,
   "jobs": [
     {
       "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
@@ -8006,86 +8006,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9376db02-e91b-41e3-b10c-e865ff8aa2a6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "65877c40-5dc5-4b39-82a2-5cb6bd9f0407",
-      "title": "Recruiter",
-      "domain_slug": "other",
-      "date_posted": "2026-08-03 19:06:59",
-      "skills": [
-        "Sourcing",
-        "Talent Acquisition",
-        "Resume Screening",
-        "Interviewing",
-        "Job Markets",
-        "Sales"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 42,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/65877c40-5dc5-4b39-82a2-5cb6bd9f0407?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "fd9004ab-d96f-47a5-84eb-1a1406699b4f",
-      "title": "Travel Agent",
-      "domain_slug": "sales-marketing",
-      "date_posted": "2026-08-03 18:55:29",
-      "skills": [
-        "Customer Service",
-        "Reading Comprehension",
-        "Scheduling",
-        "Negotiation",
-        "Sales"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 35,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/fd9004ab-d96f-47a5-84eb-1a1406699b4f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "bd3aab41-e0ae-4e24-ac99-c1ec2e13623c",
-      "title": "Personal Trainer",
-      "domain_slug": "other",
-      "date_posted": "2026-08-03 18:33:41",
-      "skills": [
-        "Motivation",
-        "Communication",
-        "Commitment and Reliability",
-        "Program Design",
-        "Health and Safety"
-      ],
-      "hourly_min": 25,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/bd3aab41-e0ae-4e24-ac99-c1ec2e13623c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c8a130d8-3a70-4a4c-9c4f-8f739840fd04",
-      "title": "Sales Development Representative",
-      "domain_slug": "sales-marketing",
-      "date_posted": "2026-08-03 18:05:04",
-      "skills": [
-        "B2B Sales",
-        "Cold Calling",
-        "Prospecting",
-        "CRM"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 42,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c8a130d8-3a70-4a4c-9c4f-8f739840fd04?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "364acc50-17de-4a4b-b8f1-996a7065e549",
