@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-09-30T08:30:05Z",
-  "count": 386,
+  "updated_at": "2026-09-30T12:30:05Z",
+  "count": 384,
   "jobs": [
+    {
+      "job_id": "0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0",
+      "title": "Bloomberg Specialist",
+      "domain_slug": "finance",
+      "date_posted": "2026-09-30 09:50:34",
+      "skills": [
+        "Bloomberg"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c3de87a0-0f43-47af-8212-1703122b3679",
+      "title": "Procore Specialist",
+      "domain_slug": "skilled-trades-construction",
+      "date_posted": "2026-09-30 09:23:21",
+      "skills": [
+        "Procore"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 175,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c3de87a0-0f43-47af-8212-1703122b3679?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "d54c73d6-e3bc-4183-98ae-1f1a8197721d",
       "title": "Pharmaceutical Expert",
@@ -1462,25 +1494,6 @@
       "referral_url": "https://jobs.micro1.ai/post/5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "6df3024f-bb78-489f-9a69-be91909ff3b5",
-      "title": "Stripe Specialist",
-      "domain_slug": "finance",
-      "date_posted": "2026-09-23 09:20:13",
-      "skills": [
-        "Stripe",
-        "Payment Processing",
-        "Billing & Payments",
-        "Financial Operations"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6df3024f-bb78-489f-9a69-be91909ff3b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "a2e45775-e3a6-413a-9a9c-58d60f14e8d6",
       "title": "Clio Specialist",
       "domain_slug": "law",
@@ -1517,25 +1530,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8c912dee-6732-4ac1-9391-042d34c8b1ea?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d5fdf749-7c21-41f3-946c-0681c25e0a4b",
-      "title": "Google Classroom Specialist",
-      "domain_slug": "education",
-      "date_posted": "2026-09-23 08:39:33",
-      "skills": [
-        "Google Classroom",
-        "Learning Management Systems",
-        "Teaching & Education",
-        "Assignment & Classroom Management"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d5fdf749-7c21-41f3-946c-0681c25e0a4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
@@ -1593,24 +1587,6 @@
       "referral_url": "https://jobs.micro1.ai/post/5d640e1d-8b4f-4e8f-8f08-53cf71c17dc8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "2ba22339-ccb7-4f5e-961b-18939149cffe",
-      "title": "GitHub Specialist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-23 07:18:47",
-      "skills": [
-        "GitHub",
-        "Git & Version Control",
-        "GitHub Actions / CI/CD"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2ba22339-ccb7-4f5e-961b-18939149cffe?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "7bc65540-718f-4f23-8f27-69a12aa15d4b",
       "title": "Security Onion Specialist",
       "domain_slug": "cybersecurity",
@@ -1625,25 +1601,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7bc65540-718f-4f23-8f27-69a12aa15d4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "8b6a2f53-1b13-4498-8366-7d220df8f567",
-      "title": "FL Studio Specialists",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-09-23 06:21:16",
-      "skills": [
-        "FL Studio",
-        "Music Production",
-        "Audio Editing",
-        "Sound Design"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8b6a2f53-1b13-4498-8366-7d220df8f567?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
