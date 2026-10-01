@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-10-01T00:30:04Z",
-  "count": 372,
+  "updated_at": "2026-10-01T04:30:05Z",
+  "count": 374,
   "jobs": [
+    {
+      "job_id": "e67577e8-8635-4bfd-a7dd-387334920384",
+      "title": "UltraTax CS Specialist",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-01 03:32:03",
+      "skills": [
+        "UltraTax CS",
+        "Tax Preparation",
+        "Tax Compliance",
+        "Federal & State Taxation"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e67577e8-8635-4bfd-a7dd-387334920384?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "47390400-5292-4e03-ae19-5c6dabe3d8e3",
+      "title": "Microsoft Excel Specialist",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-01 02:33:43",
+      "skills": [
+        "Microsoft Excel",
+        "Pivot Tables",
+        "Data Analysis",
+        "Data Visualization",
+        "Spreadsheet Management"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/47390400-5292-4e03-ae19-5c6dabe3d8e3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "59c51e7f-cfb7-4008-99b2-59d23446852b",
       "title": "Video Content Lead",
