@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-10-01T12:30:05Z",
-  "count": 376,
+  "updated_at": "2026-10-01T16:30:09Z",
+  "count": 377,
   "jobs": [
+    {
+      "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
+      "title": "Derivatives Attorney (ISDA Specialist)",
+      "domain_slug": "law",
+      "date_posted": "2026-10-01 14:38:04",
+      "skills": [
+        "ISDAs",
+        "Derivatives",
+        "Contract Negotiation",
+        "Contract Redlining",
+        "Contract Drafting"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ca43d8de-7ded-4a6d-a8e1-bfc294d42914?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6ec61d0d-4e7b-4e79-bcb6-23fab6b05923",
+      "title": "Hospitalist Reviewer",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-01 13:51:33",
+      "skills": [
+        "CDI",
+        "Inpatient Medicine",
+        "Clinical Documentation",
+        "Clinical Adjudication",
+        "Error Detection",
+        "Hospitalist"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6ec61d0d-4e7b-4e79-bcb6-23fab6b05923?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "88d96810-38ca-44c6-901a-70ca641bc8db",
+      "title": "Personal Finance Expert (Canada)",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-01 11:33:30",
+      "skills": [
+        "Finance Background",
+        "Document Handling",
+        "Rubric Evaluation",
+        "Troubleshooting",
+        "Tax Filing"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/88d96810-38ca-44c6-901a-70ca641bc8db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2e1d2ae3-8927-44f4-8c38-5d1707c8158b",
+      "title": "Personal Finance Expert (UK)",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-01 11:33:08",
+      "skills": [
+        "Personal Finance",
+        "Finance Background",
+        "Document Handling",
+        "Rubric Evaluation",
+        "Troubleshooting"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2e1d2ae3-8927-44f4-8c38-5d1707c8158b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "0175ab60-933c-4a94-b842-5207e2d09c99",
       "title": "Recruiter, SF",
@@ -6945,25 +7026,6 @@
       "referral_url": "https://jobs.micro1.ai/post/562b711a-a95e-428f-97d4-d679529893d0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "eee79aa8-1813-43c3-b486-19f6c9a622ce",
-      "title": "Transactions Associate",
-      "domain_slug": "law",
-      "date_posted": "2026-08-12 15:03:42",
-      "skills": [
-        "Playbooks",
-        "Redlining",
-        "Contract Drafting",
-        "Contract Negotiation"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/eee79aa8-1813-43c3-b486-19f6c9a622ce?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "7f5dbf6b-9619-48cf-94db-0e846fce8227",
       "title": "Intellectual Property Counsel",
       "domain_slug": "law",
@@ -7020,25 +7082,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f29fadc8-dd29-4400-866a-1967c92722b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c5d8a217-2f8c-42a8-8b41-8c8e88f160c1",
-      "title": "CUDA Engineering Expert",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-11 13:48:57",
-      "skills": [
-        "CUDA",
-        "C++",
-        "GLSL",
-        "WebGPU"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c5d8a217-2f8c-42a8-8b41-8c8e88f160c1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "89c8ea6b-dd8e-43e1-af94-548640c9c17d",
@@ -8014,28 +8057,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3461d671-c918-45ab-94cf-d52ee9e2e4b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "761c88b6-14e7-4ee5-b84c-efd10190ebce",
-      "title": "Accountants and Auditors",
-      "domain_slug": "finance",
-      "date_posted": "2026-05-12 19:25:21",
-      "skills": [
-        "Economics and Accounting",
-        "Law and Government",
-        "Taxation",
-        "Financial Statements",
-        "Accounting",
-        "Verbal communication",
-        "Written communication"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 95,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/761c88b6-14e7-4ee5-b84c-efd10190ebce?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
