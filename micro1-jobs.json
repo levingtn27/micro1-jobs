@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-30T20:30:02Z",
-  "count": 378,
+  "updated_at": "2026-10-01T00:30:04Z",
+  "count": 372,
   "jobs": [
+    {
+      "job_id": "59c51e7f-cfb7-4008-99b2-59d23446852b",
+      "title": "Video Content Lead",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-09-30 21:41:06",
+      "skills": [
+        "Adobe Premiere Pro",
+        "Figma",
+        "DaVinci",
+        "Cinema 4D",
+        "Blender",
+        "3D tools"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 150000,
+        "min": 90000
+      },
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/59c51e7f-cfb7-4008-99b2-59d23446852b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "d0f83737-b673-439b-a66f-0f23bcd2b707",
       "title": "Generalist — U.S. Tax Workflow Evaluation",
@@ -7871,149 +7895,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c90c2d11-bdb6-42fc-91fd-a753a3c72ebf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "8c24c739-5ad1-484f-88f1-e9d7d2cea7cd",
-      "title": "Video Data Annotator",
-      "domain_slug": "other",
-      "date_posted": "2026-08-02 17:11:56",
-      "skills": [
-        "Video Data Annotation",
-        "Data annotation",
-        "Attention to detail",
-        "AI Review"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 7,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8c24c739-5ad1-484f-88f1-e9d7d2cea7cd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e97e0e7c-6788-4298-9f14-716aa6c34ded",
-      "title": "Physics Expert (Condensed Matter / Magnetic Materials)\t\t",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-02 01:58:44",
-      "skills": [
-        "Physics",
-        "magnetic structure factor calculations",
-        "propagation-vector analysis",
-        "magnetic space group identification (MAGNDATA)",
-        "AFM/FM phase classification"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 160,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e97e0e7c-6788-4298-9f14-716aa6c34ded?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6127bd10-eb44-4b7c-bac5-cfe629893526",
-      "title": "Physics Expert (Condensed Matter / Quantum Information)\t\t",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-02 01:49:10",
-      "skills": [
-        "Physics",
-        "exact diagonalization with translation + reflection symmetries (QuSpin preferred) for L >= 26",
-        "subspace block-diagonalization",
-        "overlap with Z2 state analysis"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6127bd10-eb44-4b7c-bac5-cfe629893526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "cf86ac29-1d6f-42e8-bfd9-5b1a5094bd0b",
-      "title": "Physics Expert (AMO / Quantum Information)\t\t",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-02 01:42:37",
-      "skills": [
-        "Physics",
-        "Bogoliubov transformations",
-        "sideband photocurrent spectra",
-        "homodyne detection",
-        "loss modelling via fictitious beamsplitters",
-        "covariance-matrix methods",
-        "squeeze-parameter hyperbolic identities"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 160,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/cf86ac29-1d6f-42e8-bfd9-5b1a5094bd0b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "dbd04789-74da-461f-8e20-a6c596f7a4e9",
-      "title": "Physics Expert (Gravitation / Cosmology / Astrophysics)\t\t",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-02 01:25:34",
-      "skills": [
-        "Physics",
-        "first-order Palatini gravity",
-        "tetrad + spin connections",
-        "Pontryagin density",
-        "Friedmann ODEs with torsion",
-        "coupled nonlinear ODE integration",
-        "Planck-unit normalization"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 160,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/dbd04789-74da-461f-8e20-a6c596f7a4e9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "ab03236f-d339-473c-89d1-be944ce53d97",
-      "title": "Physics Expert (Biophysics / Statistical Physics)\t\t",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-02 01:17:43",
-      "skills": [
-        "Physics",
-        "stochastic two-state Markov processes with gamma-distributed waiting times",
-        "Euler-Lotka equation",
-        "perturbative expansion in small division-noise variance",
-        "renewal theory",
-        "first-passage-time analysis"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 160,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ab03236f-d339-473c-89d1-be944ce53d97?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "ec92f108-3713-478c-9ddf-2d20c5af02c7",
-      "title": "Physics Expert (High Energy / Mathematical Physics)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-02 01:05:19",
-      "skills": [
-        "AdS/CFT",
-        "on-shell gravitational action",
-        "Weyl-Fefferman-Graham gauge",
-        "tensor algebra of boundary curvature invariants",
-        "Physics"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 160,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ec92f108-3713-478c-9ddf-2d20c5af02c7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3461d671-c918-45ab-94cf-d52ee9e2e4b5",
