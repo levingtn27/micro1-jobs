@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-10-01T08:30:10Z",
-  "count": 375,
+  "updated_at": "2026-10-01T12:30:05Z",
+  "count": 376,
   "jobs": [
+    {
+      "job_id": "0175ab60-933c-4a94-b842-5207e2d09c99",
+      "title": "Recruiter, SF",
+      "domain_slug": "other",
+      "date_posted": "2026-10-01 11:32:09",
+      "skills": [
+        "Sourcing",
+        "Recruitment pipeline",
+        "Remote work self-management",
+        "Stakeholder communication"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 55,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote - San Francisco, CA",
+      "referral_url": "https://jobs.micro1.ai/post/0175ab60-933c-4a94-b842-5207e2d09c99?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "36e1b1f6-b8bf-4273-a09a-94116a1f4b39",
+      "title": "Car-Mounted 360° Video Recorder",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-01 10:21:40",
+      "skills": [
+        "360° Camera Operation",
+        "Mounting & Rigging",
+        "Video Post-Production",
+        "Driving Skills",
+        "Quality Assurance",
+        "Project/Task Management"
+      ],
+      "hourly_min": 15,
+      "hourly_max": 20,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote — United States, Canada, United Kingdom, Ireland, Australia, and New Zealand",
+      "referral_url": "https://jobs.micro1.ai/post/36e1b1f6-b8bf-4273-a09a-94116a1f4b39?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "e67f4a0c-b99c-4725-8796-a09b12dd8d06",
       "title": "Gujarati Transcription Expert",
@@ -139,26 +179,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e67577e8-8635-4bfd-a7dd-387334920384?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "47390400-5292-4e03-ae19-5c6dabe3d8e3",
-      "title": "Microsoft Excel Specialist",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-10-01 02:33:43",
-      "skills": [
-        "Microsoft Excel",
-        "Pivot Tables",
-        "Data Analysis",
-        "Data Visualization",
-        "Spreadsheet Management"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/47390400-5292-4e03-ae19-5c6dabe3d8e3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "59c51e7f-cfb7-4008-99b2-59d23446852b",
