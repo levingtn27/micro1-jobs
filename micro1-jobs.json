@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-01T16:30:09Z",
-  "count": 377,
+  "updated_at": "2026-10-01T20:30:04Z",
+  "count": 365,
   "jobs": [
     {
       "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
-      "title": "Derivatives Attorney (ISDA Specialist)",
+      "title": "Derivatives Counsel (ISDA Specialist)",
       "domain_slug": "law",
       "date_posted": "2026-10-01 14:38:04",
       "skills": [
@@ -1398,6 +1398,25 @@
       "yearly": null,
       "location_raw": "Remote, US-based.",
       "referral_url": "https://jobs.micro1.ai/post/90990ebf-8198-4b79-a799-add474453dbb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "ea63124a-6a16-4be4-bc4c-2a00d576ecb1",
+      "title": "Legal Headhunter - Referral Partner",
+      "domain_slug": "law",
+      "date_posted": "2026-09-26 01:42:48",
+      "skills": [
+        "Legal recruiting",
+        "Executive search",
+        "Talent Sourcing",
+        "Networking"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ea63124a-6a16-4be4-bc4c-2a00d576ecb1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "313b5b7a-a6a8-4acf-9842-017d8506a037",
@@ -4154,30 +4173,6 @@
       "referral_url": "https://jobs.micro1.ai/post/5ca5feef-a2f0-4da9-ac55-1dfdc01bcdb9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "6deb983c-1ae8-4576-8b85-a80802fdeeb4",
-      "title": "Technical Writer/ Editor",
-      "domain_slug": "other",
-      "date_posted": "2026-09-11 11:21:52",
-      "skills": [
-        "Technical Writing",
-        "Content Evaluation",
-        "Written Communication",
-        "Attention To detail",
-        "Critical Analysis",
-        "Editing",
-        "Digital Content Review Platforms",
-        "Independent Work",
-        "Virtual Collaboration"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "United States, Canada, United Kingdom",
-      "referral_url": "https://jobs.micro1.ai/post/6deb983c-1ae8-4576-8b85-a80802fdeeb4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "e07e971f-2ab2-4ce7-9351-33f086f4834f",
       "title": "Paid Photo Contributor Opportunity (Aged 50+)",
       "domain_slug": "generalist",
@@ -4803,28 +4798,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7dbb09e4-d2d9-4138-ba02-f8a1bc6a71a5",
-      "title": "Video Annotation Specialist",
-      "domain_slug": "generalist",
-      "date_posted": "2026-09-03 10:19:35",
-      "skills": [
-        "video annotation",
-        "data labeling",
-        "attention to detail",
-        "written communication",
-        "time management",
-        "video annotation tools",
-        "collaboration"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Northern America, Latin America, Europe, UK, Oceania.",
-      "referral_url": "https://jobs.micro1.ai/post/7dbb09e4-d2d9-4138-ba02-f8a1bc6a71a5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "43067af3-efeb-435d-aeb9-6d1de8c2af0a",
@@ -6682,186 +6655,6 @@
       "referral_url": "https://jobs.micro1.ai/post/51a65c2c-07dd-4307-aba6-f7c4af17311c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "961df5fb-620c-4443-a3af-86bc225da2cd",
-      "title": "Hebrew Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:40:43",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "Hebrew native proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/961df5fb-620c-4443-a3af-86bc225da2cd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f8f1211f-ba15-4718-96a1-591ddf115111",
-      "title": "Thai Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:40:04",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "Thai native proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f8f1211f-ba15-4718-96a1-591ddf115111?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "bc12ec0b-3bc8-449a-b09e-4122eadce55a",
-      "title": "Tamil Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:38:24",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "Tamil native proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/bc12ec0b-3bc8-449a-b09e-4122eadce55a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "84921e4c-7944-46ae-bbc2-c49c7d3ab642",
-      "title": "Vietnamese Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:37:45",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "Vietnamese bilingual expert"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/84921e4c-7944-46ae-bbc2-c49c7d3ab642?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "eff6f38f-dfab-4333-9e4c-a5610de93e84",
-      "title": "Italian Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:35:54",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "Italian bilingual proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/eff6f38f-dfab-4333-9e4c-a5610de93e84?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "28d9685a-7802-4179-933e-ad510bc60938",
-      "title": "Bengali Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:35:14",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "Bengali native proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/28d9685a-7802-4179-933e-ad510bc60938?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c732f04d-3d0e-410f-ba42-781cd9f09915",
-      "title": "Russian Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:34:25",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "Russian native proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c732f04d-3d0e-410f-ba42-781cd9f09915?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6ae61a82-e891-46b2-ab5a-1496e25265b9",
-      "title": "Turkish Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:12:31",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "turkish native proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6ae61a82-e891-46b2-ab5a-1496e25265b9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5c02f61b-b2b2-46a6-a058-26a1f6e64cf7",
-      "title": "Polish Bilingual Expert ",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 21:09:03",
-      "skills": [
-        "english (b2+)",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "polish native proficiency"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5c02f61b-b2b2-46a6-a058-26a1f6e64cf7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "0faef422-476d-482f-827f-d6a3c18d59b9",
       "title": "Visual Designer (Deck/Presentation focused)",
       "domain_slug": "arts-design",
@@ -6918,36 +6711,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/12c44b79-e4a2-40af-af84-f633c4723452?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "aae4e860-c280-40ae-9493-0ac9e6f44ad3",
-      "title": "Voice Recorder (Japanese + English)",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 10:46:13",
-      "skills": [],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/aae4e860-c280-40ae-9493-0ac9e6f44ad3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e530d788-289c-479a-a938-0576ef985f06",
-      "title": "Voice Recorder (Korean + English)",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 10:46:01",
-      "skills": [
-        "communication"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e530d788-289c-479a-a938-0576ef985f06?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "90f5054a-e91e-403d-8733-c350ab619e44",
