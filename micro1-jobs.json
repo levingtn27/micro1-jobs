@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-10-02T16:30:09Z",
-  "count": 353,
+  "updated_at": "2026-10-02T20:30:10Z",
+  "count": 352,
   "jobs": [
+    {
+      "job_id": "8d04e5c4-2539-4394-a8e3-7f46953d5f4e",
+      "title": " Bilingual Vietnamese Psychiatrist",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-02 16:43:40",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Psychiatry",
+        "Vietnamese"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/8d04e5c4-2539-4394-a8e3-7f46953d5f4e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3a4a3726-ae6d-44a5-9937-d7d7c90fefdc",
+      "title": " Bilingual Vietnamese Psychologist (PhD)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-02 16:37:24",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Psychologist",
+        "Vietnamese"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3a4a3726-ae6d-44a5-9937-d7d7c90fefdc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "7c6cf443-f2b6-4311-90f3-cfc344075814",
       "title": "Investment Banking Associate",
@@ -83,6 +135,25 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ecde148a-7dc7-47d7-8bd7-1f0f686ade19?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a51311c1-f926-47a1-80a3-c04aec36ee05",
+      "title": "CAD Design Expert (Instructor)",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-10-02 13:33:17",
+      "skills": [
+        "CAD tools mastery",
+        "Parametric modeling mastery",
+        "Design intent & assembly reasoning",
+        "CAD design experience"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a51311c1-f926-47a1-80a3-c04aec36ee05?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "07ce7f57-ef0c-4b2e-aac2-5837c2c9c004",
@@ -370,46 +441,6 @@
       "referral_url": "https://jobs.micro1.ai/post/118b9412-6280-4061-ba6b-66950cc6e4db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "5bce1665-c027-4073-83e7-8077458a77f8",
-      "title": "CCH ProSystem fx Tax Specialist",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-01 03:46:38",
-      "skills": [
-        "CCH ProSystem fx Tax",
-        "Tax Preparation",
-        "Tax Compliance",
-        "Federal & State Taxation",
-        "Tax Return Review",
-        "Accounting"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5bce1665-c027-4073-83e7-8077458a77f8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e67577e8-8635-4bfd-a7dd-387334920384",
-      "title": "UltraTax CS Specialist",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-01 03:32:03",
-      "skills": [
-        "UltraTax CS",
-        "Tax Preparation",
-        "Tax Compliance",
-        "Federal & State Taxation"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e67577e8-8635-4bfd-a7dd-387334920384?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "59c51e7f-cfb7-4008-99b2-59d23446852b",
       "title": "Video Content Lead",
       "domain_slug": "arts-design",
@@ -452,38 +483,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0",
-      "title": "Bloomberg Specialist",
-      "domain_slug": "finance",
-      "date_posted": "2026-09-30 09:50:34",
-      "skills": [
-        "Bloomberg"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c3de87a0-0f43-47af-8212-1703122b3679",
-      "title": "Procore Specialist",
-      "domain_slug": "skilled-trades-construction",
-      "date_posted": "2026-09-30 09:23:21",
-      "skills": [
-        "Procore"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c3de87a0-0f43-47af-8212-1703122b3679?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d54c73d6-e3bc-4183-98ae-1f1a8197721d",
@@ -1889,40 +1888,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5fae0ae4-40c9-4fcb-9923-1d1e38e77c04?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "325c5242-2aac-4cb7-806c-02e4796075f0",
-      "title": "Buildium Specialist",
-      "domain_slug": "sales-marketing",
-      "date_posted": "2026-09-23 08:12:18",
-      "skills": [
-        "Buildium",
-        "Property Management",
-        "Property Operations"
-      ],
-      "hourly_min": 28,
-      "hourly_max": 92,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/325c5242-2aac-4cb7-806c-02e4796075f0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7bc65540-718f-4f23-8f27-69a12aa15d4b",
-      "title": "Security Onion Specialist",
-      "domain_slug": "cybersecurity",
-      "date_posted": "2026-09-23 06:44:26",
-      "skills": [
-        "Security Onion"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/7bc65540-718f-4f23-8f27-69a12aa15d4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
@@ -6814,6 +6779,38 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f29fadc8-dd29-4400-866a-1967c92722b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "40ace067-cec8-4998-bb75-067a565c23b3",
+      "title": "Korean Language Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-08-11 12:17:37",
+      "skills": [
+        "Communication",
+        "Bilingual",
+        "Linguists"
+      ],
+      "hourly_min": 65,
+      "hourly_max": 98,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/40ace067-cec8-4998-bb75-067a565c23b3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "26044f07-dc45-4a01-8a5e-8154914a1267",
+      "title": "Japanese Language Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-08-11 12:02:40",
+      "skills": [],
+      "hourly_min": 65,
+      "hourly_max": 98,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/26044f07-dc45-4a01-8a5e-8154914a1267?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "89c8ea6b-dd8e-43e1-af94-548640c9c17d",
