@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T04:30:04Z",
-  "count": 358,
+  "updated_at": "2026-10-02T08:30:02Z",
+  "count": 354,
   "jobs": [
     {
       "job_id": "d7c1c94f-9afa-42fb-bbaa-b732582c7870",
@@ -379,25 +379,6 @@
       "yearly": null,
       "location_raw": "United State",
       "referral_url": "https://jobs.micro1.ai/post/d54c73d6-e3bc-4183-98ae-1f1a8197721d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9ebedb7a-9911-4b0c-b771-13f3325bdc7d",
-      "title": "Primary Care Physician",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-30 06:55:40",
-      "skills": [
-        "Primary Care",
-        "Clinical Medicine",
-        "Patient Assessment",
-        "Diagnosis & Treatment Planning"
-      ],
-      "hourly_min": 126,
-      "hourly_max": 441,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "United state",
-      "referral_url": "https://jobs.micro1.ai/post/9ebedb7a-9911-4b0c-b771-13f3325bdc7d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
@@ -1385,25 +1366,6 @@
       "referral_url": "https://jobs.micro1.ai/post/650bf6c3-db6f-4783-ab0c-07324047b834?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "e775ea66-76f5-48e8-bc22-a18fa2d9d8f7",
-      "title": "Airtable Specialist",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-28 18:05:57",
-      "skills": [
-        "Airtable",
-        "Workflow Design & Automation",
-        "Database & Data Management",
-        "Product Management"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e775ea66-76f5-48e8-bc22-a18fa2d9d8f7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "90990ebf-8198-4b79-a799-add474453dbb",
       "title": "Data Analyst (AI Evaluation)",
       "domain_slug": "data-analysis",
@@ -1656,22 +1618,6 @@
       "referral_url": "https://jobs.micro1.ai/post/ab52b995-a0f8-4aab-ac1d-98777ce867fa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "cca1a8fa-3a37-4485-91f0-99d1fe2b95bc",
-      "title": "Altium Designer Specialist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-24 06:56:10",
-      "skills": [
-        "Altium Designer"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/cca1a8fa-3a37-4485-91f0-99d1fe2b95bc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "15be616a-44af-4fd5-8283-e2fd51a11f1b",
       "title": "Junior Transactional Attorney",
       "domain_slug": "law",
@@ -1800,25 +1746,6 @@
       "yearly": null,
       "location_raw": "Remote (US Based)",
       "referral_url": "https://jobs.micro1.ai/post/5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a2e45775-e3a6-413a-9a9c-58d60f14e8d6",
-      "title": "Clio Specialist",
-      "domain_slug": "law",
-      "date_posted": "2026-09-23 09:09:48",
-      "skills": [
-        "Clio",
-        "Legal Practice Management",
-        "Case & Matter Management",
-        "Legal Workflow Management"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a2e45775-e3a6-413a-9a9c-58d60f14e8d6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
