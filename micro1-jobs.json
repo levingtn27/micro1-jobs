@@ -1,7 +1,109 @@
 {
-  "updated_at": "2026-10-02T12:30:04Z",
-  "count": 355,
+  "updated_at": "2026-10-02T16:30:09Z",
+  "count": 353,
   "jobs": [
+    {
+      "job_id": "7c6cf443-f2b6-4311-90f3-cfc344075814",
+      "title": "Investment Banking Associate",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-02 16:06:27",
+      "skills": [
+        "investment banking",
+        "financial modeling",
+        "equity research",
+        "ai platforms for finance (e.g., rogo, hebbia, model ml, claude)",
+        "data analysis",
+        "ai integration in finance",
+        "financial analysis",
+        "deal process management",
+        "written communication",
+        "verbal communication",
+        "workflow optimization",
+        "feedback delivery",
+        "financial technology (fintech) trends",
+        "report writing",
+        "collaborative problem-solving"
+      ],
+      "hourly_min": 150,
+      "hourly_max": 220,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7c6cf443-f2b6-4311-90f3-cfc344075814?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6bb54de0-10d7-42eb-9d8d-02213a9f28a4",
+      "title": " Bilingual Russian Psychologist (PhD)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-02 16:02:25",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Psychologist",
+        "Bilingual in Russian"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6bb54de0-10d7-42eb-9d8d-02213a9f28a4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "ecde148a-7dc7-47d7-8bd7-1f0f686ade19",
+      "title": " Bilingual Russian Psychiatrist",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-02 15:57:10",
+      "skills": [
+        "bilingual communication",
+        "ethical decision-making",
+        "cultural sensitivity",
+        "analytical evaluation",
+        "case study development",
+        "written and verbal communication",
+        "interdisciplinary collaboration",
+        "psychological assessment",
+        "documentation",
+        "Psychiatry",
+        "Bilingual in Russian"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ecde148a-7dc7-47d7-8bd7-1f0f686ade19?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "07ce7f57-ef0c-4b2e-aac2-5837c2c9c004",
+      "title": "Senior Mechanical Design Engineer ",
+      "domain_slug": "other",
+      "date_posted": "2026-10-02 11:04:42",
+      "skills": [
+        "Design intent & assembly reasoning",
+        "Parametric modeling depth",
+        "Mechanism & kinematic sense",
+        "GD&T & tolerance judgment",
+        "CAD tools expertise"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/07ce7f57-ef0c-4b2e-aac2-5837c2c9c004?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "b6aeb866-1fd0-41c1-acdb-85dd6b906b6a",
       "title": "Director of Talent Operations, Strategy & Automation",
@@ -5697,68 +5799,6 @@
       "referral_url": "https://jobs.micro1.ai/post/6d7b9372-c7ad-4ea6-a017-95e6e80a33a5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "0006f93d-d277-4451-941a-00a540c1fa22",
-      "title": "Research Evaluation Specialist (PhD / Researcher / Professor)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-21 14:04:15",
-      "skills": [
-        "Research & source triangulation",
-        "Attention to detail",
-        "Written precision",
-        "Self-direction & reliability",
-        "Analytical thinking",
-        "Research mastery"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0006f93d-d277-4451-941a-00a540c1fa22?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "97da7176-3c19-4443-bde5-3dceb56929e9",
-      "title": "Medical Evaluation Specialist (students, residents, physicians)",
-      "domain_slug": "medicine",
-      "date_posted": "2026-08-21 13:47:07",
-      "skills": [
-        "Research & source triangulation",
-        "Attention to detail",
-        "Written precision",
-        "Self-direction & reliability",
-        "Analytical thinking",
-        "Medical training"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/97da7176-3c19-4443-bde5-3dceb56929e9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3bacf249-7ec7-422c-acd0-377ae375f830",
-      "title": "Evaluation Specialist/Recent Grad",
-      "domain_slug": "generalist",
-      "date_posted": "2026-08-21 13:46:58",
-      "skills": [
-        "Research & source triangulation",
-        "Attention to detail",
-        "Written precision",
-        "Self-direction & reliability",
-        "Analytical thinking"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3bacf249-7ec7-422c-acd0-377ae375f830?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "32d47282-866f-420c-8d11-eb243aae997d",
       "title": "UI/UX Designer",
       "domain_slug": "arts-design",
@@ -6628,25 +6668,6 @@
       "referral_url": "https://jobs.micro1.ai/post/51a65c2c-07dd-4307-aba6-f7c4af17311c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "0faef422-476d-482f-827f-d6a3c18d59b9",
-      "title": "Visual Designer (Deck/Presentation focused)",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-08-13 19:10:48",
-      "skills": [
-        "Typography & layout craft",
-        "Template-system fluency",
-        "Style inference & reapplication",
-        "Visual rubric authoring"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote (NAMER, Europe-based)",
-      "referral_url": "https://jobs.micro1.ai/post/0faef422-476d-482f-827f-d6a3c18d59b9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "d866e9e9-6de8-41f1-8d33-77616b95b099",
       "title": "Contract Attorney",
       "domain_slug": "law",
@@ -6976,44 +6997,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e511d686-859b-422d-8562-70f7c8257035?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5a01819c-2e1e-4ef3-9cf7-b676f6f0e307",
-      "title": "CNC Machinist",
-      "domain_slug": "other",
-      "date_posted": "2026-08-06 13:26:37",
-      "skills": [
-        "Machine set-up & Operation",
-        "Haas + hobbyist crossover",
-        "Precision measurement & blueprint interpretation",
-        "Troubleshooting"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5a01819c-2e1e-4ef3-9cf7-b676f6f0e307?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "be611f6c-5382-4356-a04e-28bb438d20e3",
-      "title": "CAM Programmer",
-      "domain_slug": "other",
-      "date_posted": "2026-08-06 13:22:13",
-      "skills": [
-        "Fusion 360 CAM proficiency",
-        "Multi-axis programming",
-        "Toolpath strategy & simulation",
-        "Attention to detail"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/be611f6c-5382-4356-a04e-28bb438d20e3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "9faa786c-1f7b-4c7c-8a9b-32353a44c1a2",
