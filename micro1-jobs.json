@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-02T00:30:02Z",
-  "count": 357,
+  "updated_at": "2026-10-02T04:30:04Z",
+  "count": 358,
   "jobs": [
+    {
+      "job_id": "d7c1c94f-9afa-42fb-bbaa-b732582c7870",
+      "title": "Content Writer & Editor",
+      "domain_slug": "other",
+      "date_posted": "2026-10-02 03:53:44",
+      "skills": [
+        "Editing",
+        "grammar and syntax expertise",
+        "content quality assessment",
+        "attention to detail",
+        "copyediting",
+        "editorial judgment",
+        "constructive feedback",
+        "written communication",
+        "proofreading"
+      ],
+      "hourly_min": 22,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/d7c1c94f-9afa-42fb-bbaa-b732582c7870?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
       "title": "Derivatives Counsel (ISDA Specialist)",
