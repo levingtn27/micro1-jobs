@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T20:30:04Z",
-  "count": 365,
+  "updated_at": "2026-10-02T00:30:02Z",
+  "count": 357,
   "jobs": [
     {
       "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
@@ -4232,7 +4232,7 @@
     },
     {
       "job_id": "1d56a6b2-5545-4029-998a-cb798d61eb18",
-      "title": "Robotics Data Trainer",
+      "title": "Robot Training Operator ",
       "domain_slug": "robotics",
       "date_posted": "2026-09-10 12:24:14",
       "skills": [
@@ -6713,31 +6713,6 @@
       "referral_url": "https://jobs.micro1.ai/post/12c44b79-e4a2-40af-af84-f633c4723452?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "90f5054a-e91e-403d-8733-c350ab619e44",
-      "title": "Senior Software Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-13 05:23:09",
-      "skills": [
-        "Python3",
-        "JAVA",
-        "Rust",
-        "Algorithms",
-        "Basics C++",
-        "Typescript",
-        "bug fixing",
-        "feature implementation",
-        "codebase refactoring",
-        "performance optimization"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/90f5054a-e91e-403d-8733-c350ab619e44?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "ba976b4a-3b64-4797-adbf-a33770f3a44f",
       "title": "Linguistics Specialists",
       "domain_slug": "other",
@@ -7542,31 +7517,6 @@
       "referral_url": "https://jobs.micro1.ai/post/f10ca3ec-bf16-43c0-a094-8db20948de30?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "f400bdbd-3c49-4713-bd38-57ed91f1547a",
-      "title": "Senior Software Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-04 15:29:30",
-      "skills": [
-        "Python3",
-        "JAVA",
-        "Rust",
-        "Algorithms",
-        "Basics C++",
-        "Typescript",
-        "bug fixing",
-        "feature implementation",
-        "codebase refactoring",
-        "performance optimization"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f400bdbd-3c49-4713-bd38-57ed91f1547a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "6ea686cd-9a77-4221-94dc-1e0d952eb187",
       "title": "Clinician  (Oncology / Hematology)",
       "domain_slug": "medicine",
@@ -7694,132 +7644,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/28d8beab-6ea8-4c98-8ce8-b97f6a478d53?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "07d29f55-367b-48a5-a5d8-6f993006d4be",
-      "title": "AI Training Data Contributor (College Students)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-08-03 22:25:04",
-      "skills": [
-        "smartphone video recording",
-        "device compatibility testing",
-        "first-person video capture",
-        "following project guidelines",
-        "attention to detail"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
-      "referral_url": "https://jobs.micro1.ai/post/07d29f55-367b-48a5-a5d8-6f993006d4be?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "364acc50-17de-4a4b-b8f1-996a7065e549",
-      "title": "Software Engineer, New Grad",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-03 17:56:58",
-      "skills": [
-        "React",
-        "Node.js",
-        "AWS",
-        "PostgreSQL",
-        "AI native"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 80,
-      "monthly_min": "5000.00",
-      "monthly_max": "8000.00",
-      "yearly": {
-        "max": 250000,
-        "min": 180000
-      },
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/364acc50-17de-4a4b-b8f1-996a7065e549?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a50167d7-bd8d-4710-90e6-7cfeadc24f16",
-      "title": "Computational Biology & Cheminformatics Expert",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-08-03 01:49:47",
-      "skills": [
-        "bioinformatics",
-        "biochemistry",
-        "ADMET",
-        "Cheminformatics",
-        "Molecular Docking",
-        "Structure-Activity Relationship",
-        "RDKit",
-        "Python",
-        "Git",
-        "GitHub",
-        "Docker",
-        "Test"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a50167d7-bd8d-4710-90e6-7cfeadc24f16?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "70a8467d-117d-41c9-a508-f4b5fdb9a533",
-      "title": "Physics Expert (Postdoc / Junior professor)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-03 00:32:32",
-      "skills": [
-        "Physics Mastery",
-        "Written Technical Communication",
-        "Critical Evaluation & Error Detection",
-        "Calibrated Technical Judgment",
-        "Verification & Cross-Checking Fluency"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote (US, Canada, UK focused)",
-      "referral_url": "https://jobs.micro1.ai/post/70a8467d-117d-41c9-a508-f4b5fdb9a533?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c90c2d11-bdb6-42fc-91fd-a753a3c72ebf",
-      "title": "Physics Expert (Professor / Principal Investigator) ",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-03 00:32:23",
-      "skills": [
-        "Physics Mastery",
-        "Expert Judgment in Ambiguous Cases",
-        "Meta-Level Reasoning",
-        "Research Leadership",
-        "Defensible Written Articulation"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 160,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c90c2d11-bdb6-42fc-91fd-a753a3c72ebf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3461d671-c918-45ab-94cf-d52ee9e2e4b5",
-      "title": "Gameplay Data Capture Specialist",
-      "domain_slug": "other",
-      "date_posted": "2026-07-23 19:12:26",
-      "skills": [
-        "gameplay"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3461d671-c918-45ab-94cf-d52ee9e2e4b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
