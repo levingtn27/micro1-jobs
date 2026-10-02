@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-02T08:30:02Z",
-  "count": 354,
+  "updated_at": "2026-10-02T12:30:04Z",
+  "count": 355,
   "jobs": [
+    {
+      "job_id": "b6aeb866-1fd0-41c1-acdb-85dd6b906b6a",
+      "title": "Director of Talent Operations, Strategy & Automation",
+      "domain_slug": "other",
+      "date_posted": "2026-10-02 09:01:37",
+      "skills": [
+        "Automation Strategy",
+        "Process Transformation",
+        "Product Operations",
+        "Cross-Functional Leadership"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 250000,
+        "min": 180000
+      },
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b6aeb866-1fd0-41c1-acdb-85dd6b906b6a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "d7c1c94f-9afa-42fb-bbaa-b732582c7870",
       "title": "Content Writer & Editor",
