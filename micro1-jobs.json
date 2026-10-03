@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T08:30:02Z",
-  "count": 336,
+  "updated_at": "2026-10-03T12:30:03Z",
+  "count": 311,
   "jobs": [
     {
       "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
@@ -821,24 +821,6 @@
       "referral_url": "https://jobs.micro1.ai/post/0401a620-2950-4ec7-b657-a4aba61fb2a6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "c5f03d74-f6cd-47e2-bdad-3d0da851320e",
-      "title": "Sound Designer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-29 17:14:15",
-      "skills": [
-        "Sound Editing",
-        "Attention to Detail",
-        "Audio Restoration"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c5f03d74-f6cd-47e2-bdad-3d0da851320e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "0dd2f7fe-0069-40b0-bf55-0a8048206fa7",
       "title": "Photographer",
       "domain_slug": "robotics",
@@ -1023,25 +1005,6 @@
       "referral_url": "https://jobs.micro1.ai/post/03946ab0-118f-4acf-9ff5-05fc752ec0af?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "2d965a0c-d9e1-41eb-99f5-c65ca7b5d4f2",
-      "title": "Filmmaker",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-29 16:28:48",
-      "skills": [
-        "Attention to Detail",
-        "Video Annotation",
-        "Video Editing",
-        "Cinematography"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2d965a0c-d9e1-41eb-99f5-c65ca7b5d4f2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "386270dc-1c21-4207-96f5-4b9302ebcda4",
       "title": "Lithuanian Speaking Psychiatrist",
       "domain_slug": "sciences-research",
@@ -1149,22 +1112,6 @@
       "referral_url": "https://jobs.micro1.ai/post/43c43368-acf4-42f8-8351-74173291c5ac?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "fbd40f9a-8e82-4e12-9624-348a6de789d7",
-      "title": "Computer Vision Specialist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-29 16:08:41",
-      "skills": [
-        "Computer Vision"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/fbd40f9a-8e82-4e12-9624-348a6de789d7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "ba494132-925b-4cb6-adc7-45c9f3e2ac0a",
       "title": "Robotics Expert",
       "domain_slug": "robotics",
@@ -1184,41 +1131,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ba494132-925b-4cb6-adc7-45c9f3e2ac0a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d18797b2-d38c-49e9-89f3-ee875f1d7d97",
-      "title": "Electronics Engineer",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-09-29 16:02:06",
-      "skills": [
-        "Electronics Engineering",
-        "electrical system design"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d18797b2-d38c-49e9-89f3-ee875f1d7d97?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "825a8a6e-cff3-4179-9d74-f36468b987b7",
-      "title": "Mechanical Engineer ",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-09-29 15:43:04",
-      "skills": [
-        "3D CAD modeling",
-        "tolerances)",
-        "or CATIA"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/825a8a6e-cff3-4179-9d74-f36468b987b7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3bc1ec11-392d-4d52-afe4-d5bc6badcbc1",
@@ -2239,45 +2151,6 @@
       "referral_url": "https://jobs.micro1.ai/post/02deec8c-9f85-4d9d-a1ae-c61a3a1bedfc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "d868b324-f5fe-48d7-a480-b6b20080e868",
-      "title": "Control System Engineer",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-09-22 05:01:34",
-      "skills": [
-        "PID",
-        "controller design",
-        "Plant modelling",
-        "Real system deployment"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d868b324-f5fe-48d7-a480-b6b20080e868?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "1b54167a-cba7-4d50-b230-681c1a3143a3",
-      "title": "Civil/Structural Engineer",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-09-22 04:53:42",
-      "skills": [
-        "Revit",
-        "ArchiCAD",
-        "Civil Engineering",
-        "Structural Engineering",
-        "BIM tools"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/1b54167a-cba7-4d50-b230-681c1a3143a3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "d02122f3-eaec-42b2-ad3f-edc218b94294",
       "title": "UX/UI Designer",
       "domain_slug": "generalist",
@@ -2559,169 +2432,6 @@
       "yearly": null,
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/d5484f78-1277-4450-9823-1ac84d8cc776?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9dbb18cc-e96b-4923-803b-d0aa60f2205b",
-      "title": "Spanish Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 06:04:51",
-      "skills": [
-        "Audio Transcription",
-        "Language Proficiency",
-        "Attention to detail"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/9dbb18cc-e96b-4923-803b-d0aa60f2205b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d09379bf-fc59-4e3e-838c-3c44f945a4ff",
-      "title": "Hindi Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:49:24",
-      "skills": [
-        "Audio Transcription",
-        "Language Proficiency",
-        "AI Training"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d09379bf-fc59-4e3e-838c-3c44f945a4ff?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "1374b473-97cc-426f-a1da-5f783e919df4",
-      "title": "Mandarin Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:36:23",
-      "skills": [
-        "Audio Transcription",
-        "Attention to detail",
-        "AI Training"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/1374b473-97cc-426f-a1da-5f783e919df4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "772b9251-fab7-4758-b4cd-f681b863974f",
-      "title": "Korean Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:22:43",
-      "skills": [
-        "Audio Transcription",
-        "Attention to detail",
-        "AI Training"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/772b9251-fab7-4758-b4cd-f681b863974f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b0e8fb90-875e-43dc-b725-15072dee832d",
-      "title": "Japanese Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:18:45",
-      "skills": [
-        "apanese Language Fluency",
-        "Audio Transcription",
-        "Attention to detail"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b0e8fb90-875e-43dc-b725-15072dee832d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "05b5f054-aa5c-428d-b05e-45d97ec9cdb6",
-      "title": "Portuguese Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:05:59",
-      "skills": [
-        "Audio Transcription",
-        "Attention to detail",
-        "AI Training"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/05b5f054-aa5c-428d-b05e-45d97ec9cdb6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "730cb706-f6f7-4b82-9a28-a5c0d20e8722",
-      "title": "Italian Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:02:59",
-      "skills": [
-        "Audio Transcription",
-        "Attention to detail",
-        "AI Training"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/730cb706-f6f7-4b82-9a28-a5c0d20e8722?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "55cca95d-b59e-4a43-ac8f-5ebe9642a545",
-      "title": "French Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 04:58:58",
-      "skills": [
-        "Audio Transcription",
-        "Language Proficiency",
-        "AI Training"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/55cca95d-b59e-4a43-ac8f-5ebe9642a545?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "71ca642b-1d0a-468e-b64a-6e65c40faceb",
-      "title": "German Language Expert",
-      "domain_slug": "generalist",
-      "date_posted": "2026-09-19 04:52:55",
-      "skills": [
-        "German Language Proficiency",
-        "Language Proficiency",
-        "Audio Transcription",
-        "Linguistic Annotation"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/71ca642b-1d0a-468e-b64a-6e65c40faceb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
@@ -5684,26 +5394,6 @@
       "referral_url": "https://jobs.micro1.ai/post/ca549605-be95-4fe1-b995-40794422b4a5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "cfd16a5b-8927-4380-8044-8b758b869494",
-      "title": "DevOps Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-22 10:11:37",
-      "skills": [
-        "Kubernetes",
-        "Terraform",
-        "CI/CD",
-        "Python",
-        "Linux"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/cfd16a5b-8927-4380-8044-8b758b869494?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "bd70678c-f7bd-4c23-959d-9b5cd6748410",
       "title": "Family Law Attorney (AAML Registered)",
       "domain_slug": "law",
@@ -5849,65 +5539,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6d7b9372-c7ad-4ea6-a017-95e6e80a33a5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "32d47282-866f-420c-8d11-eb243aae997d",
-      "title": "UI/UX Designer",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-08-21 10:07:09",
-      "skills": [
-        "Graphic Design",
-        "UI/UX Design",
-        "Typography",
-        "Figma"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote (US Based)",
-      "referral_url": "https://jobs.micro1.ai/post/32d47282-866f-420c-8d11-eb243aae997d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "58347acf-d921-40a6-9ea4-0794c052287f",
-      "title": "Customer Support Assistant",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-08-21 09:43:24",
-      "skills": [
-        "Communication",
-        "Empathy",
-        "Problem Solving",
-        "CRM Software",
-        "Product Knowledge"
-      ],
-      "hourly_min": 21,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote (US Based)",
-      "referral_url": "https://jobs.micro1.ai/post/58347acf-d921-40a6-9ea4-0794c052287f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b2cc3177-145f-4650-8b34-4ead88335564",
-      "title": "Computer Systems Analyst",
-      "domain_slug": "data-analysis",
-      "date_posted": "2026-08-21 09:11:55",
-      "skills": [
-        "Systems Analysis",
-        "Requirements Gathering",
-        "SQL",
-        "Business Process Modeling",
-        "Troubleshooting"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote (US based)",
-      "referral_url": "https://jobs.micro1.ai/post/b2cc3177-145f-4650-8b34-4ead88335564?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "15313f3d-5600-4d96-b45f-b8dfafbee976",
@@ -6510,88 +6141,6 @@
       "referral_url": "https://jobs.micro1.ai/post/45a1141b-b504-4446-8e1f-e4bfefa07d4a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
-      "title": "IT Manager",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-15 07:43:27",
-      "skills": [
-        "IT Strategy",
-        "Systems Architecture",
-        "Team Leadership",
-        "Vendor Management",
-        "Security Compliance"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 75,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/1a90eb63-30e8-4c77-9996-94dc4b02d909?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "473cffff-4779-4826-840d-f8b6ae4b3c63",
-      "title": "Accountant / Auditor",
-      "domain_slug": "finance",
-      "date_posted": "2026-08-15 07:31:47",
-      "skills": [
-        "Financial Reporting",
-        "GAAP/IFRS",
-        "Audit Procedures",
-        "Excel/Financial Modeling",
-        "Tax Compliance"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 75,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/473cffff-4779-4826-840d-f8b6ae4b3c63?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6fc6311d-f159-46ad-90c9-df1c42c9765b",
-      "title": "Lawyer",
-      "domain_slug": "law",
-      "date_posted": "2026-08-15 07:20:14",
-      "skills": [
-        "Contract Review",
-        "Legal Research",
-        "Regulatory Compliance",
-        "Legal Writing"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 75,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6fc6311d-f159-46ad-90c9-df1c42c9765b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "92b81bda-6c3f-42c1-9cad-9e3cdb911ad9",
-      "title": "Software Developer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-15 07:04:16",
-      "skills": [
-        "Python",
-        "JavaScript",
-        "JAVA",
-        "Node.js",
-        "Full - Stack",
-        "Code Review",
-        "Technical Documentation",
-        "Software Architecture"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 75,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/92b81bda-6c3f-42c1-9cad-9e3cdb911ad9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "6ec0826e-f15e-413c-a41a-8dacd7fb0d85",
       "title": "U.S based Accountant (CPA/CA)",
       "domain_slug": "finance",
@@ -7042,26 +6591,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7e5bac29-cf45-4072-ad7e-9c7574c94bc5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "eb647954-2290-49e6-8c30-7213a7555a62",
-      "title": "Mathematics Expert",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-07 05:58:17",
-      "skills": [
-        "Research Methodology",
-        "Mathematics",
-        "Mathematical proof writing",
-        "Advanced Mathematics",
-        "Mathematical Problem-Solving"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/eb647954-2290-49e6-8c30-7213a7555a62?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "e511d686-859b-422d-8562-70f7c8257035",
