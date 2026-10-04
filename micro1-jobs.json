@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-04T04:30:03Z",
-  "count": 304,
+  "updated_at": "2026-10-04T08:30:04Z",
+  "count": 305,
   "jobs": [
+    {
+      "job_id": "09891468-1722-465f-b47e-f420c9f1e154",
+      "title": "Research Marketing Lead/ Head of PR",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-04 02:41:09",
+      "skills": [
+        "Research QA",
+        "GTM Strategy",
+        "Technical Marketing",
+        "Industry Partnerships"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 500000,
+        "min": 350000
+      },
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
       "title": "Simulation Expert — Real-to-Sim 3D Environments & Assets",
