@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T12:30:02Z",
-  "count": 305,
+  "updated_at": "2026-10-04T16:30:33Z",
+  "count": 304,
   "jobs": [
     {
       "job_id": "09891468-1722-465f-b47e-f420c9f1e154",
@@ -5286,23 +5286,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/cdb8b25d-0be7-41c3-87d6-241592b9fc41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "dcb0b1e6-a6a0-4cdc-9ab8-82ef4bb34479",
-      "title": "Developmental Psychology (PhD)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-25 10:13:28",
-      "skills": [
-        "child development expertise",
-        "developmental psychology"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/dcb0b1e6-a6a0-4cdc-9ab8-82ef4bb34479?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "2752b340-47ec-4cfa-8197-999460c07a6e",
