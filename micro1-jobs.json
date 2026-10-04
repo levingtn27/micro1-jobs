@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T20:30:03Z",
-  "count": 311,
+  "updated_at": "2026-10-04T00:30:02Z",
+  "count": 304,
   "jobs": [
     {
       "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
@@ -6612,126 +6612,6 @@
       "referral_url": "https://jobs.micro1.ai/post/e511d686-859b-422d-8562-70f7c8257035?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "9faa786c-1f7b-4c7c-8a9b-32353a44c1a2",
-      "title": "Korean Transcription Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-08-05 19:10:04",
-      "skills": [
-        "Audio Transcription",
-        "Attention to detail",
-        "AI training"
-      ],
-      "hourly_min": 15,
-      "hourly_max": 28,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/9faa786c-1f7b-4c7c-8a9b-32353a44c1a2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "4ec0692c-6714-4c97-aa9d-406b0abd684e",
-      "title": "Director of Infrastructure Engineering",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-05 17:08:26",
-      "skills": [
-        "AWS",
-        "GCP",
-        "IaC",
-        "CI/CD",
-        "Security-first Mindset",
-        "Team Leadership"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 8,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 500000,
-        "min": 350000
-      },
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/4ec0692c-6714-4c97-aa9d-406b0abd684e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d88ce7ac-0fd1-4a78-8917-bd85ea521766",
-      "title": "Japanese Audio Recording Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-08-05 16:03:48",
-      "skills": [
-        "Audio recording",
-        "Audio editing"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d88ce7ac-0fd1-4a78-8917-bd85ea521766?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "eae14e1c-d44c-4486-b773-61f57b0f3d64",
-      "title": "Medical Auditor",
-      "domain_slug": "medicine",
-      "date_posted": "2026-08-04 23:50:49",
-      "skills": [
-        "Outpatient Professional Fee Coding",
-        "Coding Auditing",
-        "Academic Medical Center Experience",
-        "Audit Program Management"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/eae14e1c-d44c-4486-b773-61f57b0f3d64?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "eac2bf43-4fa7-46ed-8db8-ec2b6d3a52d5",
-      "title": "Medical Coder",
-      "domain_slug": "medicine",
-      "date_posted": "2026-08-04 23:35:52",
-      "skills": [
-        "Medical Coding",
-        "ICD-10",
-        "CPT",
-        "CPC Certification",
-        "Evaluation & Management"
-      ],
-      "hourly_min": 25,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/eac2bf43-4fa7-46ed-8db8-ec2b6d3a52d5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c2684826-73f6-4abb-9511-e89bf5c69e14",
-      "title": "Senior Backend Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-04 22:55:40",
-      "skills": [
-        "C++",
-        "Python",
-        "Rust",
-        "GoLang",
-        "JAVA",
-        "JavaScript",
-        "DevOps"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c2684826-73f6-4abb-9511-e89bf5c69e14?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
       "title": "Data-Video Generalist (US-based)",
       "domain_slug": "robotics",
@@ -6803,29 +6683,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3dda7a92-1d6d-4e5e-ae91-074ab9674a6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "4e941f66-e98b-44cb-bc92-55018050682f",
-      "title": "Data Engineer",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-03-16 01:44:48",
-      "skills": [
-        "Python",
-        "SQL",
-        "AI/ML",
-        "Spark",
-        "AWS"
-      ],
-      "hourly_min": 4,
-      "hourly_max": 5,
-      "monthly_min": "4000.00",
-      "monthly_max": "6000.00",
-      "yearly": {
-        "max": 180000,
-        "min": 140000
-      },
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/4e941f66-e98b-44cb-bc92-55018050682f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     }
   ]
 }
