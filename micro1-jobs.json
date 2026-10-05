@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T00:30:03Z",
-  "count": 303,
+  "updated_at": "2026-10-05T04:30:04Z",
+  "count": 304,
   "jobs": [
     {
       "job_id": "09891468-1722-465f-b47e-f420c9f1e154",
@@ -5019,6 +5019,29 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3d79ba82-926b-48c0-9d15-8791a364ea81?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "44bc2206-7fb7-4711-9daa-9328de14eda2",
+      "title": "Senior Journalist / Writer",
+      "domain_slug": "generalist",
+      "date_posted": "2026-08-27 08:53:39",
+      "skills": [
+        "Writing",
+        "Editing",
+        "Copyediting",
+        "Journalism",
+        "Research",
+        "Fact-Checking",
+        "Storytelling",
+        "AP Style"
+      ],
+      "hourly_min": 245,
+      "hourly_max": 280,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/44bc2206-7fb7-4711-9daa-9328de14eda2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3b1f3a6f-51b3-4622-8baa-28b88e58f3d4",
