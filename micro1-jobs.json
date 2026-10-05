@@ -1,10 +1,55 @@
 {
-  "updated_at": "2026-10-05T04:30:04Z",
-  "count": 304,
+  "updated_at": "2026-10-05T08:30:07Z",
+  "count": 305,
   "jobs": [
     {
+      "job_id": "6955441d-2506-4d09-8f85-9ef1a2d23ea2",
+      "title": "Software Engineer, New Grad",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-05 08:06:38",
+      "skills": [
+        "React",
+        "Node.js",
+        "AWS",
+        "PostgreSQL",
+        "AI native"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 80,
+      "monthly_min": "5000.00",
+      "monthly_max": "8000.00",
+      "yearly": {
+        "max": 250000,
+        "min": 180000
+      },
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6955441d-2506-4d09-8f85-9ef1a2d23ea2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "cf33e75a-c1e5-4255-a96c-81f2b7a52947",
+      "title": "Head of Communications",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-04 09:16:01",
+      "skills": [
+        "PR",
+        "Vendor Management",
+        "Partnerships",
+        "Communications Strategy"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 400000,
+        "min": 250000
+      },
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/cf33e75a-c1e5-4255-a96c-81f2b7a52947?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "09891468-1722-465f-b47e-f420c9f1e154",
-      "title": "Research Marketing Lead/ Head of PR",
+      "title": "Research Marketing Lead",
       "domain_slug": "sales-marketing",
       "date_posted": "2026-10-04 02:41:09",
       "skills": [
@@ -5019,29 +5064,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3d79ba82-926b-48c0-9d15-8791a364ea81?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "44bc2206-7fb7-4711-9daa-9328de14eda2",
-      "title": "Senior Journalist / Writer",
-      "domain_slug": "generalist",
-      "date_posted": "2026-08-27 08:53:39",
-      "skills": [
-        "Writing",
-        "Editing",
-        "Copyediting",
-        "Journalism",
-        "Research",
-        "Fact-Checking",
-        "Storytelling",
-        "AP Style"
-      ],
-      "hourly_min": 245,
-      "hourly_max": 280,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/44bc2206-7fb7-4711-9daa-9328de14eda2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3b1f3a6f-51b3-4622-8baa-28b88e58f3d4",
