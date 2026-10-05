@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T12:30:02Z",
-  "count": 305,
+  "updated_at": "2026-10-05T16:30:05Z",
+  "count": 304,
   "jobs": [
     {
       "job_id": "6955441d-2506-4d09-8f85-9ef1a2d23ea2",
@@ -657,6 +657,22 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0",
+      "title": "Bloomberg Specialist",
+      "domain_slug": "finance",
+      "date_posted": "2026-09-30 09:50:34",
+      "skills": [
+        "Bloomberg"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d54c73d6-e3bc-4183-98ae-1f1a8197721d",
@@ -1974,6 +1990,22 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5fae0ae4-40c9-4fcb-9923-1d1e38e77c04?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7bc65540-718f-4f23-8f27-69a12aa15d4b",
+      "title": "Security Onion Specialist",
+      "domain_slug": "cybersecurity",
+      "date_posted": "2026-09-23 06:44:26",
+      "skills": [
+        "Security Onion"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 175,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7bc65540-718f-4f23-8f27-69a12aa15d4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
@@ -5394,56 +5426,6 @@
       "referral_url": "https://jobs.micro1.ai/post/c4e4ac18-a3aa-47ba-8229-d6611085afc6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "34d6161d-1708-44c3-b8e9-37bc6ff8f365",
-      "title": "AI Engineer ",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-24 14:51:39",
-      "skills": [
-        "Python3",
-        "JAVA",
-        "Rust",
-        "Algorithms",
-        "Basics C++",
-        "Typescript",
-        "bug fixing",
-        "feature implementation",
-        "codebase refactoring",
-        "performance optimization"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/34d6161d-1708-44c3-b8e9-37bc6ff8f365?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "ca549605-be95-4fe1-b995-40794422b4a5",
-      "title": "MCP Expert",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-24 14:30:18",
-      "skills": [
-        "Python3",
-        "JAVA",
-        "Rust",
-        "Algorithms",
-        "Basics C++",
-        "Typescript",
-        "bug fixing",
-        "feature implementation",
-        "codebase refactoring",
-        "performance optimization"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ca549605-be95-4fe1-b995-40794422b4a5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "bd70678c-f7bd-4c23-959d-9b5cd6748410",
       "title": "Family Law Attorney (AAML Registered)",
       "domain_slug": "law",
@@ -6540,28 +6522,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6b5638ff-0020-4655-bda9-88360b283b1a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c225484e-6792-49f9-a40a-212f9a24fc19",
-      "title": "Talent Operations Manager",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-08-10 16:37:25",
-      "skills": [
-        "Large Scale Onboarding",
-        "Stakeholder Management",
-        "Cross-functional Collaboration",
-        "Leadership Skills"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 110000,
-        "min": 70000
-      },
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c225484e-6792-49f9-a40a-212f9a24fc19?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "a1ecbac3-a024-4732-bce7-7ac2e447571d",
