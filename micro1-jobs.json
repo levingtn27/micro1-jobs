@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T20:30:03Z",
-  "count": 304,
+  "updated_at": "2026-10-05T00:30:03Z",
+  "count": 303,
   "jobs": [
     {
       "job_id": "09891468-1722-465f-b47e-f420c9f1e154",
@@ -6596,25 +6596,6 @@
       "yearly": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7e5bac29-cf45-4072-ad7e-9c7574c94bc5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e511d686-859b-422d-8562-70f7c8257035",
-      "title": "Manufacturing Specialist (Fusion360 CAM)",
-      "domain_slug": "skilled-trades-construction",
-      "date_posted": "2026-08-06 20:45:19",
-      "skills": [
-        "CAM",
-        "CNC",
-        "Manufacturing",
-        "Fusion 360"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e511d686-859b-422d-8562-70f7c8257035?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
