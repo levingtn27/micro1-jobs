@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T16:30:05Z",
+  "updated_at": "2026-10-05T17:32:20Z",
   "count": 304,
   "jobs": [
     {
@@ -22,6 +22,9 @@
         "max": 250000,
         "min": 180000
       },
+      "pay_min": 180000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6955441d-2506-4d09-8f85-9ef1a2d23ea2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -44,6 +47,9 @@
         "max": 400000,
         "min": 250000
       },
+      "pay_min": 250000.0,
+      "pay_max": 400000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/cf33e75a-c1e5-4255-a96c-81f2b7a52947?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -66,6 +72,9 @@
         "max": 500000,
         "min": 350000
       },
+      "pay_min": 350000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -96,6 +105,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -122,6 +134,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/31082a46-eab6-4178-b046-b74021c3e881?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -147,6 +162,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d358fe3a-3fa1-4673-b90a-99293655405d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -173,6 +191,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/408aec84-c947-475b-801c-0a88074c547b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -199,6 +220,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8d04e5c4-2539-4394-a8e3-7f46953d5f4e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -225,6 +249,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3a4a3726-ae6d-44a5-9937-d7d7c90fefdc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -255,6 +282,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 220.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7c6cf443-f2b6-4311-90f3-cfc344075814?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -281,6 +311,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6bb54de0-10d7-42eb-9d8d-02213a9f28a4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -307,6 +340,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ecde148a-7dc7-47d7-8bd7-1f0f686ade19?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -326,6 +362,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/a51311c1-f926-47a1-80a3-c04aec36ee05?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -346,6 +385,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/07ce7f57-ef0c-4b2e-aac2-5837c2c9c004?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -368,6 +410,9 @@
         "max": 250000,
         "min": 180000
       },
+      "pay_min": 180000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b6aeb866-1fd0-41c1-acdb-85dd6b906b6a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -392,6 +437,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 22.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d7c1c94f-9afa-42fb-bbaa-b732582c7870?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -412,6 +460,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ca43d8de-7ded-4a6d-a8e1-bfc294d42914?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -433,6 +484,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6ec61d0d-4e7b-4e79-bcb6-23fab6b05923?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -453,6 +507,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/88d96810-38ca-44c6-901a-70ca641bc8db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -473,6 +530,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2e1d2ae3-8927-44f4-8c38-5d1707c8158b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -492,6 +552,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 55.0,
+      "pay_unit": "hour",
       "location_raw": "Remote - San Francisco, CA",
       "referral_url": "https://jobs.micro1.ai/post/0175ab60-933c-4a94-b842-5207e2d09c99?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -513,6 +576,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Remote — United States, Canada, United Kingdom, Ireland, Australia, and New Zealand",
       "referral_url": "https://jobs.micro1.ai/post/36e1b1f6-b8bf-4273-a09a-94116a1f4b39?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -538,6 +604,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 8.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e67f4a0c-b99c-4725-8796-a09b12dd8d06?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -558,6 +627,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 22.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/86d93e70-27d2-4075-8529-53cd2ab68465?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -582,6 +654,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 22.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/52e9965d-1d1d-4d85-b958-c020d7886867?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -611,6 +686,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 8.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/118b9412-6280-4061-ba6b-66950cc6e4db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -635,6 +713,9 @@
         "max": 150000,
         "min": 90000
       },
+      "pay_min": 90000.0,
+      "pay_max": 150000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/59c51e7f-cfb7-4008-99b2-59d23446852b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -655,6 +736,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -671,6 +755,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -690,6 +777,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 126.0,
+      "pay_max": 441.0,
+      "pay_unit": "hour",
       "location_raw": "United State",
       "referral_url": "https://jobs.micro1.ai/post/d54c73d6-e3bc-4183-98ae-1f1a8197721d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -715,6 +805,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US-based only.",
       "referral_url": "https://jobs.micro1.ai/post/306236e1-0ca6-4096-a8b2-4495678ff1ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -735,6 +828,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US-based only",
       "referral_url": "https://jobs.micro1.ai/post/01c797e9-0eab-4a2f-988b-a0206e84f21d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -754,6 +850,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/106a1938-b587-4e53-8d54-4b6eba20343a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -775,6 +874,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US only.",
       "referral_url": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -801,6 +903,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/bb3e957b-b767-4771-bfb7-bfa34d74632a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -827,6 +932,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0075fd81-8fde-47a4-945a-b10a9bc436fa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -853,6 +961,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ba15e8af-4e8c-4a2f-86d0-cba7222400c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -879,6 +990,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9241ac3c-a083-4e6a-ae6c-0ebe8299ebcd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -900,6 +1014,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Northern America, Latin America, Europe, UK, Oceania.",
       "referral_url": "https://jobs.micro1.ai/post/0401a620-2950-4ec7-b657-a4aba61fb2a6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -921,6 +1038,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Northern America, Latin America, Europe, UK, Oceania.",
       "referral_url": "https://jobs.micro1.ai/post/0dd2f7fe-0069-40b0-bf55-0a8048206fa7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -940,6 +1060,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5f72a4d0-b364-47f7-a034-5021cbdc0e51?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -961,6 +1084,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6d9c4e06-dbf7-4e16-a3c5-32d2b9afe6ff?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -987,6 +1113,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/fc9f627a-cfc1-47df-8617-5749988640c4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1013,6 +1142,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1391b761-0b83-41a0-8100-d44f18ede8cc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1039,6 +1171,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/fded0ebb-c241-4245-9b2d-c656e6f703d2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1065,6 +1200,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/193724fb-2847-47f6-9f5d-59a53769e40f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1084,6 +1222,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/03946ab0-118f-4acf-9ff5-05fc752ec0af?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1110,6 +1251,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/386270dc-1c21-4207-96f5-4b9302ebcda4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1136,6 +1280,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1e2e8042-9c89-4dc9-bdeb-5de767eb45a8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1155,6 +1302,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "North America, Latin America, Europe, UK, and Oceania",
       "referral_url": "https://jobs.micro1.ai/post/cdbf1324-7e7b-49bf-9a78-ef9d2e8b22ab?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1173,6 +1323,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "North America, Latin America, Europe, UK, and Oceania",
       "referral_url": "https://jobs.micro1.ai/post/c0b9887c-24cd-4e93-9b09-b7b78e3571f7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1191,6 +1344,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "North America, Latin America, Europe, UK, and Oceania",
       "referral_url": "https://jobs.micro1.ai/post/43c43368-acf4-42f8-8351-74173291c5ac?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1212,6 +1368,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ba494132-925b-4cb6-adc7-45c9f3e2ac0a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1237,6 +1396,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3bc1ec11-392d-4d52-afe4-d5bc6badcbc1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1257,6 +1419,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6d278a40-0028-4b33-b2f0-5db4348e9297?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1277,6 +1442,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 55.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US-based preferred)",
       "referral_url": "https://jobs.micro1.ai/post/0407022a-eead-4195-95b1-fa8c7682b5d8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1297,6 +1465,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US-based preferred)",
       "referral_url": "https://jobs.micro1.ai/post/520ccd84-b67d-45cd-b1e4-3fcadf357f73?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1319,6 +1490,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US based preferred)",
       "referral_url": "https://jobs.micro1.ai/post/acdf36e4-73a7-48a6-86e6-68a8d26d8cfe?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1339,6 +1513,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US-based preferred)",
       "referral_url": "https://jobs.micro1.ai/post/397c7dd8-62cd-4068-a572-7addcd8a5fb2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1359,6 +1536,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/36d86bb0-b201-4d57-88e3-9fb0ff9fa8f6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1379,6 +1559,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US-based preferred)",
       "referral_url": "https://jobs.micro1.ai/post/68ee381e-ee71-4eca-827c-46797703bfcf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1405,6 +1588,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/38317a0e-46c4-4872-a65e-bea0525c8e6a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1431,6 +1617,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/48c72cf0-d9a7-4bb2-abd2-33d18dd05b13?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1458,6 +1647,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1e1e771b-bfaf-479a-8c5d-83637c346603?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1484,6 +1676,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/068bc3c8-4c0b-4b1b-afa2-e7ddcce6dd8b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1510,6 +1705,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6d98998f-fa08-4a82-9f91-c9fdc51cdf84?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1536,6 +1734,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f3ca9a77-ffd0-4eb7-b4ba-10deb5c71abb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1562,6 +1763,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/64110e6c-a1f5-45dd-9dfb-695b0ee21ee3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1587,6 +1791,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/650bf6c3-db6f-4783-ab0c-07324047b834?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1607,6 +1814,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US-based.",
       "referral_url": "https://jobs.micro1.ai/post/90990ebf-8198-4b79-a799-add474453dbb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1626,6 +1836,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ea63124a-6a16-4be4-bc4c-2a00d576ecb1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1647,6 +1860,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "United States only",
       "referral_url": "https://jobs.micro1.ai/post/313b5b7a-a6a8-4acf-9842-017d8506a037?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1666,6 +1882,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 24.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ca702454-8e86-4446-8654-1f08c2a9d162?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1701,6 +1920,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/484708eb-dd2c-4d03-bb59-34684e78579f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1728,6 +1950,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US, UK or CAN)",
       "referral_url": "https://jobs.micro1.ai/post/34374189-05e8-4eb2-8506-a831931459c9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1755,6 +1980,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US, UK or CAN)",
       "referral_url": "https://jobs.micro1.ai/post/b4ce7861-a888-4f57-bb63-c50fb01ae65d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1782,6 +2010,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US, UK or CAN",
       "referral_url": "https://jobs.micro1.ai/post/e107daa7-2cc8-4153-94c2-ff7806bb9d6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1809,6 +2040,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US, UK and CAN)",
       "referral_url": "https://jobs.micro1.ai/post/7e08e6c8-6e8a-46bb-a594-1bfae53c743b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1839,6 +2073,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ab52b995-a0f8-4aab-ac1d-98777ce867fa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1861,6 +2098,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/15be616a-44af-4fd5-8283-e2fd51a11f1b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1880,6 +2120,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/274e1507-d71c-4249-8d70-ec11e53c5ea6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1907,6 +2150,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/eefa6ece-b107-4896-b13c-a1d0c455680a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1927,6 +2173,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 14.0,
+      "pay_max": 36.0,
+      "pay_unit": "hour",
       "location_raw": "Northern America and Europe.",
       "referral_url": "https://jobs.micro1.ai/post/efa1517a-bee2-4687-97bf-42fd1282e883?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1948,6 +2197,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 85.0,
+      "pay_max": 105.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/482ee7a8-ec42-4dd7-9b90-1f3186fcb0ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1969,6 +2221,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Based)",
       "referral_url": "https://jobs.micro1.ai/post/5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -1988,6 +2243,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 28.0,
+      "pay_max": 92.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5fae0ae4-40c9-4fcb-9923-1d1e38e77c04?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2004,6 +2262,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 175.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7bc65540-718f-4f23-8f27-69a12aa15d4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2032,6 +2293,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 8.0,
+      "pay_max": 10.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4256a2e1-877f-42d5-8fef-20147a0b2db7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2054,6 +2318,9 @@
         "max": 800000,
         "min": 400000
       },
+      "pay_min": 400000.0,
+      "pay_max": 800000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b2aea41e-8dff-41f5-9b92-b199dc0b1bb9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2076,6 +2343,9 @@
         "max": 800000,
         "min": 400000
       },
+      "pay_min": 400000.0,
+      "pay_max": 800000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d83eb4ea-612b-4232-a83d-896364625827?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2097,6 +2367,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0936cd2a-a0a9-4105-802a-a4ec81cbf466?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2118,6 +2391,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4efbbbb6-4536-482a-8f28-9895e719424d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2139,6 +2415,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ff001293-c23b-46eb-a4db-8b2598c27897?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2161,6 +2440,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/81bef975-1ec5-404c-a1a6-7efe49dec2a3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2182,6 +2464,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/15fe5ebb-b057-4a33-b0c3-14510fe1065e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2202,6 +2487,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Los Angeles, Cali",
       "referral_url": "https://jobs.micro1.ai/post/0187300a-eb10-491c-9bf8-7a260b3578db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2223,6 +2511,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Los Angeles, Cali",
       "referral_url": "https://jobs.micro1.ai/post/a5c83e89-00e6-4b7d-8f9b-5304af76cbf1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2246,6 +2537,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Los Angeles, Cali",
       "referral_url": "https://jobs.micro1.ai/post/02deec8c-9f85-4d9d-a1ae-c61a3a1bedfc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2268,6 +2562,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote -Northern America, Latin America, Europe, UK, Oceania.",
       "referral_url": "https://jobs.micro1.ai/post/d02122f3-eaec-42b2-ad3f-edc218b94294?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2293,6 +2590,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ca1d0b6d-cac6-43a8-996f-d9dc73a68e15?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2316,6 +2616,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/4bf30ed8-24b8-406d-bbcb-f9b63cbdc72f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2339,6 +2642,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/69c7fdc3-5040-48aa-9de9-a3870e1b3069?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2362,6 +2668,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/314157c3-3907-4d37-853c-80d02690ca0b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2390,6 +2699,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7e1fcbca-de56-4423-8ef4-3d5106ab9e6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2418,6 +2730,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2192abbd-ab63-4a64-91ea-97e16dbbe508?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2445,6 +2760,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6818a81f-b736-4734-8700-aa3375ab5cc4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2470,6 +2788,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9b3377c5-01da-40d7-9304-39cc8cd20932?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2491,6 +2812,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 300.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/dbddaa98-09fd-4dde-b301-568d794b085d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2510,6 +2834,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2529,6 +2856,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/d5484f78-1277-4450-9823-1ac84d8cc776?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2557,6 +2887,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9ec7d467-0dd7-44c2-aa7c-dc99df803e65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2584,6 +2917,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c99724a5-d4e7-48d0-92b1-73dde88ad9c8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2611,6 +2947,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/86213f23-d13c-4390-a865-8e3c1cb52eb0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2629,6 +2968,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d130c45f-c85a-4ce6-9a12-53c980a63be7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2658,6 +3000,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6da7a95c-8ab7-4b76-a835-b1a6554da382?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2678,6 +3023,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US-based preferred.",
       "referral_url": "https://jobs.micro1.ai/post/fd4c1276-9025-4ba0-82a0-ebaf5dafafc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2707,6 +3055,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5ed4068f-177a-4ed2-9642-a9d4ba45be39?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2728,6 +3079,9 @@
         "max": 500000,
         "min": 300000
       },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d2653e3c-8317-4405-b4ec-27b45b786b93?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2750,6 +3104,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f3abc8e0-2f0e-4f28-aa3f-ee26ca98861f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2771,6 +3128,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/64cd60c3-9666-4f4d-8008-b132b839b15f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2792,6 +3152,9 @@
         "max": 4000000,
         "min": 1500000
       },
+      "pay_min": 1500000.0,
+      "pay_max": 4000000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/236aada3-b184-4ba5-88d2-a3de031ed1bd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2812,6 +3175,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/a057c80d-667b-4786-aa8f-47753bbaed2a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2832,6 +3198,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/143c66af-7aff-4655-9157-3940592a79ee?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2852,6 +3221,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ce71a597-7a62-4898-80a3-2c778eb9f282?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2872,6 +3244,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6ed6e468-26fe-4f21-bac7-904821907e0d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2890,6 +3265,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4fb1fcad-4ff0-4c45-bfa7-2b447295f01b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2911,6 +3289,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 55.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e5badd7a-6f55-4691-a872-1308671a73c7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2930,6 +3311,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/cd7cc2ef-1c3b-437a-82b2-ba08a7541025?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2950,6 +3334,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 55.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6d85f28f-5769-4ade-840f-57bcddab5bac?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2970,6 +3357,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6edb7bba-063e-423e-bc2d-40758b70092f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -2991,6 +3381,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/a3a45afd-e6d9-4212-b763-145bc9b6eabf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3011,6 +3404,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b0a3fdc5-49ed-40d9-9f7b-8724b8e8500d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3030,6 +3426,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6bffdbc3-9a22-473b-93ee-6a81a12d352c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3049,6 +3448,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/469d78d8-d934-4bbd-b901-8c1311e7518a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3068,6 +3470,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1dab3893-5849-4d4a-91b6-de7fe10a3e2d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3088,6 +3493,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 75.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c0795850-e239-4bf0-ae20-fcc09469a452?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3106,6 +3514,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/de0e8e60-91b7-48a1-a948-75b67578e848?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3125,6 +3536,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0311c6db-47b7-401f-baac-731c2bd8d90c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3145,6 +3559,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 55.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b9855cac-c3e8-4893-b6ee-db31f8d29713?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3165,6 +3582,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/81bac73d-62c4-4a80-a64c-15bbc515211c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3189,6 +3609,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 55.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1826f264-38a0-48c0-9c12-ad50a7433051?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3208,6 +3631,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/428dc0fc-66e8-4a4f-8a77-1351a95e85c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3227,6 +3653,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c5f4742d-b77a-4017-a8e3-bcfc68cc48bb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3247,6 +3676,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f7ff5f2a-cbff-4e3d-ad83-1019155c246a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3266,6 +3698,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/fb7bd452-4c95-41d8-9d53-69378955199c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3286,6 +3721,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 55.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/889f47bd-92d2-4ece-bc56-89e3b944f068?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3306,6 +3744,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 55.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f938c7e6-cca0-461d-bdf9-e5f37760c0be?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3324,6 +3765,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/16040304-1fdd-413d-8d49-4a818671fe8c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3344,6 +3788,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 55.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4c83e7e6-1252-4236-b37e-c313508ad28f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3364,6 +3811,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 75.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1966f0ab-bd57-413f-abfc-3b1c6ede95f8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3384,6 +3834,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/49aa4982-a1f3-4d70-8a4a-b52e1927e564?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3403,6 +3856,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US Based)",
       "referral_url": "https://jobs.micro1.ai/post/076f4149-4798-4082-b157-d35d179a869f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3422,6 +3878,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote  (US Based)",
       "referral_url": "https://jobs.micro1.ai/post/d01b226a-f47e-4c65-b4ef-4245b4d4ea37?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3443,6 +3902,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/18a809aa-0b7f-4523-ac0e-508c9f0f6f66?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3461,6 +3923,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/dcd53728-6fe1-4c86-b362-31cdc7428e3a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3484,6 +3949,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/4010d2c5-4a3d-41fe-9e33-28bc218626e5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3512,6 +3980,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
       "location_raw": "Northern America, Latin America, United Kingdom, Europe, and Oceania.",
       "referral_url": "https://jobs.micro1.ai/post/1309e64b-2af9-4aa2-8894-d67fa2b7dd60?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3532,6 +4003,9 @@
         "max": 130000,
         "min": 90000
       },
+      "pay_min": 90000.0,
+      "pay_max": 130000.0,
+      "pay_unit": "year",
       "location_raw": "Remote (US only)",
       "referral_url": "https://jobs.micro1.ai/post/44ad0950-96f2-410a-b3f1-63ff4708da8e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3550,6 +4024,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3575,6 +4052,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/71c67e07-6f80-43af-95c6-ae18cbed6c38?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3597,6 +4077,9 @@
         "max": 650000,
         "min": 300000
       },
+      "pay_min": 300000.0,
+      "pay_max": 650000.0,
+      "pay_unit": "year",
       "location_raw": "Remote / Travel-required",
       "referral_url": "https://jobs.micro1.ai/post/44668e06-3191-4b5f-a41c-b19e05f46eb7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3622,6 +4105,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5c9777fe-afb2-40b1-abbb-31cee8a8d4b6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3644,6 +4130,9 @@
         "max": 2000000,
         "min": 600000
       },
+      "pay_min": 600000.0,
+      "pay_max": 2000000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4c2fd0a7-0457-4d95-b2af-e91e1dc78e13?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3666,6 +4155,9 @@
         "max": 700000,
         "min": 300000
       },
+      "pay_min": 300000.0,
+      "pay_max": 700000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3460a043-7742-4e3c-bc16-88ced134c464?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3688,6 +4180,9 @@
         "max": 800000,
         "min": 400000
       },
+      "pay_min": 400000.0,
+      "pay_max": 800000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f6d42733-d8c3-4b55-a727-737e02ed2835?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3710,6 +4205,9 @@
         "max": 1300000,
         "min": 600000
       },
+      "pay_min": 600000.0,
+      "pay_max": 1300000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/cf2d7fe9-2077-4932-87bb-e8f98977518a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3730,6 +4228,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/89d4df86-e9c8-4fba-bd22-ca6e492fd567?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3750,6 +4251,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/94b4eeba-56d5-4efa-98be-2dceb02d538d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3773,6 +4277,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6fb11cac-25a3-46de-a144-603468023a1c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3798,6 +4305,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 175.0,
+      "pay_max": 300.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/95006305-f66b-4fba-9a06-339c48f82283?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3828,6 +4338,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 175.0,
+      "pay_max": 300.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/fe1e7380-928e-40b6-ba2c-b0e544e09a5a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3853,6 +4366,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/59fc8961-1c55-4822-883b-242f80920ab9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3881,6 +4397,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 8.0,
+      "pay_max": 10.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8811c1b3-efa7-4a5e-b332-50743f90a05a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3905,6 +4424,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "On-site, San Francisco",
       "referral_url": "https://jobs.micro1.ai/post/90be13ee-3d18-4eb5-a5ce-87705f4419a3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3930,6 +4452,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/11b7f45c-2cff-4a3a-b64e-cf691babfe51?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3952,6 +4477,9 @@
         "max": 800000,
         "min": 400000
       },
+      "pay_min": 400000.0,
+      "pay_max": 800000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d2321880-8435-45d5-98c6-c8340aae8c9f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3977,6 +4505,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/edba074b-85ef-420e-a2e9-48ed444c4839?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -3994,6 +4525,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/b162a0c4-a88f-462f-ad8d-ecfa32292586?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4010,6 +4544,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/76dbade2-b58e-4a60-ac78-18226940213c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4030,6 +4567,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e7c0aec1-251c-4ab7-8be9-f278faeb4540?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4050,6 +4590,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e929836f-3c6e-40ef-824d-90d65f99e817?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4080,6 +4623,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8ea4b6c0-bc6d-43ce-9e3a-212d4a32bfc3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4109,6 +4655,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4b15e855-b7ad-4e7c-8ad5-c0713de52f31?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4125,6 +4674,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5ca5feef-a2f0-4da9-ac55-1dfdc01bcdb9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4144,6 +4696,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 139.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e07e971f-2ab2-4ce7-9351-33f086f4834f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4163,6 +4718,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e8249392-42b6-4b8c-b8b7-8a58367984c5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4187,6 +4745,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "On-site, San Francisco",
       "referral_url": "https://jobs.micro1.ai/post/1d56a6b2-5545-4029-998a-cb798d61eb18?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4210,6 +4771,9 @@
         "max": 280000,
         "min": 200000
       },
+      "pay_min": 200000.0,
+      "pay_max": 280000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/912dac5d-2d0b-4c32-a67b-89404bcf195b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4227,6 +4791,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/159f218d-0ea1-4fdb-8bf5-693cb3a55a1c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4246,6 +4813,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 139.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6cf1339a-ab22-447e-8fa5-2ce79407fa2b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4267,6 +4837,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 18.0,
+      "pay_max": 28.0,
+      "pay_unit": "hour",
       "location_raw": "Latam remote",
       "referral_url": "https://jobs.micro1.ai/post/300552bc-f87f-4511-aa7a-9fcf5a483f37?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4287,6 +4860,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 31.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/88da544c-5d28-4835-bde7-0272a2a1a4eb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4309,6 +4885,9 @@
         "max": 220000,
         "min": 150000
       },
+      "pay_min": 150000.0,
+      "pay_max": 220000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c37ac96c-2116-4c5e-92c7-180da9b502db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4331,6 +4910,9 @@
         "max": 280000,
         "min": 200000
       },
+      "pay_min": 200000.0,
+      "pay_max": 280000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5c4d1820-c59b-43c1-aad3-c069fd4c1c4d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4348,6 +4930,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/9ece7cf2-3d00-497e-ab11-4793d1858646?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4365,6 +4950,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/40ed9a70-5415-4571-9f7b-6840f0db924a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4382,6 +4970,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/ee7c4e95-fa17-410c-a0a9-5d05155a5405?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4399,6 +4990,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/d55f38c6-6fa4-420a-a184-cb4130eb5fcf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4418,6 +5012,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (Worldwide)",
       "referral_url": "https://jobs.micro1.ai/post/d65941c5-6aff-4e80-b3d6-4f56c9aede18?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4437,6 +5034,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Fully Remote, Open to candidates worlwide",
       "referral_url": "https://jobs.micro1.ai/post/1e8c2077-7a9d-4a91-adcd-f96404dc8226?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4459,6 +5059,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Fully Remote, Open to candidates worlwide",
       "referral_url": "https://jobs.micro1.ai/post/3a757d40-98c5-4717-a401-382999db9a3f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4477,6 +5080,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 18.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9a37ff42-0165-4992-95af-986223b55fcf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4495,6 +5101,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8dea9829-e259-4841-befd-9a52edb8a9f5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4513,6 +5122,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1949adfa-dfb9-405f-939c-fd531e11c31c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4538,6 +5150,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4563,6 +5178,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/52829d52-bcb5-4c84-a2e7-a5b3dc73bf15?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4581,6 +5199,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/361f9b97-4179-4631-a026-514efee334bc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4599,6 +5220,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/a5de9ba8-ba95-4737-b985-327e48c2b8d9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4618,6 +5242,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c9a1355a-74bc-4300-8c68-b88c5a88803f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4638,6 +5265,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/cd222383-2114-4280-940c-79d0a1e75ee0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4658,6 +5288,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/678df5e9-a43e-4dad-adbb-5ee13c42ec48?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4675,6 +5308,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0f2c4f59-00c6-4296-a9dc-fb7b93efd31b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4694,6 +5330,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4714,6 +5353,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Fully Remote-Open Worldwide",
       "referral_url": "https://jobs.micro1.ai/post/f5e8360f-b6b5-4674-9b5d-798082e223ec?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4732,6 +5374,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 20.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4752,6 +5397,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/43067af3-efeb-435d-aeb9-6d1de8c2af0a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4768,6 +5416,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/46d40ceb-c9b5-4b76-a595-6d74ecf7107e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4790,6 +5441,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 95.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/afddf4b4-2a89-4848-9826-708eff6a3c7c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4813,6 +5467,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 95.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4537e9e8-68fc-40c5-bb2d-53de5b5f6eee?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4834,6 +5491,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 95.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b13e34d0-d672-42bf-9a5d-b783311f2601?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4854,6 +5514,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 95.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/aeda6c13-c58d-4e11-bf6a-edcb9fdf65c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4876,6 +5539,9 @@
         "max": 260000,
         "min": 220000
       },
+      "pay_min": 220000.0,
+      "pay_max": 260000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ba5cfa19-1fa9-4e01-a416-f9da4c3e2628?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4899,6 +5565,9 @@
         "max": 370000,
         "min": 345000
       },
+      "pay_min": 345000.0,
+      "pay_max": 370000.0,
+      "pay_unit": "year",
       "location_raw": "Remote (opportunity to work from SF office)",
       "referral_url": "https://jobs.micro1.ai/post/c23e27f9-f0a5-4165-9f1c-255f78da2a79?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4919,6 +5588,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "on-site, Arlington, VA or DC-area, US.",
       "referral_url": "https://jobs.micro1.ai/post/a051bb56-cde2-4f5c-bbbe-a7d52e7506db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4944,6 +5616,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 24.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9c3be41a-3d6d-4a1e-a917-5234b2b19c14?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4969,6 +5644,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 24.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d49df3cc-52f9-4da6-9c84-a4f9ddb6c553?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -4989,6 +5667,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/eb959833-f2b5-4401-95e0-cb698f0f199f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5009,6 +5690,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4e2c9dd6-10d3-4de3-8f84-289141d692aa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5030,6 +5714,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/77a76958-77dc-459f-a623-0842a786a277?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5051,6 +5738,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c0b836e3-f118-4b88-9dbe-46a400c074c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5073,6 +5763,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 245.0,
+      "pay_max": 280.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/dc71a0c0-527b-474b-96e3-022c63e7012d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5094,6 +5787,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 245.0,
+      "pay_max": 280.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3d79ba82-926b-48c0-9d15-8791a364ea81?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5116,6 +5812,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 245.0,
+      "pay_max": 280.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3b1f3a6f-51b3-4622-8baa-28b88e58f3d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5138,6 +5837,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 245.0,
+      "pay_max": 280.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d3fbfdeb-eb0e-44b1-80a3-20b0baa07bf5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5158,6 +5860,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/22bec98f-7484-42b4-af15-17e033f0136f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5177,6 +5882,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/5f50767b-8275-4f5a-8861-08e895e0d1e2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5193,6 +5901,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/8a0ef31d-212b-49e4-ba4a-6075436f5f6b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5213,6 +5924,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US-based.",
       "referral_url": "https://jobs.micro1.ai/post/c5772db7-51b9-4a96-8f7d-6afbdf7b7f85?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5233,6 +5947,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9dd9c76c-51d7-4e19-81fd-3b3c093edef2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5252,6 +5969,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US-based",
       "referral_url": "https://jobs.micro1.ai/post/02a97913-db10-4060-a35f-113c69637d1a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5275,6 +5995,9 @@
         "max": 340000,
         "min": 170000
       },
+      "pay_min": 170000.0,
+      "pay_max": 340000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/01f86047-2c74-46bb-a6fc-a00e1be3dd5b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5297,6 +6020,9 @@
         "max": 350000,
         "min": 200000
       },
+      "pay_min": 200000.0,
+      "pay_max": 350000.0,
+      "pay_unit": "year",
       "location_raw": null,
       "referral_url": "https://jobs.micro1.ai/post/d1faea65-4f6a-4bfb-8616-fbfbdd997474?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5319,6 +6045,9 @@
         "max": 350000,
         "min": 200000
       },
+      "pay_min": 200000.0,
+      "pay_max": 350000.0,
+      "pay_unit": "year",
       "location_raw": "Hybrid - Washington, D.C.",
       "referral_url": "https://jobs.micro1.ai/post/c4289f4e-1884-4dd0-bdae-af3757d84daf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5339,6 +6068,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, US-based only.",
       "referral_url": "https://jobs.micro1.ai/post/80077f82-8234-4285-a1d6-332e6d4fa985?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5361,6 +6093,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/cdb8b25d-0be7-41c3-87d6-241592b9fc41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5383,6 +6118,9 @@
         "max": 140000,
         "min": 100000
       },
+      "pay_min": 100000.0,
+      "pay_max": 140000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2752b340-47ec-4cfa-8197-999460c07a6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5422,6 +6160,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c4e4ac18-a3aa-47ba-8229-d6611085afc6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5452,6 +6193,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/bd70678c-f7bd-4c23-959d-9b5cd6748410?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5478,6 +6222,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c521a888-16fc-4d97-83de-ea601e01fec8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5500,6 +6247,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4b2e063b-ad86-429f-a54a-c50e0dd99b8c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5523,6 +6273,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/78a9efa0-b074-4dd8-9e3e-c0cd5675c74a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5544,6 +6297,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/fa297c7f-e5d5-4e52-a4ad-ec74c4763e17?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5569,6 +6325,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6d7b9372-c7ad-4ea6-a017-95e6e80a33a5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5587,6 +6346,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 6.0,
+      "pay_max": 6.0,
+      "pay_unit": "hour",
       "location_raw": "Remoto – profissionais baseados na América Latina e no Caribe. Países elegíveis incluem:",
       "referral_url": "https://jobs.micro1.ai/post/15313f3d-5600-4d96-b45f-b8dfafbee976?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5606,6 +6368,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 14.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/8944ed79-063d-43e2-a244-bd3185fbfb43?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5627,6 +6392,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/10f755ec-2212-42de-b0f4-47ef7ae0bd18?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5646,6 +6414,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8afd8c08-4f6f-4d96-9a1e-19c532c48e91?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5665,6 +6436,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7c662ce4-ccf8-4cae-b71d-f904a5ca171e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5684,6 +6458,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7215c6e9-6f35-4cf8-86b2-afccebe3722f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5703,6 +6480,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/60d397a2-fa5a-4a90-afd0-4ce1b5223472?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5723,6 +6503,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b97e5024-93da-4f54-bf63-4b42230d729a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5744,6 +6527,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 31.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7a01eddd-bc92-4e27-b90f-404fa393c5d8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5764,6 +6550,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8ff94e02-56a8-4fd2-a626-40e283ad0297?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5785,6 +6574,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ca9b762b-356d-41a7-be51-80b14a5a5dbb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5807,6 +6599,9 @@
         "max": 250000,
         "min": 160000
       },
+      "pay_min": 160000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2307c83e-6405-4556-bb5b-c8bb7c054f39?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5843,6 +6638,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/312e301c-1205-4c94-86b2-22508af661e4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5872,6 +6670,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/dde63eb1-e882-4bb9-a4d0-0eac336717ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5911,6 +6712,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ee4322d7-181e-4124-bdcb-4c16eac3dac0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5935,6 +6739,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/dfe89be3-0fe9-4f7a-9a50-d43b4af0a6b3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5960,6 +6767,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/639d0bef-8e58-4851-a425-3a6402af0819?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -5985,6 +6795,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/a6bcbb90-3554-45c9-90b7-56933f1afbf1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6004,6 +6817,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e20cc342-c0d2-4d56-983f-cf9b0ae72772?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6024,6 +6840,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/fa3908ed-a728-492b-a597-83c0adaa5026?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6046,6 +6865,9 @@
         "max": 500000,
         "min": 300000
       },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
       "location_raw": "Remote (requires relocating to DC area)",
       "referral_url": "https://jobs.micro1.ai/post/9002a281-84ef-40ed-8ee3-be985a754ced?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6068,6 +6890,9 @@
         "max": 1500000,
         "min": 500000
       },
+      "pay_min": 500000.0,
+      "pay_max": 1500000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ab3d9699-ffc4-436c-8b27-cdc2b9143323?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6089,6 +6914,9 @@
         "max": 500000,
         "min": 300000
       },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/09b4c27c-ee51-4785-9a53-2fbb93c7dd7a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6112,6 +6940,9 @@
         "max": 250000,
         "min": 200000
       },
+      "pay_min": 200000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
       "location_raw": "Remote (opportunity to work from SF office)",
       "referral_url": "https://jobs.micro1.ai/post/04ac5d10-6bf2-4268-a615-2ff58c15d58b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6137,6 +6968,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 140.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c955d596-4b9c-4702-a134-74763c47c624?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6169,6 +7003,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/45a1141b-b504-4446-8e1f-e4bfefa07d4a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6194,6 +7031,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 65.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6ec0826e-f15e-413c-a41a-8dacd7fb0d85?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6214,6 +7054,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5afb4a1f-dc54-4459-b365-75b3b239ee19?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6234,6 +7077,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/69fef3d7-ebd4-4f86-8aae-74b80c7a9035?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6254,6 +7100,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/382cf385-16da-4536-8a32-95947e0197a7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6274,6 +7123,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5707c314-da3f-4736-ac12-dfe66421dc45?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6297,6 +7149,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 300.0,
+      "pay_unit": "hour",
       "location_raw": "Remote, Open Globally",
       "referral_url": "https://jobs.micro1.ai/post/51a65c2c-07dd-4307-aba6-f7c4af17311c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6316,6 +7171,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d866e9e9-6de8-41f1-8d33-77616b95b099?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6336,6 +7194,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 31.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/12c44b79-e4a2-40af-af84-f633c4723452?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6356,6 +7217,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US and Western Europe)",
       "referral_url": "https://jobs.micro1.ai/post/ba976b4a-3b64-4797-adbf-a33770f3a44f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6387,6 +7251,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
       "location_raw": "Remote (US & Western Europe)",
       "referral_url": "https://jobs.micro1.ai/post/562b711a-a95e-428f-97d4-d679529893d0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6406,6 +7273,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7f5dbf6b-9619-48cf-94db-0e846fce8227?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6426,6 +7296,9 @@
         "max": 180000,
         "min": 140000
       },
+      "pay_min": 140000.0,
+      "pay_max": 180000.0,
+      "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c718c7c4-f136-4749-b442-8d51d6d17235?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6445,6 +7318,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f29fadc8-dd29-4400-866a-1967c92722b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6463,6 +7339,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 65.0,
+      "pay_max": 98.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/40ace067-cec8-4998-bb75-067a565c23b3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6477,6 +7356,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 65.0,
+      "pay_max": 98.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/26044f07-dc45-4a01-8a5e-8154914a1267?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6495,6 +7377,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/89c8ea6b-dd8e-43e1-af94-548640c9c17d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6520,6 +7405,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6b5638ff-0020-4655-bda9-88360b283b1a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6538,6 +7426,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 6.0,
+      "pay_max": 6.0,
+      "pay_unit": "hour",
       "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
       "referral_url": "https://jobs.micro1.ai/post/a1ecbac3-a024-4732-bce7-7ac2e447571d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6557,6 +7448,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/de83ff2f-bdd2-4862-aff9-7158cd327038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6577,6 +7471,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
       "location_raw": "Fully Remote-Open Worldwide",
       "referral_url": "https://jobs.micro1.ai/post/55e3a797-5ed9-4f99-bfd6-f90947d9b05b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6599,6 +7496,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7e5bac29-cf45-4072-ad7e-9c7574c94bc5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6617,6 +7517,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 13.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6635,6 +7538,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3751d160-6ea1-45e9-8c40-7af439059844?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6653,6 +7559,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f55c5e8b-d0e2-427c-b84f-7642e66e263f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
@@ -6672,6 +7581,9 @@
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3dda7a92-1d6d-4e5e-ae91-074ab9674a6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     }
