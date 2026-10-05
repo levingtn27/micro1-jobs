@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-10-05T17:32:20Z",
+  "updated_at": "2026-10-05T20:30:05Z",
   "count": 304,
   "jobs": [
+    {
+      "job_id": "b7222393-60d2-4a14-b038-52eb7493c50b",
+      "title": "Litigation Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-10-05 18:03:12",
+      "skills": [
+        "Litigation Strategy",
+        "Legal Writing",
+        "Issue Spotting",
+        "Legal Research",
+        "Civil Procedure"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b7222393-60d2-4a14-b038-52eb7493c50b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "6955441d-2506-4d09-8f85-9ef1a2d23ea2",
       "title": "Software Engineer, New Grad",
@@ -538,7 +561,7 @@
     },
     {
       "job_id": "0175ab60-933c-4a94-b842-5207e2d09c99",
-      "title": "Recruiter, SF",
+      "title": "Recruitment Ops Manager",
       "domain_slug": "other",
       "date_posted": "2026-10-01 11:32:09",
       "skills": [
@@ -3270,30 +3293,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4fb1fcad-4ff0-4c45-bfa7-2b447295f01b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e5badd7a-6f55-4691-a872-1308671a73c7",
-      "title": "Computer User Support Specialists",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-16 21:18:48",
-      "skills": [
-        "hardware/software troubleshooting",
-        "networking knowledge tcp/ip",
-        "VPN",
-        "DNS",
-        "ticket management",
-        "OS support"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 55,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 55.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e5badd7a-6f55-4691-a872-1308671a73c7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "cd7cc2ef-1c3b-437a-82b2-ba08a7541025",
