@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-10-06T00:30:07Z",
-  "count": 305,
+  "updated_at": "2026-10-06T04:30:10Z",
+  "count": 306,
   "jobs": [
+    {
+      "job_id": "6634c1b6-553f-4d60-a692-be005464a798",
+      "title": "Software Engineer – Backend",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-06 03:27:25",
+      "skills": [
+        "Python3",
+        "JAVA",
+        "Rust",
+        "Algorithms",
+        "Basics C++",
+        "Typescript",
+        "bug fixing",
+        "feature implementation",
+        "codebase refactoring",
+        "performance optimization"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6634c1b6-553f-4d60-a692-be005464a798?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9460e294-b244-4e38-be35-25aa48c231d4",
+      "title": "Strategic Project Lead, Finance Expertise",
+      "domain_slug": "other",
+      "date_posted": "2026-10-06 01:08:20",
+      "skills": [
+        "Leadership & Team Management",
+        "Data Operations",
+        "Human Data"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 90,
+      "monthly_min": "3000.00",
+      "monthly_max": "10000.00",
+      "yearly": {
+        "max": 550000,
+        "min": 400000
+      },
+      "pay_min": 400000.0,
+      "pay_max": 550000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9460e294-b244-4e38-be35-25aa48c231d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "d4d12ad4-ce15-4a6f-892d-eb3c51d131cd",
+      "title": "Strategic Project Lead, MD/Health",
+      "domain_slug": "other",
+      "date_posted": "2026-10-06 01:07:52",
+      "skills": [
+        "Leadership & Team Management",
+        "Data Operations",
+        "Human Data"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 90,
+      "monthly_min": "3000.00",
+      "monthly_max": "10000.00",
+      "yearly": {
+        "max": 550000,
+        "min": 400000
+      },
+      "pay_min": 400000.0,
+      "pay_max": 550000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/d4d12ad4-ce15-4a6f-892d-eb3c51d131cd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "b96eff39-99fd-4db6-a8dc-c3ea2a58bae1",
+      "title": "Strategic Project Lead, J.D./Legal Expertise",
+      "domain_slug": "other",
+      "date_posted": "2026-10-06 01:07:20",
+      "skills": [
+        "Leadership & Team Management",
+        "Data Operations",
+        "Human Data"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 90,
+      "monthly_min": "3000.00",
+      "monthly_max": "10000.00",
+      "yearly": {
+        "max": 550000,
+        "min": 400000
+      },
+      "pay_min": 400000.0,
+      "pay_max": 550000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b96eff39-99fd-4db6-a8dc-c3ea2a58bae1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7c09cefc-fd08-4ee4-b792-48e3a4753e9c",
+      "title": "AI/ML Engineer, Internal Platforms",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-06 00:57:45",
+      "skills": [
+        "Python",
+        "LLMs",
+        "AWS",
+        "LangChain",
+        "FastAPI"
+      ],
+      "hourly_min": 160,
+      "hourly_max": 300,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 300000,
+        "min": 220000
+      },
+      "pay_min": 220000.0,
+      "pay_max": 300000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7c09cefc-fd08-4ee4-b792-48e3a4753e9c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "9ca6654e-b787-4571-9d2e-ef5bbb9ad2c7",
       "title": "Art Related Professional ",
@@ -2788,37 +2914,6 @@
       "referral_url": "https://jobs.micro1.ai/post/7e1fcbca-de56-4423-8ef4-3d5106ab9e6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "2192abbd-ab63-4a64-91ea-97e16dbbe508",
-      "title": "Application Security Engineer (AppSec)",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-21 16:49:23",
-      "skills": [
-        "Python3",
-        "JAVA",
-        "Rust",
-        "Algorithms",
-        "Basics C++",
-        "Typescript",
-        "bug fixing",
-        "feature implementation",
-        "codebase refactoring",
-        "performance optimization",
-        "pentesting",
-        "Security audit",
-        "cybersecurity"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2192abbd-ab63-4a64-91ea-97e16dbbe508?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "6818a81f-b736-4734-8700-aa3375ab5cc4",
       "title": "Backend Security Engineer",
       "domain_slug": "software-engineering",
@@ -3374,76 +3469,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/cd7cc2ef-1c3b-437a-82b2-ba08a7541025?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6d85f28f-5769-4ade-840f-57bcddab5bac",
-      "title": "Public Safety Communications Dispatcher",
-      "domain_slug": "other",
-      "date_posted": "2026-09-16 21:16:39",
-      "skills": [
-        "Prioritization and triage of requests under pressure",
-        "Clear",
-        "concise communication (radio/phone/chat)",
-        "Handling multiple channels simultaneously (multitasking)",
-        "Applying standardized protocols/checklists"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 55,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 55.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6d85f28f-5769-4ade-840f-57bcddab5bac?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6edb7bba-063e-423e-bc2d-40758b70092f",
-      "title": "Life Sciences Research Assistant",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-16 21:15:48",
-      "skills": [
-        "Methodological rigor",
-        "Source synthesis",
-        "Rubric fidelity",
-        "Data interpretation",
-        "Protocol fidelity"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6edb7bba-063e-423e-bc2d-40758b70092f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a3a45afd-e6d9-4212-b763-145bc9b6eabf",
-      "title": "Sociology Teachers, Postsecondary",
-      "domain_slug": "humanities",
-      "date_posted": "2026-09-16 21:14:28",
-      "skills": [
-        "Designing evaluation rubrics",
-        "Writing clear",
-        "measurable task prompts",
-        "Basic pedagogical knowledge (Bloom's taxonomy",
-        "Reviewing and giving feedback on work",
-        "Synthesizing literature/research on a topic"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a3a45afd-e6d9-4212-b763-145bc9b6eabf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "b0a3fdc5-49ed-40d9-9f7b-8724b8e8500d",
