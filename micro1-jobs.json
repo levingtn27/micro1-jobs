@@ -1,7 +1,66 @@
 {
-  "updated_at": "2026-10-05T20:30:05Z",
-  "count": 304,
+  "updated_at": "2026-10-06T00:30:07Z",
+  "count": 305,
   "jobs": [
+    {
+      "job_id": "9ca6654e-b787-4571-9d2e-ef5bbb9ad2c7",
+      "title": "Art Related Professional ",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-10-06 00:03:58",
+      "skills": [
+        "visual curation",
+        "artistic judgment",
+        "image evaluation",
+        "written communication",
+        "collaboration",
+        "photography",
+        "art direction",
+        "graphic design",
+        "illustration",
+        "visual trend awareness"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 105,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 105.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9ca6654e-b787-4571-9d2e-ef5bbb9ad2c7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "941cd9a0-94f3-442e-a24a-24d37ca1aa43",
+      "title": "Voice Actor/Coaches",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-05 22:34:36",
+      "skills": [
+        "Voice Acting",
+        "Voice Coaching",
+        "Vocal Pedagogy",
+        "Speech Analysis",
+        "Prosody & Intonation",
+        "Phonetics",
+        "Accent & Dialect Identification",
+        "Vocal Quality Assessment",
+        "Resonance & Voice Placement",
+        "Audio Engineering",
+        "Sound Engineering",
+        "Audio Quality Evaluation",
+        "Written Technical Analysis"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/941cd9a0-94f3-442e-a24a-24d37ca1aa43?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "b7222393-60d2-4a14-b038-52eb7493c50b",
       "title": "Litigation Attorney",
@@ -4866,6 +4925,34 @@
       "referral_url": "https://jobs.micro1.ai/post/88da544c-5d28-4835-bde7-0272a2a1a4eb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "84317e04-23ca-41b5-8df8-87f7557f0541",
+      "title": "Visual Creative Expert ",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-09-08 22:16:44",
+      "skills": [
+        "visual curation",
+        "artistic judgment",
+        "image evaluation",
+        "written communication",
+        "collaboration",
+        "photography",
+        "art direction",
+        "graphic design",
+        "illustration",
+        "visual trend awareness"
+      ],
+      "hourly_min": 21,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 21.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/84317e04-23ca-41b5-8df8-87f7557f0541?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "c37ac96c-2116-4c5e-92c7-180da9b502db",
       "title": "Software Engineer (Electron.js)",
       "domain_slug": "software-engineering",
@@ -6072,31 +6159,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US-based only.",
       "referral_url": "https://jobs.micro1.ai/post/80077f82-8234-4285-a1d6-332e6d4fa985?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "cdb8b25d-0be7-41c3-87d6-241592b9fc41",
-      "title": "Military/Veteran Mental Health Experts",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-08-25 10:24:05",
-      "skills": [
-        "clinical psychology",
-        "psychiatry",
-        "military and veteran mental health expertise",
-        "trauma and ptsd assessment",
-        "therapeutic intervention",
-        "cultural competence",
-        "clinical content development"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/cdb8b25d-0be7-41c3-87d6-241592b9fc41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "2752b340-47ec-4cfa-8197-999460c07a6e",
@@ -7452,29 +7514,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/de83ff2f-bdd2-4862-aff9-7158cd327038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "55e3a797-5ed9-4f99-bfd6-f90947d9b05b",
-      "title": "Autodesk Fusion CAM Expert",
-      "domain_slug": "skilled-trades-construction",
-      "date_posted": "2026-08-07 21:39:44",
-      "skills": [
-        "Autodesk Fusion",
-        "Fusion360",
-        "CAM",
-        "Computer-Aided Manufacturing",
-        "CNC"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Fully Remote-Open Worldwide",
-      "referral_url": "https://jobs.micro1.ai/post/55e3a797-5ed9-4f99-bfd6-f90947d9b05b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "7e5bac29-cf45-4072-ad7e-9c7574c94bc5",
