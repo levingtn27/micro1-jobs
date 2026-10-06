@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T08:30:18Z",
-  "count": 316,
+  "updated_at": "2026-10-06T12:30:02Z",
+  "count": 314,
   "jobs": [
     {
       "job_id": "b8ed43ea-dc5c-4da1-80f4-633cb15d94a9",
@@ -678,33 +678,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b6aeb866-1fd0-41c1-acdb-85dd6b906b6a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d7c1c94f-9afa-42fb-bbaa-b732582c7870",
-      "title": "Content Writer & Editor",
-      "domain_slug": "other",
-      "date_posted": "2026-10-02 03:53:44",
-      "skills": [
-        "Editing",
-        "grammar and syntax expertise",
-        "content quality assessment",
-        "attention to detail",
-        "copyediting",
-        "editorial judgment",
-        "constructive feedback",
-        "written communication",
-        "proofreading"
-      ],
-      "hourly_min": 22,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 22.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d7c1c94f-9afa-42fb-bbaa-b732582c7870?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
@@ -2031,34 +2004,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/64110e6c-a1f5-45dd-9dfb-695b0ee21ee3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "650bf6c3-db6f-4783-ab0c-07324047b834",
-      "title": "Content Writer & Editor (Australia/New Zealand)",
-      "domain_slug": "other",
-      "date_posted": "2026-09-28 18:08:58",
-      "skills": [
-        "writing evaluation",
-        "editing",
-        "grammar and syntax expertise",
-        "english language proficiency",
-        "content quality assessment",
-        "attention to detail",
-        "remote collaboration",
-        "constructive feedback",
-        "organizational skills",
-        "time management"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/650bf6c3-db6f-4783-ab0c-07324047b834?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "90990ebf-8198-4b79-a799-add474453dbb",
