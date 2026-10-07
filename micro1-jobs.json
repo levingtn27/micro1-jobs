@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-07T16:30:10Z",
-  "count": 296,
+  "updated_at": "2026-10-07T17:58:23Z",
+  "count": 297,
   "jobs": [
+    {
+      "job_id": "3ca164ec-a540-4f18-b298-09c54c377eb2",
+      "title": "Imagery Analyst - AI/ML Training Data",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-07 16:37:15",
+      "skills": [
+        "Data labeling",
+        "Data annotation",
+        "Labeling accuracy",
+        "Attention to detail"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US-based.",
+      "referral_url": "https://jobs.micro1.ai/post/3ca164ec-a540-4f18-b298-09c54c377eb2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "865bada5-304f-4f28-aa8d-5b0331975b16",
       "title": "Medical Coder",
@@ -568,16 +590,16 @@
         "Technical Marketing",
         "Industry Partnerships"
       ],
-      "hourly_min": null,
-      "hourly_max": null,
+      "hourly_min": 7,
+      "hourly_max": 8,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": {
-        "max": 500000,
-        "min": 350000
+        "max": 350000,
+        "min": 250000
       },
-      "pay_min": 350000.0,
-      "pay_max": 500000.0,
+      "pay_min": 250000.0,
+      "pay_max": 350000.0,
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -932,13 +954,13 @@
         "Contract Redlining",
         "Contract Drafting"
       ],
-      "hourly_min": 90,
-      "hourly_max": 130,
+      "hourly_min": 150,
+      "hourly_max": 200,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 130.0,
+      "pay_min": 150.0,
+      "pay_max": 200.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ca43d8de-7ded-4a6d-a8e1-bfc294d42914?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -1032,7 +1054,7 @@
       "pay_min": 35.0,
       "pay_max": 55.0,
       "pay_unit": "hour",
-      "location_raw": "Remote - San Francisco, CA",
+      "location_raw": "Remote - (SF based)",
       "referral_url": "https://jobs.micro1.ai/post/0175ab60-933c-4a94-b842-5207e2d09c99?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
@@ -1056,7 +1078,7 @@
       "pay_min": 15.0,
       "pay_max": 20.0,
       "pay_unit": "hour",
-      "location_raw": "Remote — United States, Canada, United Kingdom, Ireland, Australia, and New Zealand",
+      "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/36e1b1f6-b8bf-4273-a09a-94116a1f4b39?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
@@ -1077,12 +1099,12 @@
         "remote work self-management"
       ],
       "hourly_min": 8,
-      "hourly_max": 15,
+      "hourly_max": 12,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 8.0,
-      "pay_max": 15.0,
+      "pay_max": 12.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e67f4a0c-b99c-4725-8796-a09b12dd8d06?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -1208,12 +1230,12 @@
         "Rubric Evaluation",
         "Google Workspace"
       ],
-      "hourly_min": 35,
+      "hourly_min": 30,
       "hourly_max": 110,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 35.0,
+      "pay_min": 30.0,
       "pay_max": 110.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
@@ -1249,15 +1271,15 @@
         "Drug Safety & Evaluation",
         "Clinical Research"
       ],
-      "hourly_min": 126,
-      "hourly_max": 441,
+      "hourly_min": 80,
+      "hourly_max": 285,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 126.0,
-      "pay_max": 441.0,
+      "pay_min": 80.0,
+      "pay_max": 285.0,
       "pay_unit": "hour",
-      "location_raw": "United State",
+      "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d54c73d6-e3bc-4183-98ae-1f1a8197721d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
@@ -1278,12 +1300,12 @@
         "remote collaboration"
       ],
       "hourly_min": 100,
-      "hourly_max": 180,
+      "hourly_max": 160,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 100.0,
-      "pay_max": 180.0,
+      "pay_max": 160.0,
       "pay_unit": "hour",
       "location_raw": "Remote, US-based only.",
       "referral_url": "https://jobs.micro1.ai/post/306236e1-0ca6-4096-a8b2-4495678ff1ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -1301,12 +1323,12 @@
         "verbal communication"
       ],
       "hourly_min": 100,
-      "hourly_max": 180,
+      "hourly_max": 160,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 100.0,
-      "pay_max": 180.0,
+      "pay_max": 160.0,
       "pay_unit": "hour",
       "location_raw": "Remote, US-based only",
       "referral_url": "https://jobs.micro1.ai/post/01c797e9-0eab-4a2f-988b-a0206e84f21d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -1323,12 +1345,12 @@
         "Written legal reasoning"
       ],
       "hourly_min": 100,
-      "hourly_max": 180,
+      "hourly_max": 160,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 100.0,
-      "pay_max": 180.0,
+      "pay_max": 160.0,
       "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/106a1938-b587-4e53-8d54-4b6eba20343a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -1346,13 +1368,13 @@
         "Legal Writing",
         "Communication Precision"
       ],
-      "hourly_min": 80,
-      "hourly_max": 140,
+      "hourly_min": 100,
+      "hourly_max": 160,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 140.0,
+      "pay_min": 100.0,
+      "pay_max": 160.0,
       "pay_unit": "hour",
       "location_raw": "Remote, US only.",
       "referral_url": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -1782,12 +1804,12 @@
         "guideline interpretation"
       ],
       "hourly_min": 20,
-      "hourly_max": 35,
+      "hourly_max": 30,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 20.0,
-      "pay_max": 35.0,
+      "pay_max": 30.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3bc1ec11-392d-4d52-afe4-d5bc6badcbc1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -1975,12 +1997,12 @@
         "remote work"
       ],
       "hourly_min": 20,
-      "hourly_max": 35,
+      "hourly_max": 30,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 20.0,
-      "pay_max": 35.0,
+      "pay_max": 30.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/1e1e771b-bfaf-479a-8c5d-83637c346603?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -2480,7 +2502,7 @@
       "pay_min": 14.0,
       "pay_max": 36.0,
       "pay_unit": "hour",
-      "location_raw": "Northern America and Europe.",
+      "location_raw": "Northern America and Germany.",
       "referral_url": "https://jobs.micro1.ai/post/efa1517a-bee2-4687-97bf-42fd1282e883?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
@@ -2740,12 +2762,12 @@
         "M&A"
       ],
       "hourly_min": 90,
-      "hourly_max": 130,
+      "hourly_max": 180,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 90.0,
-      "pay_max": 130.0,
+      "pay_max": 180.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/81bef975-1ec5-404c-a1a6-7efe49dec2a3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -2764,12 +2786,12 @@
         "ISDAs"
       ],
       "hourly_min": 90,
-      "hourly_max": 130,
+      "hourly_max": 110,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
       "pay_min": 90.0,
-      "pay_max": 130.0,
+      "pay_max": 110.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/15fe5ebb-b057-4a33-b0c3-14510fe1065e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -3464,11 +3486,11 @@
       "monthly_min": "8000.00",
       "monthly_max": "12000.00",
       "yearly": {
-        "max": 4000000,
-        "min": 1500000
+        "max": 6000000,
+        "min": 1200000
       },
-      "pay_min": 1500000.0,
-      "pay_max": 4000000.0,
+      "pay_min": 1200000.0,
+      "pay_max": 6000000.0,
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/236aada3-b184-4ba5-88d2-a3de031ed1bd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -3558,7 +3580,7 @@
       "pay_min": 90.0,
       "pay_max": 110.0,
       "pay_unit": "hour",
-      "location_raw": "Remote  (US Based)",
+      "location_raw": "Remote (US Based)",
       "referral_url": "https://jobs.micro1.ai/post/d01b226a-f47e-4c65-b4ef-4245b4d4ea37?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
@@ -3683,7 +3705,7 @@
       "pay_min": 90000.0,
       "pay_max": 130000.0,
       "pay_unit": "year",
-      "location_raw": "Remote (US only)",
+      "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/44ad0950-96f2-410a-b3f1-63ff4708da8e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
@@ -4096,13 +4118,13 @@
         "quick to learn basic software",
         "clear communication"
       ],
-      "hourly_min": 10,
-      "hourly_max": 20,
+      "hourly_min": 30,
+      "hourly_max": 30,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 20.0,
+      "pay_min": 30.0,
+      "pay_max": 30.0,
       "pay_unit": "hour",
       "location_raw": "On-site, San Francisco",
       "referral_url": "https://jobs.micro1.ai/post/90be13ee-3d18-4eb5-a5ce-87705f4419a3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -4417,12 +4439,12 @@
         "Quick to learn basic hardware",
         "Clear communication"
       ],
-      "hourly_min": 10,
+      "hourly_min": 30,
       "hourly_max": 30,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 10.0,
+      "pay_min": 30.0,
       "pay_max": 30.0,
       "pay_unit": "hour",
       "location_raw": "On-site, San Francisco",
@@ -5008,13 +5030,13 @@
         "video recording",
         "attention to detail"
       ],
-      "hourly_min": 20,
-      "hourly_max": 20,
+      "hourly_min": 10,
+      "hourly_max": 15,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 20.0,
+      "pay_min": 10.0,
+      "pay_max": 15.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0f2c4f59-00c6-4296-a9dc-fb7b93efd31b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -5030,12 +5052,12 @@
         "Video Upload",
         "Equipment Handling"
       ],
-      "hourly_min": 20,
+      "hourly_min": 15,
       "hourly_max": 20,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 20.0,
+      "pay_min": 15.0,
       "pay_max": 20.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
@@ -5074,13 +5096,13 @@
         "attention to detail",
         "camera setup"
       ],
-      "hourly_min": 20,
-      "hourly_max": 20,
+      "hourly_min": 10,
+      "hourly_max": 15,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 20.0,
+      "pay_min": 10.0,
+      "pay_max": 15.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -5344,13 +5366,13 @@
         "linguistic annotation",
         "audio playback tools"
       ],
-      "hourly_min": 10,
-      "hourly_max": 35,
+      "hourly_min": 20,
+      "hourly_max": 30,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 35.0,
+      "pay_min": 20.0,
+      "pay_max": 30.0,
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/eb959833-f2b5-4401-95e0-cb698f0f199f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
@@ -5767,16 +5789,16 @@
         "Sales Operations & Pipeline Management",
         "Forecasting & Data Modeling"
       ],
-      "hourly_min": null,
-      "hourly_max": null,
+      "hourly_min": 7,
+      "hourly_max": 8,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": {
-        "max": 140000,
-        "min": 100000
+        "max": 180000,
+        "min": 140000
       },
-      "pay_min": 100000.0,
-      "pay_max": 140000.0,
+      "pay_min": 140000.0,
+      "pay_max": 180000.0,
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2752b340-47ec-4cfa-8197-999460c07a6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
