@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-10-06T20:30:07Z",
-  "count": 290,
+  "updated_at": "2026-10-07T00:30:05Z",
+  "count": 292,
   "jobs": [
+    {
+      "job_id": "a8f35a98-fde1-4a09-97dd-4a1d0dbcefbc",
+      "title": "Strategic Project Lead, Robotics",
+      "domain_slug": "other",
+      "date_posted": "2026-10-06 21:51:17",
+      "skills": [
+        "Data Pipeline Ownership",
+        "FPS",
+        "Hardware Systems",
+        "Tooling & Automation",
+        "Client Delivery"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 500000,
+        "min": 300000
+      },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a8f35a98-fde1-4a09-97dd-4a1d0dbcefbc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0c0c4da1-6f51-46c2-91f4-13373c7284f7",
+      "title": "Graphic Designer ",
+      "domain_slug": "data-analysis",
+      "date_posted": "2026-10-06 21:49:17",
+      "skills": [
+        "graphic design"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 105,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 105.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0c0c4da1-6f51-46c2-91f4-13373c7284f7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "0174b525-afc3-42a5-9b5f-a0b9d2791762",
       "title": "Equity Research Analyst / Associate",
