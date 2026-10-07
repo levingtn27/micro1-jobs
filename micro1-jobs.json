@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-10-07T17:58:23Z",
-  "count": 297,
+  "updated_at": "2026-10-07T20:30:07Z",
+  "count": 299,
   "jobs": [
+    {
+      "job_id": "404112c9-2082-4e4e-b9f1-a04b8a58a317",
+      "title": "Equity/Investment Research Analyst",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-07 20:04:46",
+      "skills": [
+        "equity research",
+        "financial modeling",
+        "earnings analysis",
+        "peer benchmarking",
+        "sector expertise",
+        "investment thesis development",
+        "written communication",
+        "verbal communication",
+        "data analysis",
+        "valuation analysis"
+      ],
+      "hourly_min": 175,
+      "hourly_max": 300,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 175.0,
+      "pay_max": 300.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/404112c9-2082-4e4e-b9f1-a04b8a58a317?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "65311636-4135-402d-8c84-cee8b2dcefdc",
+      "title": "Hospitalist Physician",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-07 18:52:14",
+      "skills": [
+        "FHIR Records",
+        "History of Present Illness",
+        "Past Medical History",
+        "Rubric",
+        "Inpatient/Hospitalist experience",
+        "Quality Assurance"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/65311636-4135-402d-8c84-cee8b2dcefdc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "3ca164ec-a540-4f18-b298-09c54c377eb2",
       "title": "Imagery Analyst - AI/ML Training Data",
@@ -23,6 +75,30 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US-based.",
       "referral_url": "https://jobs.micro1.ai/post/3ca164ec-a540-4f18-b298-09c54c377eb2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0c4c3fc4-e5e3-4d70-9436-4e2c873091a1",
+      "title": "QA Engineer – 2D & Creative Applications",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-07 15:26:40",
+      "skills": [
+        "Quality Assurance (QA)",
+        "Software testing",
+        "2D Design tools",
+        "Creative applications",
+        "Manual Testing",
+        "Functional testing"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 175,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 175.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0c4c3fc4-e5e3-4d70-9436-4e2c873091a1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "865bada5-304f-4f28-aa8d-5b0331975b16",
@@ -2555,7 +2631,7 @@
     },
     {
       "job_id": "5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
-      "title": "Toast POS Specialist",
+      "title": "Hospitality Worker (Toast POS User)",
       "domain_slug": "business-operations",
       "date_posted": "2026-09-23 08:27:24",
       "skills": [
@@ -6234,30 +6310,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8ff94e02-56a8-4fd2-a626-40e283ad0297?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "ca9b762b-356d-41a7-be51-80b14a5a5dbb",
-      "title": "Hospitalist Physician",
-      "domain_slug": "medicine",
-      "date_posted": "2026-08-18 23:17:11",
-      "skills": [
-        "FHIR Records",
-        "History of Present Illness",
-        "Past Medical History",
-        "Rubric",
-        "Inpatient/Hospitalist experience",
-        "Quality Assurance"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ca9b762b-356d-41a7-be51-80b14a5a5dbb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "2307c83e-6405-4556-bb5b-c8bb7c054f39",
