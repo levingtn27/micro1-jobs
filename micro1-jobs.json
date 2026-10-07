@@ -1,7 +1,101 @@
 {
-  "updated_at": "2026-10-07T12:30:02Z",
-  "count": 292,
+  "updated_at": "2026-10-07T16:30:10Z",
+  "count": 296,
   "jobs": [
+    {
+      "job_id": "865bada5-304f-4f28-aa8d-5b0331975b16",
+      "title": "Medical Coder",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-07 14:44:54",
+      "skills": [
+        "CPT",
+        "ICD-10",
+        "AAPC Certification",
+        "Outpatient Coding",
+        "HCPCS"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 32,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 32.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/865bada5-304f-4f28-aa8d-5b0331975b16?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "31dc936e-0f29-441f-baf9-91c2ff9cc7d4",
+      "title": "Senior Mobile Developer",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-07 14:09:41",
+      "skills": [
+        "Kotlin",
+        "Swift",
+        "Mobile"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/31dc936e-0f29-441f-baf9-91c2ff9cc7d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "15258a67-70c6-418b-aabc-af3bb643a336",
+      "title": "Paid Photo Contributor Opportunity (Alaska-based)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-07 14:05:59",
+      "skills": [
+        "digital photography",
+        "video recording",
+        "attention to detail",
+        "following instructions",
+        "independent work",
+        "image and video quality assessment",
+        "issue reporting"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/15258a67-70c6-418b-aabc-af3bb643a336?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6fb2682b-0443-47ad-a9e4-dc56e26d053b",
+      "title": "Paid Photo Contributor Opportunity (Hawaii-based)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-07 14:04:56",
+      "skills": [
+        "digital photography",
+        "video recording",
+        "attention to detail",
+        "following instructions",
+        "independent work",
+        "image and video quality assessment",
+        "issue reporting"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6fb2682b-0443-47ad-a9e4-dc56e26d053b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "a8f35a98-fde1-4a09-97dd-4a1d0dbcefbc",
       "title": "Strategic Project Lead, Robotics",
@@ -46,6 +140,29 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0c0c4da1-6f51-46c2-91f4-13373c7284f7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "422d20e5-6f6e-4644-9a9b-53b32b3c1a50",
+      "title": "Medical Doctor - Physician Expert ",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-06 21:00:20",
+      "skills": [
+        "Diagnostic Analysis",
+        "Medicine",
+        "Physiology",
+        "Healthcare Protocols",
+        "Clinical Terminology"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Remote, US only",
+      "referral_url": "https://jobs.micro1.ai/post/422d20e5-6f6e-4644-9a9b-53b32b3c1a50?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0174b525-afc3-42a5-9b5f-a0b9d2791762",
@@ -5158,29 +5275,6 @@
       "pay_unit": "year",
       "location_raw": "Remote (opportunity to work from SF office)",
       "referral_url": "https://jobs.micro1.ai/post/c23e27f9-f0a5-4165-9f1c-255f78da2a79?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a051bb56-cde2-4f5c-bbbe-a7d52e7506db",
-      "title": "Naval Subject Matter Expert (Cleared)",
-      "domain_slug": "other",
-      "date_posted": "2026-08-28 14:43:44",
-      "skills": [
-        "Naval domain depth",
-        "Classified-environment fluency",
-        "Stakeholder navigation",
-        "Analytical judgment",
-        "Briefing to leadership"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "on-site, Arlington, VA or DC-area, US.",
-      "referral_url": "https://jobs.micro1.ai/post/a051bb56-cde2-4f5c-bbbe-a7d52e7506db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "9c3be41a-3d6d-4a1e-a917-5234b2b19c14",
