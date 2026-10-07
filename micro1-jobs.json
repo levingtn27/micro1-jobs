@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T04:30:05Z",
-  "count": 294,
+  "updated_at": "2026-10-07T08:30:02Z",
+  "count": 292,
   "jobs": [
     {
       "job_id": "a8f35a98-fde1-4a09-97dd-4a1d0dbcefbc",
@@ -1837,64 +1837,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote (US-based preferred)",
       "referral_url": "https://jobs.micro1.ai/post/68ee381e-ee71-4eca-827c-46797703bfcf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "38317a0e-46c4-4872-a65e-bea0525c8e6a",
-      "title": "Bilingual Gujarati Psychologist (PhD)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-29 11:47:12",
-      "skills": [
-        "bilingual communication",
-        "ethical decision-making",
-        "cultural sensitivity",
-        "analytical evaluation",
-        "case study development",
-        "written and verbal communication",
-        "interdisciplinary collaboration",
-        "psychological assessment",
-        "documentation",
-        "Psychologist",
-        "Gujarati"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/38317a0e-46c4-4872-a65e-bea0525c8e6a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "48c72cf0-d9a7-4bb2-abd2-33d18dd05b13",
-      "title": "Bilingual Gujarati Psychiatrist",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-29 11:40:34",
-      "skills": [
-        "bilingual communication",
-        "ethical decision-making",
-        "cultural sensitivity",
-        "analytical evaluation",
-        "case study development",
-        "written and verbal communication",
-        "interdisciplinary collaboration",
-        "psychological assessment",
-        "documentation",
-        "Psychiatry",
-        "Gujarati"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/48c72cf0-d9a7-4bb2-abd2-33d18dd05b13?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "1e1e771b-bfaf-479a-8c5d-83637c346603",
