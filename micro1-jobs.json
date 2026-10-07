@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T00:30:05Z",
-  "count": 292,
+  "updated_at": "2026-10-07T04:30:05Z",
+  "count": 294,
   "jobs": [
     {
       "job_id": "a8f35a98-fde1-4a09-97dd-4a1d0dbcefbc",
@@ -3075,6 +3075,48 @@
       "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/d5484f78-1277-4450-9823-1ac84d8cc776?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "772b9251-fab7-4758-b4cd-f681b863974f",
+      "title": "Korean Language Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-09-19 05:22:43",
+      "skills": [
+        "Audio Transcription",
+        "Attention to detail",
+        "AI Training"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 36,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 36.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/772b9251-fab7-4758-b4cd-f681b863974f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "b0e8fb90-875e-43dc-b725-15072dee832d",
+      "title": "Japanese Language Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-09-19 05:18:45",
+      "skills": [
+        "apanese Language Fluency",
+        "Audio Transcription",
+        "Attention to detail"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 36,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 36.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b0e8fb90-875e-43dc-b725-15072dee832d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
