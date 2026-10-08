@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-08T16:30:06Z",
-  "count": 305,
+  "updated_at": "2026-10-08T20:30:06Z",
+  "count": 307,
   "jobs": [
+    {
+      "job_id": "40652c88-e755-454c-b41b-d50f8bc34198",
+      "title": "Hospitalist Physician",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-08 15:14:07",
+      "skills": [
+        "FHIR Records",
+        "History of Present Illness",
+        "Past Medical History",
+        "Rubric",
+        "Inpatient/Hospitalist experience",
+        "Quality Assurance"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/40652c88-e755-454c-b41b-d50f8bc34198?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "dd0fdcbd-a2f8-4f74-8a93-8e7cf04f2dbe",
       "title": "Family Medicine Physician (MD)",
@@ -57,6 +81,34 @@
       "pay_unit": "hour",
       "location_raw": "United States, Remote",
       "referral_url": "https://jobs.micro1.ai/post/c25ab1f0-c287-4061-b30b-e13c32372fc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9461932b-7cfe-41c8-b7db-4d0b0d599187",
+      "title": "Inpatient Coder (CCS / CIC)",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-08 09:51:47",
+      "skills": [
+        "icd-10-cm coding",
+        "icd-10-pcs coding",
+        "ms-drg assignment",
+        "clinical documentation review",
+        "ccs or cic certification",
+        "coding guideline interpretation",
+        "medical record annotation",
+        "written and verbal communication",
+        "attention to detail",
+        "data quality assurance"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9461932b-7cfe-41c8-b7db-4d0b0d599187?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f607154-b56d-4894-9415-9cc861f24d17",
