@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T08:30:04Z",
-  "count": 300,
+  "updated_at": "2026-10-08T12:30:05Z",
+  "count": 302,
   "jobs": [
     {
       "job_id": "0f607154-b56d-4894-9415-9cc861f24d17",
@@ -1553,6 +1553,27 @@
       "referral_url": "https://jobs.micro1.ai/post/0401a620-2950-4ec7-b657-a4aba61fb2a6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "c5f03d74-f6cd-47e2-bdad-3d0da851320e",
+      "title": "Sound Designer",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-09-29 17:14:15",
+      "skills": [
+        "Sound Editing",
+        "Attention to Detail",
+        "Audio Restoration"
+      ],
+      "hourly_min": 21,
+      "hourly_max": 35,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 21.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c5f03d74-f6cd-47e2-bdad-3d0da851320e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "0dd2f7fe-0069-40b0-bf55-0a8048206fa7",
       "title": "Photographer",
       "domain_slug": "robotics",
@@ -1759,6 +1780,28 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/03946ab0-118f-4acf-9ff5-05fc752ec0af?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2d965a0c-d9e1-41eb-99f5-c65ca7b5d4f2",
+      "title": "Filmmaker",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-09-29 16:28:48",
+      "skills": [
+        "Attention to Detail",
+        "Video Annotation",
+        "Video Editing",
+        "Cinematography"
+      ],
+      "hourly_min": 21,
+      "hourly_max": 35,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 21.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2d965a0c-d9e1-41eb-99f5-c65ca7b5d4f2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "386270dc-1c21-4207-96f5-4b9302ebcda4",
