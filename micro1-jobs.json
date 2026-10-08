@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-10-08T00:30:04Z",
+  "updated_at": "2026-10-08T04:30:04Z",
   "count": 299,
   "jobs": [
+    {
+      "job_id": "0f607154-b56d-4894-9415-9cc861f24d17",
+      "title": "Senior Data Analyst",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-08 00:48:02",
+      "skills": [
+        "Personal Identifiable Information",
+        "Quality Assurance",
+        "Attention to Detail",
+        "Data Analysis",
+        "Business Data Sets"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US Based only",
+      "referral_url": "https://jobs.micro1.ai/post/0f607154-b56d-4894-9415-9cc861f24d17?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "479e1aa8-2d92-42b7-a77c-aa83369cece8",
       "title": "Recruitment Marketing Specialist",
@@ -7067,29 +7090,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d866e9e9-6de8-41f1-8d33-77616b95b099?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "12c44b79-e4a2-40af-af84-f633c4723452",
-      "title": "Document Reviewer",
-      "domain_slug": "generalist",
-      "date_posted": "2026-08-13 14:24:04",
-      "skills": [
-        "Personal Identifiable Information",
-        "Document Review",
-        "Attention to Detail",
-        "Spot-Checks",
-        "Identify Issues"
-      ],
-      "hourly_min": 31,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 31.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/12c44b79-e4a2-40af-af84-f633c4723452?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "ba976b4a-3b64-4797-adbf-a33770f3a44f",
