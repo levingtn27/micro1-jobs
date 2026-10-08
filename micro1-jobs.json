@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-08T12:30:05Z",
-  "count": 302,
+  "updated_at": "2026-10-08T16:30:06Z",
+  "count": 305,
   "jobs": [
+    {
+      "job_id": "dd0fdcbd-a2f8-4f74-8a93-8e7cf04f2dbe",
+      "title": "Family Medicine Physician (MD)",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-08 14:38:28",
+      "skills": [
+        "clinical annotation",
+        "medical record review",
+        "evidence-based medicine",
+        "clinical judgment",
+        "written communication",
+        "verbal communication",
+        "attention to detail",
+        "collaboration",
+        "clinical data validation",
+        "primary care expertise"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/dd0fdcbd-a2f8-4f74-8a93-8e7cf04f2dbe?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c25ab1f0-c287-4061-b30b-e13c32372fc2",
+      "title": "Registered Nurse",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-08 14:22:41",
+      "skills": [
+        "inpatient clinical expertise",
+        "clinical documentation review",
+        "annotation of medical records",
+        "nursing judgment",
+        "evaluation of ai-generated clinical outputs",
+        "attention to detail",
+        "written and verbal communication",
+        "feedback provision",
+        "knowledge of inpatient workflows",
+        "collaboration with stakeholders"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c25ab1f0-c287-4061-b30b-e13c32372fc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "0f607154-b56d-4894-9415-9cc861f24d17",
       "title": "Senior Data Analyst",
@@ -237,6 +293,29 @@
       "pay_unit": null,
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6fb2682b-0443-47ad-a9e4-dc56e26d053b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "190225df-d67a-402d-bd7f-d9c7c40bb693",
+      "title": "Game Developer",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-07 13:55:08",
+      "skills": [
+        "Gameplay implementation",
+        "Test design",
+        "Game Engine expertise",
+        "Engine fluency",
+        "Game Development expertise"
+      ],
+      "hourly_min": 25,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/190225df-d67a-402d-bd7f-d9c7c40bb693?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "a8f35a98-fde1-4a09-97dd-4a1d0dbcefbc",
