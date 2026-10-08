@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-10-07T20:30:07Z",
+  "updated_at": "2026-10-08T00:30:04Z",
   "count": 299,
   "jobs": [
+    {
+      "job_id": "479e1aa8-2d92-42b7-a77c-aa83369cece8",
+      "title": "Recruitment Marketing Specialist",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-07 20:47:52",
+      "skills": [
+        "Recruitment marketing",
+        "Project Management",
+        "Campaing performance monitoring"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/479e1aa8-2d92-42b7-a77c-aa83369cece8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "404112c9-2082-4e4e-b9f1-a04b8a58a317",
       "title": "Equity/Investment Research Analyst",
@@ -3212,28 +3233,6 @@
       "referral_url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "d5484f78-1277-4450-9823-1ac84d8cc776",
-      "title": "Associate Recruiter",
-      "domain_slug": "other",
-      "date_posted": "2026-09-19 18:50:35",
-      "skills": [
-        "Sourcing",
-        "Recruitment pipeline",
-        "Remote work self-management",
-        "Stakeholder communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 30.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US Only)",
-      "referral_url": "https://jobs.micro1.ai/post/d5484f78-1277-4450-9823-1ac84d8cc776?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "772b9251-fab7-4758-b4cd-f681b863974f",
       "title": "Korean Language Expert",
       "domain_slug": "language-audio",
@@ -4207,7 +4206,7 @@
     },
     {
       "job_id": "11b7f45c-2cff-4a3a-b64e-cf691babfe51",
-      "title": "Child & Youth Abuse Trauma Specialist",
+      "title": "Trauma Psychologist/Psychiatrist",
       "domain_slug": "humanities",
       "date_posted": "2026-09-13 09:31:26",
       "skills": [
