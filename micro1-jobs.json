@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-10-09T16:30:05Z",
-  "count": 306,
+  "updated_at": "2026-10-09T20:30:06Z",
+  "count": 308,
   "jobs": [
+    {
+      "job_id": "ed3486a0-a402-431f-9a08-32077352c3f8",
+      "title": "Human Data Manager, New Grad",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-09 19:18:56",
+      "skills": [
+        "Project Management",
+        "Data Operations",
+        "Quality Analyst",
+        "Human Data"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ed3486a0-a402-431f-9a08-32077352c3f8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "cf5d4a0d-4d70-4613-8123-c7d7919ea7a4",
+      "title": "Human Data Manager",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-09 19:18:27",
+      "skills": [
+        "Project Management",
+        "Data Operations",
+        "Quality Analysis",
+        "Human Data"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": "3000.00",
+      "monthly_max": "5000.00",
+      "yearly": null,
+      "pay_min": 3000.0,
+      "pay_max": 5000.0,
+      "pay_unit": "month",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/cf5d4a0d-4d70-4613-8123-c7d7919ea7a4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "40652c88-e755-454c-b41b-d50f8bc34198",
       "title": "Hospitalist Physician",
