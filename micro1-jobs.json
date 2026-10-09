@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T08:30:02Z",
+  "updated_at": "2026-10-09T12:30:04Z",
   "count": 307,
   "jobs": [
     {
@@ -1512,15 +1512,15 @@
       "referral_url": "https://jobs.micro1.ai/post/0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "d54c73d6-e3bc-4183-98ae-1f1a8197721d",
-      "title": "Pharmaceutical Expert",
+      "job_id": "9ebedb7a-9911-4b0c-b771-13f3325bdc7d",
+      "title": "Primary Care Physician",
       "domain_slug": "medicine",
-      "date_posted": "2026-09-30 06:58:39",
+      "date_posted": "2026-09-30 06:55:40",
       "skills": [
-        "Pharmaceutical Sciences",
-        "Clinical Pharmacology",
-        "Drug Safety & Evaluation",
-        "Clinical Research"
+        "Primary Care",
+        "Clinical Medicine",
+        "Patient Assessment",
+        "Diagnosis & Treatment Planning"
       ],
       "hourly_min": 80,
       "hourly_max": 285,
@@ -1530,8 +1530,8 @@
       "pay_min": 80.0,
       "pay_max": 285.0,
       "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d54c73d6-e3bc-4183-98ae-1f1a8197721d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+      "location_raw": "United state",
+      "referral_url": "https://jobs.micro1.ai/post/9ebedb7a-9911-4b0c-b771-13f3325bdc7d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
