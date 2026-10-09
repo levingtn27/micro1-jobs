@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T12:30:04Z",
-  "count": 307,
+  "updated_at": "2026-10-09T16:30:05Z",
+  "count": 306,
   "jobs": [
     {
       "job_id": "40652c88-e755-454c-b41b-d50f8bc34198",
@@ -83,6 +83,37 @@
       "referral_url": "https://jobs.micro1.ai/post/c25ab1f0-c287-4061-b30b-e13c32372fc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "c00af525-54b0-4e97-ad41-b6339638d1e9",
+      "title": "Video Data Annotator",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-08 14:15:40",
+      "skills": [
+        "video annotation",
+        "audio annotation",
+        "data labeling",
+        "content moderation",
+        "attention to detail",
+        "english communication",
+        "written feedback",
+        "guideline-based evaluation",
+        "independent work",
+        "adaptability",
+        "process improvement",
+        "data confidentiality",
+        "remote collaboration"
+      ],
+      "hourly_min": 8,
+      "hourly_max": 10,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 8.0,
+      "pay_max": 10.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c00af525-54b0-4e97-ad41-b6339638d1e9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "9461932b-7cfe-41c8-b7db-4d0b0d599187",
       "title": "Inpatient Coder (CCS / CIC)",
       "domain_slug": "medicine",
@@ -109,6 +140,29 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9461932b-7cfe-41c8-b7db-4d0b0d599187?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0c6952e3-b783-407c-a451-b92996992038",
+      "title": "Litigation Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-10-08 07:09:52",
+      "skills": [
+        "Litigation Strategy",
+        "Legal Research",
+        "Legal",
+        "Case Management",
+        "Case Analysis"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0c6952e3-b783-407c-a451-b92996992038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f607154-b56d-4894-9415-9cc861f24d17",
@@ -1493,25 +1547,6 @@
       "referral_url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0",
-      "title": "Financial Market Professional | Advanced Bloomberg Analytics",
-      "domain_slug": "finance",
-      "date_posted": "2026-09-30 09:50:34",
-      "skills": [
-        "Bloomberg"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 170.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0bccba7d-b0cd-4be5-96b2-b0ae655c0ed0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "9ebedb7a-9911-4b0c-b771-13f3325bdc7d",
       "title": "Primary Care Physician",
       "domain_slug": "medicine",
@@ -2846,47 +2881,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote (US Based)",
       "referral_url": "https://jobs.micro1.ai/post/5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
-      "title": "Hospitality Worker (Toast POS User)",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-23 08:27:24",
-      "skills": [
-        "Toast POS",
-        "Restaurant Operations",
-        "Point of Sale (POS) Systems",
-        "Order & Payment Management"
-      ],
-      "hourly_min": 28,
-      "hourly_max": 92,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 28.0,
-      "pay_max": 92.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5fae0ae4-40c9-4fcb-9923-1d1e38e77c04?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7bc65540-718f-4f23-8f27-69a12aa15d4b",
-      "title": "Security Onion Specialist",
-      "domain_slug": "cybersecurity",
-      "date_posted": "2026-09-23 06:44:26",
-      "skills": [
-        "Security Onion"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 175.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/7bc65540-718f-4f23-8f27-69a12aa15d4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
