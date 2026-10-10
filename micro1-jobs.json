@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T08:30:04Z",
-  "count": 314,
+  "updated_at": "2026-10-10T12:30:03Z",
+  "count": 313,
   "jobs": [
     {
       "job_id": "ec0bccad-838c-44ff-8945-0a6d409453df",
@@ -115,34 +115,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c8cdec0c-76b7-40ae-9764-fb170200408a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2e9fd173-2f0b-4702-a828-1e69f2047af0",
-      "title": "AI Training Expert ",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-09 23:03:45",
-      "skills": [
-        "industry-standard software proficiency",
-        "workflow evaluation",
-        "detailed documentation",
-        "written communication",
-        "verbal communication",
-        "usability assessment",
-        "report writing",
-        "process improvement",
-        "remote work autonomy",
-        "software feedback"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 175.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2e9fd173-2f0b-4702-a828-1e69f2047af0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3fee8e97-5dce-42bd-a8a1-68133f04449a",
