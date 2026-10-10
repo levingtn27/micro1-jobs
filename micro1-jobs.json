@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-10T04:30:09Z",
+  "updated_at": "2026-10-10T08:30:04Z",
   "count": 314,
   "jobs": [
+    {
+      "job_id": "ec0bccad-838c-44ff-8945-0a6d409453df",
+      "title": "Forward Deployed Engineer, U.S. Government",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-10 06:03:30",
+      "skills": [
+        "Python",
+        "LLM Systems",
+        "Data Pipelines",
+        "Distributed Systems"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": "5000.00",
+      "monthly_max": "7000.00",
+      "yearly": {
+        "max": 500000,
+        "min": 300000
+      },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote (requires relocating to DC area)",
+      "referral_url": "https://jobs.micro1.ai/post/ec0bccad-838c-44ff-8945-0a6d409453df?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "90f04fad-832c-44b2-b942-311422a5841f",
       "title": "Internal Medicine Hospitalist",
@@ -7136,31 +7161,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/fa3908ed-a728-492b-a597-83c0adaa5026?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9002a281-84ef-40ed-8ee3-be985a754ced",
-      "title": "Forward Deployed Engineer, U.S. Government",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-08-18 10:30:54",
-      "skills": [
-        "Python",
-        "LLM Systems",
-        "Data Pipelines",
-        "Distributed Systems"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 60,
-      "monthly_min": "5000.00",
-      "monthly_max": "7000.00",
-      "yearly": {
-        "max": 500000,
-        "min": 300000
-      },
-      "pay_min": 300000.0,
-      "pay_max": 500000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote (requires relocating to DC area)",
-      "referral_url": "https://jobs.micro1.ai/post/9002a281-84ef-40ed-8ee3-be985a754ced?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "ab3d9699-ffc4-436c-8b27-cdc2b9143323",
