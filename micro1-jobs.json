@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T20:30:02Z",
-  "count": 313,
+  "updated_at": "2026-10-11T00:30:03Z",
+  "count": 312,
   "jobs": [
     {
       "job_id": "ec0bccad-838c-44ff-8945-0a6d409453df",
@@ -7600,29 +7600,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d866e9e9-6de8-41f1-8d33-77616b95b099?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "ba976b4a-3b64-4797-adbf-a33770f3a44f",
-      "title": "Linguistics Specialists",
-      "domain_slug": "other",
-      "date_posted": "2026-08-12 16:09:24",
-      "skills": [
-        "linguistics analysis",
-        "grammar and usage evaluation",
-        "written communication",
-        "attention to detail",
-        "guideline-based evaluation"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US and Western Europe)",
-      "referral_url": "https://jobs.micro1.ai/post/ba976b4a-3b64-4797-adbf-a33770f3a44f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "562b711a-a95e-428f-97d4-d679529893d0",
