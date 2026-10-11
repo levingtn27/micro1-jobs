@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T16:30:03Z",
-  "count": 312,
+  "updated_at": "2026-10-11T20:30:02Z",
+  "count": 311,
   "jobs": [
     {
       "job_id": "ec0bccad-838c-44ff-8945-0a6d409453df",
@@ -4791,34 +4791,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d2321880-8435-45d5-98c6-c8340aae8c9f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "edba074b-85ef-420e-a2e9-48ed444c4839",
-      "title": "Product Manager/Product Owner",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-11 20:47:23",
-      "skills": [
-        "Product Management",
-        "Product Ownership",
-        "Specification Writing",
-        "Content Evaluation",
-        "Written Communication",
-        "Attention to Detail",
-        "Critical Analysis",
-        "Stakeholder Communication",
-        "Independent Work",
-        "Virtual Collaboration"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/edba074b-85ef-420e-a2e9-48ed444c4839?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "b162a0c4-a88f-462f-ad8d-ecfa32292586",
