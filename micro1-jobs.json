@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T20:30:02Z",
-  "count": 311,
+  "updated_at": "2026-10-12T00:30:02Z",
+  "count": 310,
   "jobs": [
     {
       "job_id": "ec0bccad-838c-44ff-8945-0a6d409453df",
@@ -7550,28 +7550,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5c02f61b-b2b2-46a6-a058-26a1f6e64cf7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d866e9e9-6de8-41f1-8d33-77616b95b099",
-      "title": "Contract Attorney",
-      "domain_slug": "law",
-      "date_posted": "2026-08-13 19:07:50",
-      "skills": [
-        "Contract Drafting",
-        "Redlining",
-        "Contract Negotiation",
-        "Contract Review"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d866e9e9-6de8-41f1-8d33-77616b95b099?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "562b711a-a95e-428f-97d4-d679529893d0",
