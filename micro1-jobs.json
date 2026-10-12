@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-12T08:30:03Z",
-  "count": 310,
+  "updated_at": "2026-10-12T12:30:04Z",
+  "count": 305,
   "jobs": [
+    {
+      "job_id": "8f201c75-ddff-42d1-93a6-c88bb330b7cf",
+      "title": "Data Privacy Analyst",
+      "domain_slug": "other",
+      "date_posted": "2026-10-12 07:13:16",
+      "skills": [
+        "PII",
+        "Attention to Detail",
+        "Document Review",
+        "Spot Checks",
+        "Data Privacy",
+        "eDiscovery"
+      ],
+      "hourly_min": 31,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 31.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/8f201c75-ddff-42d1-93a6-c88bb330b7cf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "ec0bccad-838c-44ff-8945-0a6d409453df",
       "title": "Forward Deployed Engineer, U.S. Government",
@@ -1211,39 +1235,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
-      "title": "Simulation Expert — Real-to-Sim 3D Environments & Assets",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-10-03 03:46:42",
-      "skills": [
-        "isaac sim",
-        "gazebo",
-        "mujoco",
-        "unity",
-        "unreal",
-        "pybullet",
-        "3d modeling",
-        "cad",
-        "environment design",
-        "physics simulation",
-        "rigid body dynamics",
-        "material properties",
-        "simulation troubleshooting",
-        "collaboration with scientists",
-        "attention to detail"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "31082a46-eab6-4178-b046-b74021c3e881",
@@ -3259,7 +3250,7 @@
     },
     {
       "job_id": "b2aea41e-8dff-41f5-9b92-b199dc0b1bb9",
-      "title": "Member of Technical Staff, Legal Research",
+      "title": "Domain Researcher, Legal",
       "domain_slug": "law",
       "date_posted": "2026-09-22 23:21:14",
       "skills": [
@@ -3284,7 +3275,7 @@
     },
     {
       "job_id": "d83eb4ea-612b-4232-a83d-896364625827",
-      "title": "Member of Technical Staff, Medical Research",
+      "title": "Domain Researcher, Medical",
       "domain_slug": "medicine",
       "date_posted": "2026-09-22 23:20:04",
       "skills": [
@@ -3427,79 +3418,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/15fe5ebb-b057-4a33-b0c3-14510fe1065e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0187300a-eb10-491c-9bf8-7a260b3578db",
-      "title": "Robot Whisperer — Skills & Data",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-22 10:16:44",
-      "skills": [
-        "Fine motor skills / dexterity",
-        "Ability to follow detailed instructions exactly",
-        "Consistency under repetition",
-        "Attention to detail",
-        "Clear communication"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 20,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 20.0,
-      "pay_unit": "hour",
-      "location_raw": "Los Angeles, Cali",
-      "referral_url": "https://jobs.micro1.ai/post/0187300a-eb10-491c-9bf8-7a260b3578db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a5c83e89-00e6-4b7d-8f9b-5304af76cbf1",
-      "title": "Break-It-To-Build-It — Hardware Tester",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-22 10:11:31",
-      "skills": [
-        "Basic electrical/mechanical knowledge",
-        "clear communication",
-        "attention to detail",
-        "physical stamina",
-        "Reliability & follow-through",
-        "Follows instructions exactly"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 20,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 20.0,
-      "pay_unit": "hour",
-      "location_raw": "Los Angeles, Cali",
-      "referral_url": "https://jobs.micro1.ai/post/a5c83e89-00e6-4b7d-8f9b-5304af76cbf1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "02deec8c-9f85-4d9d-a1ae-c61a3a1bedfc",
-      "title": "Robot Wrangler - Operations",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-22 09:50:23",
-      "skills": [
-        "fine motor control",
-        "attention to detail",
-        "ability to follow instructions",
-        "repetitive tasks",
-        "clear communication",
-        "hands-on work",
-        "physical stamina",
-        "Basic mechanical aptitude"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 20,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 20.0,
-      "pay_unit": "hour",
-      "location_raw": "Los Angeles, Cali",
-      "referral_url": "https://jobs.micro1.ai/post/02deec8c-9f85-4d9d-a1ae-c61a3a1bedfc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d02122f3-eaec-42b2-ad3f-edc218b94294",
@@ -4713,33 +4631,6 @@
       "referral_url": "https://jobs.micro1.ai/post/8811c1b3-efa7-4a5e-b332-50743f90a05a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "90be13ee-3d18-4eb5-a5ce-87705f4419a3",
-      "title": "Robotics Trainer - Internship",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-14 11:24:04",
-      "skills": [
-        "fine motor control",
-        "attention to detail",
-        "ability to follow instructions exactly",
-        "comfort with repetitive tasks",
-        "hands-on work",
-        "Physical stamina",
-        "reliabilitty and punctuality",
-        "quick to learn basic software",
-        "clear communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 30.0,
-      "pay_unit": "hour",
-      "location_raw": "On-site, San Francisco",
-      "referral_url": "https://jobs.micro1.ai/post/90be13ee-3d18-4eb5-a5ce-87705f4419a3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "11b7f45c-2cff-4a3a-b64e-cf691babfe51",
       "title": "Trauma Psychologist/Psychiatrist",
       "domain_slug": "humanities",
@@ -4769,7 +4660,7 @@
     },
     {
       "job_id": "d2321880-8435-45d5-98c6-c8340aae8c9f",
-      "title": "Member of Technical Staff, Finance Research",
+      "title": "Domain Researcher, Finance",
       "domain_slug": "finance",
       "date_posted": "2026-09-11 20:50:33",
       "skills": [
@@ -5027,33 +4918,6 @@
       "pay_unit": "hour",
       "location_raw": "Northern America, Latin America, Europe, UK, Oceania.",
       "referral_url": "https://jobs.micro1.ai/post/21b6f2ad-63a8-47d4-9fd7-31667bf3dbb1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "1d56a6b2-5545-4029-998a-cb798d61eb18",
-      "title": "Robot Training Operator ",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-10 12:24:14",
-      "skills": [
-        "fine motor control",
-        "Attention to detail",
-        "Ability to follow instructions exactly",
-        "Comfort with repetitive",
-        "hands-on work",
-        "Physical stamina",
-        "Reliability and punctuality",
-        "Quick to learn basic hardware",
-        "Clear communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 30.0,
-      "pay_unit": "hour",
-      "location_raw": "On-site, San Francisco",
-      "referral_url": "https://jobs.micro1.ai/post/1d56a6b2-5545-4029-998a-cb798d61eb18?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "912dac5d-2d0b-4c32-a67b-89404bcf195b",
