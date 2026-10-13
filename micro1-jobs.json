@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-10-12T20:30:33Z",
-  "count": 310,
+  "updated_at": "2026-10-13T00:30:07Z",
+  "count": 309,
   "jobs": [
+    {
+      "job_id": "64592ac1-f184-4c0f-9e5d-796cccdd499b",
+      "title": "Data Partnerships Manager",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-13 00:14:55",
+      "skills": [
+        "Negotiation",
+        "Prospecting",
+        "Closing",
+        "Partnerships"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 30,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 250000,
+        "min": 160000
+      },
+      "pay_min": 160000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/64592ac1-f184-4c0f-9e5d-796cccdd499b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f397a599-7705-480b-a90a-f40e009b8c90",
+      "title": "Enterprise Client Partner, U.S. Government",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-12 23:49:04",
+      "skills": [
+        "Client Acquisition",
+        "Outbound Prospecting",
+        "Enterprise Parnerships",
+        "Enterprise AI"
+      ],
+      "hourly_min": 2,
+      "hourly_max": 3,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 400000,
+        "min": 220000
+      },
+      "pay_min": 220000.0,
+      "pay_max": 400000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote (DC area)",
+      "referral_url": "https://jobs.micro1.ai/post/f397a599-7705-480b-a90a-f40e009b8c90?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0406acdc-9e38-4f22-a8b5-9e9e228c9bb1",
+      "title": "Competitive Data Scientist",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-12 22:27:15",
+      "skills": [
+        "ML Engineering",
+        "Data Science",
+        "Mathematics",
+        "Coding"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/0406acdc-9e38-4f22-a8b5-9e9e228c9bb1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "29ba0d51-2d9f-412e-ad19-5f28a76ca96e",
       "title": "Junior Software Engineer",
@@ -7185,80 +7257,6 @@
       "referral_url": "https://jobs.micro1.ai/post/45a1141b-b504-4446-8e1f-e4bfefa07d4a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "6ec0826e-f15e-413c-a41a-8dacd7fb0d85",
-      "title": "U.S based Accountant (CPA/CA)",
-      "domain_slug": "finance",
-      "date_posted": "2026-08-14 09:56:15",
-      "skills": [
-        "us tax law interpretation",
-        "irs regulation analysis",
-        "legal document review",
-        "structured written communication",
-        "attention to detail",
-        "analytical reasoning",
-        "digital review platforms",
-        "feedback delivery",
-        "ai-powered tax solution familiarity",
-        "technology-driven content validation"
-      ],
-      "hourly_min": 65,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 65.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6ec0826e-f15e-413c-a41a-8dacd7fb0d85?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5afb4a1f-dc54-4459-b365-75b3b239ee19",
-      "title": "Motion Graphics Artist",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-08-14 03:37:15",
-      "skills": [
-        "video annotation",
-        "attention to detail",
-        "written communication",
-        "quality assurance",
-        "robotics domain knowledge"
-      ],
-      "hourly_min": 15,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 15.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5afb4a1f-dc54-4459-b365-75b3b239ee19?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "69fef3d7-ebd4-4f86-8aae-74b80c7a9035",
-      "title": "Video Annotation Expert",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-08-14 03:17:25",
-      "skills": [
-        "video annotation",
-        "attention to detail",
-        "written communication",
-        "quality assurance",
-        "robotics domain knowledge"
-      ],
-      "hourly_min": 15,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 15.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/69fef3d7-ebd4-4f86-8aae-74b80c7a9035?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "382cf385-16da-4536-8a32-95947e0197a7",
       "title": "Dutch Bilingual Expert",
       "domain_slug": "language-audio",
@@ -7490,40 +7488,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5c02f61b-b2b2-46a6-a058-26a1f6e64cf7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "562b711a-a95e-428f-97d4-d679529893d0",
-      "title": "Generalist Writer",
-      "domain_slug": "generalist",
-      "date_posted": "2026-08-12 15:35:23",
-      "skills": [
-        "professional writing",
-        "editing",
-        "content review",
-        "attention to detail",
-        "analytical skills",
-        "written communication",
-        "verbal communication",
-        "feedback delivery",
-        "remote work",
-        "independent work",
-        "grammar proficiency",
-        "syntax proficiency",
-        "instruction adherence evaluation",
-        "documentation",
-        "reporting",
-        "time management"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US & Western Europe)",
-      "referral_url": "https://jobs.micro1.ai/post/562b711a-a95e-428f-97d4-d679529893d0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "40ace067-cec8-4998-bb75-067a565c23b3",
