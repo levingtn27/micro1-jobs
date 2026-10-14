@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-10-13T20:30:02Z",
-  "count": 285,
+  "updated_at": "2026-10-14T00:30:05Z",
+  "count": 284,
   "jobs": [
+    {
+      "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
+      "title": "Personal Financial Advisor ",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-14 00:06:54",
+      "skills": [
+        "personal financial planning",
+        "investment strategies",
+        "regulatory compliance",
+        "written and verbal communication",
+        "analytical skills"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "30cdcad1-c75b-412d-94b6-2af95f118549",
       "title": "Recruiter (San Francisco based)",
@@ -4208,6 +4231,29 @@
       "referral_url": "https://jobs.micro1.ai/post/dcd53728-6fe1-4c86-b362-31cdc7428e3a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "831b4af6-d352-4e04-8aeb-c857c1feea98",
+      "title": "Licensed Dietitian",
+      "domain_slug": "medicine",
+      "date_posted": "2026-09-16 04:41:45",
+      "skills": [
+        "Nutrition Counseling",
+        "Dietary Assessment",
+        "Meal Planning",
+        "Clinical Nutrition",
+        "Client Communication"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "United States/Canada",
+      "referral_url": "https://jobs.micro1.ai/post/831b4af6-d352-4e04-8aeb-c857c1feea98?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "4010d2c5-4a3d-41fe-9e33-28bc218626e5",
       "title": "Sr. Full-Stack Software Engineer",
       "domain_slug": "software-engineering",
@@ -5303,34 +5349,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d98ab3b0-dfc2-43d6-986a-e75b0d4c35f9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "52829d52-bcb5-4c84-a2e7-a5b3dc73bf15",
-      "title": "GitHub Contributor",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-07 14:53:18",
-      "skills": [
-        "Python3",
-        "JAVA",
-        "Rust",
-        "Algorithms",
-        "Basics C++",
-        "Typescript",
-        "bug fixing",
-        "feature implementation",
-        "codebase refactoring",
-        "performance optimization"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/52829d52-bcb5-4c84-a2e7-a5b3dc73bf15?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "361f9b97-4179-4631-a026-514efee334bc",
@@ -6987,49 +7005,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/26044f07-dc45-4a01-8a5e-8154914a1267?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a1ecbac3-a024-4732-bce7-7ac2e447571d",
-      "title": "At-Home Video Recorder (LATAM) ",
-      "domain_slug": "robotics",
-      "date_posted": "2026-08-10 12:28:30",
-      "skills": [
-        "Smartphone",
-        "Video Recording",
-        "Attention to detail"
-      ],
-      "hourly_min": 6,
-      "hourly_max": 6,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 6.0,
-      "pay_max": 6.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
-      "referral_url": "https://jobs.micro1.ai/post/a1ecbac3-a024-4732-bce7-7ac2e447571d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "de83ff2f-bdd2-4862-aff9-7158cd327038",
-      "title": "At-Home Video Recorder (U.S)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-08-10 11:30:05",
-      "skills": [
-        "Smartphone",
-        "Video Recording",
-        "Attention to detail",
-        "Household Task"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 15.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
-      "referral_url": "https://jobs.micro1.ai/post/de83ff2f-bdd2-4862-aff9-7158cd327038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
