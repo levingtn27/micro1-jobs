@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-10-14T12:30:02Z",
-  "count": 292,
+  "updated_at": "2026-10-14T16:30:06Z",
+  "count": 294,
   "jobs": [
+    {
+      "job_id": "f65069d1-f642-4b92-b8f2-76685acbe473",
+      "title": "Agriculture, Forestry & Environmental Experts",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-14 12:38:31",
+      "skills": [
+        "Agricultural Engineering",
+        "Environmental Conservation"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f65069d1-f642-4b92-b8f2-76685acbe473?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "678001af-5fc0-4173-8320-3b0dc183651d",
+      "title": "Retail Trade & Operations Expert",
+      "domain_slug": "retail-hospitality",
+      "date_posted": "2026-10-14 12:24:41",
+      "skills": [
+        "Retail"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/678001af-5fc0-4173-8320-3b0dc183651d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "f29dc369-f46f-443e-986b-7120eebe9225",
       "title": "Software Engineer (Open Source Contributor)",
