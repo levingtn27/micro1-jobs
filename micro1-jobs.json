@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T04:30:08Z",
-  "count": 288,
+  "updated_at": "2026-10-14T08:30:08Z",
+  "count": 292,
   "jobs": [
     {
       "job_id": "f29dc369-f46f-443e-986b-7120eebe9225",
@@ -7062,6 +7062,100 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/45a1141b-b504-4446-8e1f-e4bfefa07d4a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
+      "title": "IT Manager",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-08-15 07:43:27",
+      "skills": [
+        "IT Strategy",
+        "Systems Architecture",
+        "Team Leadership",
+        "Vendor Management",
+        "Security Compliance"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 75,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 75.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/1a90eb63-30e8-4c77-9996-94dc4b02d909?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "473cffff-4779-4826-840d-f8b6ae4b3c63",
+      "title": "Accountant / Auditor",
+      "domain_slug": "finance",
+      "date_posted": "2026-08-15 07:31:47",
+      "skills": [
+        "Financial Reporting",
+        "GAAP/IFRS",
+        "Audit Procedures",
+        "Excel/Financial Modeling",
+        "Tax Compliance"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/473cffff-4779-4826-840d-f8b6ae4b3c63?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6fc6311d-f159-46ad-90c9-df1c42c9765b",
+      "title": "Lawyer",
+      "domain_slug": "law",
+      "date_posted": "2026-08-15 07:20:14",
+      "skills": [
+        "Contract Review",
+        "Legal Research",
+        "Regulatory Compliance",
+        "Legal Writing"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6fc6311d-f159-46ad-90c9-df1c42c9765b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "92b81bda-6c3f-42c1-9cad-9e3cdb911ad9",
+      "title": "Software Developer",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-08-15 07:04:16",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "JAVA",
+        "Node.js",
+        "Full - Stack",
+        "Code Review",
+        "Technical Documentation",
+        "Software Architecture"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/92b81bda-6c3f-42c1-9cad-9e3cdb911ad9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "51a65c2c-07dd-4307-aba6-f7c4af17311c",
