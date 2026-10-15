@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T16:30:12Z",
+  "updated_at": "2026-10-15T20:30:05Z",
   "count": 301,
   "jobs": [
     {
@@ -824,12 +824,9 @@
       "domain_slug": "other",
       "date_posted": "2026-10-12 15:51:29",
       "skills": [
-        "Mail classes and shipping options",
-        "Postage fees and shipping labels",
-        "Package tracking and missing mail searches",
-        "Change of address and mail forwarding",
-        "International mail and customs forms",
-        "Retail customer service"
+        "Postage",
+        "Shipping",
+        "Customs"
       ],
       "hourly_min": 50,
       "hourly_max": 150,
@@ -870,13 +867,7 @@
       "title": "Usability Tester",
       "domain_slug": "generalist",
       "date_posted": "2026-10-12 15:41:15",
-      "skills": [
-        "Telling us exactly where you got lost or stopped",
-        "Everyday experience with phone or web tasks",
-        "Willingness to explain things in your own words",
-        "Reliable",
-        "on-time communication"
-      ],
+      "skills": [],
       "hourly_min": 50,
       "hourly_max": 150,
       "monthly_min": null,
@@ -893,14 +884,7 @@
       "title": "Spanish-Language Consumer Reviewer",
       "domain_slug": "generalist",
       "date_posted": "2026-10-12 15:32:46",
-      "skills": [
-        "Honest feedback",
-        "Everyday experience with phone or web tasks",
-        "Patience with step-by-step reading and review",
-        "Willingness to explain things in your own words",
-        "Reliable",
-        "on-time communication"
-      ],
+      "skills": [],
       "hourly_min": 50,
       "hourly_max": 150,
       "monthly_min": null,
@@ -917,13 +901,7 @@
       "title": "Consumer Reviewer ",
       "domain_slug": "generalist",
       "date_posted": "2026-10-12 15:25:29",
-      "skills": [
-        "Age 60 or over",
-        "Recent personal experience with Medicare or another government service",
-        "honest",
-        "specific feedback",
-        "Comfortable with basic online tasks"
-      ],
+      "skills": [],
       "hourly_min": 50,
       "hourly_max": 150,
       "monthly_min": null,
@@ -940,14 +918,7 @@
       "title": "211 Specialist",
       "domain_slug": "other",
       "date_posted": "2026-10-12 15:12:14",
-      "skills": [
-        "Information and referral",
-        "Active listening and crisis intervention",
-        "Community resource databases",
-        "Needs assessment",
-        "Public benefits knowledge",
-        "Call center experience"
-      ],
+      "skills": [],
       "hourly_min": 50,
       "hourly_max": 150,
       "monthly_min": null,
@@ -965,13 +936,10 @@
       "domain_slug": "other",
       "date_posted": "2026-10-12 15:05:38",
       "skills": [
-        "Spanish/English bilingual",
-        "Benefits eligibility screening",
         "Medicare",
-        "VA or student aid knowledge",
-        "Interpretation and translation",
-        "Client intake and case management",
-        "Community outreach"
+        "Spanish",
+        "Benefits",
+        "Outreach"
       ],
       "hourly_min": 50,
       "hourly_max": 150,
@@ -990,13 +958,9 @@
       "domain_slug": "other",
       "date_posted": "2026-10-12 14:57:42",
       "skills": [
-        "Visitor information services",
-        "Park regulations",
-        "permits and fees",
-        "Interpretive programs",
-        "Reservations and park passes",
-        "Visitor safety and emergency response",
-        "Public contact"
+        "Permits",
+        "Reservations",
+        "Safety"
       ],
       "hourly_min": 50,
       "hourly_max": 150,
@@ -1015,12 +979,9 @@
       "domain_slug": "other",
       "date_posted": "2026-10-12 14:50:37",
       "skills": [
-        "Federal student aid (FAFSA)",
-        "Income-driven repayment plans",
-        "Public Service Loan Forgiveness (PSLF)",
-        "Loan servicer navigation",
-        "Deferment forbearance and default",
-        "Financial counseling"
+        "Repayment",
+        "PSLF",
+        "Default"
       ],
       "hourly_min": 50,
       "hourly_max": 150,
@@ -1039,12 +1000,9 @@
       "domain_slug": "other",
       "date_posted": "2026-10-12 14:26:34",
       "skills": [
-        "VA health care enrollment",
-        "Eligibility and priority group determination",
-        "Income and means testing",
-        "Care coordination",
-        "Community care (MISSION Act)",
-        "Veteran outreach"
+        "Eligibility",
+        "Enrollment",
+        "Healthcare"
       ],
       "hourly_min": 50,
       "hourly_max": 150,
@@ -1063,12 +1021,11 @@
       "domain_slug": "other",
       "date_posted": "2026-10-12 14:18:18",
       "skills": [
-        "VA claims preparation and filing",
-        "VA accreditation",
-        "Service-connected disability compensation",
-        "Dependents and survivor benefits",
-        "Appeals and decision reviews",
-        "Military records (DD-214)"
+        "Claims",
+        "Accreditation",
+        "Compensation",
+        "Survivors",
+        "Appeals"
       ],
       "hourly_min": 50,
       "hourly_max": 150,
@@ -1086,14 +1043,7 @@
       "title": "Consular Officer / Passport Specialist",
       "domain_slug": "law",
       "date_posted": "2026-10-12 14:06:03",
-      "skills": [
-        "Citizenship and nationality law",
-        "Passport adjudication",
-        "Fraud detection",
-        "Lost stolen and damaged passports",
-        "Custody and minor-applicant issues",
-        "Interviewing"
-      ],
+      "skills": [],
       "hourly_min": 50,
       "hourly_max": 150,
       "monthly_min": null,
@@ -1110,18 +1060,7 @@
       "title": "Passport Acceptance Agent",
       "domain_slug": "other",
       "date_posted": "2026-10-12 13:49:14",
-      "skills": [
-        "passport application processing",
-        "knowledge of passport forms and fees",
-        "knowledge of identity and citizenship documentation",
-        "rubric creation",
-        "policy compliance",
-        "attention to detail",
-        "clear written communication",
-        "feedback delivery",
-        "remote collaboration",
-        "customer service"
-      ],
+      "skills": [],
       "hourly_min": 50,
       "hourly_max": 150,
       "monthly_min": null,
@@ -1139,12 +1078,11 @@
       "domain_slug": "medicine",
       "date_posted": "2026-10-12 13:33:20",
       "skills": [
-        "Medicare Parts A B C D",
-        "Medicare enrollment counseling",
-        "Social Security and Medicare coordination",
-        "Employer coverage and creditable coverage",
-        "Plan comparison and selection",
-        "Beneficiary education"
+        "Medicare",
+        "Enrollment",
+        "Coordination",
+        "Coverage",
+        "COBRA"
       ],
       "hourly_min": 50,
       "hourly_max": 150,
@@ -1163,12 +1101,8 @@
       "domain_slug": "medicine",
       "date_posted": "2026-10-12 13:04:07",
       "skills": [
-        "SHIP certification",
-        "Medicare enrollment",
-        "Special enrollment periods",
-        "Part B late enrollment penalties",
-        "Medigap vs. Medicare Advantage",
-        "Part D plan comparison"
+        "Medicare",
+        "Medigap"
       ],
       "hourly_min": 10,
       "hourly_max": 150,
