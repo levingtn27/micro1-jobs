@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-10-15T04:30:02Z",
-  "count": 296,
+  "updated_at": "2026-10-15T08:30:04Z",
+  "count": 297,
   "jobs": [
+    {
+      "job_id": "c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
+      "title": "Education Practitioner - Learning & Assessment Specialist",
+      "domain_slug": "education",
+      "date_posted": "2026-10-15 04:52:00",
+      "skills": [
+        "instructional designers",
+        "educators"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c3af6520-9ea8-4717-b8c6-2b9dee8ee470?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "84c0959f-ea1b-4bf3-8783-4d74373bb4b7",
       "title": "Software Engineer, Platform Engineering",
