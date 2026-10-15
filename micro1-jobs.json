@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-14T20:30:11Z",
-  "count": 300,
+  "updated_at": "2026-10-15T00:30:03Z",
+  "count": 296,
   "jobs": [
+    {
+      "job_id": "84c0959f-ea1b-4bf3-8783-4d74373bb4b7",
+      "title": "Software Engineer, Platform Engineering",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-15 00:04:27",
+      "skills": [
+        "JS/TS",
+        "AI-Native Engineering",
+        "End-to-End Product Ownership",
+        "Backend Architecture & Scalability"
+      ],
+      "hourly_min": 8,
+      "hourly_max": 9,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 300000,
+        "min": 200000
+      },
+      "pay_min": 200000.0,
+      "pay_max": 300000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/84c0959f-ea1b-4bf3-8783-4d74373bb4b7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "d484ab8c-eb8b-4b2f-b742-3d00719ca143",
       "title": "Lawyer",
@@ -1134,47 +1159,6 @@
       "referral_url": "https://jobs.micro1.ai/post/3fee8e97-5dce-42bd-a8a1-68133f04449a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "c7a75cc1-1c92-408a-8d8d-c62aebb0c634",
-      "title": "Financial Expert",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-10-09 22:06:04",
-      "skills": [
-        "finance domain expertise",
-        "accounting",
-        "fp&a",
-        "banking",
-        "consulting",
-        "microsoft excel",
-        "microsoft word",
-        "microsoft powerpoint",
-        "microsoft outlook",
-        "microsoft 365",
-        "business process development",
-        "rubric development",
-        "analytical skills",
-        "written communication",
-        "verbal communication",
-        "attention to detail",
-        "structured assessment",
-        "objective evaluation",
-        "process documentation",
-        "data annotation",
-        "ai model evaluation",
-        "collaboration",
-        "asynchronous communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 40.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c7a75cc1-1c92-408a-8d8d-c62aebb0c634?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "ff33f551-ce15-4d0f-96a7-1b03b53776e4",
       "title": "Family Medicine Hospitalist",
       "domain_slug": "medicine",
@@ -1779,38 +1763,6 @@
       "referral_url": "https://jobs.micro1.ai/post/422d20e5-6f6e-4644-9a9b-53b32b3c1a50?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "0174b525-afc3-42a5-9b5f-a0b9d2791762",
-      "title": "Equity Research Analyst / Associate",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-06 17:37:44",
-      "skills": [
-        "equity research",
-        "financial analysis",
-        "sell-side research publishing",
-        "ai tools for financial research",
-        "analytical rigor",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "interviewing",
-        "usability testing",
-        "information synthesis",
-        "industry expertise (public companies)",
-        "workflow evaluation",
-        "feedback documentation"
-      ],
-      "hourly_min": 180,
-      "hourly_max": 220,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 180.0,
-      "pay_max": 220.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0174b525-afc3-42a5-9b5f-a0b9d2791762?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "9a648ee0-2d83-4453-89f5-19df3deb295c",
       "title": "SaaS Contracts Counsel",
       "domain_slug": "law",
@@ -2305,39 +2257,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3a4a3726-ae6d-44a5-9937-d7d7c90fefdc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7c6cf443-f2b6-4311-90f3-cfc344075814",
-      "title": "Investment Banking Associate",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-02 16:06:27",
-      "skills": [
-        "investment banking",
-        "financial modeling",
-        "equity research",
-        "ai platforms for finance (e.g., rogo, hebbia, model ml, claude)",
-        "data analysis",
-        "ai integration in finance",
-        "financial analysis",
-        "deal process management",
-        "written communication",
-        "verbal communication",
-        "workflow optimization",
-        "feedback delivery",
-        "financial technology (fintech) trends",
-        "report writing",
-        "collaborative problem-solving"
-      ],
-      "hourly_min": 150,
-      "hourly_max": 220,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 150.0,
-      "pay_max": 220.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/7c6cf443-f2b6-4311-90f3-cfc344075814?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "a51311c1-f926-47a1-80a3-c04aec36ee05",
@@ -4233,38 +4152,6 @@
       "referral_url": "https://jobs.micro1.ai/post/d130c45f-c85a-4ce6-9a12-53c980a63be7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "6da7a95c-8ab7-4b76-a835-b1a6554da382",
-      "title": "Medical Writer (Pharmaceutical)",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-18 11:39:35",
-      "skills": [
-        "regulatory medical writing",
-        "clinical study report authoring",
-        "ich e3 guidelines",
-        "scientific accuracy assessment",
-        "source data verification",
-        "clinical protocol interpretation",
-        "tfl (tables, figures, listings) analysis",
-        "written communication",
-        "structured feedback provision",
-        "collaborative problem-solving",
-        "ai-assisted documentation evaluation",
-        "periodic safety documentation (ich e2f, ich e2c)",
-        "ectd (electronic common technical document) knowledge",
-        "oncology and haematology domain expertise"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6da7a95c-8ab7-4b76-a835-b1a6554da382?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "fd4c1276-9025-4ba0-82a0-ebaf5dafafc2",
       "title": "Human Intelligence Collector",
       "domain_slug": "humanities",
@@ -5406,14 +5293,14 @@
     },
     {
       "job_id": "5c4d1820-c59b-43c1-aad3-c069fd4c1c4d",
-      "title": "Software Engineer, Internal Platforms",
+      "title": "Software Engineer, Product Engineering",
       "domain_slug": "software-engineering",
       "date_posted": "2026-09-08 17:27:26",
       "skills": [
-        "React",
-        "Node.js",
-        "PostgreSQL",
-        "AWS"
+        "JS/TS",
+        "AI-Native Engineering",
+        "End-to-End Product Ownership",
+        "Backend Architecture & Scalability"
       ],
       "hourly_min": 8,
       "hourly_max": 9,
@@ -5864,29 +5751,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "43067af3-efeb-435d-aeb9-6d1de8c2af0a",
-      "title": "Music & Sound Annotation Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-02 07:41:44",
-      "skills": [
-        "analytical listening",
-        "music theory knowledge",
-        "audio annotation",
-        "attention to detail",
-        "written communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/43067af3-efeb-435d-aeb9-6d1de8c2af0a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "46d40ceb-c9b5-4b76-a595-6d74ecf7107e",
