@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-10-16T00:30:14Z",
-  "count": 301,
+  "updated_at": "2026-10-16T04:30:11Z",
+  "count": 303,
   "jobs": [
+    {
+      "job_id": "0733d72e-0d2a-4420-9f18-f2bb3d889d47",
+      "title": "STEM Expert – Chemistry & Computational Chemistry (PhD)",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-10-16 04:07:26",
+      "skills": [
+        "Computational Chemistry",
+        "Structural Bioinformatics",
+        "Cheminformatics",
+        "Proteomics & Metabolomics",
+        "Documentation",
+        "Verbal communication",
+        "Biology",
+        "organic chemistry",
+        "physical chemistry"
+      ],
+      "hourly_min": 45,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (Worldwide)",
+      "referral_url": "https://jobs.micro1.ai/post/0733d72e-0d2a-4420-9f18-f2bb3d889d47?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "d7372be7-b297-494d-9f74-20f297d6792a",
+      "title": "STEM Expert – Biology & Bioinformatics (PhD)",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-10-16 03:28:41",
+      "skills": [
+        "scientific software configuration",
+        "ai/ml-assisted chemistry workflows",
+        "quantitative analysis",
+        "analytical reasoning",
+        "scientific programming",
+        "written communication",
+        "verbal communication",
+        "documentation",
+        "problem-solving"
+      ],
+      "hourly_min": 45,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote(Worldwide)",
+      "referral_url": "https://jobs.micro1.ai/post/d7372be7-b297-494d-9f74-20f297d6792a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "9f07b919-4451-402f-ae2d-ccec576dbdc1",
       "title": "QA Engineer ",
