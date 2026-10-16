@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-16T12:30:06Z",
-  "count": 303,
+  "updated_at": "2026-10-16T16:30:04Z",
+  "count": 301,
   "jobs": [
+    {
+      "job_id": "79170f82-64d2-4029-9233-c39f1081e709",
+      "title": "AI Product Evaluator",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-16 14:10:54",
+      "skills": [
+        "AI Models",
+        "AI Agents",
+        "Following Instructions",
+        "Attention to Detail"
+      ],
+      "hourly_min": 14,
+      "hourly_max": 36,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 14.0,
+      "pay_max": 36.0,
+      "pay_unit": "hour",
+      "location_raw": "India, Japan or United Kingdom, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/79170f82-64d2-4029-9233-c39f1081e709?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "0733d72e-0d2a-4420-9f18-f2bb3d889d47",
       "title": "STEM Expert – Chemistry & Computational Chemistry (PhD)",
@@ -5965,29 +5987,6 @@
       "referral_url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "f5e8360f-b6b5-4674-9b5d-798082e223ec",
-      "title": "CAD Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-09-03 15:26:49",
-      "skills": [
-        "AutoCAD",
-        "AutoDesk",
-        "Fusion 360",
-        "FreeCAD",
-        "CAD"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "location_raw": "Fully Remote-Open Worldwide",
-      "referral_url": "https://jobs.micro1.ai/post/f5e8360f-b6b5-4674-9b5d-798082e223ec?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "04955b6f-5026-498a-8143-5ec852cbd526",
       "title": "Exocentric Video Recorder",
       "domain_slug": "robotics",
@@ -6399,47 +6398,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d3fbfdeb-eb0e-44b1-80a3-20b0baa07bf5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5f50767b-8275-4f5a-8861-08e895e0d1e2",
-      "title": "Hardware Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-08-26 18:09:10",
-      "skills": [
-        "AutoCAD",
-        "CAD",
-        "Python",
-        "RTL"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/5f50767b-8275-4f5a-8861-08e895e0d1e2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "8a0ef31d-212b-49e4-ba4a-6075436f5f6b",
-      "title": "Audio Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-08-26 17:53:09",
-      "skills": [
-        "MusicXML"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/8a0ef31d-212b-49e4-ba4a-6075436f5f6b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "c5772db7-51b9-4a96-8f7d-6afbdf7b7f85",
