@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-17T04:30:02Z",
+  "updated_at": "2026-10-17T08:30:04Z",
   "count": 294,
   "jobs": [
+    {
+      "job_id": "fb77a0c4-ed02-404f-90e4-f62aff0c5271",
+      "title": "Strategic Project Lead, Coding/SWE",
+      "domain_slug": "other",
+      "date_posted": "2026-10-17 06:43:57",
+      "skills": [
+        "Leadership & Team Management",
+        "Data Operations",
+        "Human Data"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 90,
+      "monthly_min": "3000.00",
+      "monthly_max": "10000.00",
+      "yearly": {
+        "max": 500000,
+        "min": 300000
+      },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/fb77a0c4-ed02-404f-90e4-f62aff0c5271?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "00276647-e6e5-467b-92d8-1018fe2c7278",
       "title": "US-Licensed Physician",
@@ -3091,28 +3115,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9ebedb7a-9911-4b0c-b771-13f3325bdc7d",
-      "title": "Primary Care Physician",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-30 06:55:40",
-      "skills": [
-        "Primary Care",
-        "Clinical Medicine",
-        "Patient Assessment",
-        "Diagnosis & Treatment Planning"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 285,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 285.0,
-      "pay_unit": "hour",
-      "location_raw": "United state",
-      "referral_url": "https://jobs.micro1.ai/post/9ebedb7a-9911-4b0c-b771-13f3325bdc7d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
