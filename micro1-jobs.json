@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-17T08:30:04Z",
-  "count": 294,
+  "updated_at": "2026-10-17T12:30:04Z",
+  "count": 295,
   "jobs": [
+    {
+      "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
+      "title": "Investment Banking Associate",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-17 10:29:01",
+      "skills": [
+        "financial modeling",
+        "valuation analysis",
+        "deal execution",
+        "market analysis",
+        "financial statement analysis",
+        "written communication",
+        "attention to detail",
+        "feedback delivery",
+        "remote collaboration",
+        "industry documentation knowledge"
+      ],
+      "hourly_min": 120,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 120.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/254e0a96-f823-486f-b0f5-cc82dca09427?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "fb77a0c4-ed02-404f-90e4-f62aff0c5271",
       "title": "Strategic Project Lead, Coding/SWE",
