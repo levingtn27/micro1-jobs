@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T20:30:02Z",
-  "count": 295,
+  "updated_at": "2026-10-18T00:30:02Z",
+  "count": 293,
   "jobs": [
     {
       "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
@@ -6993,52 +6993,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/60d397a2-fa5a-4a90-afd0-4ce1b5223472?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b97e5024-93da-4f54-bf63-4b42230d729a",
-      "title": "General Counsel",
-      "domain_slug": "law",
-      "date_posted": "2026-08-19 17:39:04",
-      "skills": [
-        "Contract Redlining",
-        "Contract Drafting",
-        "Contract Review",
-        "Technology Transactions",
-        "In-house Experience"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b97e5024-93da-4f54-bf63-4b42230d729a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "8ff94e02-56a8-4fd2-a626-40e283ad0297",
-      "title": "Senior Hospitalist Clinical Reviewer",
-      "domain_slug": "medicine",
-      "date_posted": "2026-08-19 00:33:55",
-      "skills": [
-        "Inpatient Quality",
-        "Quality Assurance",
-        "Medical Auditing",
-        "Hospitalist",
-        "Clinical Judgement"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8ff94e02-56a8-4fd2-a626-40e283ad0297?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
