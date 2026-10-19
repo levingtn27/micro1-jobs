@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T04:30:02Z",
-  "count": 287,
+  "updated_at": "2026-10-19T08:30:03Z",
+  "count": 288,
   "jobs": [
     {
       "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
@@ -6697,6 +6697,23 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2752b340-47ec-4cfa-8197-999460c07a6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "bd0da3d2-f365-4e57-9a63-58939315b67c",
+      "title": "English Voice Coach",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-08-25 07:17:26",
+      "skills": [],
+      "hourly_min": 40,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/bd0da3d2-f365-4e57-9a63-58939315b67c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "bd70678c-f7bd-4c23-959d-9b5cd6748410",
