@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T08:30:03Z",
-  "count": 288,
+  "updated_at": "2026-10-19T12:30:02Z",
+  "count": 287,
   "jobs": [
     {
       "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
@@ -3577,29 +3577,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/64110e6c-a1f5-45dd-9dfb-695b0ee21ee3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "90990ebf-8198-4b79-a799-add474453dbb",
-      "title": "Data Analyst (AI Evaluation)",
-      "domain_slug": "data-analysis",
-      "date_posted": "2026-09-27 21:15:13",
-      "skills": [
-        "Data Analysis",
-        "Data Review",
-        "Attention to detail",
-        "Handling ambiguity",
-        "Error spotting"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, US-based.",
-      "referral_url": "https://jobs.micro1.ai/post/90990ebf-8198-4b79-a799-add474453dbb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "ea63124a-6a16-4be4-bc4c-2a00d576ecb1",
