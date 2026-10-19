@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-19T12:30:02Z",
-  "count": 287,
+  "updated_at": "2026-10-19T16:30:04Z",
+  "count": 288,
   "jobs": [
+    {
+      "job_id": "b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b",
+      "title": "Dentist (DDS/DMD) - Dental Technology",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-19 14:37:00",
+      "skills": [
+        "Dentistry",
+        "Dental Software",
+        "Digital Dentistry",
+        "Dental Practice Management",
+        "CAD/CAM",
+        "Treatment Planning",
+        "Clinical Dentistry"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 285,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 285.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
       "title": "Investment Banking Associate",
