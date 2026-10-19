@@ -1,7 +1,101 @@
 {
-  "updated_at": "2026-10-19T16:30:04Z",
-  "count": 288,
+  "updated_at": "2026-10-19T20:30:08Z",
+  "count": 290,
   "jobs": [
+    {
+      "job_id": "b3324a98-754b-4218-bd4f-a8d84dcfb8e1",
+      "title": "Director of Talent Automations",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-19 18:42:57",
+      "skills": [
+        "Workflow automation",
+        "Process improvement",
+        "LLMs",
+        "Fullstack development"
+      ],
+      "hourly_min": 180000,
+      "hourly_max": 250000,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 250000,
+        "min": 180000
+      },
+      "pay_min": 180000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b3324a98-754b-4218-bd4f-a8d84dcfb8e1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "82310fe1-2ad6-4b48-9434-57f2ea679bac",
+      "title": "Video Data Entry Specialist (LATAM)",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-19 17:27:13",
+      "skills": [
+        "Smartphone",
+        "Video Recording",
+        "Attention to Detail",
+        "Household Tasks"
+      ],
+      "hourly_min": 6,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 6.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
+      "referral_url": "https://jobs.micro1.ai/post/82310fe1-2ad6-4b48-9434-57f2ea679bac?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
+      "title": "At-Home Video Recorder",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-19 17:15:41",
+      "skills": [
+        "Smartphone",
+        "Video Recording",
+        "Attention to Detail",
+        "Household Tasks"
+      ],
+      "hourly_min": 15,
+      "hourly_max": 15,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
+      "referral_url": "https://jobs.micro1.ai/post/7827dcd2-17d7-46a7-8d58-3ef6ff3930f4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3b349b7b-de4d-4763-8aad-e4afff866be3",
+      "title": "Dentist",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-19 16:38:02",
+      "skills": [
+        "Dentistry",
+        "Dental Software",
+        "Digital Dentistry",
+        "Dental Practice Management",
+        "CAD/CAM",
+        "Treatment Planning",
+        "Clinical Dentistry"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 285,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 285.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3b349b7b-de4d-4763-8aad-e4afff866be3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b",
       "title": "Dentist (DDS/DMD) - Dental Technology",
@@ -2846,31 +2940,6 @@
       "referral_url": "https://jobs.micro1.ai/post/07ce7f57-ef0c-4b2e-aac2-5837c2c9c004?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "b6aeb866-1fd0-41c1-acdb-85dd6b906b6a",
-      "title": "Director of Talent Operations, Strategy & Automation",
-      "domain_slug": "other",
-      "date_posted": "2026-10-02 09:01:37",
-      "skills": [
-        "Automation Strategy",
-        "Process Transformation",
-        "Product Operations",
-        "Cross-Functional Leadership"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 250000,
-        "min": 180000
-      },
-      "pay_min": 180000.0,
-      "pay_max": 250000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b6aeb866-1fd0-41c1-acdb-85dd6b906b6a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
       "title": "Derivatives Counsel (ISDA Specialist)",
       "domain_slug": "law",
@@ -4031,25 +4100,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5fae0ae4-40c9-4fcb-9923-1d1e38e77c04?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7bc65540-718f-4f23-8f27-69a12aa15d4b",
-      "title": "Security Onion Specialist",
-      "domain_slug": "cybersecurity",
-      "date_posted": "2026-09-23 06:44:26",
-      "skills": [
-        "Security Onion"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 175.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/7bc65540-718f-4f23-8f27-69a12aa15d4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
