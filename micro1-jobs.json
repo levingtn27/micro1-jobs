@@ -1,7 +1,54 @@
 {
-  "updated_at": "2026-10-20T16:30:03Z",
-  "count": 288,
+  "updated_at": "2026-10-20T20:30:06Z",
+  "count": 289,
   "jobs": [
+    {
+      "job_id": "345daaa5-4cbe-4af3-af6f-4e27382d6d41",
+      "title": "Certified Inpatient Coder",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-20 17:16:53",
+      "skills": [
+        "Inpatient Coding",
+        "Inpatient Records",
+        "ICD-10",
+        "CIC",
+        "CPC",
+        "AAPC",
+        "CPT"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/345daaa5-4cbe-4af3-af6f-4e27382d6d41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a0417769-16cd-43a1-a5c7-1226f2b10932",
+      "title": "Certified Coding Specialist (CCS)",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-20 16:58:08",
+      "skills": [
+        "ICD-10",
+        "CCS",
+        "Inpatient Records",
+        "CPT"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a0417769-16cd-43a1-a5c7-1226f2b10932?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "6fe1b365-e42d-4a8f-a474-89801118311e",
       "title": "Inpatient Care Physician (MD/DO)",
@@ -1176,7 +1223,7 @@
     },
     {
       "job_id": "30cdcad1-c75b-412d-94b6-2af95f118549",
-      "title": "Recruiter (San Francisco based)",
+      "title": "Associate Recruiter (San Francisco based)",
       "domain_slug": "other",
       "date_posted": "2026-10-13 14:57:21",
       "skills": [
@@ -4510,37 +4557,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/314157c3-3907-4d37-853c-80d02690ca0b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7e1fcbca-de56-4423-8ef4-3d5106ab9e6e",
-      "title": "Cyber Security Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-21 17:00:31",
-      "skills": [
-        "Python3",
-        "JAVA",
-        "Rust",
-        "Algorithms",
-        "Basics C++",
-        "Typescript",
-        "bug fixing",
-        "feature implementation",
-        "codebase refactoring",
-        "performance optimization",
-        "pentesting",
-        "Security audit",
-        "cybersecurity"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/7e1fcbca-de56-4423-8ef4-3d5106ab9e6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "6818a81f-b736-4734-8700-aa3375ab5cc4",
