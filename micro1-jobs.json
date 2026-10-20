@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-10-20T04:30:06Z",
+  "updated_at": "2026-10-20T08:30:03Z",
   "count": 287,
   "jobs": [
+    {
+      "job_id": "e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
+      "title": "Photographer",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-10-20 04:44:40",
+      "skills": [
+        "professional photography",
+        "adobe photoshop",
+        "adobe lightroom",
+        "image labeling and metadata creation",
+        "remote work",
+        "written and verbal communication",
+        "meeting deadlines",
+        "following instructions and incorporating feedback",
+        "data organization and submission"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 105,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 105.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e2b568f3-2142-4d45-9d7f-e9762b6ac0fd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "f78b7cdc-5357-4f5c-b86c-92d88b5de36d",
       "title": "Bluebook Citation Specialist (Law Students & Recent JDs)",
@@ -1124,29 +1151,6 @@
       "pay_unit": null,
       "location_raw": "Remote - US ONLY",
       "referral_url": "https://jobs.micro1.ai/post/7159a597-764f-48c0-b8ee-1f5f60846f16?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
-      "title": "Personal Financial Advisor ",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-14 00:06:54",
-      "skills": [
-        "personal financial planning",
-        "investment strategies",
-        "regulatory compliance",
-        "written and verbal communication",
-        "analytical skills"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "30cdcad1-c75b-412d-94b6-2af95f118549",
