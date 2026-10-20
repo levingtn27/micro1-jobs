@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T20:30:08Z",
-  "count": 290,
+  "updated_at": "2026-10-20T00:30:04Z",
+  "count": 284,
   "jobs": [
     {
       "job_id": "b3324a98-754b-4218-bd4f-a8d84dcfb8e1",
@@ -5064,29 +5064,6 @@
       "referral_url": "https://jobs.micro1.ai/post/1309e64b-2af9-4aa2-8894-d67fa2b7dd60?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "44ad0950-96f2-410a-b3f1-63ff4708da8e",
-      "title": "Accounts Payable Analyst",
-      "domain_slug": "finance",
-      "date_posted": "2026-09-15 18:27:52",
-      "skills": [
-        "Accounts Payable",
-        "High-volume invoice processing"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 130000,
-        "min": 90000
-      },
-      "pay_min": 90000.0,
-      "pay_max": 130000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/44ad0950-96f2-410a-b3f1-63ff4708da8e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "b1316606-46fb-4c3d-a4f9-5a2368e88d70",
       "title": "Associate Forward Deployed Engineer (aFDE)",
       "domain_slug": "software-engineering",
@@ -6768,171 +6745,6 @@
       "referral_url": "https://jobs.micro1.ai/post/bd0da3d2-f365-4e57-9a63-58939315b67c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "bd70678c-f7bd-4c23-959d-9b5cd6748410",
-      "title": "Family Law Attorney (AAML Registered)",
-      "domain_slug": "law",
-      "date_posted": "2026-08-21 16:34:29",
-      "skills": [
-        "family law expertise",
-        "legal research",
-        "legal writing",
-        "case analysis",
-        "document review",
-        "summarization",
-        "attention to detail",
-        "verbal communication",
-        "written communication",
-        "critical thinking",
-        "collaboration",
-        "remote work",
-        "digital project management tools",
-        "adaptability to technology",
-        "organizational skills"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/bd70678c-f7bd-4c23-959d-9b5cd6748410?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c521a888-16fc-4d97-83de-ea601e01fec8",
-      "title": "Immigration Attorney ",
-      "domain_slug": "law",
-      "date_posted": "2026-08-21 16:33:36",
-      "skills": [
-        "immigration law expertise",
-        "legal writing",
-        "document review",
-        "case management software",
-        "legal research tools",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
-        "collaboration",
-        "feedback provision",
-        "technology-driven project experience"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c521a888-16fc-4d97-83de-ea601e01fec8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "4b2e063b-ad86-429f-a54a-c50e0dd99b8c",
-      "title": "Litigation Associate Attorney (BigLaw Firms)",
-      "domain_slug": "law",
-      "date_posted": "2026-08-21 16:26:38",
-      "skills": [
-        "m&a",
-        "drafting contracts",
-        "private equity",
-        "remote collaboration",
-        "multidisciplinay teamwork",
-        "capital markets",
-        "data privacy"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/4b2e063b-ad86-429f-a54a-c50e0dd99b8c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "78a9efa0-b074-4dd8-9e3e-c0cd5675c74a",
-      "title": "Mergers & Acquisitions (M&A) Attorney (BigLaw Firms)",
-      "domain_slug": "law",
-      "date_posted": "2026-08-21 16:25:24",
-      "skills": [
-        "Mergers & Acquisitions (M&A)",
-        "Corporate law",
-        "litigation",
-        "multidisciplinary teamwork",
-        "legal research",
-        "remote collaboration",
-        "quality assurance",
-        "private equity"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/78a9efa0-b074-4dd8-9e3e-c0cd5675c74a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "fa297c7f-e5d5-4e52-a4ad-ec74c4763e17",
-      "title": "Corporate Attorney (BigLaw Firms)",
-      "domain_slug": "law",
-      "date_posted": "2026-08-21 16:23:54",
-      "skills": [
-        "Mergers & Acquisitions",
-        "Corporate law",
-        "Commerical Litigation",
-        "attention to detail",
-        "private equity",
-        "capital markets"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/fa297c7f-e5d5-4e52-a4ad-ec74c4763e17?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6d7b9372-c7ad-4ea6-a017-95e6e80a33a5",
-      "title": "BigLaw lawyers",
-      "domain_slug": "law",
-      "date_posted": "2026-08-21 15:53:50",
-      "skills": [
-        "legal analysis",
-        "legal research",
-        "legal drafting",
-        "written communication",
-        "verbal communication",
-        "content review",
-        "quality assurance",
-        "attention to detail",
-        "remote collaboration",
-        "multidisciplinary teamwork"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6d7b9372-c7ad-4ea6-a017-95e6e80a33a5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
       "title": "IT Manager",
       "domain_slug": "software-engineering",
@@ -7089,6 +6901,27 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/26044f07-dc45-4a01-8a5e-8154914a1267?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "14883aba-fc23-4ca4-8935-9d8d72794668",
+      "title": "Small/Medium Business – Robotics Data Collection Partner",
+      "domain_slug": "robotics",
+      "date_posted": "2026-07-06 23:22:29",
+      "skills": [
+        "Video Recording Using Cellphones",
+        "Team Management",
+        "Workplace Permission Management"
+      ],
+      "hourly_min": 9,
+      "hourly_max": 9,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 9.0,
+      "pay_max": 9.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/14883aba-fc23-4ca4-8935-9d8d72794668?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
