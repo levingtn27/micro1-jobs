@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-20T08:30:03Z",
-  "count": 287,
+  "updated_at": "2026-10-20T12:30:04Z",
+  "count": 288,
   "jobs": [
+    {
+      "job_id": "6fe1b365-e42d-4a8f-a474-89801118311e",
+      "title": "Inpatient Care Physician (MD/DO)",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-20 10:49:17",
+      "skills": [
+        "Patient Assessment & Diagnosis",
+        "Inpatient Clinical Care",
+        "Clinical Decision-Making",
+        "Hospital Medicine"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 115,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 115.0,
+      "pay_unit": "hour",
+      "location_raw": "United States (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/6fe1b365-e42d-4a8f-a474-89801118311e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
       "title": "Photographer",
