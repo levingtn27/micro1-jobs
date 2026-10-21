@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-21T16:30:03Z",
+  "updated_at": "2026-10-21T20:30:04Z",
   "count": 292,
   "jobs": [
+    {
+      "job_id": "55901470-d138-47d9-a2b2-cc5566df2cea",
+      "title": "Medical Coding Specialist",
+      "domain_slug": "other",
+      "date_posted": "2026-10-21 19:15:53",
+      "skills": [
+        "ICD-10-CM",
+        "Inpatient Coding",
+        "MS-DRG",
+        "ICD-10-PCS"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/55901470-d138-47d9-a2b2-cc5566df2cea?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "c476c74d-96cc-4254-ab50-282849e9de5b",
       "title": "Domain Contributor - Evaluation Specialist ",
@@ -1291,7 +1313,7 @@
     },
     {
       "job_id": "7159a597-764f-48c0-b8ee-1f5f60846f16",
-      "title": "Generalist, US Personal Finance ",
+      "title": "Personal Finance Expert",
       "domain_slug": "finance",
       "date_posted": "2026-10-14 00:08:58",
       "skills": [
@@ -6722,31 +6744,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3b1f3a6f-51b3-4622-8baa-28b88e58f3d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d3fbfdeb-eb0e-44b1-80a3-20b0baa07bf5",
-      "title": "Management Consultant",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-08-27 08:36:55",
-      "skills": [
-        "Business Strategy",
-        "Problem Solving",
-        "Business Analysis",
-        "Market Research",
-        "Financial Analysis",
-        "Stakeholder Management",
-        "Business Writing"
-      ],
-      "hourly_min": 245,
-      "hourly_max": 280,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 245.0,
-      "pay_max": 280.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d3fbfdeb-eb0e-44b1-80a3-20b0baa07bf5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "c5772db7-51b9-4a96-8f7d-6afbdf7b7f85",
