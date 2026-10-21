@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T12:30:05Z",
-  "count": 293,
+  "updated_at": "2026-10-21T16:30:03Z",
+  "count": 292,
   "jobs": [
     {
       "job_id": "c476c74d-96cc-4254-ab50-282849e9de5b",
@@ -2433,30 +2433,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US-based.",
       "referral_url": "https://jobs.micro1.ai/post/3ca164ec-a540-4f18-b298-09c54c377eb2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0c4c3fc4-e5e3-4d70-9436-4e2c873091a1",
-      "title": "QA Engineer – 2D & Creative Applications",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-10-07 15:26:40",
-      "skills": [
-        "Quality Assurance (QA)",
-        "Software testing",
-        "2D Design tools",
-        "Creative applications",
-        "Manual Testing",
-        "Functional testing"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 175,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 175.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0c4c3fc4-e5e3-4d70-9436-4e2c873091a1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "865bada5-304f-4f28-aa8d-5b0331975b16",
