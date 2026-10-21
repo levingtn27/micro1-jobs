@@ -1,7 +1,81 @@
 {
-  "updated_at": "2026-10-20T20:30:06Z",
-  "count": 289,
+  "updated_at": "2026-10-21T00:30:06Z",
+  "count": 292,
   "jobs": [
+    {
+      "job_id": "deb49cd2-8d5f-4600-8baf-7b2cd5656eea",
+      "title": "Research Evaluation Specialist (PhD or Masters / Researcher / Professor)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-20 21:28:45",
+      "skills": [
+        "Research & source triangulation",
+        "Attention to detail",
+        "Written precision",
+        "Self-direction & reliability",
+        "Analytical thinking",
+        "Research mastery"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, worldwide",
+      "referral_url": "https://jobs.micro1.ai/post/deb49cd2-8d5f-4600-8baf-7b2cd5656eea?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3a5698cc-bce4-4ec6-b992-b948a5c46a2b",
+      "title": "Evaluation Specialist/Recent Grad",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-20 21:28:02",
+      "skills": [
+        "Research & source triangulation",
+        "Attention to detail",
+        "Written precision",
+        "Self-direction & reliability",
+        "Analytical thinking"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3a5698cc-bce4-4ec6-b992-b948a5c46a2b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9d60489e-a8f7-4a0f-a140-16c9285adcd9",
+      "title": "At-Work Video Recorder [Remote]",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-20 21:07:03",
+      "skills": [
+        "smartphone operation",
+        "video recording",
+        "mobile apps usage",
+        "physical stamina",
+        "workplace safety awareness",
+        "consent management",
+        "time management",
+        "attention to detail",
+        "professionalism"
+      ],
+      "hourly_min": 8,
+      "hourly_max": 12,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 8.0,
+      "pay_max": 12.0,
+      "pay_unit": "hour",
+      "location_raw": null,
+      "referral_url": "https://jobs.micro1.ai/post/9d60489e-a8f7-4a0f-a140-16c9285adcd9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "345daaa5-4cbe-4af3-af6f-4e27382d6d41",
       "title": "Certified Inpatient Coder",
@@ -883,10 +957,10 @@
       "domain_slug": "software-engineering",
       "date_posted": "2026-10-15 00:04:27",
       "skills": [
-        "JS/TS",
-        "AI-Native Engineering",
-        "End-to-End Product Ownership",
-        "Backend Architecture & Scalability"
+        "System Design & Software Architecture",
+        "0-to-1 Product Engineering",
+        "Product Thinking & Problem-Solving",
+        "AI-Native Software Development"
       ],
       "hourly_min": 8,
       "hourly_max": 9,
