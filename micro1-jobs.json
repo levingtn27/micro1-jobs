@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-10-22T12:30:02Z",
+  "updated_at": "2026-10-22T16:30:03Z",
   "count": 308,
   "jobs": [
+    {
+      "job_id": "eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
+      "title": "US Macroeconomist",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-22 13:58:09",
+      "skills": [
+        "macroeconomic analysis",
+        "economic data interpretation",
+        "monetary policy analysis",
+        "federal reserve policy analysis",
+        "treasury yield curve analysis",
+        "bea/bls data familiarity",
+        "historical economic dataset management",
+        "fixed income research",
+        "analytical skills",
+        "research skills"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "United States (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/eacb1c2b-82a3-4395-87cb-168ccf8adcf8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "5b15b9c9-39d5-4c20-a46f-2a279ec9ec3f",
       "title": "Investment Funds & Asset Management Attorney",
@@ -478,7 +506,7 @@
     },
     {
       "job_id": "55901470-d138-47d9-a2b2-cc5566df2cea",
-      "title": "Medical Coding Specialist",
+      "title": "Inpatient Medical Coder",
       "domain_slug": "other",
       "date_posted": "2026-10-21 19:15:53",
       "skills": [
@@ -1199,34 +1227,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote(Worldwide)",
       "referral_url": "https://jobs.micro1.ai/post/d7372be7-b297-494d-9f74-20f297d6792a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9f07b919-4451-402f-ae2d-ccec576dbdc1",
-      "title": "QA Engineer ",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-10-16 00:23:03",
-      "skills": [
-        "software quality assurance",
-        "test case design",
-        "test execution",
-        "defect reporting",
-        "data annotation",
-        "data labeling",
-        "ai model evaluation",
-        "documentation",
-        "english communication",
-        "cross-functional collaboration"
-      ],
-      "hourly_min": 63,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 63.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/9f07b919-4451-402f-ae2d-ccec576dbdc1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "8648356b-1e04-4d62-bfcc-c72c3d5993b0",
