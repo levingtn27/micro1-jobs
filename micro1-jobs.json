@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-21T20:30:04Z",
-  "count": 292,
+  "updated_at": "2026-10-22T00:30:06Z",
+  "count": 293,
   "jobs": [
+    {
+      "job_id": "f796a3ec-8108-4e21-9497-f70b6d3ff3b1",
+      "title": "Life Sciences Research Expert (Python)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-21 21:07:21",
+      "skills": [
+        "Python",
+        "Biology",
+        "Medicine",
+        "Materials",
+        "Neuroscience",
+        "Astronomy"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/f796a3ec-8108-4e21-9497-f70b6d3ff3b1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "55901470-d138-47d9-a2b2-cc5566df2cea",
       "title": "Medical Coding Specialist",
@@ -147,7 +171,7 @@
     },
     {
       "job_id": "a0417769-16cd-43a1-a5c7-1226f2b10932",
-      "title": "Certified Coding Specialist (CCS)",
+      "title": "Inpatient Coder (CCS)",
       "domain_slug": "medicine",
       "date_posted": "2026-10-20 16:58:08",
       "skills": [
@@ -1338,6 +1362,29 @@
       "pay_unit": null,
       "location_raw": "Remote - US ONLY",
       "referral_url": "https://jobs.micro1.ai/post/7159a597-764f-48c0-b8ee-1f5f60846f16?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
+      "title": "Personal Financial Advisor ",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-14 00:06:54",
+      "skills": [
+        "personal financial planning",
+        "investment strategies",
+        "regulatory compliance",
+        "written and verbal communication",
+        "analytical skills"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Northern America, Latin America.",
+      "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "30cdcad1-c75b-412d-94b6-2af95f118549",
@@ -6352,29 +6399,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f5e8360f-b6b5-4674-9b5d-798082e223ec",
-      "title": "CAD Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-09-03 15:26:49",
-      "skills": [
-        "AutoCAD",
-        "AutoDesk",
-        "Fusion 360",
-        "FreeCAD",
-        "CAD"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "location_raw": "Fully Remote-Open Worldwide",
-      "referral_url": "https://jobs.micro1.ai/post/f5e8360f-b6b5-4674-9b5d-798082e223ec?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "04955b6f-5026-498a-8143-5ec852cbd526",
