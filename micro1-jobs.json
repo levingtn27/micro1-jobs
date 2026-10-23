@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T12:30:03Z",
-  "count": 311,
+  "updated_at": "2026-10-23T16:30:02Z",
+  "count": 310,
   "jobs": [
     {
       "job_id": "6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
@@ -5969,34 +5969,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "71c67e07-6f80-43af-95c6-ae18cbed6c38",
-      "title": "Bilingual Mental Health Expert ",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-14 22:44:24",
-      "skills": [
-        "clinical psychology",
-        "bilingual communication",
-        "ethical decision-making",
-        "cultural sensitivity",
-        "analytical evaluation",
-        "case study development",
-        "written and verbal communication",
-        "interdisciplinary collaboration",
-        "psychological assessment",
-        "documentation"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/71c67e07-6f80-43af-95c6-ae18cbed6c38?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "44668e06-3191-4b5f-a41c-b19e05f46eb7",
