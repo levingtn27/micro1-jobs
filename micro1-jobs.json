@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-23T04:30:02Z",
-  "count": 309,
+  "updated_at": "2026-10-23T08:30:05Z",
+  "count": 311,
   "jobs": [
+    {
+      "job_id": "6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
+      "title": "Generalist",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-23 04:58:38",
+      "skills": [
+        "Generalist",
+        "ChatGPT Proficiency",
+        "Problem Solving",
+        "Attention to Detail",
+        "Communication",
+        "Task Execution",
+        "Documentation"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 49,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 49.0,
+      "pay_unit": "hour",
+      "location_raw": "United States",
+      "referral_url": "https://jobs.micro1.ai/post/6a124045-dbe2-4435-aadd-e1f1ebaa5e8f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "0db2a044-3c6c-47e9-b610-292eddd305d2",
       "title": "Data Science & Analytic Methodology SME",
@@ -3678,6 +3703,39 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
+      "title": "Simulation Expert — Real-to-Sim 3D Environments & Assets",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-10-03 03:46:42",
+      "skills": [
+        "isaac sim",
+        "gazebo",
+        "mujoco",
+        "unity",
+        "unreal",
+        "pybullet",
+        "3d modeling",
+        "cad",
+        "environment design",
+        "physics simulation",
+        "rigid body dynamics",
+        "material properties",
+        "simulation troubleshooting",
+        "collaboration with scientists",
+        "attention to detail"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "31082a46-eab6-4178-b046-b74021c3e881",
