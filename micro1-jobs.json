@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T00:30:11Z",
-  "count": 312,
+  "updated_at": "2026-10-23T04:30:02Z",
+  "count": 309,
   "jobs": [
     {
       "job_id": "0db2a044-3c6c-47e9-b610-292eddd305d2",
@@ -2026,34 +2026,6 @@
       "referral_url": "https://jobs.micro1.ai/post/168285a8-8063-447f-b55b-222c1da4c7c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "7159a597-764f-48c0-b8ee-1f5f60846f16",
-      "title": "Personal Finance Expert",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-14 00:08:58",
-      "skills": [
-        "Attention to Detail",
-        "Written Communication",
-        "Instruction Following",
-        "Personal Tax Filing Experience (2025 US Return)",
-        "Personal Finance/Household Budgeting",
-        "Online Banking & Financial Apps",
-        "Data Entry & Accuracy",
-        "Task Management/Deadline Delivery",
-        "Remote Work Discipline",
-        "Basic Spreadsheet/Documentation Skills"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "Remote - US ONLY",
-      "referral_url": "https://jobs.micro1.ai/post/7159a597-764f-48c0-b8ee-1f5f60846f16?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
       "title": "Personal Financial Advisor ",
       "domain_slug": "finance",
@@ -3942,52 +3914,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6ec61d0d-4e7b-4e79-bcb6-23fab6b05923?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "88d96810-38ca-44c6-901a-70ca641bc8db",
-      "title": "Personal Finance Expert (Canada)",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-01 11:33:30",
-      "skills": [
-        "Finance Background",
-        "Document Handling",
-        "Rubric Evaluation",
-        "Troubleshooting",
-        "Tax Filing"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/88d96810-38ca-44c6-901a-70ca641bc8db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2e1d2ae3-8927-44f4-8c38-5d1707c8158b",
-      "title": "Personal Finance Expert (UK)",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-01 11:33:08",
-      "skills": [
-        "Personal Finance",
-        "Finance Background",
-        "Document Handling",
-        "Rubric Evaluation",
-        "Troubleshooting"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2e1d2ae3-8927-44f4-8c38-5d1707c8158b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0175ab60-933c-4a94-b842-5207e2d09c99",
