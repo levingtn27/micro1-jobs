@@ -1,7 +1,146 @@
 {
-  "updated_at": "2026-10-22T20:30:08Z",
+  "updated_at": "2026-10-23T00:30:11Z",
   "count": 312,
   "jobs": [
+    {
+      "job_id": "0db2a044-3c6c-47e9-b610-292eddd305d2",
+      "title": "Data Science & Analytic Methodology SME",
+      "domain_slug": "data-analysis",
+      "date_posted": "2026-10-22 23:49:12",
+      "skills": [
+        "LLMs",
+        "Pipeline integration",
+        "Data analytics",
+        "Scaled-analysis judgment",
+        "Data science"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0db2a044-3c6c-47e9-b610-292eddd305d2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f3f5d9b3-7524-4b58-8503-347eafca3b25",
+      "title": "Cyber Threat Intelligence SME",
+      "domain_slug": "other",
+      "date_posted": "2026-10-22 23:42:32",
+      "skills": [
+        "Nation-state threat judgment",
+        "Offensive/defensive line",
+        "Over-refusal detection",
+        "Cyber Thread Intelligence expertise"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f3f5d9b3-7524-4b58-8503-347eafca3b25?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a287e691-92ad-4e86-bacc-322b0e92aeec",
+      "title": "Combat Arms & Targeting SME",
+      "domain_slug": "other",
+      "date_posted": "2026-10-22 23:37:06",
+      "skills": [
+        "Targeting & fires judgment",
+        "Boundary discrimination",
+        "Utility assessment"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a287e691-92ad-4e86-bacc-322b0e92aeec?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "1031bd16-b859-454b-a97c-a3b8ce1c606c",
+      "title": "Lawyer",
+      "domain_slug": "law",
+      "date_posted": "2026-10-22 20:37:28",
+      "skills": [
+        "legal research and analysis",
+        "bluebook citation formatting",
+        "legal writing and editing",
+        "cite-checking",
+        "us legal system knowledge",
+        "written and verbal communication",
+        "attention to detail",
+        "remote collaboration",
+        "feedback and critique",
+        "interpretation and synthesis of complex legal issues"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "US-Based (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/1031bd16-b859-454b-a97c-a3b8ce1c606c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "dc341efb-fab5-4d87-8916-e0f6fdb283fa",
+      "title": "Senior Marine Cargo and Draft Surveyor",
+      "domain_slug": "other",
+      "date_posted": "2026-10-22 20:34:35",
+      "skills": [
+        "Container & Cargo Condition Survey",
+        "Draft Survey & Cargo Quantity Determination",
+        "Marine Survey Reporting & Standards"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/dc341efb-fab5-4d87-8916-e0f6fdb283fa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "fb90c558-6459-4695-aea3-9a5959526f67",
+      "title": "Senior Cargo and Parcel Claims Examiner",
+      "domain_slug": "other",
+      "date_posted": "2026-10-22 20:30:44",
+      "skills": [
+        "Air Cargo Claims",
+        "Custody Determination",
+        "Parcel Delivery Disputes",
+        "Release Rules",
+        "Freight Documentation",
+        "Liability Assessment"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/fb90c558-6459-4695-aea3-9a5959526f67?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "fd986cf9-2c5e-4945-ba63-da6b5b9e06d4",
       "title": "Senior Insurance Claims Expert (Liability, Property, Contents)",
@@ -922,7 +1061,7 @@
     },
     {
       "job_id": "82310fe1-2ad6-4b48-9434-57f2ea679bac",
-      "title": "Video Data Entry Specialist (LATAM)",
+      "title": "At-Home Video Recorder (LATAM)",
       "domain_slug": "generalist",
       "date_posted": "2026-10-19 17:27:13",
       "skills": [
@@ -3215,29 +3354,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0c0c4da1-6f51-46c2-91f4-13373c7284f7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "422d20e5-6f6e-4644-9a9b-53b32b3c1a50",
-      "title": "Medical Doctor - Physician Expert ",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-06 21:00:20",
-      "skills": [
-        "Diagnostic Analysis",
-        "Medicine",
-        "Physiology",
-        "Healthcare Protocols",
-        "Clinical Terminology"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "Remote, US only",
-      "referral_url": "https://jobs.micro1.ai/post/422d20e5-6f6e-4644-9a9b-53b32b3c1a50?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "9a648ee0-2d83-4453-89f5-19df3deb295c",
@@ -6421,28 +6537,6 @@
       "referral_url": "https://jobs.micro1.ai/post/e07e971f-2ab2-4ce7-9351-33f086f4834f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "e8249392-42b6-4b8c-b8b7-8a58367984c5",
-      "title": "Shopify Specialist",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-10 19:19:49",
-      "skills": [
-        "Shopify data model",
-        "E-commerce analytics",
-        "Applied Shopify experience",
-        "Feedback quality"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e8249392-42b6-4b8c-b8b7-8a58367984c5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "912dac5d-2d0b-4c32-a67b-89404bcf195b",
       "title": "Software Engineer, Data Platforms",
       "domain_slug": "software-engineering",
@@ -6949,31 +7043,6 @@
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "afddf4b4-2a89-4848-9826-708eff6a3c7c",
-      "title": "Adolescent Suicide & Self-Harm Specialist",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-01 20:25:22",
-      "skills": [
-        "Clinical reasoning",
-        "Clinical risk assessment",
-        "Intervention judgment",
-        "Risk formulation",
-        "Ideation/intent differentiation",
-        "Escalation judgment",
-        "Clinical suicide & self-harm expertise"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 95,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 95.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/afddf4b4-2a89-4848-9826-708eff6a3c7c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "4537e9e8-68fc-40c5-bb2d-53de5b5f6eee",
       "title": "Adolescent/Child Safeguarding & Exploitation Specialist",
       "domain_slug": "medicine",
@@ -7295,74 +7364,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3b1f3a6f-51b3-4622-8baa-28b88e58f3d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c5772db7-51b9-4a96-8f7d-6afbdf7b7f85",
-      "title": "Litigation Attorney (Commercial Real Estate)",
-      "domain_slug": "law",
-      "date_posted": "2026-08-26 10:50:56",
-      "skills": [
-        "US Law",
-        "Legal drafting",
-        "Litigation mastery",
-        "Case theory application",
-        "Commercial Real Estate litigation"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, US-based.",
-      "referral_url": "https://jobs.micro1.ai/post/c5772db7-51b9-4a96-8f7d-6afbdf7b7f85?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9dd9c76c-51d7-4e19-81fd-3b3c093edef2",
-      "title": "Litigation Attorney (Shareholder / LLC)",
-      "domain_slug": "law",
-      "date_posted": "2026-08-26 10:22:56",
-      "skills": [
-        "US Law",
-        "Legal drafting",
-        "Litigation mastery",
-        "Case theory application",
-        "Shareholder / LLC legal mastery"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/9dd9c76c-51d7-4e19-81fd-3b3c093edef2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "02a97913-db10-4060-a35f-113c69637d1a",
-      "title": "Litigation Attorney (Commercial contract)",
-      "domain_slug": "law",
-      "date_posted": "2026-08-26 08:28:24",
-      "skills": [
-        "US Law",
-        "Legal drafting",
-        "Litigation mastery",
-        "Case theory application"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, US-based",
-      "referral_url": "https://jobs.micro1.ai/post/02a97913-db10-4060-a35f-113c69637d1a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "01f86047-2c74-46bb-a6fc-a00e1be3dd5b",
