@@ -1,7 +1,96 @@
 {
-  "updated_at": "2026-10-23T16:30:02Z",
-  "count": 310,
+  "updated_at": "2026-10-23T20:30:08Z",
+  "count": 307,
   "jobs": [
+    {
+      "job_id": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
+      "title": "Humanitarian Aid Representative",
+      "domain_slug": "humanities",
+      "date_posted": "2026-10-23 19:19:23",
+      "skills": [
+        "Civilian-protection judgment",
+        "IHL grounding",
+        "Proportionality reasoning"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6ea926f9-3711-40d7-ba08-6b53367ebbb5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "21bb587d-cd06-407b-95eb-44a44a5dc803",
+      "title": "Military Legal Advisor ",
+      "domain_slug": "law",
+      "date_posted": "2026-10-23 19:03:18",
+      "skills": [
+        "LOAC",
+        "International-law application",
+        "Lawful-boundary discrimination",
+        "Legal-uncertainty reasoning"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/21bb587d-cd06-407b-95eb-44a44a5dc803?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "36174963-012b-4a8d-b955-12d48aac7b6f",
+      "title": "Human Intelligence Collector (HUMINT)",
+      "domain_slug": "other",
+      "date_posted": "2026-10-23 18:51:54",
+      "skills": [
+        "Elicitation strategy",
+        "Real-time cue reading",
+        "Reliability assessment",
+        "Interrogation/investigative questioning",
+        "Attention to detail",
+        "HUMINT"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US-based preferred.",
+      "referral_url": "https://jobs.micro1.ai/post/36174963-012b-4a8d-b955-12d48aac7b6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "e9f8e23d-b13f-46d1-9e7c-01f56a2c0450",
+      "title": "Intelligence Analyst ",
+      "domain_slug": "other",
+      "date_posted": "2026-10-23 18:47:52",
+      "skills": [
+        "Analytic rigor",
+        "Source handling",
+        "Over-refusal detection",
+        "All-Source Intelligence Analysis"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e9f8e23d-b13f-46d1-9e7c-01f56a2c0450?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
       "title": "Generalist",
@@ -862,7 +951,7 @@
     },
     {
       "job_id": "9d60489e-a8f7-4a0f-a140-16c9285adcd9",
-      "title": "At-Work Video Recorder [Remote]",
+      "title": "At-Work Video Recorder [for Business Owners]",
       "domain_slug": "robotics",
       "date_posted": "2026-10-20 21:07:03",
       "skills": [
@@ -2051,29 +2140,6 @@
       "referral_url": "https://jobs.micro1.ai/post/168285a8-8063-447f-b55b-222c1da4c7c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
-      "title": "Personal Financial Advisor ",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-14 00:06:54",
-      "skills": [
-        "personal financial planning",
-        "investment strategies",
-        "regulatory compliance",
-        "written and verbal communication",
-        "analytical skills"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Northern America, Latin America.",
-      "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "30cdcad1-c75b-412d-94b6-2af95f118549",
       "title": "Associate Recruiter (San Francisco based)",
       "domain_slug": "other",
@@ -2231,30 +2297,6 @@
       "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/0406acdc-9e38-4f22-a8b5-9e9e228c9bb1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "29ba0d51-2d9f-412e-ad19-5f28a76ca96e",
-      "title": "Junior Software Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-10-12 19:34:17",
-      "skills": [
-        "System Design",
-        "Code Review",
-        "Debugging",
-        "Algorithms",
-        "Data Structures",
-        "Software Architecture"
-      ],
-      "hourly_min": 150,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 150.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/29ba0d51-2d9f-412e-ad19-5f28a76ca96e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "622203dd-c0fa-49fc-aae4-6bd742196597",
@@ -5609,29 +5651,6 @@
       "referral_url": "https://jobs.micro1.ai/post/d130c45f-c85a-4ce6-9a12-53c980a63be7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "fd4c1276-9025-4ba0-82a0-ebaf5dafafc2",
-      "title": "Human Intelligence Collector",
-      "domain_slug": "humanities",
-      "date_posted": "2026-09-18 09:25:36",
-      "skills": [
-        "Elicitation strategy",
-        "Real-time cue reading",
-        "Reliability assessment",
-        "Interrogation/investigative questioning",
-        "Attention to detail"
-      ],
-      "hourly_min": 25,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 25.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, US-based preferred.",
-      "referral_url": "https://jobs.micro1.ai/post/fd4c1276-9025-4ba0-82a0-ebaf5dafafc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "5ed4068f-177a-4ed2-9642-a9d4ba45be39",
       "title": "Clinical Publications Author",
       "domain_slug": "sciences-research",
@@ -6999,79 +7018,6 @@
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "4537e9e8-68fc-40c5-bb2d-53de5b5f6eee",
-      "title": "Adolescent/Child Safeguarding & Exploitation Specialist",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-01 20:10:39",
-      "skills": [
-        "Clinical reasoning",
-        "Clinical risk assessment",
-        "Severity staging",
-        "Intervention judgment",
-        "Adolescent/Child safeguarding",
-        "Exploitation risk detection",
-        "Safeguarding escalation",
-        "Consent & developmental judgment"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 95,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 95.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/4537e9e8-68fc-40c5-bb2d-53de5b5f6eee?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b13e34d0-d672-42bf-9a5d-b783311f2601",
-      "title": "Eating Disorder Specialist  (Adolescent)",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-01 17:06:21",
-      "skills": [
-        "Clinical reasoning",
-        "Child/Adolescent Clinical Safety expertise",
-        "Clinical risk assessment",
-        "Severity staging",
-        "Intervention judgment",
-        "Disordered eating specialization"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 95,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 95.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b13e34d0-d672-42bf-9a5d-b783311f2601?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "aeda6c13-c58d-4e11-bf6a-edcb9fdf65c2",
-      "title": "Substance Use - Adolescent Addiction Specialist",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-01 14:06:47",
-      "skills": [
-        "Clinical reasoning",
-        "Child/Adolescent Clinical Safety expertise",
-        "Clinical risk assessment",
-        "Severity staging",
-        "Intervention judgment"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 95,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 95.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/aeda6c13-c58d-4e11-bf6a-edcb9fdf65c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "c23e27f9-f0a5-4165-9f1c-255f78da2a79",
       "title": "Member of Legal Staff, Corporate Counsel",
       "domain_slug": "law",
@@ -7271,30 +7217,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/dc71a0c0-527b-474b-96e3-022c63e7012d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3d79ba82-926b-48c0-9d15-8791a364ea81",
-      "title": "Senior Software Engineer",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-27 09:13:01",
-      "skills": [
-        "System Design",
-        "Code Review",
-        "Debugging",
-        "Algorithms",
-        "Data Structures",
-        "Software Architecture"
-      ],
-      "hourly_min": 245,
-      "hourly_max": 280,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 245.0,
-      "pay_max": 280.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3d79ba82-926b-48c0-9d15-8791a364ea81?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3b1f3a6f-51b3-4622-8baa-28b88e58f3d4",
