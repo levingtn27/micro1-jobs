@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-10-24T12:30:07Z",
-  "count": 314,
+  "updated_at": "2026-10-24T16:30:06Z",
+  "count": 317,
   "jobs": [
+    {
+      "job_id": "f59ff23d-1cad-470e-8e7c-113f2a3c63e7",
+      "title": "Business Operations Expert",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-24 16:22:59",
+      "skills": [
+        "Turning Real Operations Work Into a Defined Task",
+        "Objective Grading Criteria",
+        "Business Operations",
+        "Process Design and Ownership",
+        "Operational Reporting and Data Discrepancies"
+      ],
+      "hourly_min": 45,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, global",
+      "referral_url": "https://jobs.micro1.ai/post/f59ff23d-1cad-470e-8e7c-113f2a3c63e7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c05c79ea-1396-4eba-8ca2-95573e981860",
+      "title": "Legal & Compliance Expert",
+      "domain_slug": "law",
+      "date_posted": "2026-10-24 16:05:55",
+      "skills": [
+        "Turning Real Legal Work Into a Defined Task",
+        "Contract and Document Review",
+        "Compliance",
+        "Legal",
+        "Judgment Under Conflicting Requirements"
+      ],
+      "hourly_min": 45,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, global",
+      "referral_url": "https://jobs.micro1.ai/post/c05c79ea-1396-4eba-8ca2-95573e981860?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "00ad74df-491a-4327-a38c-5dc7d484ad77",
+      "title": "Finance & Accounting Expert",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-24 15:40:37",
+      "skills": [
+        "Turning Real Finance Work Into a Defined Task",
+        "Objective Grading Criteria",
+        "Reconciliation and Error Diagnosis",
+        "Judgment in Reporting and Analysis",
+        "Working Across Documents",
+        "AI training"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, global",
+      "referral_url": "https://jobs.micro1.ai/post/00ad74df-491a-4327-a38c-5dc7d484ad77?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "0e5cfd61-fe27-4955-ad5c-952e6e5d8198",
       "title": "Member of Technical Staff, Data Engineering",
