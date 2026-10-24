@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-10-24T08:30:12Z",
-  "count": 311,
+  "updated_at": "2026-10-24T12:30:07Z",
+  "count": 314,
   "jobs": [
+    {
+      "job_id": "0e5cfd61-fe27-4955-ad5c-952e6e5d8198",
+      "title": "Member of Technical Staff, Data Engineering",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-24 10:27:27",
+      "skills": [
+        "Data Platform Architecture & Engineering",
+        "ETL/ELT Pipelines & Data Orchestration",
+        "AI Agents & Agent-Ready Data Systems",
+        "Technical Leadership & Systems Architecture"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 450000,
+        "min": 280000
+      },
+      "pay_min": 280000.0,
+      "pay_max": 450000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0e5cfd61-fe27-4955-ad5c-952e6e5d8198?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a46ebe3b-f159-4e54-b892-89fe86b2554b",
+      "title": "Member of Technical Staff, Quality Engineering",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-24 10:21:12",
+      "skills": [
+        "Test Automation Engineering",
+        "AI Agents & Agentic QA Automation",
+        "Quality Engineering Architecture & CI/CD",
+        "Technical Leadership & Quality Strategy"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 400000,
+        "min": 260000
+      },
+      "pay_min": 260000.0,
+      "pay_max": 400000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a46ebe3b-f159-4e54-b892-89fe86b2554b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c4d9c64f-c30e-44fe-a32b-8ee6569b47b8",
+      "title": "Member of Technical Staff, Infrastructure",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-24 10:16:20",
+      "skills": [
+        "Cloud Infrastructure & DevOps Engineering",
+        "SRE & Observability",
+        "AI Agents & Agent-Ready Data Systems",
+        "Technical Leadership & Systems Architecture"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 500000,
+        "min": 320000
+      },
+      "pay_min": 320000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c4d9c64f-c30e-44fe-a32b-8ee6569b47b8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "7feee246-52db-48df-880c-58a87bbc9c65",
       "title": "Defense Analyst",
