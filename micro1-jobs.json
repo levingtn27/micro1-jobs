@@ -1,7 +1,45 @@
 {
-  "updated_at": "2026-10-23T20:30:08Z",
-  "count": 307,
+  "updated_at": "2026-10-24T00:30:06Z",
+  "count": 304,
   "jobs": [
+    {
+      "job_id": "4307f05a-fbd1-4913-91a2-432c782023fb",
+      "title": "Applied Scientists — Machine Learning  (MSc. or PhD)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-23 21:12:02",
+      "skills": [
+        "Machine Learning"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/4307f05a-fbd1-4913-91a2-432c782023fb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "16e1c68d-4f30-431f-a0f8-aa57d4b0893e",
+      "title": "Machine Learning Researcher (MSc. or PhD)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-23 21:06:31",
+      "skills": [
+        "Machine Learning"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/16e1c68d-4f30-431f-a0f8-aa57d4b0893e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
       "title": "Humanitarian Aid Representative",
@@ -5889,29 +5927,6 @@
       "referral_url": "https://jobs.micro1.ai/post/dcd53728-6fe1-4c86-b362-31cdc7428e3a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "831b4af6-d352-4e04-8aeb-c857c1feea98",
-      "title": "Licensed Dietitian",
-      "domain_slug": "medicine",
-      "date_posted": "2026-09-16 04:41:45",
-      "skills": [
-        "Nutrition Counseling",
-        "Dietary Assessment",
-        "Meal Planning",
-        "Clinical Nutrition",
-        "Client Communication"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "United States/Canada",
-      "referral_url": "https://jobs.micro1.ai/post/831b4af6-d352-4e04-8aeb-c857c1feea98?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "4010d2c5-4a3d-41fe-9e33-28bc218626e5",
       "title": "Sr. Full-Stack Software Engineer",
       "domain_slug": "software-engineering",
@@ -7242,107 +7257,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3b1f3a6f-51b3-4622-8baa-28b88e58f3d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "01f86047-2c74-46bb-a6fc-a00e1be3dd5b",
-      "title": "Product Owner",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-08-25 23:02:23",
-      "skills": [
-        "Product Ownership & Execution",
-        "Data-Driven Product Management",
-        "Scope Triage & Prioritization",
-        "Speed",
-        "Ambiguity & Async Execution"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 9,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 340000,
-        "min": 170000
-      },
-      "pay_min": 170000.0,
-      "pay_max": 340000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/01f86047-2c74-46bb-a6fc-a00e1be3dd5b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d1faea65-4f6a-4bfb-8616-fbfbdd997474",
-      "title": "AI/ML Engineer ",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-08-25 13:48:27",
-      "skills": [
-        "Python",
-        "LLMs",
-        "RAG",
-        "AWS"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 350000,
-        "min": 200000
-      },
-      "pay_min": 200000.0,
-      "pay_max": 350000.0,
-      "pay_unit": "year",
-      "location_raw": null,
-      "referral_url": "https://jobs.micro1.ai/post/d1faea65-4f6a-4bfb-8616-fbfbdd997474?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c4289f4e-1884-4dd0-bdae-af3757d84daf",
-      "title": "Member of Technical Staff, Forward Deployed (US Gov)",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-08-25 13:41:46",
-      "skills": [
-        "Python",
-        "LLM Systems",
-        "Data Pipelines",
-        "Distributed Systems"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 60,
-      "monthly_min": "5000.00",
-      "monthly_max": "7000.00",
-      "yearly": {
-        "max": 350000,
-        "min": 200000
-      },
-      "pay_min": 200000.0,
-      "pay_max": 350000.0,
-      "pay_unit": "year",
-      "location_raw": "Hybrid - Washington, D.C.",
-      "referral_url": "https://jobs.micro1.ai/post/c4289f4e-1884-4dd0-bdae-af3757d84daf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2752b340-47ec-4cfa-8197-999460c07a6e",
-      "title": "SalesOps & Business Analytics Specialist",
-      "domain_slug": "data-analysis",
-      "date_posted": "2026-08-25 10:03:51",
-      "skills": [
-        "Data Analytics & Business Intelligence",
-        "CRM Administration & Optimization",
-        "Sales Operations & Pipeline Management",
-        "Forecasting & Data Modeling"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 8,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 180000,
-        "min": 140000
-      },
-      "pay_min": 140000.0,
-      "pay_max": 180000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/2752b340-47ec-4cfa-8197-999460c07a6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "bd0da3d2-f365-4e57-9a63-58939315b67c",
