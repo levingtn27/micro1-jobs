@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-10-24T00:30:06Z",
+  "updated_at": "2026-10-24T04:30:08Z",
   "count": 304,
   "jobs": [
+    {
+      "job_id": "6f83d131-cbf2-4817-a66f-99e05104eb47",
+      "title": "Rust Architect / Backend Developer",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-24 03:45:03",
+      "skills": [
+        "Rust",
+        "DevOps"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/6f83d131-cbf2-4817-a66f-99e05104eb47?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f08acc61-44ab-45a4-a6dd-85aaadb7cc24",
+      "title": "Sales / Revenue / CS Operations Expert",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-24 01:34:27",
+      "skills": [
+        "Operations",
+        "CRM Ownership",
+        "Revenue Tools Beyond the CRM",
+        "Operational Judgment and Policy Conflicts",
+        "Data Accuracy and Reporting"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 85,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote — U.S. or Canada only",
+      "referral_url": "https://jobs.micro1.ai/post/f08acc61-44ab-45a4-a6dd-85aaadb7cc24?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2bfad9ec-1ea5-4de1-a40c-6daf7d8869b5",
+      "title": "Revenue Operations Specialist (SaaS)",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-24 01:33:22",
+      "skills": [
+        "Operations",
+        "Conflicting Policy Arbitration",
+        "CRM Ownership and Data Model",
+        "Compliance-Constrained Operations Design",
+        "Revenue Data Integrity and Reporting"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote -  U.S. or Canada only",
+      "referral_url": "https://jobs.micro1.ai/post/2bfad9ec-1ea5-4de1-a40c-6daf7d8869b5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "82ba10ad-8dbd-49ce-bc11-a83b9bb2169f",
+      "title": "AI Agent Tester -  Real-World Tasks ",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-24 01:01:36",
+      "skills": [
+        "ChatGPT",
+        "Muse",
+        "AI agents",
+        "Attention to Detail",
+        "Following Instructions",
+        "Screen Recording"
+      ],
+      "hourly_min": 25,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "U.S based",
+      "referral_url": "https://jobs.micro1.ai/post/82ba10ad-8dbd-49ce-bc11-a83b9bb2169f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "4307f05a-fbd1-4913-91a2-432c782023fb",
       "title": "Applied Scientists — Machine Learning  (MSc. or PhD)",
@@ -2921,30 +3011,6 @@
       "pay_unit": "hour",
       "location_raw": "U.S based",
       "referral_url": "https://jobs.micro1.ai/post/2fea94b5-2f19-4287-b776-f061b413a00f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "93ff19b0-13b0-414a-88c5-e6352b0acf3a",
-      "title": "Everyday AI Agent Tester",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-09 21:08:44",
-      "skills": [
-        "ChatGPT",
-        "Muse",
-        "AI agents",
-        "Attention to Detail",
-        "Following Instructions",
-        "Screen Recording"
-      ],
-      "hourly_min": 25,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 25.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "U.S based",
-      "referral_url": "https://jobs.micro1.ai/post/93ff19b0-13b0-414a-88c5-e6352b0acf3a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "ed3486a0-a402-431f-9a08-32077352c3f8",
@@ -6181,29 +6247,6 @@
       "referral_url": "https://jobs.micro1.ai/post/89d4df86-e9c8-4fba-bd22-ca6e492fd567?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "94b4eeba-56d5-4efa-98be-2dceb02d538d",
-      "title": "Salesforce / HubSpot Administrator -  Revenue Systems (SaaS)",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-14 20:57:05",
-      "skills": [
-        "Operations",
-        "CRM Ownership",
-        "Revenue Tools Beyond the CRM",
-        "Operational Judgment and Policy Conflicts",
-        "Data Accuracy and Reporting"
-      ],
-      "hourly_min": 35,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 35.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/94b4eeba-56d5-4efa-98be-2dceb02d538d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "6fb11cac-25a3-46de-a144-603468023a1c",
       "title": "Paid Photo Contributor Opportunity (Twins)",
       "domain_slug": "robotics",
@@ -6922,52 +6965,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c9a1355a-74bc-4300-8c68-b88c5a88803f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "cd222383-2114-4280-940c-79d0a1e75ee0",
-      "title": "Sales / Revenue / CS Operations Expert",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-04 19:33:33",
-      "skills": [
-        "Operations",
-        "CRM Ownership",
-        "Revenue Tools Beyond the CRM",
-        "Operational Judgment and Policy Conflicts",
-        "Data Accuracy and Reporting"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/cd222383-2114-4280-940c-79d0a1e75ee0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "678df5e9-a43e-4dad-adbb-5ee13c42ec48",
-      "title": "Revenue Operations Specialist (SaaS)",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-04 19:17:07",
-      "skills": [
-        "Operations",
-        "Conflicting Policy Arbitration",
-        "CRM Ownership and Data Model",
-        "Compliance-Constrained Operations Design",
-        "Revenue Data Integrity and Reporting"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/678df5e9-a43e-4dad-adbb-5ee13c42ec48?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
