@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-10-26T08:30:06Z",
+  "updated_at": "2026-10-26T12:30:06Z",
   "count": 313,
   "jobs": [
+    {
+      "job_id": "20fa6ad3-5691-4b61-9e33-27aad6b1bd6d",
+      "title": "Data & Charts Expert",
+      "domain_slug": "data-analysis",
+      "date_posted": "2026-10-26 11:49:24",
+      "skills": [
+        "Chart interpretation accuracy",
+        "Multi-step quantitative reasoning",
+        "Question design / unambiguous task construction",
+        "Domain-specific terminology precision",
+        "remote collaboration"
+      ],
+      "hourly_min": 25,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, global",
+      "referral_url": "https://jobs.micro1.ai/post/20fa6ad3-5691-4b61-9e33-27aad6b1bd6d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "57f7606f-5b4f-42a5-af38-e4b148f2c06a",
+      "title": "Paid Photo Contributor Opportunity (Egypt-based)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-26 08:43:53",
+      "skills": [
+        "digital photography",
+        "video recording",
+        "attention to detail",
+        "following instructions",
+        "independent work",
+        "image and video quality assessment",
+        "issue reporting"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Egypt, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/57f7606f-5b4f-42a5-af38-e4b148f2c06a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "a7fec975-aeb3-43d7-bcb9-0a3442cfd5b8",
       "title": "Food Delivery AI Response Evaluator",
@@ -1781,56 +1829,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/7827dcd2-17d7-46a7-8d58-3ef6ff3930f4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3b349b7b-de4d-4763-8aad-e4afff866be3",
-      "title": "Dentist",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-19 16:38:02",
-      "skills": [
-        "Dentistry",
-        "Dental Software",
-        "Digital Dentistry",
-        "Dental Practice Management",
-        "CAD/CAM",
-        "Treatment Planning",
-        "Clinical Dentistry"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 285,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 285.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3b349b7b-de4d-4763-8aad-e4afff866be3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b",
-      "title": "Dentist (DDS/DMD) - Dental Technology",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-19 14:37:00",
-      "skills": [
-        "Dentistry",
-        "Dental Software",
-        "Digital Dentistry",
-        "Dental Practice Management",
-        "CAD/CAM",
-        "Treatment Planning",
-        "Clinical Dentistry"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 285,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 285.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b59e2f36-d9d3-47b6-b2c2-9a91e7b9899b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
