@@ -1,7 +1,512 @@
 {
-  "updated_at": "2026-10-26T12:30:06Z",
-  "count": 313,
+  "updated_at": "2026-10-28T16:24:25Z",
+  "count": 321,
   "jobs": [
+    {
+      "job_id": "913e51e8-97d0-4a4c-a432-4b4357c327aa",
+      "title": "Legal Specialist (Microsoft Office User)",
+      "domain_slug": "law",
+      "date_posted": "2026-10-28 15:35:27",
+      "skills": [
+        "Microsoft Office Suite",
+        "Microsoft Teams",
+        "AI Training",
+        "Litigation",
+        "Contract Drafting"
+      ],
+      "hourly_min": 25,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/913e51e8-97d0-4a4c-a432-4b4357c327aa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "cbb3f0f3-22f8-439c-8bc2-013be484b836",
+      "title": "Marketing Specialist (Microsoft Office User)",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-28 14:45:30",
+      "skills": [
+        "Microsoft Office Suite",
+        "Microsoft Teams",
+        "Marketing Strategy",
+        "Marketing Analytics",
+        "AI Training"
+      ],
+      "hourly_min": 25,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/cbb3f0f3-22f8-439c-8bc2-013be484b836?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "542159e6-d897-4f0f-9f2e-8c32f11e703c",
+      "title": "Tamil Bilingual Expert ",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-28 11:30:04",
+      "skills": [
+        "english (b2+)",
+        "attention to detail",
+        "written communication",
+        "verbal communication",
+        "Tamil native proficiency"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/542159e6-d897-4f0f-9f2e-8c32f11e703c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9e74828a-963a-4093-be63-e30d0d144066",
+      "title": "Management Consulting Expert",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-28 03:45:44",
+      "skills": [
+        "AI Agents"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - US/Canada preferred; UK and Latin America also considered",
+      "referral_url": "https://jobs.micro1.ai/post/9e74828a-963a-4093-be63-e30d0d144066?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9a802ec5-4080-45e1-bb58-b97c36ac38d9",
+      "title": "Financial Due Diligence & Transaction Accounting ",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-28 03:41:21",
+      "skills": [
+        "CPA",
+        "AI Agents"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - US/Canada preferred; UK and Latin America also considered",
+      "referral_url": "https://jobs.micro1.ai/post/9a802ec5-4080-45e1-bb58-b97c36ac38d9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2904f048-0d04-4b2b-a6e8-946c3df9fa3c",
+      "title": "Investment Banking & M&A Expert",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-28 03:35:42",
+      "skills": [
+        "CPA",
+        "AI Agents"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - US/Canada preferred; UK and Latin America also considered",
+      "referral_url": "https://jobs.micro1.ai/post/2904f048-0d04-4b2b-a6e8-946c3df9fa3c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "644f3f12-c2a2-4fb9-8652-57263a807c5e",
+      "title": "Corporate Finance & Financial Modeling Expert",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-28 03:25:10",
+      "skills": [
+        "CPA",
+        "AI Agents"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - US/Canada preferred; UK and Latin America also considered",
+      "referral_url": "https://jobs.micro1.ai/post/644f3f12-c2a2-4fb9-8652-57263a807c5e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "76ebe7ba-7dd2-48c5-bf47-46773bbc0e89",
+      "title": "Smartwatch User ",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-27 23:16:31",
+      "skills": [
+        "Heart Rate Monitoring",
+        "Sleep Tracking",
+        "Daily Smartwatch Wear",
+        "Long-Term Usage",
+        "Activity Tracking",
+        "Fitness Tracking"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/76ebe7ba-7dd2-48c5-bf47-46773bbc0e89?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "642573d8-555a-4eef-939a-b479af309c25",
+      "title": "Wearable Electronic User",
+      "domain_slug": "other",
+      "date_posted": "2026-10-27 22:51:27",
+      "skills": [
+        "wearable device proficiency",
+        "data exporting",
+        "file organization",
+        "data privacy awareness",
+        "attention to detail"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/642573d8-555a-4eef-939a-b479af309c25?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "330180e9-9b6e-4a86-be6b-63fa85ead695",
+      "title": "Air Traffic Controller",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-27 21:48:43",
+      "skills": [
+        "air traffic control certification",
+        "aviation communication",
+        "audio transcription",
+        "attention to detail",
+        "aviation phraseology",
+        "english fluency",
+        "critical listening",
+        "comprehension of accents",
+        "confidentiality",
+        "independent work",
+        "use of aviation charts and diagrams"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/330180e9-9b6e-4a86-be6b-63fa85ead695?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3206bc18-1644-45e1-b29c-38e9783effd2",
+      "title": "Aircraft Pilot",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-27 21:39:06",
+      "skills": [
+        "flight operations",
+        "air traffic control (atc) communication interpretation",
+        "transcription and annotation",
+        "attention to detail",
+        "use of navigational charts and airport diagrams"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3206bc18-1644-45e1-b29c-38e9783effd2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "ab040b63-3e78-47d4-87b5-319193171cc2",
+      "title": "Member of Technical Staff, Model Training (infra & platform)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-27 21:36:34",
+      "skills": [
+        "Distributed ML Training Infrastructure",
+        "GPU Performance & Inference Optimization",
+        "Distributed Systems & Platform Architecture",
+        "Technical Leadership & System Ownership"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 1800000,
+        "min": 600000
+      },
+      "pay_min": 600000.0,
+      "pay_max": 1800000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ab040b63-3e78-47d4-87b5-319193171cc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "cfaf2d70-673a-4edb-aeba-558fcf33eb9a",
+      "title": "Member of Technical Staff, Model Training (applied research)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-27 21:33:18",
+      "skills": [
+        "Model Training & Adaptation",
+        "Multimodal AI",
+        "Robotics & Agent Learning",
+        "Applied ML Evaluation",
+        "Inference Optimization & Model Deployment"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 1800000,
+        "min": 600000
+      },
+      "pay_min": 600000.0,
+      "pay_max": 1800000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/cfaf2d70-673a-4edb-aeba-558fcf33eb9a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0a40f373-eb85-4269-a115-07d75e7e59a2",
+      "title": "Member of Technical Staff, Model Training (post-training research)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-27 21:28:43",
+      "skills": [
+        "Reinforcement Learning & Optimization",
+        "Post-Training Algorithms",
+        "Training Data Strategy & Curriculum Learning",
+        "ML Research & Experimental Design"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 1800000,
+        "min": 600000
+      },
+      "pay_min": 600000.0,
+      "pay_max": 1800000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0a40f373-eb85-4269-a115-07d75e7e59a2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "5ed081d3-01aa-4840-9ac6-c75a61993136",
+      "title": "Paralegal ",
+      "domain_slug": "law",
+      "date_posted": "2026-10-27 14:12:06",
+      "skills": [
+        "Legal Research and Verification",
+        "Document Review at Volume",
+        "Following Detailed Protocols Consistently",
+        "Law",
+        "Knowing When to Escalate",
+        "Attention to Detail",
+        "Deadlines"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/5ed081d3-01aa-4840-9ac6-c75a61993136?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "8e9b3e88-5bdc-4bbd-92bb-09a5a36b4e40",
+      "title": "Certified Inpatient Medical Coder",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-27 09:26:49",
+      "skills": [
+        "Inpatient Coding",
+        "Inpatient Records",
+        "ICD-10",
+        "CIC",
+        "CPC",
+        "AAPC",
+        "CPT"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/8e9b3e88-5bdc-4bbd-92bb-09a5a36b4e40?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f0a479de-d301-42c3-93ec-b68b0074ce6e",
+      "title": "Registered Nurse",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-27 08:48:48",
+      "skills": [
+        "inpatient clinical expertise",
+        "clinical documentation review",
+        "annotation of medical records",
+        "nursing judgment",
+        "evaluation of ai-generated clinical outputs",
+        "attention to detail",
+        "written and verbal communication",
+        "feedback provision",
+        "knowledge of inpatient workflows",
+        "collaboration with stakeholders"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f0a479de-d301-42c3-93ec-b68b0074ce6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7a95bb30-2730-4338-9b65-0b4b7319467a",
+      "title": "Consulting Specialist",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-27 04:56:51",
+      "skills": [
+        "Microsoft PowerPoint",
+        "Slide Reconstruction",
+        "Presentation Design",
+        "Data Visualization",
+        "Visual Storytelling",
+        "Content Editing",
+        "Critical Thinking",
+        "Attenton to Detail",
+        "Written Communication",
+        "Management Consulting",
+        "Storylining",
+        "Client Readouts"
+      ],
+      "hourly_min": 150,
+      "hourly_max": 350,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (US, UK, CAN, AUS)",
+      "referral_url": "https://jobs.micro1.ai/post/7a95bb30-2730-4338-9b65-0b4b7319467a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "e9bc2f1f-d2d0-4d6e-a43a-415ec8d657be",
+      "title": "Finance Specialist",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-27 04:13:53",
+      "skills": [
+        "Microsoft PowerPoint",
+        "Slide Reconstruction",
+        "Presentation Design",
+        "Data Visualization",
+        "Visual Storytelling",
+        "Content Editing",
+        "Critical Thinking",
+        "Attenton to Detail",
+        "Written Communication",
+        "Financial Analysis",
+        "Valuation",
+        "Investor Materials"
+      ],
+      "hourly_min": 150,
+      "hourly_max": 350,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (US, UK, CAN, AUS)",
+      "referral_url": "https://jobs.micro1.ai/post/e9bc2f1f-d2d0-4d6e-a43a-415ec8d657be?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6009f546-2ac3-4072-9f5a-1bd8094154ef",
+      "title": "Hospitality Worker (Toast POS User)",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-26 19:17:35",
+      "skills": [
+        "Toast POS",
+        "Restaurant Operations",
+        "Point of Sale (POS) Systems",
+        "Order & Payment Management"
+      ],
+      "hourly_min": 28,
+      "hourly_max": 92,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 28.0,
+      "pay_max": 92.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6009f546-2ac3-4072-9f5a-1bd8094154ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "e048500b-aaf4-45f3-b8b6-41e629d909c4",
+      "title": "Food Delivery App User Tester",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-26 14:22:05",
+      "skills": [
+        "Food Delivery Apps",
+        "US Based",
+        "Tech Usage",
+        "Structured Reasoning"
+      ],
+      "hourly_min": 16,
+      "hourly_max": 30,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 16.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e048500b-aaf4-45f3-b8b6-41e629d909c4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "20fa6ad3-5691-4b61-9e33-27aad6b1bd6d",
       "title": "Data & Charts Expert",
@@ -1321,7 +1826,7 @@
     },
     {
       "job_id": "f1bc4dbe-39df-4aa5-ac08-fc3e41c40fb1",
-      "title": "Healthcare Attorney (BigLaw Firms)",
+      "title": "Healthcare Attorney ",
       "domain_slug": "law",
       "date_posted": "2026-10-22 01:20:04",
       "skills": [
@@ -1349,7 +1854,7 @@
     },
     {
       "job_id": "2116b175-8be3-49bd-8636-dd3ecef38d70",
-      "title": "Civil Rights Attorney (BigLaw Firms)",
+      "title": "Civil Rights Attorney ",
       "domain_slug": "law",
       "date_posted": "2026-10-22 01:18:50",
       "skills": [
@@ -2146,6 +2651,34 @@
       "referral_url": "https://jobs.micro1.ai/post/d7372be7-b297-494d-9f74-20f297d6792a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "2208e450-8d5c-4f72-9b6e-a70e71c9e049",
+      "title": "AI Photo Rater",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-16 01:35:28",
+      "skills": [
+        "image evaluation",
+        "attention to visual detail",
+        "written communication",
+        "verbal communication",
+        "digital photography",
+        "image editing software",
+        "privacy and confidentiality",
+        "self-awareness",
+        "constructive feedback",
+        "collaboration"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "United States (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/2208e450-8d5c-4f72-9b6e-a70e71c9e049?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "8648356b-1e04-4d62-bfcc-c72c3d5993b0",
       "title": "English Voice Recording",
       "domain_slug": "language-audio",
@@ -2521,54 +3054,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US-based only",
       "referral_url": "https://jobs.micro1.ai/post/47ae77fa-cc3b-40f5-bdc6-eca4d11cc73e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c81e832c-d6fd-4d6e-9f40-3df9bedbf18f",
-      "title": "Bilingual Medical Doctor (Korean)",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-14 16:27:28",
-      "skills": [
-        "Diagnostic Analysis",
-        "Medicine",
-        "Physiology",
-        "Healthcare Protocols",
-        "Clinical Terminology",
-        "Korean language fluency"
-      ],
-      "hourly_min": 125,
-      "hourly_max": 125,
-      "monthly_min": "1000.00",
-      "monthly_max": "10000.00",
-      "yearly": null,
-      "pay_min": 1000.0,
-      "pay_max": 10000.0,
-      "pay_unit": "month",
-      "location_raw": "Remote, worldwide",
-      "referral_url": "https://jobs.micro1.ai/post/c81e832c-d6fd-4d6e-9f40-3df9bedbf18f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d8efbdbf-cb11-428d-bcef-7d9d8d197dfa",
-      "title": "Bilingual Medical Doctor (Japanese)",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-14 16:20:53",
-      "skills": [
-        "Diagnostic Analysis",
-        "Medicine",
-        "Physiology",
-        "Healthcare Protocols",
-        "Clinical Terminology",
-        "Japanese language proficiency"
-      ],
-      "hourly_min": 125,
-      "hourly_max": 125,
-      "monthly_min": "1000.00",
-      "monthly_max": "10000.00",
-      "yearly": null,
-      "pay_min": 1000.0,
-      "pay_max": 10000.0,
-      "pay_unit": "month",
-      "location_raw": "Remote, worldwide",
-      "referral_url": "https://jobs.micro1.ai/post/d8efbdbf-cb11-428d-bcef-7d9d8d197dfa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "f65069d1-f642-4b92-b8f2-76685acbe473",
@@ -3401,6 +3886,47 @@
       "referral_url": "https://jobs.micro1.ai/post/3fee8e97-5dce-42bd-a8a1-68133f04449a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "c7a75cc1-1c92-408a-8d8d-c62aebb0c634",
+      "title": "Financial Expert",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-10-09 22:06:04",
+      "skills": [
+        "finance domain expertise",
+        "accounting",
+        "fp&a",
+        "banking",
+        "consulting",
+        "microsoft excel",
+        "microsoft word",
+        "microsoft powerpoint",
+        "microsoft outlook",
+        "microsoft 365",
+        "business process development",
+        "rubric development",
+        "analytical skills",
+        "written communication",
+        "verbal communication",
+        "attention to detail",
+        "structured assessment",
+        "objective evaluation",
+        "process documentation",
+        "data annotation",
+        "ai model evaluation",
+        "collaboration",
+        "asynchronous communication"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c7a75cc1-1c92-408a-8d8d-c62aebb0c634?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "ff33f551-ce15-4d0f-96a7-1b03b53776e4",
       "title": "Family Medicine Hospitalist",
       "domain_slug": "medicine",
@@ -3981,6 +4507,23 @@
       "referral_url": "https://jobs.micro1.ai/post/7cb06da3-8e02-4bd1-8a53-46a573e92907?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "83b89d5d-866e-46ab-b1ae-7c87fbcd1c75",
+      "title": "Spanish Voice Actor (Mexico) ",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-06 05:09:45",
+      "skills": [],
+      "hourly_min": 20,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/83b89d5d-866e-46ab-b1ae-7c87fbcd1c75?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "cbbe4909-70e3-4917-a26b-bc82d89fbb1b",
       "title": "Swiss German Transcription Expert",
       "domain_slug": "language-audio",
@@ -4555,28 +5098,6 @@
       "referral_url": "https://jobs.micro1.ai/post/6ec61d0d-4e7b-4e79-bcb6-23fab6b05923?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "0175ab60-933c-4a94-b842-5207e2d09c99",
-      "title": "Recruitment Ops Manager",
-      "domain_slug": "other",
-      "date_posted": "2026-10-01 11:32:09",
-      "skills": [
-        "Sourcing",
-        "Recruitment pipeline",
-        "Remote work self-management",
-        "Stakeholder communication"
-      ],
-      "hourly_min": 35,
-      "hourly_max": 55,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 35.0,
-      "pay_max": 55.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote - (SF based)",
-      "referral_url": "https://jobs.micro1.ai/post/0175ab60-933c-4a94-b842-5207e2d09c99?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "36e1b1f6-b8bf-4273-a09a-94116a1f4b39",
       "title": "Car-Mounted 360° Video Recorder",
       "domain_slug": "robotics",
@@ -5061,52 +5582,6 @@
       "referral_url": "https://jobs.micro1.ai/post/397c7dd8-62cd-4068-a572-7addcd8a5fb2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "36d86bb0-b201-4d57-88e3-9fb0ff9fa8f6",
-      "title": "Senior Field Service Technician",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-09-29 12:04:22",
-      "skills": [
-        "Electrical Schematic Reading",
-        "Hydraulic & Pneumatic Diagrams",
-        "PLC & Industrial Controls Troubleshooting",
-        "HVAC/Elevator/Heavy Equipment Service",
-        "Equipment Fault Diagnosis"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/36d86bb0-b201-4d57-88e3-9fb0ff9fa8f6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "68ee381e-ee71-4eca-827c-46797703bfcf",
-      "title": "Senior NDT Inspector (Level II/III)",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-09-29 12:02:34",
-      "skills": [
-        "Radiographic Testing (RT) Interpretation",
-        "Ultrasonic Testing (UT/PAUT)",
-        "MT/PT Indication Evaluation",
-        "ASME Section V & API 510/653",
-        "Weld Defect Acceptance Criteria"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US-based preferred)",
-      "referral_url": "https://jobs.micro1.ai/post/68ee381e-ee71-4eca-827c-46797703bfcf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "1e1e771b-bfaf-479a-8c5d-83637c346603",
       "title": "Norwegian  Transcription Expert",
       "domain_slug": "language-audio",
@@ -5241,28 +5716,6 @@
       "referral_url": "https://jobs.micro1.ai/post/313b5b7a-a6a8-4acf-9842-017d8506a037?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "ca702454-8e86-4446-8654-1f08c2a9d162",
-      "title": "Danish Transcription Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-25 20:53:37",
-      "skills": [
-        "AI Workflows",
-        "Attention to Detail in Quality Evaluation",
-        "Familiarity with Speech Data Collection",
-        "Audio Transcription & Annotation Skills"
-      ],
-      "hourly_min": 24,
-      "hourly_max": 30,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 24.0,
-      "pay_max": 30.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ca702454-8e86-4446-8654-1f08c2a9d162?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "484708eb-dd2c-4d03-bb59-34684e78579f",
       "title": "Mechanical Design Engineer – CAD & Manufacturing",
       "domain_slug": "other",
@@ -5329,36 +5782,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote (US, UK or CAN)",
       "referral_url": "https://jobs.micro1.ai/post/34374189-05e8-4eb2-8506-a831931459c9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b4ce7861-a888-4f57-bb63-c50fb01ae65d",
-      "title": "Software Engineering Specialist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-25 01:39:36",
-      "skills": [
-        "Microsoft PowerPoint",
-        "Slide Reconstruction",
-        "Presentation Design",
-        "Data Visualization",
-        "Visual Storytelling",
-        "Content Editing",
-        "Critical Thinking",
-        "Attenton to Detail",
-        "Written Communication",
-        "Software Engineering",
-        "Technical Documentation",
-        "System Architecture"
-      ],
-      "hourly_min": 150,
-      "hourly_max": 350,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 150.0,
-      "pay_max": 350.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US, UK or CAN)",
-      "referral_url": "https://jobs.micro1.ai/post/b4ce7861-a888-4f57-bb63-c50fb01ae65d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "e107daa7-2cc8-4153-94c2-ff7806bb9d6e",
@@ -5600,28 +6023,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote (US Based)",
       "referral_url": "https://jobs.micro1.ai/post/5a5f50f0-b43a-4cdd-8ba4-b3bfe06dd8b6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5fae0ae4-40c9-4fcb-9923-1d1e38e77c04",
-      "title": "Hospitality Worker (Toast POS User)",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-23 08:27:24",
-      "skills": [
-        "Toast POS",
-        "Restaurant Operations",
-        "Point of Sale (POS) Systems",
-        "Order & Payment Management"
-      ],
-      "hourly_min": 28,
-      "hourly_max": 92,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 28.0,
-      "pay_max": 92.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5fae0ae4-40c9-4fcb-9923-1d1e38e77c04?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4256a2e1-877f-42d5-8fef-20147a0b2db7",
@@ -6036,48 +6437,6 @@
       "referral_url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "772b9251-fab7-4758-b4cd-f681b863974f",
-      "title": "Korean Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:22:43",
-      "skills": [
-        "Audio Transcription",
-        "Attention to detail",
-        "AI Training"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 36.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/772b9251-fab7-4758-b4cd-f681b863974f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b0e8fb90-875e-43dc-b725-15072dee832d",
-      "title": "Japanese Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-19 05:18:45",
-      "skills": [
-        "apanese Language Fluency",
-        "Audio Transcription",
-        "Attention to detail"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 36.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b0e8fb90-875e-43dc-b725-15072dee832d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
       "title": "Educator/ Assessor Writer",
       "domain_slug": "education",
@@ -6296,7 +6655,7 @@
     },
     {
       "job_id": "4fb1fcad-4ff0-4c45-bfa7-2b447295f01b",
-      "title": "Virtual Assistant",
+      "title": "Operations Assistant",
       "domain_slug": "business-operations",
       "date_posted": "2026-09-16 22:03:34",
       "skills": [
@@ -6452,37 +6811,6 @@
       "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/4010d2c5-4a3d-41fe-9e33-28bc218626e5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "1309e64b-2af9-4aa2-8894-d67fa2b7dd60",
-      "title": "Behavioral Analyst ",
-      "domain_slug": "humanities",
-      "date_posted": "2026-09-15 19:20:39",
-      "skills": [
-        "behavioral analysis",
-        "annotation",
-        "scenario-based training development",
-        "identifying behavioral cues (tone, gesture, speech patterns)",
-        "written and verbal communication",
-        "attention to detail",
-        "quality assurance",
-        "remote collaboration tools",
-        "independent work",
-        "documentation",
-        "feedback and evaluation",
-        "process improvement",
-        "training material creation"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "Northern America, Latin America, United Kingdom, Europe, and Oceania.",
-      "referral_url": "https://jobs.micro1.ai/post/1309e64b-2af9-4aa2-8894-d67fa2b7dd60?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "b1316606-46fb-4c3d-a4f9-5a2368e88d70",
@@ -6682,32 +7010,6 @@
       "referral_url": "https://jobs.micro1.ai/post/89d4df86-e9c8-4fba-bd22-ca6e492fd567?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "6fb11cac-25a3-46de-a144-603468023a1c",
-      "title": "Paid Photo Contributor Opportunity (Twins)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-14 20:47:56",
-      "skills": [
-        "digital photography",
-        "video recording",
-        "attention to detail",
-        "following instructions",
-        "independent work",
-        "issue reporting",
-        "data submission",
-        "smartphone operation"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6fb11cac-25a3-46de-a144-603468023a1c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "95006305-f66b-4fba-9a06-339c48f82283",
       "title": "Equity Research Expert",
       "domain_slug": "finance",
@@ -6853,6 +7155,29 @@
       "referral_url": "https://jobs.micro1.ai/post/d2321880-8435-45d5-98c6-c8340aae8c9f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "42252372-06cd-40bf-b7da-52aa839a0666",
+      "title": "AI Agent Power User ",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-09-11 19:19:32",
+      "skills": [
+        "AI Agents",
+        "Rubric-Based Evaluation",
+        "Quality Assurance",
+        "AI Adoption",
+        "Process Improvement"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (US, CA, UK, IE, AU, NZ)",
+      "referral_url": "https://jobs.micro1.ai/post/42252372-06cd-40bf-b7da-52aa839a0666?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "e7c0aec1-251c-4ab7-8be9-f278faeb4540",
       "title": "FreeCAD Expert ",
       "domain_slug": "other",
@@ -6964,25 +7289,6 @@
       "referral_url": "https://jobs.micro1.ai/post/4b15e855-b7ad-4e7c-8ad5-c0713de52f31?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "5ca5feef-a2f0-4da9-ac55-1dfdc01bcdb9",
-      "title": "Cantonese Language Evaluator",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-11 14:02:44",
-      "skills": [
-        "Cantonese"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 40,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 40.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5ca5feef-a2f0-4da9-ac55-1dfdc01bcdb9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "e07e971f-2ab2-4ce7-9351-33f086f4834f",
       "title": "Paid Photo Contributor Opportunity (Aged 50+)",
       "domain_slug": "generalist",
@@ -7031,28 +7337,6 @@
       "referral_url": "https://jobs.micro1.ai/post/912dac5d-2d0b-4c32-a67b-89404bcf195b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "6cf1339a-ab22-447e-8fa5-2ce79407fa2b",
-      "title": "Paid Photo Contributor Opportunity (Siblings)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-09-09 21:24:44",
-      "skills": [
-        "Selfies",
-        "Video Recordings",
-        "Attention to Detail",
-        "Follow Instructions"
-      ],
-      "hourly_min": 139,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 139.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6cf1339a-ab22-447e-8fa5-2ce79407fa2b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "300552bc-f87f-4511-aa7a-9fcf5a483f37",
       "title": "Customer Service Expert",
       "domain_slug": "retail-hospitality",
@@ -7098,34 +7382,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/88da544c-5d28-4835-bde7-0272a2a1a4eb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "84317e04-23ca-41b5-8df8-87f7557f0541",
-      "title": "Visual Creative Expert ",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-09-08 22:16:44",
-      "skills": [
-        "visual curation",
-        "artistic judgment",
-        "image evaluation",
-        "written communication",
-        "collaboration",
-        "photography",
-        "art direction",
-        "graphic design",
-        "illustration",
-        "visual trend awareness"
-      ],
-      "hourly_min": 21,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 21.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/84317e04-23ca-41b5-8df8-87f7557f0541?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "c37ac96c-2116-4c5e-92c7-180da9b502db",
@@ -7465,30 +7721,27 @@
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "c23e27f9-f0a5-4165-9f1c-255f78da2a79",
-      "title": "Member of Legal Staff, Corporate Counsel",
-      "domain_slug": "law",
-      "date_posted": "2026-08-28 22:17:04",
+      "job_id": "43067af3-efeb-435d-aeb9-6d1de8c2af0a",
+      "title": "Music & Sound Annotation Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-09-02 07:41:44",
       "skills": [
-        "Venture Financings",
-        "Corporate Governance",
-        "Equity Administration",
-        "Transaction Execution",
-        "Legal Automation"
+        "analytical listening",
+        "music theory knowledge",
+        "audio annotation",
+        "attention to detail",
+        "written communication"
       ],
-      "hourly_min": 50,
-      "hourly_max": 55,
+      "hourly_min": 30,
+      "hourly_max": 45,
       "monthly_min": null,
       "monthly_max": null,
-      "yearly": {
-        "max": 370000,
-        "min": 345000
-      },
-      "pay_min": 345000.0,
-      "pay_max": 370000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote (opportunity to work from SF office)",
-      "referral_url": "https://jobs.micro1.ai/post/c23e27f9-f0a5-4165-9f1c-255f78da2a79?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/43067af3-efeb-435d-aeb9-6d1de8c2af0a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "bd0da3d2-f365-4e57-9a63-58939315b67c",
@@ -7626,44 +7879,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, Open Globally",
       "referral_url": "https://jobs.micro1.ai/post/51a65c2c-07dd-4307-aba6-f7c4af17311c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "40ace067-cec8-4998-bb75-067a565c23b3",
-      "title": "Korean Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-11 12:17:37",
-      "skills": [
-        "Communication",
-        "Bilingual",
-        "Linguists"
-      ],
-      "hourly_min": 65,
-      "hourly_max": 98,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 65.0,
-      "pay_max": 98.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/40ace067-cec8-4998-bb75-067a565c23b3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "26044f07-dc45-4a01-8a5e-8154914a1267",
-      "title": "Japanese Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-11 12:02:40",
-      "skills": [],
-      "hourly_min": 65,
-      "hourly_max": 98,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 65.0,
-      "pay_max": 98.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/26044f07-dc45-4a01-8a5e-8154914a1267?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "14883aba-fc23-4ca4-8935-9d8d72794668",
