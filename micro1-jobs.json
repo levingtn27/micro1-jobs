@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-10-29T08:30:02Z",
+  "updated_at": "2026-10-29T12:30:07Z",
   "count": 338,
   "jobs": [
+    {
+      "job_id": "48438c1e-4297-480d-8fc6-f2fa155dabcf",
+      "title": "Marine Geology SME - Core Logging & Sedimentology",
+      "domain_slug": "other",
+      "date_posted": "2026-10-29 10:03:24",
+      "skills": [
+        "Marine Geology",
+        "Sediment & Ocean Floor Basics",
+        "Core Logging & Sampling",
+        "Soil & Rock Layer Identification",
+        "Sediment Identification"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/48438c1e-4297-480d-8fc6-f2fa155dabcf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f000899c-4d4b-4e53-b7be-66ee789ec5ce",
+      "title": "Forensic SME - Firearm & Toolmark Examination",
+      "domain_slug": "other",
+      "date_posted": "2026-10-29 09:41:49",
+      "skills": [
+        "Forensic Firearms Analysis",
+        "Toolmark Identification",
+        "Ballistics Casework",
+        "Microscopic Comparison",
+        "Forensic Laboratory Standards"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f000899c-4d4b-4e53-b7be-66ee789ec5ce?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "e6d18bd1-ba27-448f-aed0-d308cc88291a",
+      "title": "Aviation Subject Matter Expert - Commercial Pilot / Flight Ops",
+      "domain_slug": "other",
+      "date_posted": "2026-10-29 09:16:51",
+      "skills": [
+        "Instrument Approach Briefing",
+        "FAA Approach Charts",
+        "Part 135 Operations",
+        "IFR Procedures",
+        "Aviation Safety",
+        "Flight Operations"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e6d18bd1-ba27-448f-aed0-d308cc88291a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "8c0ddeba-5240-4059-9e61-544dd2c8292f",
       "title": "Software Engineer (Electron.js)",
@@ -1021,66 +1091,6 @@
       "pay_unit": "hour",
       "location_raw": "United States, Remote",
       "referral_url": "https://jobs.micro1.ai/post/f0a479de-d301-42c3-93ec-b68b0074ce6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7a95bb30-2730-4338-9b65-0b4b7319467a",
-      "title": "Consulting Specialist",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-10-27 04:56:51",
-      "skills": [
-        "Microsoft PowerPoint",
-        "Slide Reconstruction",
-        "Presentation Design",
-        "Data Visualization",
-        "Visual Storytelling",
-        "Content Editing",
-        "Critical Thinking",
-        "Attenton to Detail",
-        "Written Communication",
-        "Management Consulting",
-        "Storylining",
-        "Client Readouts"
-      ],
-      "hourly_min": 150,
-      "hourly_max": 350,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 150.0,
-      "pay_max": 350.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US, UK, CAN, AUS)",
-      "referral_url": "https://jobs.micro1.ai/post/7a95bb30-2730-4338-9b65-0b4b7319467a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e9bc2f1f-d2d0-4d6e-a43a-415ec8d657be",
-      "title": "Finance Specialist",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-27 04:13:53",
-      "skills": [
-        "Microsoft PowerPoint",
-        "Slide Reconstruction",
-        "Presentation Design",
-        "Data Visualization",
-        "Visual Storytelling",
-        "Content Editing",
-        "Critical Thinking",
-        "Attenton to Detail",
-        "Written Communication",
-        "Financial Analysis",
-        "Valuation",
-        "Investor Materials"
-      ],
-      "hourly_min": 150,
-      "hourly_max": 350,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 150.0,
-      "pay_max": 350.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US, UK, CAN, AUS)",
-      "referral_url": "https://jobs.micro1.ai/post/e9bc2f1f-d2d0-4d6e-a43a-415ec8d657be?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "6009f546-2ac3-4072-9f5a-1bd8094154ef",
@@ -3492,26 +3502,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/a58e1af4-14c2-42a6-8e48-301448d8e61c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
-      "title": "Education Practitioner - Learning & Assessment Specialist",
-      "domain_slug": "education",
-      "date_posted": "2026-10-15 04:52:00",
-      "skills": [
-        "instructional designers",
-        "educators"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c3af6520-9ea8-4717-b8c6-2b9dee8ee470?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "84c0959f-ea1b-4bf3-8783-4d74373bb4b7",
