@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-10-29T00:30:25Z",
-  "count": 341,
+  "updated_at": "2026-10-29T04:30:04Z",
+  "count": 338,
   "jobs": [
+    {
+      "job_id": "8c0ddeba-5240-4059-9e61-544dd2c8292f",
+      "title": "Software Engineer (Electron.js)",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-10-29 03:56:02",
+      "skills": [
+        "Electron.js",
+        "Typescript",
+        "Node.js",
+        "Cross-platform Apps"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/8c0ddeba-5240-4059-9e61-544dd2c8292f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "8d2f7ffc-121b-46a2-aef6-fcd1b53f96ff",
       "title": "Senior Intelligence Analyst – National Security",
@@ -1126,31 +1148,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, global",
       "referral_url": "https://jobs.micro1.ai/post/20fa6ad3-5691-4b61-9e33-27aad6b1bd6d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "57f7606f-5b4f-42a5-af38-e4b148f2c06a",
-      "title": "Paid Photo Contributor Opportunity (Egypt-based)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-10-26 08:43:53",
-      "skills": [
-        "digital photography",
-        "video recording",
-        "attention to detail",
-        "following instructions",
-        "independent work",
-        "image and video quality assessment",
-        "issue reporting"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "Egypt, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/57f7606f-5b4f-42a5-af38-e4b148f2c06a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "a7fec975-aeb3-43d7-bcb9-0a3442cfd5b8",
@@ -4939,56 +4936,6 @@
       "referral_url": "https://jobs.micro1.ai/post/31dc936e-0f29-441f-baf9-91c2ff9cc7d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "15258a67-70c6-418b-aabc-af3bb643a336",
-      "title": "Paid Photo Contributor Opportunity (Alaska-based)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-10-07 14:05:59",
-      "skills": [
-        "digital photography",
-        "video recording",
-        "attention to detail",
-        "following instructions",
-        "independent work",
-        "image and video quality assessment",
-        "issue reporting"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/15258a67-70c6-418b-aabc-af3bb643a336?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6fb2682b-0443-47ad-a9e4-dc56e26d053b",
-      "title": "Paid Photo Contributor Opportunity (Hawaii-based)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-10-07 14:04:56",
-      "skills": [
-        "digital photography",
-        "video recording",
-        "attention to detail",
-        "following instructions",
-        "independent work",
-        "image and video quality assessment",
-        "issue reporting"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6fb2682b-0443-47ad-a9e4-dc56e26d053b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "190225df-d67a-402d-bd7f-d9c7c40bb693",
       "title": "Game Developer",
       "domain_slug": "software-engineering",
@@ -7778,28 +7725,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/4b15e855-b7ad-4e7c-8ad5-c0713de52f31?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e07e971f-2ab2-4ce7-9351-33f086f4834f",
-      "title": "Paid Photo Contributor Opportunity (Aged 50+)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-09-10 22:01:26",
-      "skills": [
-        "Selfies",
-        "Video Recordings",
-        "Attention to Detail",
-        "Follow Instructions"
-      ],
-      "hourly_min": 139,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 139.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e07e971f-2ab2-4ce7-9351-33f086f4834f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "912dac5d-2d0b-4c32-a67b-89404bcf195b",
