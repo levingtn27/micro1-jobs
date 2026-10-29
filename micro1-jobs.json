@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-29T16:30:06Z",
+  "updated_at": "2026-10-29T20:30:04Z",
   "count": 339,
   "jobs": [
+    {
+      "job_id": "4e349131-665b-4300-9b7c-1cc6e051eb57",
+      "title": "Litigation Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-10-29 19:37:58",
+      "skills": [
+        "Explaining Legal Reasoning to Others",
+        "Evidence Synthesis and Case Narrative",
+        "Legal Research and Brief Writing",
+        "Judgment Under Conflicting Authority",
+        "Attention to Detail",
+        "Objective Standards for Legal Work"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/4e349131-665b-4300-9b7c-1cc6e051eb57?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "206a240f-67cf-47d4-8273-6e62ad89fd5c",
       "title": "Intelligence Operations & Collection Expert",
@@ -7761,30 +7785,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/912dac5d-2d0b-4c32-a67b-89404bcf195b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "300552bc-f87f-4511-aa7a-9fcf5a483f37",
-      "title": "Customer Service Expert",
-      "domain_slug": "retail-hospitality",
-      "date_posted": "2026-09-09 09:28:16",
-      "skills": [
-        "phone calls",
-        "english communication",
-        "customer service",
-        "captcha",
-        "scheduling",
-        "appointment handling"
-      ],
-      "hourly_min": 18,
-      "hourly_max": 28,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 18.0,
-      "pay_max": 28.0,
-      "pay_unit": "hour",
-      "location_raw": "Latam remote",
-      "referral_url": "https://jobs.micro1.ai/post/300552bc-f87f-4511-aa7a-9fcf5a483f37?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "88da544c-5d28-4835-bde7-0272a2a1a4eb",
