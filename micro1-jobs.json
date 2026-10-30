@@ -1,7 +1,74 @@
 {
-  "updated_at": "2026-10-29T20:30:04Z",
+  "updated_at": "2026-10-30T00:30:07Z",
   "count": 339,
   "jobs": [
+    {
+      "job_id": "448f7fb3-a4cf-44e8-9a13-de2de0f257a1",
+      "title": "Imagery Analyst —Imagery Analyst - AI/ML Training Data",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-29 23:23:13",
+      "skills": [
+        "Data labeling",
+        "Data annotation",
+        "Labeling accuracy",
+        "Attention to detail"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, U.S.-based",
+      "referral_url": "https://jobs.micro1.ai/post/448f7fb3-a4cf-44e8-9a13-de2de0f257a1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "548b77cc-d398-414f-a92d-4ba203bb1c31",
+      "title": "Imagery Analyst — Drone & Maritime",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-29 22:53:57",
+      "skills": [
+        "Data labeling",
+        "Data annotation",
+        "Labeling accuracy",
+        "Attention to detail"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, U.S.-based",
+      "referral_url": "https://jobs.micro1.ai/post/548b77cc-d398-414f-a92d-4ba203bb1c31?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7b6e12c7-b37a-480f-a0f6-d40b1b2a7c0b",
+      "title": "Defense Analyst",
+      "domain_slug": "other",
+      "date_posted": "2026-10-29 21:47:07",
+      "skills": [
+        "military operations analysis",
+        "defense research",
+        "conflict analysis",
+        "writing and communication",
+        "critical thinking"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7b6e12c7-b37a-480f-a0f6-d40b1b2a7c0b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "4e349131-665b-4300-9b7c-1cc6e051eb57",
       "title": "Litigation Attorney",
@@ -1446,34 +1513,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c4d9c64f-c30e-44fe-a32b-8ee6569b47b8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7feee246-52db-48df-880c-58a87bbc9c65",
-      "title": "Defense Analyst",
-      "domain_slug": "other",
-      "date_posted": "2026-10-24 07:47:09",
-      "skills": [
-        "military operations analysis",
-        "defense research",
-        "conflict analysis",
-        "operational planning",
-        "international humanitarian law (ihl)",
-        "rules of engagement (roe)",
-        "analytical reasoning",
-        "written communication",
-        "scenario evaluation",
-        "attention to detail"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/7feee246-52db-48df-880c-58a87bbc9c65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "b41b55bc-97ef-473f-ad12-f7434a652fda",
@@ -8347,48 +8386,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3751d160-6ea1-45e9-8c40-7af439059844",
-      "title": "Machine Learning Engineer",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-04-17 10:38:54",
-      "skills": [
-        "Python",
-        "Machine Learning",
-        "MongoDB"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3751d160-6ea1-45e9-8c40-7af439059844?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f55c5e8b-d0e2-427c-b84f-7642e66e263f",
-      "title": "Backend C#/.NET Developer ",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-04-17 10:33:58",
-      "skills": [
-        "C#",
-        ".NET",
-        "MySQL"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f55c5e8b-d0e2-427c-b84f-7642e66e263f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3dda7a92-1d6d-4e5e-ae91-074ab9674a6f",
