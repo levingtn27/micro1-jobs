@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-10-30T16:30:04Z",
-  "count": 337,
+  "updated_at": "2026-10-30T20:30:05Z",
+  "count": 333,
   "jobs": [
+    {
+      "job_id": "b07a34c5-1ab7-48f1-b819-de71092f4886",
+      "title": "Senior Forward Deployed Engineer, U.S. Government",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-30 20:05:16",
+      "skills": [
+        "Agentic AI & LLM Systems Engineering",
+        "Python & Production Software Engineering",
+        "ML Infrastructure & Model Evaluation",
+        "Technical Leadership & Forward Deployment"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": "5000.00",
+      "monthly_max": "7000.00",
+      "yearly": {
+        "max": 500000,
+        "min": 300000
+      },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote (requires relocating to DC area)",
+      "referral_url": "https://jobs.micro1.ai/post/b07a34c5-1ab7-48f1-b819-de71092f4886?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "98a71aa7-8755-4092-aca1-e92e26774c24",
+      "title": "Forward Deployed Engineer, U.S. Government",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-30 19:43:39",
+      "skills": [
+        "Agentic AI & LLM Development",
+        "Python Software Engineering",
+        "ML Infrastructure & Data Pipelines",
+        "Forward Deployment & Technical Problem-Solving"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": "5000.00",
+      "monthly_max": "7000.00",
+      "yearly": {
+        "max": 300000,
+        "min": 200000
+      },
+      "pay_min": 200000.0,
+      "pay_max": 300000.0,
+      "pay_unit": "year",
+      "location_raw": "Greater Washington DC area (onsite requirement 3-4x per week)",
+      "referral_url": "https://jobs.micro1.ai/post/98a71aa7-8755-4092-aca1-e92e26774c24?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "77d41530-6c46-4946-bdfc-c08bc4fce87a",
       "title": "Federal Civil Litigation Attorney",
@@ -368,7 +418,7 @@
     },
     {
       "job_id": "448f7fb3-a4cf-44e8-9a13-de2de0f257a1",
-      "title": "Imagery Analyst —Imagery Analyst - AI/ML Training Data",
+      "title": "Imagery Analyst —AI/ML Training Data",
       "domain_slug": "generalist",
       "date_posted": "2026-10-29 23:23:13",
       "skills": [
@@ -4671,31 +4721,6 @@
       "referral_url": "https://jobs.micro1.ai/post/8f201c75-ddff-42d1-93a6-c88bb330b7cf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "ec0bccad-838c-44ff-8945-0a6d409453df",
-      "title": "Forward Deployed Engineer, U.S. Government",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-10-10 06:03:30",
-      "skills": [
-        "Python",
-        "LLM Systems",
-        "Data Pipelines",
-        "Distributed Systems"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 60,
-      "monthly_min": "5000.00",
-      "monthly_max": "7000.00",
-      "yearly": {
-        "max": 500000,
-        "min": 300000
-      },
-      "pay_min": 300000.0,
-      "pay_max": 500000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote (requires relocating to DC area)",
-      "referral_url": "https://jobs.micro1.ai/post/ec0bccad-838c-44ff-8945-0a6d409453df?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "90f04fad-832c-44b2-b942-311422a5841f",
       "title": "Internal Medicine Hospitalist",
       "domain_slug": "medicine",
@@ -5997,29 +6022,6 @@
       "referral_url": "https://jobs.micro1.ai/post/59c51e7f-cfb7-4008-99b2-59d23446852b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "d0f83737-b673-439b-a66f-0f23bcd2b707",
-      "title": "Generalist — U.S. Tax Workflow Evaluation",
-      "domain_slug": "finance",
-      "date_posted": "2026-09-30 14:31:34",
-      "skills": [
-        "Financial Literacy",
-        "Tax Filing",
-        "Data Review",
-        "Rubric Evaluation",
-        "Google Workspace"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d0f83737-b673-439b-a66f-0f23bcd2b707?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
       "title": "Compliance Attorney",
       "domain_slug": "law",
@@ -6929,97 +6931,6 @@
       "referral_url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "9ec7d467-0dd7-44c2-aa7c-dc99df803e65",
-      "title": "Educator/ Assessor Writer",
-      "domain_slug": "education",
-      "date_posted": "2026-09-18 17:42:19",
-      "skills": [
-        "Technical Writing",
-        "Content Evaluation",
-        "Written Communication",
-        "Attention To detail",
-        "Critical Analysis",
-        "Editing",
-        "Digital Content Review Platforms",
-        "Independent Work",
-        "Virtual Collaboration",
-        "Rubric Design",
-        "Assessment",
-        "Instructional Design",
-        "Grading and Marking"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/9ec7d467-0dd7-44c2-aa7c-dc99df803e65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c99724a5-d4e7-48d0-92b1-73dde88ad9c8",
-      "title": "Lawyer/Legal Writer",
-      "domain_slug": "law",
-      "date_posted": "2026-09-18 17:08:03",
-      "skills": [
-        "Technical Writing",
-        "Content Evaluation",
-        "Written Communication",
-        "Attention To detail",
-        "Critical Analysis",
-        "Editing",
-        "Digital Content Review Platforms",
-        "Independent Work",
-        "Virtual Collaboration",
-        "Legal Writing",
-        "Legal Drafting",
-        "Document Review"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c99724a5-d4e7-48d0-92b1-73dde88ad9c8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "86213f23-d13c-4390-a865-8e3c1cb52eb0",
-      "title": "Journalist/Writer",
-      "domain_slug": "other",
-      "date_posted": "2026-09-18 15:51:08",
-      "skills": [
-        "Technical Writing",
-        "Content Evaluation",
-        "Written Communication",
-        "Attention To detail",
-        "Critical Analysis",
-        "Editing",
-        "Digital Content Review Platforms",
-        "Independent Work",
-        "Virtual Collaboration",
-        "Journalism",
-        "Writing",
-        "Fact-Checking"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 140,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/86213f23-d13c-4390-a865-8e3c1cb52eb0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "d130c45f-c85a-4ce6-9a12-53c980a63be7",
       "title": "Medical Communications Manager",
       "domain_slug": "sciences-research",
@@ -7584,29 +7495,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d2321880-8435-45d5-98c6-c8340aae8c9f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "42252372-06cd-40bf-b7da-52aa839a0666",
-      "title": "AI Agent Power User ",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-09-11 19:19:32",
-      "skills": [
-        "AI Agents",
-        "Rubric-Based Evaluation",
-        "Quality Assurance",
-        "AI Adoption",
-        "Process Improvement"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (US, CA, UK, IE, AU, NZ)",
-      "referral_url": "https://jobs.micro1.ai/post/42252372-06cd-40bf-b7da-52aa839a0666?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "e7c0aec1-251c-4ab7-8be9-f278faeb4540",
