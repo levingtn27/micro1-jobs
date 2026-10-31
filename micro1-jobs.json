@@ -1,10 +1,105 @@
 {
-  "updated_at": "2026-10-31T08:30:05Z",
-  "count": 354,
+  "updated_at": "2026-10-31T12:30:10Z",
+  "count": 357,
   "jobs": [
     {
+      "job_id": "6b363545-5010-4e20-8209-b50e93b3c50f",
+      "title": "Portuguese Bilingual Expert (Brazil)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-31 10:02:42",
+      "skills": [
+        "Portuguese"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6b363545-5010-4e20-8209-b50e93b3c50f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "54ed8357-1061-4585-bdfa-b75ada6eabf9",
+      "title": "Korean Bilingual Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-31 09:56:46",
+      "skills": [
+        "Korean"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/54ed8357-1061-4585-bdfa-b75ada6eabf9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6ff0ce32-fade-4377-bdd3-8c3879635728",
+      "title": "French Bilingual Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-31 09:55:58",
+      "skills": [
+        "French"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6ff0ce32-fade-4377-bdd3-8c3879635728?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "73be52cc-daeb-4b86-aa28-79ab3ccab25c",
+      "title": "Japanese Bilingual Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-31 09:50:32",
+      "skills": [
+        "Japanese"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/73be52cc-daeb-4b86-aa28-79ab3ccab25c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a07dcffa-e3c1-4b8f-887f-26d55c2bb1b7",
+      "title": "German Bilingual Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-10-31 09:50:21",
+      "skills": [
+        "German"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a07dcffa-e3c1-4b8f-887f-26d55c2bb1b7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "94ac7255-dbb8-4277-a858-c03adf697b89",
-      "title": "Voice Recorder (Hindi + English)",
+      "title": "Hindi Bilingual Expert",
       "domain_slug": "language-audio",
       "date_posted": "2026-10-31 05:13:42",
       "skills": [
@@ -5612,7 +5707,7 @@
     },
     {
       "job_id": "83b89d5d-866e-46ab-b1ae-7c87fbcd1c75",
-      "title": "Spanish Voice Actor (Mexico) ",
+      "title": "Spanish Bilingual Expert (Mexico) ",
       "domain_slug": "language-audio",
       "date_posted": "2026-10-06 05:09:45",
       "skills": [],
@@ -8359,6 +8454,29 @@
       "referral_url": "https://jobs.micro1.ai/post/382cf385-16da-4536-8a32-95947e0197a7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "5707c314-da3f-4736-ac12-dfe66421dc45",
+      "title": "Indonesian Bilingual Expert",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-08-14 01:43:50",
+      "skills": [
+        "English b2+",
+        "attention to detail",
+        "written communication",
+        "verbal communication",
+        "indonesian native proficiency"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/5707c314-da3f-4736-ac12-dfe66421dc45?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "51a65c2c-07dd-4307-aba6-f7c4af17311c",
       "title": "Open Source GitHub Maintainer",
       "domain_slug": "software-engineering",
@@ -8546,25 +8664,6 @@
       "referral_url": "https://jobs.micro1.ai/post/5c02f61b-b2b2-46a6-a058-26a1f6e64cf7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "0a44ab89-f375-4163-a5bf-8b2410d3c425",
-      "title": "Voice Recorder (French + English)",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-08-13 10:23:34",
-      "skills": [
-        "French"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0a44ab89-f375-4163-a5bf-8b2410d3c425?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "0e76b5a5-9305-47cc-8c1a-86f03e28f4f6",
       "title": "Arabic Voice Actor (Egypt dialect)",
       "domain_slug": "language-audio",
@@ -8614,31 +8713,6 @@
       "referral_url": "https://jobs.micro1.ai/post/c6094969-6b8c-47ca-a40b-0bb5b53d0885?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "48db265c-24db-46bd-b21d-8448c6cd5d0e",
-      "title": "German Language Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-07-14 08:49:15",
-      "skills": [
-        "German Proficiency",
-        "Speech Data Collection",
-        "AI Workflows",
-        "Transcription",
-        "Annotation Skills",
-        "Phonetics",
-        "Pronunciation"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/48db265c-24db-46bd-b21d-8448c6cd5d0e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "14883aba-fc23-4ca4-8935-9d8d72794668",
       "title": "Small/Medium Business – Robotics Data Collection Partner",
       "domain_slug": "robotics",
@@ -8680,27 +8754,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3dda7a92-1d6d-4e5e-ae91-074ab9674a6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0e19dc4e-47f0-4245-b315-a41795cfd171",
-      "title": "Portuguese Language Expert (Brazil)",
-      "domain_slug": "language-audio",
-      "date_posted": "2025-12-09 04:15:43",
-      "skills": [
-        "Data Annotation",
-        "Bilingual Proficiency",
-        "Linguistics"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0e19dc4e-47f0-4245-b315-a41795cfd171?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     }
   ]
 }
