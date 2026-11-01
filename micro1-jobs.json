@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-10-31T20:30:02Z",
-  "count": 355,
+  "updated_at": "2026-11-01T00:30:04Z",
+  "count": 354,
   "jobs": [
+    {
+      "job_id": "13caa411-9f96-46b1-a762-9b9bd0604cfb",
+      "title": "Enterprise Client Partner, U.S. Government",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-31 22:52:19",
+      "skills": [
+        "Client Acquisition",
+        "Outbound Prospecting",
+        "Enterprise Parnerships",
+        "Enterprise AI"
+      ],
+      "hourly_min": 2,
+      "hourly_max": 3,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 450000,
+        "min": 250000
+      },
+      "pay_min": 250000.0,
+      "pay_max": 450000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote (DC area)",
+      "referral_url": "https://jobs.micro1.ai/post/13caa411-9f96-46b1-a762-9b9bd0604cfb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "bff394b3-ebf8-462e-bfaa-9e9fbe4daae7",
       "title": "Music & Sound Annotation Expert",
@@ -4656,31 +4681,6 @@
       "referral_url": "https://jobs.micro1.ai/post/83ed9d66-130e-4c8f-8e9f-b1d18acdcf98?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "f397a599-7705-480b-a90a-f40e009b8c90",
-      "title": "Enterprise Client Partner, U.S. Government",
-      "domain_slug": "sales-marketing",
-      "date_posted": "2026-10-12 23:49:04",
-      "skills": [
-        "Client Acquisition",
-        "Outbound Prospecting",
-        "Enterprise Parnerships",
-        "Enterprise AI"
-      ],
-      "hourly_min": 2,
-      "hourly_max": 3,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 400000,
-        "min": 220000
-      },
-      "pay_min": 220000.0,
-      "pay_max": 400000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote (DC area)",
-      "referral_url": "https://jobs.micro1.ai/post/f397a599-7705-480b-a90a-f40e009b8c90?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "0406acdc-9e38-4f22-a8b5-9e9e228c9bb1",
       "title": "Competitive Data Scientist (Kaggle)",
       "domain_slug": "ai-machine-learning",
@@ -5487,7 +5487,7 @@
     },
     {
       "job_id": "479e1aa8-2d92-42b7-a77c-aa83369cece8",
-      "title": "Recruitment Marketing Specialist",
+      "title": "Referral Partnerships Manager",
       "domain_slug": "sales-marketing",
       "date_posted": "2026-10-07 20:47:52",
       "skills": [
@@ -8224,29 +8224,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "43067af3-efeb-435d-aeb9-6d1de8c2af0a",
-      "title": "Music & Sound Annotation Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-09-02 07:41:44",
-      "skills": [
-        "analytical listening",
-        "music theory knowledge",
-        "audio annotation",
-        "attention to detail",
-        "written communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/43067af3-efeb-435d-aeb9-6d1de8c2af0a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
