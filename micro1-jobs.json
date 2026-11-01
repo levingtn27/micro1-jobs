@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T00:30:04Z",
-  "count": 354,
+  "updated_at": "2026-11-01T04:30:03Z",
+  "count": 348,
   "jobs": [
     {
       "job_id": "13caa411-9f96-46b1-a762-9b9bd0604cfb",
@@ -7274,59 +7274,6 @@
       "referral_url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "d130c45f-c85a-4ce6-9a12-53c980a63be7",
-      "title": "Medical Communications Manager",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-18 15:42:25",
-      "skills": [
-        "communication",
-        "medical Writing",
-        "regulatory"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d130c45f-c85a-4ce6-9a12-53c980a63be7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5ed4068f-177a-4ed2-9642-a9d4ba45be39",
-      "title": "Clinical Publications Author",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-18 08:39:32",
-      "skills": [
-        "medical writing",
-        "scientific publication authoring",
-        "peer-reviewed manuscript preparation",
-        "publication guidelines (icmje, gpp3/gpp2022, consort)",
-        "journal submission workflows",
-        "clinical data interpretation",
-        "data verification",
-        "structured feedback writing",
-        "publication ethics (equator network, strobe)",
-        "advanced written communication",
-        "collaboration",
-        "attention to detail",
-        "critical thinking",
-        "therapeutic area expertise (oncology, immunology, rare diseases)"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5ed4068f-177a-4ed2-9642-a9d4ba45be39?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "d2653e3c-8317-4405-b4ec-27b45b786b93",
       "title": "Strategic Project Lead",
       "domain_slug": "generalist",
@@ -8120,27 +8067,6 @@
       "referral_url": "https://jobs.micro1.ai/post/361f9b97-4179-4631-a026-514efee334bc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "a5de9ba8-ba95-4737-b985-327e48c2b8d9",
-      "title": "CFD Engineer",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-09-07 10:22:12",
-      "skills": [
-        "CFD engineering",
-        "Aerodynamics",
-        "fluid-dynamics"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a5de9ba8-ba95-4737-b985-327e48c2b8d9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "c9a1355a-74bc-4300-8c68-b88c5a88803f",
       "title": "Attorney",
       "domain_slug": "law",
@@ -8163,26 +8089,6 @@
       "referral_url": "https://jobs.micro1.ai/post/c9a1355a-74bc-4300-8c68-b88c5a88803f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
-      "title": "Vlogger (Insta360, DJI Osmo, GoPro MAX)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-04 11:27:09",
-      "skills": [
-        "video recording",
-        "attention to detail"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 15.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0f2c4f59-00c6-4296-a9dc-fb7b93efd31b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "9d57fd44-b189-41ca-a0d4-2fe3903eec41",
       "title": "360° Video Recorder (Insta360 / GoPro MAX)",
       "domain_slug": "robotics",
@@ -8203,27 +8109,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "04955b6f-5026-498a-8143-5ec852cbd526",
-      "title": "Exocentric Video Recorder",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-03 10:34:54",
-      "skills": [
-        "video recording",
-        "attention to detail",
-        "camera setup"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 15.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/04955b6f-5026-498a-8143-5ec852cbd526?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
@@ -8644,28 +8529,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/14883aba-fc23-4ca4-8935-9d8d72794668?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3dda7a92-1d6d-4e5e-ae91-074ab9674a6f",
-      "title": "Big Data Engineer",
-      "domain_slug": "data-analysis",
-      "date_posted": "2026-04-17 06:07:31",
-      "skills": [
-        "big data",
-        "Python",
-        "databases",
-        "data engineering"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3dda7a92-1d6d-4e5e-ae91-074ab9674a6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     }
   ]
 }
