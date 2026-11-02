@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T00:30:02Z",
-  "count": 348,
+  "updated_at": "2026-11-02T04:30:02Z",
+  "count": 347,
   "jobs": [
     {
       "job_id": "b3160bd4-f048-4273-9ad0-066d0f53801c",
@@ -4297,31 +4297,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote (Worldwide)",
       "referral_url": "https://jobs.micro1.ai/post/29120525-ef73-4aa9-9a77-9fa59009d4d3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a58e1af4-14c2-42a6-8e48-301448d8e61c",
-      "title": "Applied Scientist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-10-15 13:25:52",
-      "skills": [
-        "Python",
-        "Machine Learning",
-        "Statistics",
-        "Data Analysis",
-        "Experimentation",
-        "Pandas",
-        "Data Modeling"
-      ],
-      "hourly_min": 245,
-      "hourly_max": 280,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 245.0,
-      "pay_max": 280.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a58e1af4-14c2-42a6-8e48-301448d8e61c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "84c0959f-ea1b-4bf3-8783-4d74373bb4b7",
