@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-02T16:30:06Z",
-  "count": 349,
+  "updated_at": "2026-11-02T20:30:04Z",
+  "count": 350,
   "jobs": [
+    {
+      "job_id": "006906b8-8418-4c24-ba6c-bf5bb2f751c4",
+      "title": "Finance Research Expert",
+      "domain_slug": "finance",
+      "date_posted": "2026-11-02 16:19:38",
+      "skills": [
+        "Equity Research",
+        "FP&A",
+        "Corporate Finance",
+        "Accounting or Audit",
+        "Investor Relations",
+        "Credit Analysis"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 85,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/006906b8-8418-4c24-ba6c-bf5bb2f751c4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "fc778864-9bfa-4750-95da-4859df2e8caf",
       "title": " Godot Game Developer",
