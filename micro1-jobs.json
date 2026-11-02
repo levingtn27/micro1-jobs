@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T20:30:02Z",
-  "count": 349,
+  "updated_at": "2026-11-02T00:30:02Z",
+  "count": 348,
   "jobs": [
     {
       "job_id": "b3160bd4-f048-4273-9ad0-066d0f53801c",
@@ -8110,28 +8110,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c9a1355a-74bc-4300-8c68-b88c5a88803f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9d57fd44-b189-41ca-a0d4-2fe3903eec41",
-      "title": "360° Video Recorder (Insta360 / GoPro MAX)",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-03 16:35:42",
-      "skills": [
-        "360° Video Recording",
-        "Camera Mounts",
-        "Video Upload",
-        "Equipment Handling"
-      ],
-      "hourly_min": 15,
-      "hourly_max": 20,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 15.0,
-      "pay_max": 20.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
