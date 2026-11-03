@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T00:30:17Z",
-  "count": 360,
+  "updated_at": "2026-11-03T04:30:04Z",
+  "count": 359,
   "jobs": [
     {
       "job_id": "feaa2ae3-7932-4053-bc54-8b62d27f2a52",
@@ -1287,29 +1287,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/48438c1e-4297-480d-8fc6-f2fa155dabcf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f000899c-4d4b-4e53-b7be-66ee789ec5ce",
-      "title": "Forensic SME - Firearm & Toolmark Examination",
-      "domain_slug": "other",
-      "date_posted": "2026-10-29 09:41:49",
-      "skills": [
-        "Forensic Firearms Analysis",
-        "Toolmark Identification",
-        "Ballistics Casework",
-        "Microscopic Comparison",
-        "Forensic Laboratory Standards"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f000899c-4d4b-4e53-b7be-66ee789ec5ce?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "e6d18bd1-ba27-448f-aed0-d308cc88291a",
