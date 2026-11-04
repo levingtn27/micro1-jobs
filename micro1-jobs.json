@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-11-04T08:30:04Z",
-  "count": 399,
+  "updated_at": "2026-11-04T12:30:07Z",
+  "count": 402,
   "jobs": [
+    {
+      "job_id": "72cb0145-c070-4a38-bee7-633f8d50ae55",
+      "title": "Materials Scientist (Nanoparticle Sizing & Lot Release)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-04 09:22:48",
+      "skills": [
+        "Transmission Electron Microscopy (TEM)",
+        "Scanning Electron Microscopy (SEM)",
+        "Nanoparticle Sizing",
+        "Particle Size Distribution",
+        "Quality Control",
+        "Lot Release",
+        "Nanomaterials"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/72cb0145-c070-4a38-bee7-633f8d50ae55?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a4ff5ab3-735d-474b-a5ed-46a460aae0a4",
+      "title": "Senior Protection Engineer (Medium Voltage / Utility Distribution)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-04 08:45:47",
+      "skills": [
+        "Protective Relaying",
+        "Relay Settings",
+        "Medium Voltage Distribution",
+        "Fault Current Analysis",
+        "Protective Device Coordination",
+        "Power Systems"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a4ff5ab3-735d-474b-a5ed-46a460aae0a4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "96670012-085e-4670-b6f6-df92381fb572",
       "title": "Video Production Specialist",
@@ -9339,6 +9388,26 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/c9a1355a-74bc-4300-8c68-b88c5a88803f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
+      "title": "Vlogger (Insta360, DJI Osmo, GoPro MAX)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-09-04 11:27:09",
+      "skills": [
+        "video recording",
+        "attention to detail"
+      ],
+      "hourly_min": 10,
+      "hourly_max": 30,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0f2c4f59-00c6-4296-a9dc-fb7b93efd31b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "1a90eb63-30e8-4c77-9996-94dc4b02d909",
