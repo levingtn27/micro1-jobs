@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-11-03T20:30:13Z",
-  "count": 386,
+  "updated_at": "2026-11-04T00:30:06Z",
+  "count": 388,
   "jobs": [
+    {
+      "job_id": "05225950-524a-4b9a-9c8e-e721a6f5a338",
+      "title": "Student Loan Specialist",
+      "domain_slug": "other",
+      "date_posted": "2026-11-03 23:02:12",
+      "skills": [
+        "Federal student loan knowledge",
+        "Repayment plans",
+        "Forgiveness and relief programs",
+        "Borrower Communication and Spotting Incorrect Guidance",
+        "Loan Servicing and Servicer Issues"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "United States (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/05225950-524a-4b9a-9c8e-e721a6f5a338?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "ab7c2d1d-bee1-4e0d-9735-e9f86f054fde",
+      "title": "Engineering PhD ",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-03 22:54:17",
+      "skills": [
+        "PhD",
+        "Mechanichal Engineering",
+        "Electrical Engineer",
+        "Chemical Engineer"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 95,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 95.0,
+      "pay_unit": "hour",
+      "location_raw": "Fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/ab7c2d1d-bee1-4e0d-9735-e9f86f054fde?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "7d5ea7c4-e77b-4cea-b528-4fbc14376446",
       "title": "Veterans Service Representative",
