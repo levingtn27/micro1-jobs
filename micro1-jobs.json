@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-04T04:30:18Z",
+  "updated_at": "2026-11-04T08:30:04Z",
   "count": 399,
   "jobs": [
+    {
+      "job_id": "96670012-085e-4670-b6f6-df92381fb572",
+      "title": "Video Production Specialist",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-11-04 04:49:49",
+      "skills": [
+        "video production",
+        "video editing",
+        "adobe premiere pro",
+        "final cut pro",
+        "davinci resolve",
+        "visual storytelling",
+        "written communication",
+        "verbal communication",
+        "remote collaboration",
+        "attention to detail"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/96670012-085e-4670-b6f6-df92381fb572?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "515ae213-2193-4711-88b8-1d89d1281dda",
       "title": "Art Buying and Photography Representation Expert",
@@ -7579,33 +7607,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/86d93e70-27d2-4075-8529-53cd2ab68465?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "52e9965d-1d1d-4d85-b958-c020d7886867",
-      "title": "Urdu Transcription Expert",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-10-01 06:51:32",
-      "skills": [
-        "urdu language proficiency",
-        "audio and video transcription",
-        "linguistic annotation",
-        "attention to detail",
-        "digital transcription tools",
-        "metadata tagging",
-        "written and verbal communication",
-        "remote collaboration",
-        "time management"
-      ],
-      "hourly_min": 10,
-      "hourly_max": 22,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 10.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/52e9965d-1d1d-4d85-b958-c020d7886867?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "118b9412-6280-4061-ba6b-66950cc6e4db",
