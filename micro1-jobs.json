@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-05T00:30:12Z",
-  "count": 411,
+  "updated_at": "2026-11-05T04:30:03Z",
+  "count": 412,
   "jobs": [
+    {
+      "job_id": "23e1f9ab-ca69-46a4-95a0-f780a96d6cf0",
+      "title": "Tax Preparer, Individual Income Tax (Form 1040), TY2025 (EA/CPA)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-05 01:15:16",
+      "skills": [
+        "individual income tax preparation (form 1040)",
+        "tax law expertise (ty2025 rules)",
+        "complex return preparation (schedule c, k-1s, investments, credits)",
+        "federal tax computation and analysis",
+        "written communication (clarity, objectivity, reproducibility)"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 75,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 75.0,
+      "pay_unit": "hour",
+      "location_raw": "US, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/23e1f9ab-ca69-46a4-95a0-f780a96d6cf0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "8b1d4909-4b90-4b6c-8734-c6abcaf984a6",
       "title": "At Home Video Recorder (Japan)",
