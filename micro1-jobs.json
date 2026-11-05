@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T04:30:03Z",
-  "count": 412,
+  "updated_at": "2026-11-05T08:30:03Z",
+  "count": 413,
   "jobs": [
     {
       "job_id": "23e1f9ab-ca69-46a4-95a0-f780a96d6cf0",
@@ -6310,6 +6310,29 @@
       "pay_unit": "hour",
       "location_raw": "Anywhere in the world, remote",
       "referral_url": "https://jobs.micro1.ai/post/168285a8-8063-447f-b55b-222c1da4c7c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
+      "title": "Personal Financial Advisor ",
+      "domain_slug": "finance",
+      "date_posted": "2026-10-14 00:06:54",
+      "skills": [
+        "personal financial planning",
+        "investment strategies",
+        "regulatory compliance",
+        "written and verbal communication",
+        "analytical skills"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Northern America, Latin America.",
+      "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "30cdcad1-c75b-412d-94b6-2af95f118549",
