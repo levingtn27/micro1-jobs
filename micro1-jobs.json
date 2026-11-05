@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T08:30:03Z",
+  "updated_at": "2026-11-05T16:30:05Z",
   "count": 413,
   "jobs": [
     {
@@ -2587,14 +2587,15 @@
     },
     {
       "job_id": "548b77cc-d398-414f-a92d-4ba203bb1c31",
-      "title": "Imagery Analyst — Drone & Maritime",
+      "title": "Imagery Analyst (Drone & Maritime)",
       "domain_slug": "generalist",
       "date_posted": "2026-10-29 22:53:57",
       "skills": [
         "Data labeling",
         "Data annotation",
         "Labeling accuracy",
-        "Attention to detail"
+        "Attention to detail",
+        "Navy & Martime familiarity"
       ],
       "hourly_min": 30,
       "hourly_max": 60,
