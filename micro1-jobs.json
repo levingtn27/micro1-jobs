@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T08:30:09Z",
-  "count": 418,
+  "updated_at": "2026-11-06T12:30:02Z",
+  "count": 417,
   "jobs": [
     {
       "job_id": "cf110600-66a3-4af3-841c-1304a747f929",
@@ -7512,28 +7512,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/65311636-4135-402d-8c84-cee8b2dcefdc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3ca164ec-a540-4f18-b298-09c54c377eb2",
-      "title": "Imagery Analyst - AI/ML Training Data",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-07 16:37:15",
-      "skills": [
-        "Data labeling",
-        "Data annotation",
-        "Labeling accuracy",
-        "Attention to detail"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, US-based.",
-      "referral_url": "https://jobs.micro1.ai/post/3ca164ec-a540-4f18-b298-09c54c377eb2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "865bada5-304f-4f28-aa8d-5b0331975b16",
