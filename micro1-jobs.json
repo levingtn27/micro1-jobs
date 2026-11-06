@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-06T12:30:02Z",
-  "count": 417,
+  "updated_at": "2026-11-06T16:30:04Z",
+  "count": 418,
   "jobs": [
+    {
+      "job_id": "266ce26f-89cb-4922-a520-60dde1aa398e",
+      "title": "Video Recorder (San Francisco)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-11-06 13:49:13",
+      "skills": [
+        "data collection",
+        "device operation",
+        "attention to detail",
+        "following instructions",
+        "reliability"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "San Francisco, CA (On-site)",
+      "referral_url": "https://jobs.micro1.ai/post/266ce26f-89cb-4922-a520-60dde1aa398e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "cf110600-66a3-4af3-841c-1304a747f929",
       "title": "Paid Photo Contributor Opportunity",
