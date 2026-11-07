@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-06T20:30:03Z",
-  "count": 418,
+  "updated_at": "2026-11-07T00:30:05Z",
+  "count": 415,
   "jobs": [
+    {
+      "job_id": "8f4f015b-1e88-4b4a-b66b-fb4a3d78b13a",
+      "title": "Computational Bioscience Expert (Python)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-07 00:05:29",
+      "skills": [
+        "Python",
+        "Biology",
+        "Medicine",
+        "Materials",
+        "Neuroscience"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/8f4f015b-1e88-4b4a-b66b-fb4a3d78b13a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3cc943d0-b584-42ea-8342-3e5f77f9504f",
+      "title": "Generalist for Data Annotation",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-11-06 23:54:16",
+      "skills": [
+        "image data annotation",
+        "attention to detail",
+        "written and verbal communication",
+        "remote collaboration",
+        "annotation tools",
+        "quality assurance",
+        "documentation",
+        "adaptability",
+        "time management"
+      ],
+      "hourly_min": 21,
+      "hourly_max": 35,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 21.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3cc943d0-b584-42ea-8342-3e5f77f9504f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "266ce26f-89cb-4922-a520-60dde1aa398e",
       "title": "Video Recorder (San Francisco)",
@@ -4944,29 +4994,6 @@
       "referral_url": "https://jobs.micro1.ai/post/dc2ca458-5a54-4d0a-971b-3e9aff15a123?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "9701abf9-febd-4f13-9183-80257478f22a",
-      "title": "Mathematics Expert  (MSc./PhD)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-10-22 17:36:33",
-      "skills": [
-        "Mathematics",
-        "Python",
-        "Programming Languages",
-        "Research",
-        "Applied Math"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/9701abf9-febd-4f13-9183-80257478f22a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
       "title": "US Macroeconomist",
       "domain_slug": "finance",
@@ -9741,103 +9768,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/88da544c-5d28-4835-bde7-0272a2a1a4eb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c37ac96c-2116-4c5e-92c7-180da9b502db",
-      "title": "Software Engineer (Electron.js)",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-08 21:23:21",
-      "skills": [
-        "Electron.js",
-        "Typescript",
-        "Node.js",
-        "Cross-platform Apps"
-      ],
-      "hourly_min": 6,
-      "hourly_max": 7,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 220000,
-        "min": 150000
-      },
-      "pay_min": 150000.0,
-      "pay_max": 220000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c37ac96c-2116-4c5e-92c7-180da9b502db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5c4d1820-c59b-43c1-aad3-c069fd4c1c4d",
-      "title": "Software Engineer, Product Engineering",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-08 17:27:26",
-      "skills": [
-        "JS/TS",
-        "AI-Native Engineering",
-        "End-to-End Product Ownership",
-        "Backend Architecture & Scalability"
-      ],
-      "hourly_min": 8,
-      "hourly_max": 9,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 280000,
-        "min": 200000
-      },
-      "pay_min": 200000.0,
-      "pay_max": 280000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5c4d1820-c59b-43c1-aad3-c069fd4c1c4d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d65941c5-6aff-4e80-b3d6-4f56c9aede18",
-      "title": "Physics Expert (PhD / Postdoc) ",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-07 15:57:49",
-      "skills": [
-        "Physics Mastery",
-        "Written Technical Communication",
-        "Technical Problem-Solving Depth",
-        "Mathematical & Computational Fluency"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (Worldwide)",
-      "referral_url": "https://jobs.micro1.ai/post/d65941c5-6aff-4e80-b3d6-4f56c9aede18?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3a757d40-98c5-4717-a401-382999db9a3f",
-      "title": "Physics Expert PhD (Statistical Physics / Quantum Information / Condensed Matter)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-09-07 15:52:13",
-      "skills": [
-        "Physics",
-        "Kramers-Wannier duality",
-        "quenched disorder averaging",
-        "square-lattice self-duality",
-        "domain-wall free energy",
-        "noncontractible loop defects",
-        "4-state Potts model numerics"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 200,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "location_raw": "Fully Remote, Open to candidates worlwide",
-      "referral_url": "https://jobs.micro1.ai/post/3a757d40-98c5-4717-a401-382999db9a3f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
