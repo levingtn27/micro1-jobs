@@ -1,7 +1,113 @@
 {
-  "updated_at": "2026-11-07T00:30:05Z",
-  "count": 415,
+  "updated_at": "2026-11-07T04:30:08Z",
+  "count": 418,
   "jobs": [
+    {
+      "job_id": "fc5ff2a7-42c3-47dc-b313-122ff814d9ee",
+      "title": "Paid Photo Contributor Opportunity (Cousins)",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-07 03:25:58",
+      "skills": [
+        "Selfies",
+        "Video Recordings",
+        "Attention to Detail",
+        "Follow Instructions"
+      ],
+      "hourly_min": 139,
+      "hourly_max": 140,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 139.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/fc5ff2a7-42c3-47dc-b313-122ff814d9ee?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "546abf63-54f4-40c9-ae5d-fb4776e0b121",
+      "title": "PhD Scientist — STEM Expert",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-07 03:20:10",
+      "skills": [
+        "Research",
+        "Data Analysis",
+        "Experimental Design",
+        "Scientific Writing",
+        "Statistical Analysis",
+        "Laboratory Skills",
+        "Wet Lab",
+        "Clinical Research",
+        "MATLAB",
+        "Python",
+        "SolidWorks",
+        "Biostatistics",
+        "Epidemiology",
+        "Clinical Trials",
+        "Data Visualization",
+        "Spectroscopy",
+        "Chromatography"
+      ],
+      "hourly_min": 45,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote(Worldwide)",
+      "referral_url": "https://jobs.micro1.ai/post/546abf63-54f4-40c9-ae5d-fb4776e0b121?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "789bbdda-e3e5-433f-b2fb-2efcb1b10f54",
+      "title": "Strategic Project Lead",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-07 01:12:36",
+      "skills": [
+        "Leadership & Team Management",
+        "Data Operations",
+        "Human Data"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 90,
+      "monthly_min": "3000.00",
+      "monthly_max": "10000.00",
+      "yearly": {
+        "max": 500000,
+        "min": 300000
+      },
+      "pay_min": 300000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/789bbdda-e3e5-433f-b2fb-2efcb1b10f54?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0a2543d7-c42c-4ea8-a0cf-dec9e9e2b1ad",
+      "title": "Strategic Project Lead, U.S. Government",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-07 01:07:18",
+      "skills": [
+        "Technical Project Management & Execution",
+        "Data Pipeline Design & Operations",
+        "Requirements Gathering & Stakeholder Management",
+        "Cross-Functional Leadership & Operational Delivery"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 90,
+      "monthly_min": "3000.00",
+      "monthly_max": "10000.00",
+      "yearly": {
+        "max": 500000,
+        "min": 350000
+      },
+      "pay_min": 350000.0,
+      "pay_max": 500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0a2543d7-c42c-4ea8-a0cf-dec9e9e2b1ad?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "8f4f015b-1e88-4b4a-b66b-fb4a3d78b13a",
       "title": "Computational Bioscience Expert (Python)",
@@ -9282,30 +9388,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote (US Only)",
       "referral_url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d2653e3c-8317-4405-b4ec-27b45b786b93",
-      "title": "Strategic Project Lead",
-      "domain_slug": "generalist",
-      "date_posted": "2026-09-18 06:46:38",
-      "skills": [
-        "Leadership & Team Management",
-        "Data Operations",
-        "Human Data"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 90,
-      "monthly_min": "3000.00",
-      "monthly_max": "10000.00",
-      "yearly": {
-        "max": 500000,
-        "min": 300000
-      },
-      "pay_min": 300000.0,
-      "pay_max": 500000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d2653e3c-8317-4405-b4ec-27b45b786b93?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "236aada3-b184-4ba5-88d2-a3de031ed1bd",
