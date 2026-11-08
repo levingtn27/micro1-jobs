@@ -1,7 +1,154 @@
 {
-  "updated_at": "2026-11-07T20:30:03Z",
-  "count": 419,
+  "updated_at": "2026-11-08T00:30:12Z",
+  "count": 420,
   "jobs": [
+    {
+      "job_id": "2d55bfd0-24a8-4432-9f25-6fceea9cd4f2",
+      "title": "Member of Technical Staff, Research Engineering",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-07 22:17:30",
+      "skills": [
+        "Reinforcement Learning",
+        "ML-Oriented Data Design",
+        "RL Environments",
+        "RL Workflows"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 800000,
+        "min": 400000
+      },
+      "pay_min": 400000.0,
+      "pay_max": 800000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2d55bfd0-24a8-4432-9f25-6fceea9cd4f2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6ce8225a-9f5a-4b30-a556-9081176bffff",
+      "title": "Member of Technical Staff, Robotics & Embodied AI Research",
+      "domain_slug": "robotics",
+      "date_posted": "2026-11-07 22:08:58",
+      "skills": [
+        "Robot Learning & Embodied AI",
+        "Robotics Simulation & Sim-to-Real Transfer",
+        "Python & Robotics Research Engineering",
+        "Robotics Data & Evaluation Design"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 50,
+      "monthly_min": "8000.00",
+      "monthly_max": "12000.00",
+      "yearly": {
+        "max": 1500000,
+        "min": 500000
+      },
+      "pay_min": 500000.0,
+      "pay_max": 1500000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6ce8225a-9f5a-4b30-a556-9081176bffff?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "20d7f8c6-344c-4e71-a5ea-7ee3ba74ce18",
+      "title": "Member of Technical Staff, Coding Agent Research & Evaluations",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-07 22:05:31",
+      "skills": [
+        "Coding Agent Evaluation & Benchmark Design",
+        "Software Engineering & Python",
+        "LLM & Agentic Systems",
+        "Model Failure Analysis & Experimentation"
+      ],
+      "hourly_min": 8,
+      "hourly_max": 9,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 1300000,
+        "min": 600000
+      },
+      "pay_min": 600000.0,
+      "pay_max": 1300000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/20d7f8c6-344c-4e71-a5ea-7ee3ba74ce18?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2038a36e-a29d-4beb-a3de-f7267488573f",
+      "title": "Member of Technical Staff, Cortex Lab (applied AI research)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-07 21:57:52",
+      "skills": [
+        "AI Agent Evaluation & Benchmark Design",
+        "Python & Research Engineering",
+        "Agent Failure Analysis & Experimentation",
+        "LLM & Agentic Systems"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 130,
+      "monthly_min": "20000.00",
+      "monthly_max": "25000.00",
+      "yearly": {
+        "max": 700000,
+        "min": 300000
+      },
+      "pay_min": 300000.0,
+      "pay_max": 700000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2038a36e-a29d-4beb-a3de-f7267488573f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "922fc5ce-a7d1-4cca-ba9e-aa1bcd5f4286",
+      "title": "Member of Technical Staff, Realm Lab (frontier AI research)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-07 21:47:51",
+      "skills": [
+        "LLM Evaluation & Benchmark Design",
+        "Python & ML Engineering",
+        "Reinforcement Learning & Agentic Systems",
+        "Model Failure Analysis & Research Methodology"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 130,
+      "monthly_min": "20000.00",
+      "monthly_max": "25000.00",
+      "yearly": {
+        "max": 2000000,
+        "min": 600000
+      },
+      "pay_min": 600000.0,
+      "pay_max": 2000000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/922fc5ce-a7d1-4cca-ba9e-aa1bcd5f4286?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "871589f5-7a7e-498f-b121-90215edf6c9e",
+      "title": "International Humanitarian Law Advisor",
+      "domain_slug": "other",
+      "date_posted": "2026-11-07 21:28:20",
+      "skills": [
+        "IHL / human-rights application",
+        "Lawful-boundary discrimination",
+        "Proportionality & civilian-protection reasoning",
+        "Legal-uncertainty reasoning"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/871589f5-7a7e-498f-b121-90215edf6c9e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "90aad87f-d015-470f-bbc4-35844448ab65",
       "title": "Video Editor Specialist",
@@ -289,7 +436,7 @@
     },
     {
       "job_id": "8548e534-fc89-4789-887e-7622d6f4ca86",
-      "title": "MBSE Engineer - SysML v2",
+      "title": "MBSE Engineer - SysML V2",
       "domain_slug": "other",
       "date_posted": "2026-11-06 03:54:50",
       "skills": [
@@ -9680,106 +9827,6 @@
       "referral_url": "https://jobs.micro1.ai/post/5c9777fe-afb2-40b1-abbb-31cee8a8d4b6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "4c2fd0a7-0457-4d95-b2af-e91e1dc78e13",
-      "title": "Member of Technical Staff, Frontier AI",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-09-14 21:21:46",
-      "skills": [
-        "Research Signal Judgment",
-        "ML-Oriented Data Design",
-        "Ops-to-Research Translation",
-        "RL Environments"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 130,
-      "monthly_min": "20000.00",
-      "monthly_max": "25000.00",
-      "yearly": {
-        "max": 2000000,
-        "min": 600000
-      },
-      "pay_min": 600000.0,
-      "pay_max": 2000000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/4c2fd0a7-0457-4d95-b2af-e91e1dc78e13?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3460a043-7742-4e3c-bc16-88ced134c464",
-      "title": "Member of Technical Staff, Enterprise AI",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-09-14 21:20:38",
-      "skills": [
-        "Research Signal Judgment",
-        "ML-Oriented Data Design",
-        "Ops-to-Research Translation",
-        "Enterprise AI"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 130,
-      "monthly_min": "20000.00",
-      "monthly_max": "25000.00",
-      "yearly": {
-        "max": 700000,
-        "min": 300000
-      },
-      "pay_min": 300000.0,
-      "pay_max": 700000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3460a043-7742-4e3c-bc16-88ced134c464?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f6d42733-d8c3-4b55-a727-737e02ed2835",
-      "title": "Member of Technical Staff, Research Engineering",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-09-14 21:19:52",
-      "skills": [
-        "Reinforcement Learning",
-        "ML-Oriented Data Design",
-        "RL Environments",
-        "RL Workflows"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 8,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 800000,
-        "min": 400000
-      },
-      "pay_min": 400000.0,
-      "pay_max": 800000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f6d42733-d8c3-4b55-a727-737e02ed2835?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "cf2d7fe9-2077-4932-87bb-e8f98977518a",
-      "title": "Member of Technical Staff, Coding Research",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-09-14 21:18:51",
-      "skills": [
-        "LLMs",
-        "Coding Evaluation",
-        "AI Evaluation",
-        "ML Systems"
-      ],
-      "hourly_min": 8,
-      "hourly_max": 9,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 1300000,
-        "min": 600000
-      },
-      "pay_min": 600000.0,
-      "pay_max": 1300000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/cf2d7fe9-2077-4932-87bb-e8f98977518a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "8811c1b3-efa7-4a5e-b332-50743f90a05a",
       "title": "Video Annotation Specialist",
       "domain_slug": "robotics",
@@ -9860,29 +9907,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/912dac5d-2d0b-4c32-a67b-89404bcf195b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "88da544c-5d28-4835-bde7-0272a2a1a4eb",
-      "title": "Data Analyst",
-      "domain_slug": "other",
-      "date_posted": "2026-09-09 00:25:39",
-      "skills": [
-        "PII",
-        "Data Privacy",
-        "Document Review",
-        "Data Analysis",
-        "Quality Assurance"
-      ],
-      "hourly_min": 31,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 31.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/88da544c-5d28-4835-bde7-0272a2a1a4eb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
