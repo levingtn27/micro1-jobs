@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-11-08T16:30:03Z",
-  "count": 428,
+  "updated_at": "2026-11-08T20:30:07Z",
+  "count": 431,
   "jobs": [
+    {
+      "job_id": "5dfa53a7-178c-4554-87f7-fe9222bee2e1",
+      "title": "Electronics Assembly Quality Engineer",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-08 19:55:45",
+      "skills": [
+        "X-ray inspection of area-array solder joints",
+        "Reflow process",
+        "Solder defect root cause",
+        "Counterfeit electronic component screening"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/5dfa53a7-178c-4554-87f7-fe9222bee2e1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "e51a861c-6900-4fc8-ae07-507a47956698",
+      "title": "Dimensional Metrology Quality Engineer",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-08 19:25:34",
+      "skills": [
+        "GD&T and first-article inspection",
+        "3D scanning and inspection software",
+        "CMM measurement and uncertainty analysis",
+        "Dimensional Metrology expertise"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e51a861c-6900-4fc8-ae07-507a47956698?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "4576465c-1e27-4f52-b18b-be3c85a9fc10",
+      "title": "Senior Software Engineer",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-08 17:32:15",
+      "skills": [
+        "Python3",
+        "JAVA",
+        "Rust",
+        "Algorithms",
+        "Basics C++",
+        "Typescript",
+        "bug fixing",
+        "feature implementation",
+        "codebase refactoring",
+        "performance optimization"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (Globally)",
+      "referral_url": "https://jobs.micro1.ai/post/4576465c-1e27-4f52-b18b-be3c85a9fc10?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "c0b41da0-767e-4640-8afa-f6a98ee6dc7c",
       "title": "3D Print Farm Operator / Print Lab Supervisor",
