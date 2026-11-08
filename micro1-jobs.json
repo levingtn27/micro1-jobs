@@ -1,7 +1,179 @@
 {
-  "updated_at": "2026-11-08T04:30:02Z",
-  "count": 420,
+  "updated_at": "2026-11-08T08:30:15Z",
+  "count": 428,
   "jobs": [
+    {
+      "job_id": "c0b41da0-767e-4640-8afa-f6a98ee6dc7c",
+      "title": "3D Print Farm Operator / Print Lab Supervisor",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 07:15:52",
+      "skills": [
+        "FDM and resin printer fleet operation and maintenance",
+        "Slicing",
+        "print failure troubleshooting and material handling",
+        "Print scheduling",
+        "QC and part inspection"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c0b41da0-767e-4640-8afa-f6a98ee6dc7c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f5dc654e-c2b8-426e-b269-31fde15a1e65",
+      "title": "Scientific Glassblower (Custom Laboratory Glass Shop)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 07:12:08",
+      "skills": [
+        "Lathe and bench work in borosilicate and quartz",
+        "Reading customer sketches",
+        "design for manufacture and quoting",
+        "Annealing - inspection - glass-to-metal or graded seals"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f5dc654e-c2b8-426e-b269-31fde15a1e65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "5102a3a2-6a92-4464-a9f9-22fcc7bce5b7",
+      "title": "Softwood Lumber Grader / Sawmill Quality Supervisor (Visual Grading)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 07:08:09",
+      "skills": [
+        "Visual grading to published rules (NLGA - WWPA - SPIB - WCLIB)",
+        "Lumber defect identification and grade limits (knots - wane - checks - shake - warp)",
+        "Grade stamping",
+        "grade recovery and QC"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/5102a3a2-6a92-4464-a9f9-22fcc7bce5b7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f22372de-ebdc-4720-ad91-2949810127e9",
+      "title": " Directional Surveyor / Drilling Engineer (Magnetic Single-Shot and Multi-Shot Film)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 07:04:20",
+      "skills": [
+        "Magnetic single-shot and multi-shot survey film reading",
+        "Wellbore survey QC and calculation (declination -  interference - closure)",
+        "Directional drilling fundamentals"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f22372de-ebdc-4720-ad91-2949810127e9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "b295d05c-2ece-4417-b356-9db87892a37a",
+      "title": "Freight Railcar Carman / Car Foreman (AAR Repair)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 07:00:43",
+      "skills": [
+        "AAR Field Manual and Office Manual (repair rules and billing)",
+        "FRA Part 215 and repair documentation",
+        "Freight car component inspection and repair"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b295d05c-2ece-4417-b356-9db87892a37a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "b1aa4a8e-44fe-4439-8620-3a168138ccdc",
+      "title": "Elevator Mechanic / Adjuster (QEI, Controller Troubleshooting)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 06:57:31",
+      "skills": [
+        "Controller troubleshooting from straight-line wiring diagrams",
+        "ASME A17.1 code and safety circuits",
+        "Adjusting and testing (hydraulic and traction)"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b1aa4a8e-44fe-4439-8620-3a168138ccdc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3002bfd3-f49f-427e-b10b-486c0672395c",
+      "title": "Mobility Equipment / Automotive Electrical Technician (Wheelchair Vans)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 06:47:50",
+      "skills": [
+        "Automotive 12V electrical diagnostics from wiring diagrams",
+        "Mobility conversion systems (lifts - ramps - kneeling - hand controls)",
+        "Service procedures and technician training"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3002bfd3-f49f-427e-b10b-486c0672395c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "1c418fa2-c6b7-4b6c-8914-324ffab753c2",
+      "title": "Semiconductor Yield / Defect Engineer (Wafer Fab, SEM Defect Review)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 06:43:13",
+      "skills": [
+        "SEM defect review and classification",
+        "Yield analysis and excursion / lot-hold decisions",
+        "Wafer sort and test floor data"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/1c418fa2-c6b7-4b6c-8914-324ffab753c2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "2d55bfd0-24a8-4432-9f25-6fceea9cd4f2",
       "title": "Member of Technical Staff, Research Engineering",
