@@ -1,7 +1,125 @@
 {
-  "updated_at": "2026-11-09T12:30:14Z",
-  "count": 433,
+  "updated_at": "2026-11-09T16:30:12Z",
+  "count": 439,
   "jobs": [
+    {
+      "job_id": "59a35ba0-5494-4934-8eb9-bbf2b0eb25e8",
+      "title": "Operational Law Attorney (JAG) SME",
+      "domain_slug": "law",
+      "date_posted": "2026-11-09 15:57:07",
+      "skills": [
+        "Operational LOAC judgment",
+        "Proportionality & distinction analysis",
+        "Legal-uncertainty reasoning",
+        "Civilian-protection reasoning",
+        "JAG expertise"
+      ],
+      "hourly_min": 95,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 95.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/59a35ba0-5494-4934-8eb9-bbf2b0eb25e8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0e0727e3-482b-4c4a-a26e-ef8ade369688",
+      "title": "AI Trainer (Engineering Sciences)",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-09 15:56:06",
+      "skills": [
+        "Hardware",
+        "Aerodynamics",
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "AI Training"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/0e0727e3-482b-4c4a-a26e-ef8ade369688?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "5f4dd97e-3976-4203-b1c7-9415a9305a98",
+      "title": "AI Trainer (SWE)",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-09 15:50:52",
+      "skills": [
+        "Software Engineering",
+        "AI training"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/5f4dd97e-3976-4203-b1c7-9415a9305a98?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "1f738cfe-c245-4f5c-991e-eb3bedc55705",
+      "title": "AI Trainer (ML Engineering)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-09 15:39:27",
+      "skills": [
+        "ML Engineering",
+        "AI training"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/1f738cfe-c245-4f5c-991e-eb3bedc55705?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "76ed9340-2606-4218-9729-67424f90bacc",
+      "title": "Data Privacy Specialist",
+      "domain_slug": "cybersecurity",
+      "date_posted": "2026-11-09 12:31:22",
+      "skills": [
+        "data privacy",
+        "data protection",
+        "information governance",
+        "privacy risk assessment",
+        "privacy principles",
+        "sensitive data handling",
+        "privacy compliance",
+        "gdpr",
+        "ccpa",
+        "privacy auditing",
+        "analytical skills",
+        "attention to detail",
+        "evidence-based judgement",
+        "clear communication"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "United States",
+      "referral_url": "https://jobs.micro1.ai/post/76ed9340-2606-4218-9729-67424f90bacc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "e6881bd5-cba7-4bda-960b-e8395b035973",
       "title": "AI Safety & Evaluation Specialist",
@@ -293,6 +411,30 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e51a861c-6900-4fc8-ae07-507a47956698?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2739201f-5d2b-4cec-ac30-62f232196b6f",
+      "title": "Open Source Contributor",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-08 18:02:49",
+      "skills": [
+        "Python3",
+        "JAVA",
+        "Rust",
+        "Basics C++",
+        "Typescript",
+        "GoLang"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/2739201f-5d2b-4cec-ac30-62f232196b6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4576465c-1e27-4f52-b18b-be3c85a9fc10",
