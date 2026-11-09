@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:30:07Z",
+  "updated_at": "2026-11-09T00:30:04Z",
   "count": 431,
   "jobs": [
     {
@@ -203,6 +203,27 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b1aa4a8e-44fe-4439-8620-3a168138ccdc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "caf5f26f-2832-466f-8667-8c6dbbc59e30",
+      "title": "Marine Outboard Technician / Service Manager",
+      "domain_slug": "other",
+      "date_posted": "2026-11-08 06:54:46",
+      "skills": [
+        "Outboard engine diagnostics (fuel - ignition - EFI - cooling)",
+        "Rigging - repower - service procedures",
+        "Service documentation and warranty"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/caf5f26f-2832-466f-8667-8c6dbbc59e30?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3002bfd3-f49f-427e-b10b-486c0672395c",
@@ -10125,32 +10146,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d2321880-8435-45d5-98c6-c8340aae8c9f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "912dac5d-2d0b-4c32-a67b-89404bcf195b",
-      "title": "Software Engineer, Data Platforms",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-10 11:11:26",
-      "skills": [
-        "Python",
-        "Typescript",
-        "Coding Agents",
-        "React",
-        "Outcome-driven Approach"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 280000,
-        "min": 200000
-      },
-      "pay_min": 200000.0,
-      "pay_max": 280000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/912dac5d-2d0b-4c32-a67b-89404bcf195b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
