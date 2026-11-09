@@ -1,7 +1,120 @@
 {
-  "updated_at": "2026-11-09T16:30:12Z",
-  "count": 439,
+  "updated_at": "2026-11-09T20:30:09Z",
+  "count": 444,
   "jobs": [
+    {
+      "job_id": "36e76ca9-8c78-4508-ad3a-817e9a12dfea",
+      "title": "AI Trainer (Mathematics & Statistics)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-09 16:50:32",
+      "skills": [
+        "Mathematics & Statistics",
+        "AI Training",
+        "Programming Skills"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/36e76ca9-8c78-4508-ad3a-817e9a12dfea?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "68fc2230-56cf-4d7f-a4d0-037b4515b01b",
+      "title": "AI Trainer (Earth & Environmental Sciences)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-09 16:40:54",
+      "skills": [
+        "Earth & Environmental Sciences",
+        "AI Training",
+        "Programming Skills"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/68fc2230-56cf-4d7f-a4d0-037b4515b01b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7d277cc0-9dff-4c17-b08e-2ae37a72c9c8",
+      "title": "AI Trainer (Physical Sciences)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-09 16:35:40",
+      "skills": [
+        "Physics",
+        "AI Training",
+        "Programming Skills"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/7d277cc0-9dff-4c17-b08e-2ae37a72c9c8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f6804ec4-4927-4cf7-a08d-fa49b327ed7e",
+      "title": "Senior AI Video Trainer (US Based)",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-09 16:16:04",
+      "skills": [
+        "Video Editing",
+        "Filmmaking",
+        "Video Annotation",
+        "AI Training",
+        "Motion Graphics"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f6804ec4-4927-4cf7-a08d-fa49b327ed7e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "897f0ed9-1fec-447a-a48a-7d188823b207",
+      "title": "AI Trainer (Life Sciences)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-09 16:07:52",
+      "skills": [
+        "Biology",
+        "Mathematics",
+        "Ecology",
+        "Materials Sciences",
+        "Earth",
+        "Climate and Oceans",
+        "Statistics",
+        "AI Training",
+        "Programming Skills"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/897f0ed9-1fec-447a-a48a-7d188823b207?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "59a35ba0-5494-4934-8eb9-bbf2b0eb25e8",
       "title": "Operational Law Attorney (JAG) SME",
@@ -35,7 +148,8 @@
         "Aerodynamics",
         "Mechanical Engineering",
         "Electrical Engineering",
-        "AI Training"
+        "AI Training",
+        "Programming Skills"
       ],
       "hourly_min": 60,
       "hourly_max": 120,
@@ -75,7 +189,8 @@
       "date_posted": "2026-11-09 15:39:27",
       "skills": [
         "ML Engineering",
-        "AI training"
+        "AI training",
+        "Programming Skills"
       ],
       "hourly_min": 60,
       "hourly_max": 120,
