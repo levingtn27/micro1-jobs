@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T00:30:04Z",
-  "count": 431,
+  "updated_at": "2026-11-09T04:30:03Z",
+  "count": 432,
   "jobs": [
     {
       "job_id": "5dfa53a7-178c-4554-87f7-fe9222bee2e1",
@@ -8640,6 +8640,39 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
+      "title": "Simulation Expert — Real-to-Sim 3D Environments & Assets",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-10-03 03:46:42",
+      "skills": [
+        "isaac sim",
+        "gazebo",
+        "mujoco",
+        "unity",
+        "unreal",
+        "pybullet",
+        "3d modeling",
+        "cad",
+        "environment design",
+        "physics simulation",
+        "rigid body dynamics",
+        "material properties",
+        "simulation troubleshooting",
+        "collaboration with scientists",
+        "attention to detail"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d358fe3a-3fa1-4673-b90a-99293655405d",
