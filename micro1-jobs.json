@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-11-09T20:30:09Z",
-  "count": 444,
+  "updated_at": "2026-11-10T00:30:05Z",
+  "count": 445,
   "jobs": [
+    {
+      "job_id": "3f9690bc-7fca-4578-b308-05426b04ae46",
+      "title": "Coding Expert",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-10 00:24:16",
+      "skills": [
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3f9690bc-7fca-4578-b308-05426b04ae46?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "39b344d9-4774-4c9e-8220-620084da3df5",
+      "title": "AI Video Editor (Premiere Pro & After Effects)",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-09 23:36:57",
+      "skills": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects",
+        "Professional Video Editing",
+        "Motion Graphics"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/39b344d9-4774-4c9e-8220-620084da3df5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "36e76ca9-8c78-4508-ad3a-817e9a12dfea",
       "title": "AI Trainer (Mathematics & Statistics)",
@@ -10420,31 +10463,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/8811c1b3-efa7-4a5e-b332-50743f90a05a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d2321880-8435-45d5-98c6-c8340aae8c9f",
-      "title": "Domain Researcher, Finance",
-      "domain_slug": "finance",
-      "date_posted": "2026-09-11 20:50:33",
-      "skills": [
-        "Financial Research",
-        "Enterprise AI",
-        "Benchmarking",
-        "Agentic Finance Workflows"
-      ],
-      "hourly_min": 6,
-      "hourly_max": 8,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 800000,
-        "min": 400000
-      },
-      "pay_min": 400000.0,
-      "pay_max": 800000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d2321880-8435-45d5-98c6-c8340aae8c9f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
