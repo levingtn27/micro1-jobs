@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-11T16:30:11Z",
-  "count": 469,
+  "updated_at": "2026-11-11T20:30:04Z",
+  "count": 470,
   "jobs": [
+    {
+      "job_id": "d5ae2349-5b7b-48a7-93e2-b7cfa8d1d29d",
+      "title": "Student Loan Servicing Specialist",
+      "domain_slug": "other",
+      "date_posted": "2026-11-11 17:00:47",
+      "skills": [
+        "Federal loan types",
+        "Repayment plans and current rules",
+        "PSLF payment counts",
+        "Deferment and forbearance",
+        "Delinquency and default",
+        "Servicing problems"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "United States (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/d5ae2349-5b7b-48a7-93e2-b7cfa8d1d29d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "c05fd04c-2a07-44b0-973c-9271f7f4d5d2",
       "title": "Medical Doctor",
@@ -1083,7 +1107,7 @@
     },
     {
       "job_id": "f6804ec4-4927-4cf7-a08d-fa49b327ed7e",
-      "title": "Senior AI Video Trainer (US Based)",
+      "title": "Senior AI Trainer (US Based)",
       "domain_slug": "generalist",
       "date_posted": "2026-11-09 16:16:04",
       "skills": [
