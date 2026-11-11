@@ -1,7 +1,156 @@
 {
-  "updated_at": "2026-11-10T20:30:04Z",
-  "count": 452,
+  "updated_at": "2026-11-11T00:30:16Z",
+  "count": 460,
   "jobs": [
+    {
+      "job_id": "ea0f5010-c2e8-4102-b715-72d1a368a19f",
+      "title": "Equal Employment  Specialist",
+      "domain_slug": "other",
+      "date_posted": "2026-11-10 23:49:58",
+      "skills": [
+        "EEO Law",
+        "Conflict Resolution",
+        "Discrimination Complaints",
+        "Position Classification",
+        "GS-0260"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ea0f5010-c2e8-4102-b715-72d1a368a19f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f773a48d-1b5f-4bb6-8b56-a6d72f3fb9c5",
+      "title": "Software Engineer -  Open Source Contributions",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-10 23:08:40",
+      "skills": [
+        "Python3",
+        "JAVA",
+        "Rust",
+        "Algorithms",
+        "Basics C++",
+        "Typescript",
+        "bug fixing",
+        "feature implementation",
+        "codebase refactoring",
+        "performance optimization"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f773a48d-1b5f-4bb6-8b56-a6d72f3fb9c5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "72ad43b1-c641-4541-839b-fd12883f4eba",
+      "title": "Document Reviewer (Specialist)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-10 23:05:41",
+      "skills": [
+        "document review",
+        "digital marketing",
+        "seo",
+        "written communication",
+        "content editing"
+      ],
+      "hourly_min": 45,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/72ad43b1-c641-4541-839b-fd12883f4eba?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "868d0dba-30bc-411e-baff-43b0c90e42ba",
+      "title": "Medical Oncologist",
+      "domain_slug": "medicine",
+      "date_posted": "2026-11-10 22:34:35",
+      "skills": [
+        "medical oncology",
+        "clinical documentation",
+        "ehr systems",
+        "ai-generated clinical note review",
+        "solid tumor management"
+      ],
+      "hourly_min": 160,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 160.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, United States only",
+      "referral_url": "https://jobs.micro1.ai/post/868d0dba-30bc-411e-baff-43b0c90e42ba?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "4bf88f49-2a1f-453f-91e5-c38dddf4afaf",
+      "title": "Hematologist",
+      "domain_slug": "medicine",
+      "date_posted": "2026-11-10 22:29:09",
+      "skills": [
+        "hematology expertise",
+        "clinical documentation review",
+        "ehr (electronic health record) documentation",
+        "written communication",
+        "attention to detail"
+      ],
+      "hourly_min": 160,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 160.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, United States only",
+      "referral_url": "https://jobs.micro1.ai/post/4bf88f49-2a1f-453f-91e5-c38dddf4afaf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "51a68d9c-317c-49bd-bf15-8acc722179c6",
+      "title": "Pediatric Hematology/Oncology Physician",
+      "domain_slug": "medicine",
+      "date_posted": "2026-11-10 22:13:50",
+      "skills": [
+        "pediatric hematology/oncology expertise",
+        "clinical documentation review",
+        "chemotherapy management",
+        "electronic health record (ehr) documentation",
+        "ai-generated clinical note evaluation",
+        "attention to clinical detail",
+        "written communication",
+        "medical chart review",
+        "knowledge of pediatric chemotherapy protocols",
+        "feedback delivery",
+        "age-specific laboratory interpretation"
+      ],
+      "hourly_min": 160,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 160.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, United States only",
+      "referral_url": "https://jobs.micro1.ai/post/51a68d9c-317c-49bd-bf15-8acc722179c6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "b97a4898-3ce1-4aeb-bb5a-a4c51e6e422b",
       "title": "Social Insurance Specialist",
@@ -178,6 +327,29 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2605f5d4-e510-4dda-88b4-c6d1c18cbbab?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c2ef0570-eaca-4e94-9480-85ddb4962a0f",
+      "title": "Competitive Coder",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-10 15:03:40",
+      "skills": [
+        "Basics C++",
+        "C++",
+        "Competitive Programming",
+        "CodeForces Handle",
+        "Open Source Contributions"
+      ],
+      "hourly_min": 45,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 45.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c2ef0570-eaca-4e94-9480-85ddb4962a0f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "dad9a875-3de2-4e79-b538-132574dab8d2",
@@ -539,6 +711,31 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/39b344d9-4774-4c9e-8220-620084da3df5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9429d8c8-9631-4d7c-8e29-3ac9cbfe12e1",
+      "title": "Assistant",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-11-09 21:11:05",
+      "skills": [
+        "Calendar Management",
+        "Scheduling",
+        "Organization",
+        "Time Management",
+        "Communication",
+        "Task Coordination",
+        "Problem-Solving"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Canada, and LATAM",
+      "referral_url": "https://jobs.micro1.ai/post/9429d8c8-9631-4d7c-8e29-3ac9cbfe12e1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "36e76ca9-8c78-4508-ad3a-817e9a12dfea",
@@ -6370,6 +6567,29 @@
       "referral_url": "https://jobs.micro1.ai/post/dc2ca458-5a54-4d0a-971b-3e9aff15a123?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "9701abf9-febd-4f13-9183-80257478f22a",
+      "title": "Mathematics Expert  (MSc./PhD)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-22 17:36:33",
+      "skills": [
+        "Mathematics",
+        "Python",
+        "Programming Languages",
+        "Research",
+        "Applied Math"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/9701abf9-febd-4f13-9183-80257478f22a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
       "title": "US Macroeconomist",
       "domain_slug": "finance",
@@ -8155,7 +8375,7 @@
     },
     {
       "job_id": "cf02a995-bac4-4503-b872-cb8cdbc536de",
-      "title": "Consular Officer / Passport Specialist",
+      "title": "Passport Specialist",
       "domain_slug": "law",
       "date_posted": "2026-10-12 14:06:03",
       "skills": [],
@@ -9521,33 +9741,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/118b9412-6280-4061-ba6b-66950cc6e4db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "59c51e7f-cfb7-4008-99b2-59d23446852b",
-      "title": "Video Content Lead",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-09-30 21:41:06",
-      "skills": [
-        "Adobe Premiere Pro",
-        "Figma",
-        "DaVinci",
-        "Cinema 4D",
-        "Blender",
-        "3D tools"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 150000,
-        "min": 90000
-      },
-      "pay_min": 90000.0,
-      "pay_max": 150000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/59c51e7f-cfb7-4008-99b2-59d23446852b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "306236e1-0ca6-4096-a8b2-4495678ff1ef",
