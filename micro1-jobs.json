@@ -1,7 +1,122 @@
 {
-  "updated_at": "2026-11-11T20:30:04Z",
-  "count": 470,
+  "updated_at": "2026-11-12T00:30:09Z",
+  "count": 474,
   "jobs": [
+    {
+      "job_id": "b381f79f-a396-4815-97ad-141191db9d25",
+      "title": "Paralegal ",
+      "domain_slug": "law",
+      "date_posted": "2026-11-11 22:22:00",
+      "skills": [
+        "Legal Research and Verification",
+        "Document Review at Volume",
+        "Following Detailed Protocols Consistently",
+        "Law",
+        "Knowing When to Escalate",
+        "Attention to Detail",
+        "Deadlines"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b381f79f-a396-4815-97ad-141191db9d25?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "88710d5b-dcd2-47b4-9862-0d730d3eeaf2",
+      "title": "Paralegal / Law Student — Legal Research ",
+      "domain_slug": "law",
+      "date_posted": "2026-11-11 22:10:38",
+      "skills": [
+        "NALA",
+        "NFPA",
+        "NALS",
+        "Bluebook citations",
+        "Legal Research",
+        "Law review",
+        "Law Journal",
+        "Citations"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote — open to paralegals with U.S. legal experience",
+      "referral_url": "https://jobs.micro1.ai/post/88710d5b-dcd2-47b4-9862-0d730d3eeaf2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "8168e928-64b9-4874-86be-720af5a3898e",
+      "title": "Game Developer (Godot Expert)",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-11-11 21:41:52",
+      "skills": [
+        "Godot",
+        "Game Development"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/8168e928-64b9-4874-86be-720af5a3898e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "36ccb79f-606b-4c5e-808c-acdb9ed88731",
+      "title": "Digital Illustrator (Krita Expert)",
+      "domain_slug": "other",
+      "date_posted": "2026-11-11 21:35:38",
+      "skills": [
+        "Krita",
+        "Illustration"
+      ],
+      "hourly_min": 21,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 21.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/36ccb79f-606b-4c5e-808c-acdb9ed88731?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "778a5a12-8b98-41d7-a0a4-6d23f0ee76cc",
+      "title": "Electronics Engineer (DesignSpark PCB Specialist)",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-11 21:22:06",
+      "skills": [
+        "DesignSpark PCB",
+        "PCB Design",
+        "Electronics Engineering",
+        "Circuit Design",
+        "Schematic Design",
+        "PCB Layout"
+      ],
+      "hourly_min": 63,
+      "hourly_max": 122,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 63.0,
+      "pay_max": 122.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/778a5a12-8b98-41d7-a0a4-6d23f0ee76cc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "d5ae2349-5b7b-48a7-93e2-b7cfa8d1d29d",
       "title": "Student Loan Servicing Specialist",
@@ -5804,31 +5919,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0a40f373-eb85-4269-a115-07d75e7e59a2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5ed081d3-01aa-4840-9ac6-c75a61993136",
-      "title": "Paralegal ",
-      "domain_slug": "law",
-      "date_posted": "2026-10-27 14:12:06",
-      "skills": [
-        "Legal Research and Verification",
-        "Document Review at Volume",
-        "Following Detailed Protocols Consistently",
-        "Law",
-        "Knowing When to Escalate",
-        "Attention to Detail",
-        "Deadlines"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5ed081d3-01aa-4840-9ac6-c75a61993136?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "8e9b3e88-5bdc-4bbd-92bb-09a5a36b4e40",
