@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-11-12T08:30:02Z",
-  "count": 474,
+  "updated_at": "2026-11-12T12:30:04Z",
+  "count": 475,
   "jobs": [
+    {
+      "job_id": "9dd55f6b-f862-41a1-8412-4c3012507646",
+      "title": "AI Conversation Evaluator",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-12 10:12:53",
+      "skills": [
+        "ChatGPT",
+        "AI agents",
+        "Attention to Detail",
+        "Following Instructions"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 75,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 75.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote – Global (English required)",
+      "referral_url": "https://jobs.micro1.ai/post/9dd55f6b-f862-41a1-8412-4c3012507646?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "b381f79f-a396-4815-97ad-141191db9d25",
       "title": "Paralegal ",
