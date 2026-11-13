@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T12:30:07Z",
-  "count": 374,
+  "updated_at": "2026-11-13T16:30:13Z",
+  "count": 382,
   "jobs": [
     {
       "job_id": "92adefba-ef8c-4d8f-8eee-ed78c1c663b8",
@@ -8737,6 +8737,148 @@
       "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "bb117da1-3d6d-41d7-9bb5-69beff1f1104",
+      "title": "Financial Aid Advisor",
+      "domain_slug": "other",
+      "date_posted": "2026-10-12 14:50:37",
+      "skills": [
+        "Repayment",
+        "PSLF",
+        "Default"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/bb117da1-3d6d-41d7-9bb5-69beff1f1104?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "657dcfd9-f374-4371-bf9b-9ba13557fe6f",
+      "title": "VA Eligibility Specialist",
+      "domain_slug": "other",
+      "date_posted": "2026-10-12 14:26:34",
+      "skills": [
+        "Eligibility",
+        "Enrollment",
+        "Healthcare"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/657dcfd9-f374-4371-bf9b-9ba13557fe6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2582f414-1be9-4ac0-9375-01d2f3187217",
+      "title": "Veterans Service Officer",
+      "domain_slug": "other",
+      "date_posted": "2026-10-12 14:18:18",
+      "skills": [
+        "Claims",
+        "Accreditation",
+        "Compensation",
+        "Survivors",
+        "Appeals"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2582f414-1be9-4ac0-9375-01d2f3187217?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "cf02a995-bac4-4503-b872-cb8cdbc536de",
+      "title": "Passport Specialist",
+      "domain_slug": "law",
+      "date_posted": "2026-10-12 14:06:03",
+      "skills": [],
+      "hourly_min": 50,
+      "hourly_max": 70,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/cf02a995-bac4-4503-b872-cb8cdbc536de?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c3c2db93-38c2-4a62-8f9f-81b65cdb5c10",
+      "title": "Passport Acceptance Agent",
+      "domain_slug": "other",
+      "date_posted": "2026-10-12 13:49:14",
+      "skills": [],
+      "hourly_min": 30,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/c3c2db93-38c2-4a62-8f9f-81b65cdb5c10?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a6091fe2-e1e0-4460-b9db-6a513ceead46",
+      "title": "Medicare Enrollment Specialist",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-12 13:33:20",
+      "skills": [
+        "Medicare",
+        "Enrollment",
+        "Coordination",
+        "Coverage",
+        "COBRA"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 40.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a6091fe2-e1e0-4460-b9db-6a513ceead46?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "10b91117-cedd-42c0-a468-b056ad004ec3",
+      "title": "SHIP Medicare Counselor",
+      "domain_slug": "medicine",
+      "date_posted": "2026-10-12 13:04:07",
+      "skills": [
+        "Medicare",
+        "Medigap"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/10b91117-cedd-42c0-a468-b056ad004ec3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "15258a67-70c6-418b-aabc-af3bb643a336",
       "title": "Paid Photo Contributor Opportunity (Alaska-based)",
       "domain_slug": "robotics",
@@ -8872,6 +9014,31 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0f2c4f59-00c6-4296-a9dc-fb7b93efd31b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c4289f4e-1884-4dd0-bdae-af3757d84daf",
+      "title": "Member of Technical Staff, Forward Deployed (US Gov)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-08-25 13:41:46",
+      "skills": [
+        "Python",
+        "LLM Systems",
+        "Data Pipelines",
+        "Distributed Systems"
+      ],
+      "hourly_min": 40,
+      "hourly_max": 60,
+      "monthly_min": "5000.00",
+      "monthly_max": "7000.00",
+      "yearly": {
+        "max": 350000,
+        "min": 200000
+      },
+      "pay_min": 200000.0,
+      "pay_max": 350000.0,
+      "pay_unit": "year",
+      "location_raw": "Hybrid - Washington, D.C.",
+      "referral_url": "https://jobs.micro1.ai/post/c4289f4e-1884-4dd0-bdae-af3757d84daf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "382cf385-16da-4536-8a32-95947e0197a7",
