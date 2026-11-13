@@ -1,7 +1,177 @@
 {
-  "updated_at": "2026-11-12T20:30:05Z",
-  "count": 481,
+  "updated_at": "2026-11-13T00:30:12Z",
+  "count": 484,
   "jobs": [
+    {
+      "job_id": "9c309c3b-f730-410a-9b7c-12821fde6e05",
+      "title": "Go-to-Market and Revenue Operations Specialist",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-11-12 22:07:35",
+      "skills": [
+        "go-to-market strategy",
+        "revenue operations",
+        "sales operations",
+        "crm systems",
+        "sales enablement",
+        "pipeline management",
+        "lead generation",
+        "data-driven dashboards",
+        "reporting solutions",
+        "cross-functional collaboration",
+        "b2b saas",
+        "process improvement",
+        "documentation creation",
+        "operational playbooks",
+        "written communication",
+        "verbal communication",
+        "consultative feedback",
+        "remote work",
+        "asynchronous work"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9c309c3b-f730-410a-9b7c-12821fde6e05?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "d0674177-cd25-4707-84e2-8fbb724e42f5",
+      "title": "Sales and Business Development Specialist",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-11-12 22:05:29",
+      "skills": [
+        "b2b sales",
+        "outbound prospecting",
+        "lead generation",
+        "crm systems",
+        "sales engagement platforms",
+        "prospect research",
+        "sales process evaluation",
+        "sales workflow optimization",
+        "cold outreach",
+        "email sequencing",
+        "prospecting automation",
+        "b2b sales intelligence platforms",
+        "contact enrichment tools",
+        "b2b saas sales",
+        "communication",
+        "professional sales judgment",
+        "providing actionable feedback"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 65,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, worldwide",
+      "referral_url": "https://jobs.micro1.ai/post/d0674177-cd25-4707-84e2-8fbb724e42f5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "8c27847f-ef29-46d3-94e5-542b367cd9ff",
+      "title": "Software Engineer (Principal), Eng-wide Architecture",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-12 21:38:11",
+      "skills": [
+        "System Architecture & Distributed Systems",
+        "Agentic Engineering & AI-Driven Development",
+        "Technical Leadership & Engineering Excellence",
+        "Complex Problem-Solving & Technical Execution"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 9,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 700000,
+        "min": 450000
+      },
+      "pay_min": 450000.0,
+      "pay_max": 700000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/8c27847f-ef29-46d3-94e5-542b367cd9ff?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "55a1accf-d9b8-4883-a491-f6812d57f430",
+      "title": "Software Engineer (Staff), Platform Engineering",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-12 21:34:19",
+      "skills": [
+        "Platform Engineering & System Architecture",
+        "Agentic Engineering & AI Systems",
+        "Data Engineering & Pipeline Architecture",
+        "Technical Leadership & Engineering Execution"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 600000,
+        "min": 350000
+      },
+      "pay_min": 350000.0,
+      "pay_max": 600000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/55a1accf-d9b8-4883-a491-f6812d57f430?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "4ea412b2-4f96-4e39-8d18-3f1d28a53fd8",
+      "title": "Senior Commercial Underwriter",
+      "domain_slug": "other",
+      "date_posted": "2026-11-12 21:17:37",
+      "skills": [
+        "commercial insurance underwriting",
+        "risk assessment",
+        "insurance pricing and quoting",
+        "coverage evaluation",
+        "loss history analysis"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, United States and Canada",
+      "referral_url": "https://jobs.micro1.ai/post/4ea412b2-4f96-4e39-8d18-3f1d28a53fd8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0b2ca270-1e09-4198-9a5a-76c4fb6ec92d",
+      "title": "Director of Engineering, Internal Platforms",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-12 20:26:44",
+      "skills": [
+        "Platform Engineering & System Architecture",
+        "AI Engineering & Agentic Systems",
+        "Quality Engineering & Test Automation",
+        "Technical Leadership & Engineering Execution"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 800000,
+        "min": 450000
+      },
+      "pay_min": 450000.0,
+      "pay_max": 800000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0b2ca270-1e09-4198-9a5a-76c4fb6ec92d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "7fc07dfa-1d0e-4795-b8b2-805d3d41a48a",
       "title": "Junior Machine Learning Engineer",
@@ -23,7 +193,7 @@
     },
     {
       "job_id": "aebcf88d-8858-4812-a239-2e90a8eb8def",
-      "title": "Student Loan Counselor/Advisor",
+      "title": "Student Loan Counselor",
       "domain_slug": "other",
       "date_posted": "2026-11-12 15:21:26",
       "skills": [
@@ -11255,83 +11425,6 @@
       "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/4010d2c5-4a3d-41fe-9e33-28bc218626e5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b1316606-46fb-4c3d-a4f9-5a2368e88d70",
-      "title": "Associate Forward Deployed Engineer (aFDE)",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-09-14 22:52:39",
-      "skills": [
-        "Python",
-        "SQL",
-        "Data Workflows"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "44668e06-3191-4b5f-a41c-b19e05f46eb7",
-      "title": "Forward Deployed Engineer",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-09-14 22:44:06",
-      "skills": [
-        "Python",
-        "LLM Systems",
-        "ML Infrastructure",
-        "RAG/AI Automation"
-      ],
-      "hourly_min": 250000,
-      "hourly_max": 400000,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 650000,
-        "min": 300000
-      },
-      "pay_min": 300000.0,
-      "pay_max": 650000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote / Travel-required",
-      "referral_url": "https://jobs.micro1.ai/post/44668e06-3191-4b5f-a41c-b19e05f46eb7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "8811c1b3-efa7-4a5e-b332-50743f90a05a",
-      "title": "Video Annotation Specialist",
-      "domain_slug": "robotics",
-      "date_posted": "2026-09-14 12:16:06",
-      "skills": [
-        "video annotation",
-        "audio annotation",
-        "data labeling",
-        "content moderation",
-        "attention to detail",
-        "english communication",
-        "written feedback",
-        "guideline-based evaluation",
-        "independent work",
-        "adaptability",
-        "process improvement",
-        "data confidentiality",
-        "remote collaboration"
-      ],
-      "hourly_min": 8,
-      "hourly_max": 10,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 8.0,
-      "pay_max": 10.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8811c1b3-efa7-4a5e-b332-50743f90a05a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
