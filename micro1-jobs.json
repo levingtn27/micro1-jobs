@@ -1,7 +1,113 @@
 {
-  "updated_at": "2026-11-13T00:30:12Z",
-  "count": 484,
+  "updated_at": "2026-11-13T04:30:10Z",
+  "count": 489,
   "jobs": [
+    {
+      "job_id": "6422f784-daa4-41a6-8614-7de3f9025dee",
+      "title": "Legal Expert (Employment & Labor Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-13 03:03:02",
+      "skills": [
+        "Employment Attorney",
+        "Labor & Employment Counsel",
+        "Employment Litigation Attorney"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6422f784-daa4-41a6-8614-7de3f9025dee?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "5faf40c0-a291-4ca9-bb45-be75d2dde2ed",
+      "title": "Legal Expert (Antitrust & Competition Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-13 02:58:30",
+      "skills": [
+        "Antitrust Attorney",
+        "Competition Counsel",
+        "Antitrust Litigation Attorney"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/5faf40c0-a291-4ca9-bb45-be75d2dde2ed?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "25101ed1-9065-439f-aea5-ce77efeb4ef4",
+      "title": "Legal Expert (Environmental Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-13 02:53:29",
+      "skills": [
+        "Environmental Attorney",
+        "Environmental Counsel",
+        "Environmental Litigation Attorney"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/25101ed1-9065-439f-aea5-ce77efeb4ef4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7eba9484-46ef-4914-a284-2159b2ccbd00",
+      "title": "Legal Expert (Civil Rights Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-13 02:49:01",
+      "skills": [
+        "Civil Rights Attorney",
+        "Civil Rights Litigation Attorney",
+        "Civil Liberties Attorney"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7eba9484-46ef-4914-a284-2159b2ccbd00?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "22682b99-ae27-4f3b-be90-188da60d44d2",
+      "title": "Legal Expert (Entertainment Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-13 02:43:02",
+      "skills": [
+        "Entertainment Contract Drafting",
+        "Content Licensing",
+        "Talent Agreements",
+        "Copyright Law"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/22682b99-ae27-4f3b-be90-188da60d44d2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "9c309c3b-f730-410a-9b7c-12821fde6e05",
       "title": "Go-to-Market and Revenue Operations Specialist",
