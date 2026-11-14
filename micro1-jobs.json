@@ -1,7 +1,78 @@
 {
-  "updated_at": "2026-11-14T08:30:05Z",
-  "count": 390,
+  "updated_at": "2026-11-14T12:30:07Z",
+  "count": 393,
   "jobs": [
+    {
+      "job_id": "6051f146-9e74-44ba-bd0e-6558aab95afa",
+      "title": "Physics Expert (Gravity and Holography)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-14 10:10:18",
+      "skills": [
+        "General Relativity",
+        "Cosmology",
+        "Holography",
+        "Quantum Field Theory",
+        "String Theory",
+        "LaTeX"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6051f146-9e74-44ba-bd0e-6558aab95afa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "72c41508-c619-471f-acb1-3ea0c5231254",
+      "title": "Physics Expert (Quantum Optics and Atomic Physics)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-14 09:26:27",
+      "skills": [
+        "Quantum Optics",
+        "Atomic Physics",
+        "Quantum Sensing",
+        "Optical Lattices",
+        "Laser Physics",
+        "LaTeX"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/72c41508-c619-471f-acb1-3ea0c5231254?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "94cc73a6-b8fe-496a-a8ad-4a3466db76f4",
+      "title": "Physics Expert (PhD / Postdoc)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-14 08:56:46",
+      "skills": [
+        "Physics",
+        "Theoretical Physics",
+        "Mathematical Physics",
+        "Quantum Physics",
+        "LaTeX"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/94cc73a6-b8fe-496a-a8ad-4a3466db76f4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "8b528fff-055b-47ca-8cdc-184739ba9699",
       "title": "English Language Expert (Philippines)",
