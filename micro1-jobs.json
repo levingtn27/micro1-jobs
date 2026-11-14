@@ -1,7 +1,99 @@
 {
-  "updated_at": "2026-11-13T20:30:08Z",
-  "count": 384,
+  "updated_at": "2026-11-14T00:30:08Z",
+  "count": 385,
   "jobs": [
+    {
+      "job_id": "8f706310-56b8-4dec-acac-8101def703ab",
+      "title": "English Language Expert (Canada)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-14 00:14:01",
+      "skills": [
+        "Canadian English",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "English Teaching"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Canada, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/8f706310-56b8-4dec-acac-8101def703ab?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7f7715e0-d3ca-4518-8f1a-2b922fa7ecc8",
+      "title": "English Language Expert (Ireland)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-13 21:55:36",
+      "skills": [
+        "Irish English",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "English Teaching"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Ireland, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7f7715e0-d3ca-4518-8f1a-2b922fa7ecc8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "182d7d1f-0eaf-40bc-bb55-6d5c98272e1f",
+      "title": "English Language Expert (United States)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-13 21:41:59",
+      "skills": [
+        "American English",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "English Teaching"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/182d7d1f-0eaf-40bc-bb55-6d5c98272e1f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "df76c277-0561-43be-8df3-b252cf468d92",
+      "title": "English Language Expert (Great Britain) ",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-13 21:29:51",
+      "skills": [
+        "British English",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "English Teaching"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Great Britain, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/df76c277-0561-43be-8df3-b252cf468d92?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "45a57090-53c6-4c9b-9eeb-3d148d9f6209",
       "title": "Ground Combat & Special Operations SME ",
@@ -8671,52 +8763,6 @@
       "referral_url": "https://jobs.micro1.ai/post/2208e450-8d5c-4f72-9b6e-a70e71c9e049?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "8648356b-1e04-4d62-bfcc-c72c3d5993b0",
-      "title": "English Voice Recording",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-10-15 23:24:44",
-      "skills": [
-        "Native English",
-        "Sound recording",
-        "Clear and Natural spoken english",
-        "Attention to detail",
-        "Read Written text aloud smoothly"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote (U.S.-based only)",
-      "referral_url": "https://jobs.micro1.ai/post/8648356b-1e04-4d62-bfcc-c72c3d5993b0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5ba40f6e-b9a0-4a61-91fd-004516fb27f8",
-      "title": "App Security Expert",
-      "domain_slug": "cybersecurity",
-      "date_posted": "2026-10-15 20:49:56",
-      "skills": [
-        "OSWE",
-        "LLM security",
-        "AI-SAST evaluation",
-        "AppSec",
-        "Agent security architecture"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5ba40f6e-b9a0-4a61-91fd-004516fb27f8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
       "title": "Education Practitioner - Learning & Assessment Specialist",
       "domain_slug": "education",
@@ -8735,31 +8781,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote - USA Preferred",
       "referral_url": "https://jobs.micro1.ai/post/c3af6520-9ea8-4717-b8c6-2b9dee8ee470?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "84c0959f-ea1b-4bf3-8783-4d74373bb4b7",
-      "title": "Software Engineer, Platform Engineering",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-10-15 00:04:27",
-      "skills": [
-        "System Design & Software Architecture",
-        "0-to-1 Product Engineering",
-        "Product Thinking & Problem-Solving",
-        "AI-Native Software Development"
-      ],
-      "hourly_min": 8,
-      "hourly_max": 9,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 300000,
-        "min": 200000
-      },
-      "pay_min": 200000.0,
-      "pay_max": 300000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/84c0959f-ea1b-4bf3-8783-4d74373bb4b7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
