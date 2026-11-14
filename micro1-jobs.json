@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T04:30:09Z",
-  "count": 388,
+  "updated_at": "2026-11-14T08:30:05Z",
+  "count": 390,
   "jobs": [
     {
       "job_id": "8b528fff-055b-47ca-8cdc-184739ba9699",
@@ -9130,6 +9130,30 @@
       "referral_url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "36e1b1f6-b8bf-4273-a09a-94116a1f4b39",
+      "title": "Car-Mounted 360° Video Recorder",
+      "domain_slug": "robotics",
+      "date_posted": "2026-10-01 10:21:40",
+      "skills": [
+        "360° Camera Operation",
+        "Mounting & Rigging",
+        "Video Post-Production",
+        "Driving Skills",
+        "Quality Assurance",
+        "Project/Task Management"
+      ],
+      "hourly_min": 15,
+      "hourly_max": 30,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/36e1b1f6-b8bf-4273-a09a-94116a1f4b39?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
       "title": "Vlogger (Insta360, DJI Osmo, GoPro MAX)",
       "domain_slug": "robotics",
@@ -9148,6 +9172,28 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0f2c4f59-00c6-4296-a9dc-fb7b93efd31b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9d57fd44-b189-41ca-a0d4-2fe3903eec41",
+      "title": "360° Video Recorder (Insta360 / GoPro MAX)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-09-03 16:35:42",
+      "skills": [
+        "360° Video Recording",
+        "Camera Mounts",
+        "Video Upload",
+        "Equipment Handling"
+      ],
+      "hourly_min": 15,
+      "hourly_max": 30,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "c4289f4e-1884-4dd0-bdae-af3757d84daf",
