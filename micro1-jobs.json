@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T20:30:03Z",
-  "count": 393,
+  "updated_at": "2026-11-15T00:30:02Z",
+  "count": 388,
   "jobs": [
     {
       "job_id": "6051f146-9e74-44ba-bd0e-6558aab95afa",
@@ -8716,27 +8716,6 @@
       "referral_url": "https://jobs.micro1.ai/post/254e0a96-f823-486f-b0f5-cc82dca09427?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "ab08cc42-f7e0-4565-b306-11e55beb613f",
-      "title": "PhysioNet Competitor (Biomedical Signal Processing & ML)",
-      "domain_slug": "applied-engineering",
-      "date_posted": "2026-10-16 19:10:57",
-      "skills": [
-        "Biotechnology",
-        "Biology",
-        "Machine Learning"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/ab08cc42-f7e0-4565-b306-11e55beb613f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "7944c9e5-73a0-45a0-b298-d93be3db08ed",
       "title": "STEM Expert (MSc./PhD)",
       "domain_slug": "other",
@@ -8775,66 +8754,6 @@
       "referral_url": "https://jobs.micro1.ai/post/be0ac227-30ab-4126-bde8-e1e0660c940f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e",
-      "title": "Puzzle Solver (Coding)",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-10-16 15:30:18",
-      "skills": [
-        "Python",
-        "C++"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/1fdcfc88-24fa-4378-9e5a-2ca0ac983f8e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "44fc17a0-8964-4970-979b-dd975baad36d",
-      "title": "Mechanical Engineering Expert (MSc. or PhD)",
-      "domain_slug": "other",
-      "date_posted": "2026-10-16 15:29:22",
-      "skills": [
-        "Python",
-        "Mechanical Engineering"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/44fc17a0-8964-4970-979b-dd975baad36d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "99ef9e98-e4de-4503-b2e3-980390dab872",
-      "title": "Aerodynamics Expert (MSc. or PhD)",
-      "domain_slug": "other",
-      "date_posted": "2026-10-16 15:28:59",
-      "skills": [
-        "Python",
-        "Aerodynamics"
-      ],
-      "hourly_min": 80,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 80.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/99ef9e98-e4de-4503-b2e3-980390dab872?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "aa1993c5-2079-40ac-ad0a-09ebfd77960d",
       "title": "Hardware Expert (MSc. or PhD)",
       "domain_slug": "other",
@@ -8853,28 +8772,6 @@
       "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/aa1993c5-2079-40ac-ad0a-09ebfd77960d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "79170f82-64d2-4029-9233-c39f1081e709",
-      "title": "AI Product Evaluator",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-16 14:10:54",
-      "skills": [
-        "AI Models",
-        "AI Agents",
-        "Following Instructions",
-        "Attention to Detail"
-      ],
-      "hourly_min": 14,
-      "hourly_max": 36,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 14.0,
-      "pay_max": 36.0,
-      "pay_unit": "hour",
-      "location_raw": "India, Japan or United Kingdom, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/79170f82-64d2-4029-9233-c39f1081e709?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "2208e450-8d5c-4f72-9b6e-a70e71c9e049",
