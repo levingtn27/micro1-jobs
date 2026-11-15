@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T04:30:02Z",
-  "count": 388,
+  "updated_at": "2026-11-15T08:30:04Z",
+  "count": 389,
   "jobs": [
     {
       "job_id": "6051f146-9e74-44ba-bd0e-6558aab95afa",
@@ -9063,6 +9063,32 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/83b89d5d-866e-46ab-b1ae-7c87fbcd1c75?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "7c09cefc-fd08-4ee4-b792-48e3a4753e9c",
+      "title": "AI/ML Engineer, Internal Platforms",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-06 00:57:45",
+      "skills": [
+        "Python",
+        "LLMs",
+        "AWS",
+        "LangChain",
+        "FastAPI"
+      ],
+      "hourly_min": 160,
+      "hourly_max": 300,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 300000,
+        "min": 220000
+      },
+      "pay_min": 220000.0,
+      "pay_max": 300000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7c09cefc-fd08-4ee4-b792-48e3a4753e9c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
