@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T04:30:02Z",
-  "count": 391,
+  "updated_at": "2026-11-16T08:30:02Z",
+  "count": 390,
   "jobs": [
     {
       "job_id": "1bbd36b4-3276-4157-9399-e429e0e4c2b9",
@@ -8503,29 +8503,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, worldwide",
       "referral_url": "https://jobs.micro1.ai/post/deb49cd2-8d5f-4600-8baf-7b2cd5656eea?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "3a5698cc-bce4-4ec6-b992-b948a5c46a2b",
-      "title": "Evaluation Specialist/Recent Grad",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-20 21:28:02",
-      "skills": [
-        "Research & source triangulation",
-        "Attention to detail",
-        "Written precision",
-        "Self-direction & reliability",
-        "Analytical thinking"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3a5698cc-bce4-4ec6-b992-b948a5c46a2b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "345daaa5-4cbe-4af3-af6f-4e27382d6d41",
