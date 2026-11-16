@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-15T20:30:05Z",
+  "updated_at": "2026-11-16T00:30:04Z",
   "count": 391,
   "jobs": [
+    {
+      "job_id": "1bbd36b4-3276-4157-9399-e429e0e4c2b9",
+      "title": "CPU Performance Architect",
+      "domain_slug": "other",
+      "date_posted": "2026-11-15 22:58:02",
+      "skills": [
+        "Instruction-level CPU performance analysis (x86-64 and/or AArch64 assembly)",
+        "CPU microarchitecture",
+        "Code-speed estimation tools and cost models",
+        "llvm-mca",
+        "uiCA",
+        "IACA",
+        "OSACA",
+        "compiler scheduling models",
+        "Compiler backend optimization",
+        "Performance measurement methodology"
+      ],
+      "hourly_min": null,
+      "hourly_max": null,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/1bbd36b4-3276-4157-9399-e429e0e4c2b9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "2777ffe8-a4d3-42bd-9e88-567557742387",
       "title": "Legal Research Attorney",
@@ -8715,34 +8743,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f3648a6f-d267-445f-b861-b1be29ae322f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "254e0a96-f823-486f-b0f5-cc82dca09427",
-      "title": "Investment Banking Associate",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-17 10:29:01",
-      "skills": [
-        "financial modeling",
-        "valuation analysis",
-        "deal execution",
-        "market analysis",
-        "financial statement analysis",
-        "written communication",
-        "attention to detail",
-        "feedback delivery",
-        "remote collaboration",
-        "industry documentation knowledge"
-      ],
-      "hourly_min": 120,
-      "hourly_max": 150,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 120.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/254e0a96-f823-486f-b0f5-cc82dca09427?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "7944c9e5-73a0-45a0-b298-d93be3db08ed",
