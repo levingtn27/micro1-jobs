@@ -1,7 +1,163 @@
 {
-  "updated_at": "2026-11-16T12:30:06Z",
-  "count": 365,
+  "updated_at": "2026-11-16T16:30:13Z",
+  "count": 370,
   "jobs": [
+    {
+      "job_id": "3a6cc6dd-2765-4261-b282-a2451272d62b",
+      "title": "Portuguese Language Expert (Brazil)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-16 16:22:28",
+      "skills": [
+        "Brazilian Portuguese",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "Portuguese Teaching"
+      ],
+      "hourly_min": 16,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 16.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Brazil, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3a6cc6dd-2765-4261-b282-a2451272d62b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "077f11f6-9326-483c-be15-bdfd37544daa",
+      "title": "Spanish Language Expert (LATAM)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-16 15:57:10",
+      "skills": [
+        "LATAM Spanish",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "Spanish Teaching"
+      ],
+      "hourly_min": 16,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 16.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Argentina or Colombia, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/077f11f6-9326-483c-be15-bdfd37544daa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "909317e2-a084-453a-8e79-9670d891b1cd",
+      "title": "Spanish Language Expert (Mexico)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-16 15:36:38",
+      "skills": [
+        "Mexican Spanish",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "Spanish Teaching"
+      ],
+      "hourly_min": 16,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 16.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Mexico, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/909317e2-a084-453a-8e79-9670d891b1cd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "8dd58c0e-78c8-44b4-a8e3-0bfbfc1f765f",
+      "title": "Machine Learning Researcher ",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-16 15:31:49",
+      "skills": [
+        "Machine Learning"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/8dd58c0e-78c8-44b4-a8e3-0bfbfc1f765f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f65f4c3c-34b6-48bd-96bd-5f274f7dcd09",
+      "title": "Applied Scientists — Machine Learning ",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-16 15:31:35",
+      "skills": [
+        "Machine Learning"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/f65f4c3c-34b6-48bd-96bd-5f274f7dcd09?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "efc79050-7290-4a01-b946-e245bda8be47",
+      "title": "Spanish Language Expert (Spain)",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-16 15:23:37",
+      "skills": [
+        "Spanish",
+        "Dialect",
+        "Linguistics",
+        "Transcription",
+        "Spanish Teaching"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Spain, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/efc79050-7290-4a01-b946-e245bda8be47?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "d4080820-66c9-48b1-a29a-b8b1752b8e79",
+      "title": "AI Agent Tester",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-16 14:48:09",
+      "skills": [
+        "ChatGPT",
+        "Muse",
+        "AI agents",
+        "Attention to Detail",
+        "Following Instructions",
+        "Screen Recording",
+        "Dots",
+        "Mobile"
+      ],
+      "hourly_min": 25,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 25.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote — Europe",
+      "referral_url": "https://jobs.micro1.ai/post/d4080820-66c9-48b1-a29a-b8b1752b8e79?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "1bbd36b4-3276-4157-9399-e429e0e4c2b9",
       "title": "CPU Performance Architect",
@@ -915,7 +1071,7 @@
     },
     {
       "job_id": "9dd55f6b-f862-41a1-8412-4c3012507646",
-      "title": "AI Conversation Evaluator",
+      "title": "Prompt & Response Evaluator",
       "domain_slug": "generalist",
       "date_posted": "2026-11-12 10:12:53",
       "skills": [
@@ -6956,44 +7112,6 @@
       "referral_url": "https://jobs.micro1.ai/post/82ba10ad-8dbd-49ce-bc11-a83b9bb2169f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "4307f05a-fbd1-4913-91a2-432c782023fb",
-      "title": "Applied Scientists — Machine Learning ",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-10-23 21:12:02",
-      "skills": [
-        "Machine Learning"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/4307f05a-fbd1-4913-91a2-432c782023fb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "16e1c68d-4f30-431f-a0f8-aa57d4b0893e",
-      "title": "Machine Learning Researcher ",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-10-23 21:06:31",
-      "skills": [
-        "Machine Learning"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/16e1c68d-4f30-431f-a0f8-aa57d4b0893e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
       "title": "Humanitarian Aid Representative",
       "domain_slug": "humanities",
@@ -8173,26 +8291,6 @@
       "referral_url": "https://jobs.micro1.ai/post/be0ac227-30ab-4126-bde8-e1e0660c940f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "aa1993c5-2079-40ac-ad0a-09ebfd77960d",
-      "title": "Hardware Expert (MSc. or PhD)",
-      "domain_slug": "other",
-      "date_posted": "2026-10-16 15:28:34",
-      "skills": [
-        "RTL",
-        "Hardware"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Global, fully remote",
-      "referral_url": "https://jobs.micro1.ai/post/aa1993c5-2079-40ac-ad0a-09ebfd77960d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "2208e450-8d5c-4f72-9b6e-a70e71c9e049",
       "title": "Image Evaluation Expert (Visual Arts / Photography)",
       "domain_slug": "generalist",
@@ -8256,6 +8354,28 @@
       "pay_unit": "hour",
       "location_raw": "Northern America, Latin America.",
       "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0406acdc-9e38-4f22-a8b5-9e9e228c9bb1",
+      "title": "Competitive Data Scientist (Kaggle)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-10-12 22:27:15",
+      "skills": [
+        "ML Engineering",
+        "Data Science",
+        "Mathematics",
+        "Coding"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/0406acdc-9e38-4f22-a8b5-9e9e228c9bb1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "bb117da1-3d6d-41d7-9bb5-69beff1f1104",
