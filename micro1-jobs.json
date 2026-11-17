@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T08:30:03Z",
-  "count": 387,
+  "updated_at": "2026-11-17T12:30:03Z",
+  "count": 383,
   "jobs": [
     {
       "job_id": "cf351411-3ea6-400b-ae57-369d9b2884c5",
@@ -1194,97 +1194,6 @@
       "pay_unit": "hour",
       "location_raw": "United States (Remote)",
       "referral_url": "https://jobs.micro1.ai/post/aebcf88d-8858-4812-a239-2e90a8eb8def?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "20c66473-9696-47b5-bc7c-446a92bf8018",
-      "title": "Passport Acceptance Agent ",
-      "domain_slug": "other",
-      "date_posted": "2026-11-12 14:38:43",
-      "skills": [
-        "passport processing expertise",
-        "document authentication",
-        "identity verification",
-        "written and verbal communication",
-        "attention to detail",
-        "knowledge of federal and state regulations",
-        "digital documentation platforms",
-        "online application workflows",
-        "data confidentiality",
-        "process improvement",
-        "feedback provision",
-        "adaptability for non-expert audiences"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/20c66473-9696-47b5-bc7c-446a92bf8018?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c0a0e9ca-39dc-4b26-aaa9-8962d98ab1c7",
-      "title": "Medicare Counselor",
-      "domain_slug": "medicine",
-      "date_posted": "2026-11-12 14:36:48",
-      "skills": [
-        "medicare regulations knowledge",
-        "medicare counseling",
-        "regulatory compliance",
-        "content review and annotation",
-        "analytical thinking",
-        "written communication",
-        "verbal communication",
-        "attention to detail",
-        "case study creation",
-        "feedback and documentation",
-        "digital literacy",
-        "remote collaboration",
-        "healthcare knowledge",
-        "insurance knowledge",
-        "problem-solving"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c0a0e9ca-39dc-4b26-aaa9-8962d98ab1c7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "5462344b-7626-4ce1-b309-9942a922b298",
-      "title": "Veterans Service Officer (VSO)",
-      "domain_slug": "finance",
-      "date_posted": "2026-11-12 14:33:42",
-      "skills": [
-        "veterans benefits expertise",
-        "claims process knowledge",
-        "regulatory compliance",
-        "written communication",
-        "verbal communication",
-        "empathy",
-        "scenario documentation",
-        "policy interpretation",
-        "attention to detail",
-        "remote collaboration"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5462344b-7626-4ce1-b309-9942a922b298?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "b50510f6-633a-445a-aa53-e52080793f6c",
@@ -8446,26 +8355,6 @@
       "pay_unit": null,
       "location_raw": "United States (Remote)",
       "referral_url": "https://jobs.micro1.ai/post/2208e450-8d5c-4f72-9b6e-a70e71c9e049?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
-      "title": "Education Practitioner - Learning & Assessment Specialist",
-      "domain_slug": "education",
-      "date_posted": "2026-10-15 04:52:00",
-      "skills": [
-        "instructional designers",
-        "educators"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote - USA Preferred",
-      "referral_url": "https://jobs.micro1.ai/post/c3af6520-9ea8-4717-b8c6-2b9dee8ee470?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d484ab8c-eb8b-4b2f-b742-3d00719ca143",
