@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T04:30:03Z",
-  "count": 389,
+  "updated_at": "2026-11-17T08:30:03Z",
+  "count": 387,
   "jobs": [
     {
       "job_id": "cf351411-3ea6-400b-ae57-369d9b2884c5",
@@ -1081,31 +1081,6 @@
       "referral_url": "https://jobs.micro1.ai/post/d0674177-cd25-4707-84e2-8fbb724e42f5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "8c27847f-ef29-46d3-94e5-542b367cd9ff",
-      "title": "Software Engineer (Principal), Eng-wide Architecture",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-11-12 21:38:11",
-      "skills": [
-        "System Architecture & Distributed Systems",
-        "Agentic Engineering & AI-Driven Development",
-        "Technical Leadership & Engineering Excellence",
-        "Complex Problem-Solving & Technical Execution"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 9,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 700000,
-        "min": 450000
-      },
-      "pay_min": 450000.0,
-      "pay_max": 700000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8c27847f-ef29-46d3-94e5-542b367cd9ff?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "55a1accf-d9b8-4883-a491-f6812d57f430",
       "title": "Software Engineer (Staff), Platform Engineering",
       "domain_slug": "software-engineering",
@@ -1310,29 +1285,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/5462344b-7626-4ce1-b309-9942a922b298?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0b636691-ab78-4a75-89eb-151723258be9",
-      "title": "Financial Aid Advisor",
-      "domain_slug": "finance",
-      "date_posted": "2026-11-12 14:30:25",
-      "skills": [
-        "financial aid advising",
-        "federal and state financial aid regulations",
-        "written and verbal communication",
-        "attention to detail",
-        "remote work self-management"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0b636691-ab78-4a75-89eb-151723258be9?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "b50510f6-633a-445a-aa53-e52080793f6c",
