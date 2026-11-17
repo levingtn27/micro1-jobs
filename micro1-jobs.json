@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T20:30:38Z",
-  "count": 388,
+  "updated_at": "2026-11-17T00:30:04Z",
+  "count": 389,
   "jobs": [
     {
       "job_id": "cf351411-3ea6-400b-ae57-369d9b2884c5",
@@ -8872,6 +8872,27 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/0c6952e3-b783-407c-a451-b92996992038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "479e1aa8-2d92-42b7-a77c-aa83369cece8",
+      "title": "Referral Partnerships Manager",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-07 20:47:52",
+      "skills": [
+        "Recruitment marketing",
+        "Project Management",
+        "Campaing performance monitoring"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 40,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/479e1aa8-2d92-42b7-a77c-aa83369cece8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "15258a67-70c6-418b-aabc-af3bb643a336",
