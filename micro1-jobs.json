@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-11-18T08:30:06Z",
-  "count": 382,
+  "updated_at": "2026-11-18T12:30:16Z",
+  "count": 391,
   "jobs": [
+    {
+      "job_id": "7e5d9c72-cf06-4f90-a38a-5837ef0b7fd5",
+      "title": "Legal Expert (Human Rights Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-18 12:06:49",
+      "skills": [
+        "International Human Rights Law",
+        "Human Rights Litigation"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/7e5d9c72-cf06-4f90-a38a-5837ef0b7fd5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2d55bd3f-8c9e-4cac-8a5f-d7d843994c96",
+      "title": "Legal Expert (Property Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-18 12:02:52",
+      "skills": [
+        "Real Property Law",
+        "Real Estate Transactions"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2d55bd3f-8c9e-4cac-8a5f-d7d843994c96?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "b2bd0e48-9dfe-47e4-9e9d-db26c1667c2f",
+      "title": "Legal Expert (Estate Planning Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-18 11:59:54",
+      "skills": [
+        "Estate Planning",
+        "Trusts and Estates Law",
+        "Estate Tax Planning"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b2bd0e48-9dfe-47e4-9e9d-db26c1667c2f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "2839c105-29ba-4fa4-b5db-c75ac97ace2b",
+      "title": "Legal Expert (Copyright Law)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-18 11:54:39",
+      "skills": [
+        "Copyright Law",
+        "Copyright Infringement"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/2839c105-29ba-4fa4-b5db-c75ac97ace2b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "f7e23d01-7573-4c4b-990c-fa3febc4b36a",
+      "title": "Legal Expert (Constitutional)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-18 11:50:21",
+      "skills": [
+        "Constitutional Law",
+        "Constitutional Litigation"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/f7e23d01-7573-4c4b-990c-fa3febc4b36a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "094f341c-e550-41cf-b489-e75d35e7d90e",
+      "title": "UI/UX Designer",
+      "domain_slug": "other",
+      "date_posted": "2026-11-18 08:59:59",
+      "skills": [
+        "UI/UX & Product Design",
+        "Visual Design & Design Systems",
+        "Figma & Interactive Prototyping",
+        "AI-Assisted Design Workflows"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 250000,
+        "min": 160000
+      },
+      "pay_min": 160000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/094f341c-e550-41cf-b489-e75d35e7d90e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "06058dd9-0415-4c0d-a638-9f359cbe8d76",
       "title": "Customer Experience (CX) Specialist ",
@@ -9025,6 +9151,28 @@
       "referral_url": "https://jobs.micro1.ai/post/15313f3d-5600-4d96-b45f-b8dfafbee976?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "8944ed79-063d-43e2-a244-bd3185fbfb43",
+      "title": "Smartphone Video Recorder",
+      "domain_slug": "robotics",
+      "date_posted": "2026-08-20 17:35:01",
+      "skills": [
+        "Household Task",
+        "Attention to detail",
+        "Video Recording",
+        "Smartphone"
+      ],
+      "hourly_min": 14,
+      "hourly_max": 15,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 14.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
+      "referral_url": "https://jobs.micro1.ai/post/8944ed79-063d-43e2-a244-bd3185fbfb43?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "382cf385-16da-4536-8a32-95947e0197a7",
       "title": "Dutch Bilingual Expert",
       "domain_slug": "language-audio",
@@ -9325,6 +9473,28 @@
       "referral_url": "https://jobs.micro1.ai/post/c6094969-6b8c-47ca-a40b-0bb5b53d0885?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "0f435bd2-e7f0-4d24-9e32-de34b71c2a97",
+      "title": "At-Home Video Recorder",
+      "domain_slug": "robotics",
+      "date_posted": "2026-07-22 20:00:30",
+      "skills": [
+        "Smartphone",
+        "Video Recording",
+        "Attention to Detail",
+        "Household Tasks"
+      ],
+      "hourly_min": 13,
+      "hourly_max": 15,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 13.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
+      "referral_url": "https://jobs.micro1.ai/post/0f435bd2-e7f0-4d24-9e32-de34b71c2a97?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "14883aba-fc23-4ca4-8935-9d8d72794668",
       "title": "Small/Medium Business – Robotics Data Collection Partner",
       "domain_slug": "robotics",
@@ -9389,6 +9559,27 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/66e153bc-1c52-439e-8fcb-38d35c4eae67?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "204600bf-1abe-4ab0-a474-cd2264999149",
+      "title": "Data-Video Generalist (US-based)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-04-21 05:55:44",
+      "skills": [
+        "Video Capturing",
+        "IMU (Inertial Measurement Unit)",
+        "Attention to Detail"
+      ],
+      "hourly_min": 13,
+      "hourly_max": 15,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 13.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
+      "referral_url": "https://jobs.micro1.ai/post/204600bf-1abe-4ab0-a474-cd2264999149?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "ad04ab64-b3b2-45ba-9d89-508f8e77dc5a",
