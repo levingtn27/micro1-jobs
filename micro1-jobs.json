@@ -1,7 +1,59 @@
 {
-  "updated_at": "2026-11-18T12:30:16Z",
-  "count": 391,
+  "updated_at": "2026-11-18T16:30:07Z",
+  "count": 394,
   "jobs": [
+    {
+      "job_id": "33e8cb50-49fd-4fb9-996c-0b2d1744e069",
+      "title": "Travel Operations Specialist",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-11-18 16:10:07",
+      "skills": [
+        "Travel Booking",
+        "Customer Experience",
+        "Itinerary Planning",
+        "Reservations"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 44,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 44.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/33e8cb50-49fd-4fb9-996c-0b2d1744e069?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "90902472-c9d4-4726-bb0b-a82135b1e5ba",
+      "title": "Brand & Creative Strategy Expert",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-11-18 15:49:09",
+      "skills": [
+        "Microsoft PowerPoint",
+        "Slide Reconstruction",
+        "Presentation Design",
+        "Data Visualization",
+        "Visual Storytelling",
+        "Content Editing",
+        "Critical Thinking",
+        "Attenton to Detail",
+        "Written Communication",
+        "Sales",
+        "GTM",
+        "Consulting"
+      ],
+      "hourly_min": 150,
+      "hourly_max": 350,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
+      "location_raw": "United States & Canada",
+      "referral_url": "https://jobs.micro1.ai/post/90902472-c9d4-4726-bb0b-a82135b1e5ba?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "7e5d9c72-cf06-4f90-a38a-5837ef0b7fd5",
       "title": "Legal Expert (Human Rights Law)",
@@ -2543,6 +2595,28 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/a17eaf55-907e-4908-9d9e-5a5e2b604f79?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "69ce4f10-b0cc-4ca0-93d4-ad306254e0cc",
+      "title": "Counterintelligence Technology & Program SME — AI Evaluation (Contract)",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-11-10 04:40:32",
+      "skills": [
+        "CI Threat Judgement",
+        "Legitimate/prohibited discrimination",
+        "Program and technology sense",
+        "Source handling and uncertainty"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 140,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/69ce4f10-b0cc-4ca0-93d4-ad306254e0cc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "31c338ae-d98a-4039-9fbf-263de454f0c6",
