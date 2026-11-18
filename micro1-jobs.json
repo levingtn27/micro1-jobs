@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T16:30:07Z",
-  "count": 394,
+  "updated_at": "2026-11-18T20:30:04Z",
+  "count": 387,
   "jobs": [
     {
       "job_id": "33e8cb50-49fd-4fb9-996c-0b2d1744e069",
@@ -2026,29 +2026,6 @@
       "referral_url": "https://jobs.micro1.ai/post/f773a48d-1b5f-4bb6-8b56-a6d72f3fb9c5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "72ad43b1-c641-4541-839b-fd12883f4eba",
-      "title": "Document Reviewer (Specialist)",
-      "domain_slug": "other",
-      "date_posted": "2026-11-10 23:05:41",
-      "skills": [
-        "document review",
-        "digital marketing",
-        "seo",
-        "written communication",
-        "content editing"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/72ad43b1-c641-4541-839b-fd12883f4eba?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "868d0dba-30bc-411e-baff-43b0c90e42ba",
       "title": "Medical Oncologist",
       "domain_slug": "medicine",
@@ -2374,114 +2351,6 @@
       "referral_url": "https://jobs.micro1.ai/post/1504ee4d-851b-4968-b936-9d96a995ff25?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "9b5eec15-0ab8-4445-9c16-901b6989edfc",
-      "title": "Generalist - Korean Speaker",
-      "domain_slug": "other",
-      "date_posted": "2026-11-10 06:15:53",
-      "skills": [
-        "Korean Language Proficiency",
-        "Data Annotation",
-        "Attention to detail",
-        "AI evaluations"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/9b5eec15-0ab8-4445-9c16-901b6989edfc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "780a208c-f037-43a9-a63b-3aa04b88fb4b",
-      "title": "Generalist - Greek Speaker",
-      "domain_slug": "other",
-      "date_posted": "2026-11-10 06:01:01",
-      "skills": [
-        "Data Annotation",
-        "Fluency in Green Language",
-        "Critical Thinking"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/780a208c-f037-43a9-a63b-3aa04b88fb4b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f1344461-b53b-41f4-a446-366074367269",
-      "title": "Generalist - Mandarin Speaker",
-      "domain_slug": "other",
-      "date_posted": "2026-11-10 05:59:17",
-      "skills": [
-        "Basic Coding Knowledge",
-        "Fluency in Mandarin",
-        "Data Annotation"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f1344461-b53b-41f4-a446-366074367269?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0451d14a-bbee-4133-af4b-facaf54b30ee",
-      "title": "Health Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-11-10 05:52:01",
-      "skills": [
-        "Nursing",
-        "Medicine",
-        "Pharmacy",
-        "Health Science"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0451d14a-bbee-4133-af4b-facaf54b30ee?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "271aa765-1c9e-4ecb-8a88-02ed65fb1a72",
-      "title": "STEM / Quant Bachelor",
-      "domain_slug": "finance",
-      "date_posted": "2026-11-10 05:46:58",
-      "skills": [
-        "Python",
-        "Finance & Economics",
-        "Quantitative Analyst",
-        "STEM"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/271aa765-1c9e-4ecb-8a88-02ed65fb1a72?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "fa54d567-3111-4f8d-aa13-5454144ede77",
       "title": "Paralegal (General)",
       "domain_slug": "law",
@@ -2664,27 +2533,6 @@
       "referral_url": "https://jobs.micro1.ai/post/172b81f5-b398-4f2a-8949-15b2dae8bd5c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "3f9690bc-7fca-4578-b308-05426b04ae46",
-      "title": "Coding Expert",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-11-10 00:24:16",
-      "skills": [
-        "Python",
-        "JavaScript",
-        "C++"
-      ],
-      "hourly_min": 20,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3f9690bc-7fca-4578-b308-05426b04ae46?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "39b344d9-4774-4c9e-8220-620084da3df5",
       "title": "AI Video Editor (Premiere Pro & After Effects)",
       "domain_slug": "generalist",
@@ -2730,6 +2578,27 @@
       "pay_unit": "hour",
       "location_raw": "United States, Canada, and LATAM",
       "referral_url": "https://jobs.micro1.ai/post/9429d8c8-9631-4d7c-8e29-3ac9cbfe12e1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "4e0beed7-fd35-4d80-8392-0d3531784fc2",
+      "title": "Emerging Technology Threat / Strategic Competition Advisor",
+      "domain_slug": "other",
+      "date_posted": "2026-11-09 17:49:53",
+      "skills": [
+        "Emerging-tech threat assessment",
+        "Strategic/competitive reasoning",
+        "Legitimate/prohibited discrimination"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 85,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US only",
+      "referral_url": "https://jobs.micro1.ai/post/4e0beed7-fd35-4d80-8392-0d3531784fc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "36e76ca9-8c78-4508-ad3a-817e9a12dfea",
@@ -8304,28 +8173,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f3648a6f-d267-445f-b861-b1be29ae322f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2208e450-8d5c-4f72-9b6e-a70e71c9e049",
-      "title": "Image Evaluation Expert (Visual Arts / Photography)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-16 01:35:28",
-      "skills": [
-        "image evaluation",
-        "attention to visual detail",
-        "image editing software",
-        "constructive feedback"
-      ],
-      "hourly_min": null,
-      "hourly_max": null,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "United States (Remote)",
-      "referral_url": "https://jobs.micro1.ai/post/2208e450-8d5c-4f72-9b6e-a70e71c9e049?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d484ab8c-eb8b-4b2f-b742-3d00719ca143",
