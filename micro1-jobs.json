@@ -1,7 +1,75 @@
 {
-  "updated_at": "2026-11-18T00:30:02Z",
-  "count": 384,
+  "updated_at": "2026-11-18T04:30:12Z",
+  "count": 380,
   "jobs": [
+    {
+      "job_id": "06058dd9-0415-4c0d-a638-9f359cbe8d76",
+      "title": "Customer Experience (CX) Specialist ",
+      "domain_slug": "other",
+      "date_posted": "2026-11-18 02:35:41",
+      "skills": [
+        "Shopping QA",
+        "Concierge Services",
+        "Product Discovery"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 44,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 44.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/06058dd9-0415-4c0d-a638-9f359cbe8d76?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "708edbc2-6ef7-487d-a41b-0fb0603f06a8",
+      "title": "Professional Shopper",
+      "domain_slug": "other",
+      "date_posted": "2026-11-18 02:29:56",
+      "skills": [
+        "Product Research",
+        "Price Comparison",
+        "Consumer Insights",
+        "Market Research",
+        "Product Evaluation"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 44,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 44.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/708edbc2-6ef7-487d-a41b-0fb0603f06a8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9a74b7b0-b1c3-4aae-b673-b821f7731daa",
+      "title": "Category Manager",
+      "domain_slug": "other",
+      "date_posted": "2026-11-18 02:15:56",
+      "skills": [
+        "Grocery",
+        "Electronics",
+        "Travel",
+        "Pricing Strategy",
+        "Supplier Negotiation",
+        "Demand Forecasting"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 44,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 44.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9a74b7b0-b1c3-4aae-b673-b821f7731daa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "3e3ab24b-06cf-43d1-9418-96c9c45af922",
       "title": "Marine Outboard Technician / Service Manager",
@@ -5797,29 +5865,6 @@
       "referral_url": "https://jobs.micro1.ai/post/8d2f7ffc-121b-46a2-aef6-fcd1b53f96ff?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "23c516d6-21e5-4e65-8e69-7d1dc127211b",
-      "title": "Energy Regulatory Counsel",
-      "domain_slug": "law",
-      "date_posted": "2026-10-28 20:57:21",
-      "skills": [
-        "FERC and State PUC Practice",
-        "Transactional Energy Work",
-        "energy-and-utilities-regulation",
-        "Regulatory Judgment Under Conflicting Rules",
-        "Attention to detail"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Fully remote — anywhere, as long as you hold an active U.S. bar license",
-      "referral_url": "https://jobs.micro1.ai/post/23c516d6-21e5-4e65-8e69-7d1dc127211b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "c80af4df-2031-4f3e-a16b-eae08b339e2f",
       "title": "Gaming/Gambling Regulatory Attorney",
       "domain_slug": "law",
@@ -6670,29 +6715,6 @@
       "referral_url": "https://jobs.micro1.ai/post/e048500b-aaf4-45f3-b8b6-41e629d909c4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "20fa6ad3-5691-4b61-9e33-27aad6b1bd6d",
-      "title": "Data & Charts Expert",
-      "domain_slug": "data-analysis",
-      "date_posted": "2026-10-26 11:49:24",
-      "skills": [
-        "Chart interpretation accuracy",
-        "Multi-step quantitative reasoning",
-        "Question design / unambiguous task construction",
-        "Domain-specific terminology precision",
-        "remote collaboration"
-      ],
-      "hourly_min": 25,
-      "hourly_max": 50,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 25.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, global",
-      "referral_url": "https://jobs.micro1.ai/post/20fa6ad3-5691-4b61-9e33-27aad6b1bd6d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "57f7606f-5b4f-42a5-af38-e4b148f2c06a",
       "title": "Paid Photo Contributor Opportunity (Egypt-based)",
       "domain_slug": "robotics",
@@ -6770,121 +6792,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/73e0d113-91f0-40f4-94b0-67c02c31a3f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "ec9f7a0d-9757-4885-8ac9-6e7dd25fd7c7",
-      "title": "Procurement & Vendor Management Expert",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-10-24 16:44:55",
-      "skills": [
-        "Turning Real Procurement Work Into a Defined Task",
-        "Objective Grading Criteria",
-        "Supplier Evaluation and Selection",
-        "Vendor Problems After Signing"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ec9f7a0d-9757-4885-8ac9-6e7dd25fd7c7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7c577ab9-89b0-4104-b22e-89b1408187d6",
-      "title": "HR & People Operations Expert",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-10-24 16:36:56",
-      "skills": [
-        "Payroll and Lifecycle Operations",
-        "Objective Grading Criteria",
-        "Turning Real HR Work Into a Defined Task",
-        "Policy Application in Edge Cases",
-        "Working Across Documents"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, global",
-      "referral_url": "https://jobs.micro1.ai/post/7c577ab9-89b0-4104-b22e-89b1408187d6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f59ff23d-1cad-470e-8e7c-113f2a3c63e7",
-      "title": "Business Operations Expert",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-10-24 16:22:59",
-      "skills": [
-        "Turning Real Operations Work Into a Defined Task",
-        "Objective Grading Criteria",
-        "Business Operations",
-        "Process Design and Ownership",
-        "Operational Reporting and Data Discrepancies"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, global",
-      "referral_url": "https://jobs.micro1.ai/post/f59ff23d-1cad-470e-8e7c-113f2a3c63e7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c05c79ea-1396-4eba-8ca2-95573e981860",
-      "title": "Legal & Compliance Expert",
-      "domain_slug": "law",
-      "date_posted": "2026-10-24 16:05:55",
-      "skills": [
-        "Turning Real Legal Work Into a Defined Task",
-        "Contract and Document Review",
-        "Compliance",
-        "Legal",
-        "Judgment Under Conflicting Requirements"
-      ],
-      "hourly_min": 45,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 45.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, global",
-      "referral_url": "https://jobs.micro1.ai/post/c05c79ea-1396-4eba-8ca2-95573e981860?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "00ad74df-491a-4327-a38c-5dc7d484ad77",
-      "title": "Finance & Accounting Expert",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-24 15:40:37",
-      "skills": [
-        "Turning Real Finance Work Into a Defined Task",
-        "Objective Grading Criteria",
-        "Reconciliation and Error Diagnosis",
-        "Judgment in Reporting and Analysis",
-        "Working Across Documents",
-        "AI training"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, global",
-      "referral_url": "https://jobs.micro1.ai/post/00ad74df-491a-4327-a38c-5dc7d484ad77?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0e5cfd61-fe27-4955-ad5c-952e6e5d8198",
@@ -7645,34 +7552,6 @@
       "referral_url": "https://jobs.micro1.ai/post/5f79859b-3572-42b7-8edc-8ad91532a5cb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "08a19d61-5371-48c5-94c5-8b57b503f023",
-      "title": "FDA & Regulatory Compliance Attorney",
-      "domain_slug": "law",
-      "date_posted": "2026-10-22 01:43:09",
-      "skills": [
-        "fda regulatory analysis",
-        "legal research",
-        "regulatory compliance",
-        "risk assessment",
-        "regulatory submissions",
-        "legal writing",
-        "verbal communication",
-        "life sciences industry knowledge",
-        "attention to detail",
-        "issue spotting and resolution"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 400,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 140.0,
-      "pay_max": 400.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/08a19d61-5371-48c5-94c5-8b57b503f023?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "114d9490-fbb0-4533-b891-73d0ee1c859d",
       "title": "Structured Finance Attorney",
       "domain_slug": "law",
@@ -8011,29 +7890,6 @@
       "referral_url": "https://jobs.micro1.ai/post/2f7c4611-a5b1-4e6a-be39-d11c167573a0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "e788e018-6c54-4116-a975-1e5d6144429b",
-      "title": "Energy & Utilities Regulatory Attorney",
-      "domain_slug": "law",
-      "date_posted": "2026-10-22 01:12:21",
-      "skills": [
-        "FERC and State PUC Practice",
-        "Transactional Energy Work",
-        "energy-and-utilities-regulation",
-        "Regulatory Judgment Under Conflicting Rules",
-        "Attention to detail"
-      ],
-      "hourly_min": 140,
-      "hourly_max": 4050,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": null,
-      "pay_max": null,
-      "pay_unit": null,
-      "location_raw": "Fully remote — anywhere, as long as you hold an active U.S. bar license",
-      "referral_url": "https://jobs.micro1.ai/post/e788e018-6c54-4116-a975-1e5d6144429b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "55901470-d138-47d9-a2b2-cc5566df2cea",
       "title": "Inpatient Medical Coder",
       "domain_slug": "other",
@@ -8196,32 +8052,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e2b568f3-2142-4d45-9d7f-e9762b6ac0fd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f78b7cdc-5357-4f5c-b86c-92d88b5de36d",
-      "title": "Bluebook Citation Specialist (Law Students & Recent JDs)",
-      "domain_slug": "law",
-      "date_posted": "2026-10-20 04:22:43",
-      "skills": [
-        "Catching Citation Errors",
-        "Cite-Checking Experience",
-        "Handling Unclear Rules",
-        "Staying Consistent Through Repetitive Work",
-        "Bluebook & Cite-Checking",
-        "Law",
-        "Law Journal Editing",
-        "Attention to detail"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f78b7cdc-5357-4f5c-b86c-92d88b5de36d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d44dc694-8535-4f4c-8b2b-1b576839e74a",
@@ -8430,6 +8260,31 @@
       "pay_unit": "hour",
       "location_raw": "Northern America, Latin America.",
       "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "64592ac1-f184-4c0f-9e5d-796cccdd499b",
+      "title": "Data Partnerships Manager",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-13 00:14:55",
+      "skills": [
+        "Negotiation",
+        "Prospecting",
+        "Closing",
+        "Partnerships"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 30,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 250000,
+        "min": 160000
+      },
+      "pay_min": 160000.0,
+      "pay_max": 250000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/64592ac1-f184-4c0f-9e5d-796cccdd499b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "dac3063b-48c0-43ec-ae6d-98dfc4363350",
@@ -9098,6 +8953,32 @@
       "referral_url": "https://jobs.micro1.ai/post/9d57fd44-b189-41ca-a0d4-2fe3903eec41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "01f86047-2c74-46bb-a6fc-a00e1be3dd5b",
+      "title": "Product Owner",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-08-25 23:02:23",
+      "skills": [
+        "Product Ownership & Execution",
+        "Data-Driven Product Management",
+        "Scope Triage & Prioritization",
+        "Speed",
+        "Ambiguity & Async Execution"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 9,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 340000,
+        "min": 170000
+      },
+      "pay_min": 170000.0,
+      "pay_max": 340000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/01f86047-2c74-46bb-a6fc-a00e1be3dd5b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "c4289f4e-1884-4dd0-bdae-af3757d84daf",
       "title": "Member of Technical Staff, Forward Deployed (US Gov)",
       "domain_slug": "ai-machine-learning",
@@ -9121,6 +9002,27 @@
       "pay_unit": "year",
       "location_raw": "Hybrid - Washington, D.C.",
       "referral_url": "https://jobs.micro1.ai/post/c4289f4e-1884-4dd0-bdae-af3757d84daf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "15313f3d-5600-4d96-b45f-b8dfafbee976",
+      "title": "   Gravador(a) de Vídeos com Smartphone",
+      "domain_slug": "robotics",
+      "date_posted": "2026-08-20 19:43:04",
+      "skills": [
+        "Captura de Vídeo",
+        "Atenção a Detalhes",
+        "Taréfas Domésticas"
+      ],
+      "hourly_min": 6,
+      "hourly_max": 6,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 6.0,
+      "pay_max": 6.0,
+      "pay_unit": "hour",
+      "location_raw": "Remoto – profissionais baseados na América Latina e no Caribe. Países elegíveis incluem:",
+      "referral_url": "https://jobs.micro1.ai/post/15313f3d-5600-4d96-b45f-b8dfafbee976?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "382cf385-16da-4536-8a32-95947e0197a7",
