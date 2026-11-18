@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T20:30:10Z",
-  "count": 387,
+  "updated_at": "2026-11-18T00:30:02Z",
+  "count": 384,
   "jobs": [
     {
       "job_id": "3e3ab24b-06cf-43d1-9418-96c9c45af922",
@@ -8247,75 +8247,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/d44dc694-8535-4f4c-8b2b-1b576839e74a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b3324a98-754b-4218-bd4f-a8d84dcfb8e1",
-      "title": "Talent Automation Lead",
-      "domain_slug": "ai-machine-learning",
-      "date_posted": "2026-10-19 18:42:57",
-      "skills": [
-        "Workflow automation",
-        "Process improvement",
-        "LLMs",
-        "Fullstack development"
-      ],
-      "hourly_min": 180000,
-      "hourly_max": 250000,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 250000,
-        "min": 180000
-      },
-      "pay_min": 180000.0,
-      "pay_max": 250000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b3324a98-754b-4218-bd4f-a8d84dcfb8e1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "82310fe1-2ad6-4b48-9434-57f2ea679bac",
-      "title": "At-Home Video Recorder (LATAM)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-19 17:27:13",
-      "skills": [
-        "Smartphone",
-        "Video Recording",
-        "Attention to Detail",
-        "Household Tasks"
-      ],
-      "hourly_min": 6,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 6.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
-      "referral_url": "https://jobs.micro1.ai/post/82310fe1-2ad6-4b48-9434-57f2ea679bac?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
-      "title": "At-Home Video Recorder",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-19 17:15:41",
-      "skills": [
-        "Smartphone",
-        "Video Recording",
-        "Attention to Detail",
-        "Household Tasks"
-      ],
-      "hourly_min": 15,
-      "hourly_max": 15,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 15.0,
-      "pay_max": 15.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
-      "referral_url": "https://jobs.micro1.ai/post/7827dcd2-17d7-46a7-8d58-3ef6ff3930f4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "f3648a6f-d267-445f-b861-b1be29ae322f",
