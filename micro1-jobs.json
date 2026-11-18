@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T04:30:12Z",
-  "count": 380,
+  "updated_at": "2026-11-18T08:30:06Z",
+  "count": 382,
   "jobs": [
     {
       "job_id": "06058dd9-0415-4c0d-a638-9f359cbe8d76",
@@ -9255,6 +9255,27 @@
       "referral_url": "https://jobs.micro1.ai/post/5c02f61b-b2b2-46a6-a058-26a1f6e64cf7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "a1ecbac3-a024-4732-bce7-7ac2e447571d",
+      "title": "At-Home Video Recorder (LATAM) ",
+      "domain_slug": "robotics",
+      "date_posted": "2026-08-10 12:28:30",
+      "skills": [
+        "Smartphone",
+        "Video Recording",
+        "Attention to detail"
+      ],
+      "hourly_min": 6,
+      "hourly_max": 6,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 6.0,
+      "pay_max": 6.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
+      "referral_url": "https://jobs.micro1.ai/post/a1ecbac3-a024-4732-bce7-7ac2e447571d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "0e76b5a5-9305-47cc-8c1a-86f03e28f4f6",
       "title": "Arabic Voice Actor (Egypt dialect)",
       "domain_slug": "language-audio",
@@ -9323,6 +9344,28 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/14883aba-fc23-4ca4-8935-9d8d72794668?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "25977272-dca9-4b3a-a676-51bdfeae0a3d",
+      "title": "Video Data Entry Specialist (LATAM)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-06-10 05:15:22",
+      "skills": [
+        "attention to detail",
+        "data annotation",
+        "household tasks",
+        "video recording"
+      ],
+      "hourly_min": 6,
+      "hourly_max": 6,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 6.0,
+      "pay_max": 6.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
+      "referral_url": "https://jobs.micro1.ai/post/25977272-dca9-4b3a-a676-51bdfeae0a3d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "66e153bc-1c52-439e-8fcb-38d35c4eae67",
