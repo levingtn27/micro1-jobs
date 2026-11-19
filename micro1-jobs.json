@@ -1,7 +1,53 @@
 {
-  "updated_at": "2026-11-19T16:30:02Z",
+  "updated_at": "2026-11-19T20:30:08Z",
   "count": 387,
   "jobs": [
+    {
+      "job_id": "06614178-bc75-4fd3-ad14-4a2c1e09bbd5",
+      "title": "Senior Hematologist-Oncologist ",
+      "domain_slug": "medicine",
+      "date_posted": "2026-11-19 20:14:11",
+      "skills": [
+        "Hematology",
+        "Oncology",
+        "Outpatient Care",
+        "History of Present Illness",
+        "Chemotherapy Cycles"
+      ],
+      "hourly_min": 220,
+      "hourly_max": 250,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 220.0,
+      "pay_max": 250.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/06614178-bc75-4fd3-ad14-4a2c1e09bbd5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "3eb00a85-16d4-41c8-abc8-5e3b26658f4f",
+      "title": "Hematology/Oncology Physician",
+      "domain_slug": "medicine",
+      "date_posted": "2026-11-19 20:12:21",
+      "skills": [
+        "Hematology",
+        "Oncology",
+        "Outpatient Care",
+        "History of Present Illness",
+        "Chemotherapy Cycles"
+      ],
+      "hourly_min": 180,
+      "hourly_max": 220,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 180.0,
+      "pay_max": 220.0,
+      "pay_unit": "hour",
+      "location_raw": "United States, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/3eb00a85-16d4-41c8-abc8-5e3b26658f4f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "73f171be-bee6-43d5-8288-94be542da4af",
       "title": "Social Work & Community Services Professional (Domain Expert)",
@@ -318,25 +364,27 @@
       "referral_url": "https://jobs.micro1.ai/post/9a74b7b0-b1c3-4aae-b673-b821f7731daa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "3e3ab24b-06cf-43d1-9418-96c9c45af922",
-      "title": "Marine Outboard Technician / Service Manager",
-      "domain_slug": "other",
-      "date_posted": "2026-11-17 17:08:12",
+      "job_id": "24119d95-0db7-463e-9137-ee958c847c6e",
+      "title": "Professional Photographer – Sony A1 II (Remote, Project-Based)",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-11-17 22:24:15",
       "skills": [
-        "Outboard engine diagnostics (fuel - ignition - EFI - cooling)",
-        "Rigging - repower - service procedures",
-        "Service documentation and warranty"
+        "sony alpha 1 ii operation",
+        "digital photography",
+        "photo editing",
+        "attention to detail",
+        "following instructions"
       ],
-      "hourly_min": 20,
-      "hourly_max": 60,
+      "hourly_min": null,
+      "hourly_max": null,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 20.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3e3ab24b-06cf-43d1-9418-96c9c45af922?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+      "pay_min": null,
+      "pay_max": null,
+      "pay_unit": null,
+      "location_raw": "Remote / Worldwide",
+      "referral_url": "https://jobs.micro1.ai/post/24119d95-0db7-463e-9137-ee958c847c6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "e4103061-f0e7-49a2-8fb2-e1a81e762cd0",
@@ -7382,51 +7430,6 @@
       "pay_unit": "hour",
       "location_raw": "United States",
       "referral_url": "https://jobs.micro1.ai/post/6a124045-dbe2-4435-aadd-e1f1ebaa5e8f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0db2a044-3c6c-47e9-b610-292eddd305d2",
-      "title": "Data Science & Analytic Methodology SME",
-      "domain_slug": "data-analysis",
-      "date_posted": "2026-10-22 23:49:12",
-      "skills": [
-        "LLMs",
-        "Pipeline integration",
-        "Data analytics",
-        "Scaled-analysis judgment",
-        "Data science"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0db2a044-3c6c-47e9-b610-292eddd305d2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f3f5d9b3-7524-4b58-8503-347eafca3b25",
-      "title": "Cyber Threat Intelligence SME",
-      "domain_slug": "other",
-      "date_posted": "2026-10-22 23:42:32",
-      "skills": [
-        "Nation-state threat judgment",
-        "Offensive/defensive line",
-        "Over-refusal detection",
-        "Cyber Thread Intelligence expertise"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f3f5d9b3-7524-4b58-8503-347eafca3b25?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "a287e691-92ad-4e86-bacc-322b0e92aeec",
