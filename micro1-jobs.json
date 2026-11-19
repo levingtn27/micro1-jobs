@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T20:30:04Z",
-  "count": 387,
+  "updated_at": "2026-11-19T00:30:05Z",
+  "count": 382,
   "jobs": [
     {
       "job_id": "33e8cb50-49fd-4fb9-996c-0b2d1744e069",
@@ -26,7 +26,7 @@
     },
     {
       "job_id": "90902472-c9d4-4726-bb0b-a82135b1e5ba",
-      "title": "Brand & Creative Strategy Expert",
+      "title": "Executive Presentation Strategy Expert (GTM / Brand) ",
       "domain_slug": "sales-marketing",
       "date_posted": "2026-11-18 15:49:09",
       "skills": [
@@ -8003,149 +8003,26 @@
       "referral_url": "https://jobs.micro1.ai/post/c476c74d-96cc-4254-ab50-282849e9de5b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "deb49cd2-8d5f-4600-8baf-7b2cd5656eea",
-      "title": "Research Evaluation Specialist (PhD or Masters / Researcher / Professor)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-10-20 21:28:45",
+      "job_id": "7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
+      "title": "At-Home Video Recorder",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-19 17:15:41",
       "skills": [
-        "Research & source triangulation",
-        "Attention to detail",
-        "Written precision",
-        "Self-direction & reliability",
-        "Analytical thinking",
-        "Research mastery"
+        "Smartphone",
+        "Video Recording",
+        "Attention to Detail",
+        "Household Tasks"
       ],
-      "hourly_min": 30,
-      "hourly_max": 60,
+      "hourly_min": 15,
+      "hourly_max": 15,
       "monthly_min": null,
       "monthly_max": null,
       "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 60.0,
+      "pay_min": 15.0,
+      "pay_max": 15.0,
       "pay_unit": "hour",
-      "location_raw": "Remote, worldwide",
-      "referral_url": "https://jobs.micro1.ai/post/deb49cd2-8d5f-4600-8baf-7b2cd5656eea?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "345daaa5-4cbe-4af3-af6f-4e27382d6d41",
-      "title": "Certified Inpatient Coder",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-20 17:16:53",
-      "skills": [
-        "Inpatient Coding",
-        "Inpatient Records",
-        "ICD-10",
-        "CIC",
-        "CPC",
-        "AAPC",
-        "CPT"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/345daaa5-4cbe-4af3-af6f-4e27382d6d41?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a0417769-16cd-43a1-a5c7-1226f2b10932",
-      "title": "Inpatient Coder (CCS)",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-20 16:58:08",
-      "skills": [
-        "ICD-10",
-        "CCS",
-        "Inpatient Records",
-        "CPT"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a0417769-16cd-43a1-a5c7-1226f2b10932?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6fe1b365-e42d-4a8f-a474-89801118311e",
-      "title": "Inpatient Care Physician (MD/DO)",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-20 10:49:17",
-      "skills": [
-        "Patient Assessment & Diagnosis",
-        "Inpatient Clinical Care",
-        "Clinical Decision-Making",
-        "Hospital Medicine"
-      ],
-      "hourly_min": 100,
-      "hourly_max": 115,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 100.0,
-      "pay_max": 115.0,
-      "pay_unit": "hour",
-      "location_raw": "United States (Remote)",
-      "referral_url": "https://jobs.micro1.ai/post/6fe1b365-e42d-4a8f-a474-89801118311e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e2b568f3-2142-4d45-9d7f-e9762b6ac0fd",
-      "title": "Photographer",
-      "domain_slug": "arts-design",
-      "date_posted": "2026-10-20 04:44:40",
-      "skills": [
-        "professional photography",
-        "adobe photoshop",
-        "adobe lightroom",
-        "image labeling and metadata creation",
-        "remote work",
-        "written and verbal communication",
-        "meeting deadlines",
-        "following instructions and incorporating feedback",
-        "data organization and submission"
-      ],
-      "hourly_min": 35,
-      "hourly_max": 105,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 35.0,
-      "pay_max": 105.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e2b568f3-2142-4d45-9d7f-e9762b6ac0fd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d44dc694-8535-4f4c-8b2b-1b576839e74a",
-      "title": "Legal Citation Specialist (Law Students)",
-      "domain_slug": "law",
-      "date_posted": "2026-10-20 03:36:04",
-      "skills": [
-        "Catching Citation Errors",
-        "Cite-Checking Experience",
-        "Handling Unclear Rules",
-        "Staying Consistent Through Repetitive Work",
-        "Bluebook & Cite-Checking",
-        "Law",
-        "Law Journal Editing"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d44dc694-8535-4f4c-8b2b-1b576839e74a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
+      "referral_url": "https://jobs.micro1.ai/post/7827dcd2-17d7-46a7-8d58-3ef6ff3930f4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "f3648a6f-d267-445f-b861-b1be29ae322f",
@@ -8958,6 +8835,31 @@
       "referral_url": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "c37ac96c-2116-4c5e-92c7-180da9b502db",
+      "title": "Software Engineer (Electron.js)",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-09-08 21:23:21",
+      "skills": [
+        "Electron.js",
+        "Typescript",
+        "Node.js",
+        "Cross-platform Apps"
+      ],
+      "hourly_min": 6,
+      "hourly_max": 7,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 320000,
+        "min": 200000
+      },
+      "pay_min": 200000.0,
+      "pay_max": 320000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote, US",
+      "referral_url": "https://jobs.micro1.ai/post/c37ac96c-2116-4c5e-92c7-180da9b502db?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "0f2c4f59-00c6-4296-a9dc-fb7b93efd31b",
       "title": "Vlogger (Insta360, DJI Osmo, GoPro MAX)",
       "domain_slug": "robotics",
@@ -9414,27 +9316,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/0f435bd2-e7f0-4d24-9e32-de34b71c2a97?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "14883aba-fc23-4ca4-8935-9d8d72794668",
-      "title": "Small/Medium Business – Robotics Data Collection Partner",
-      "domain_slug": "robotics",
-      "date_posted": "2026-07-06 23:22:29",
-      "skills": [
-        "Video Recording Using Cellphones",
-        "Team Management",
-        "Workplace Permission Management"
-      ],
-      "hourly_min": 9,
-      "hourly_max": 9,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 9.0,
-      "pay_max": 9.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/14883aba-fc23-4ca4-8935-9d8d72794668?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "25977272-dca9-4b3a-a676-51bdfeae0a3d",
