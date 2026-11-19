@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-11-19T00:30:05Z",
-  "count": 382,
+  "updated_at": "2026-11-19T04:30:10Z",
+  "count": 387,
   "jobs": [
+    {
+      "job_id": "73f171be-bee6-43d5-8288-94be542da4af",
+      "title": "Social Work & Community Services Professional (Domain Expert)",
+      "domain_slug": "education",
+      "date_posted": "2026-11-19 02:23:50",
+      "skills": [
+        "case management",
+        "confidentiality",
+        "critical thinking",
+        "written communication",
+        "verbal communication"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (United States or Canada)",
+      "referral_url": "https://jobs.micro1.ai/post/73f171be-bee6-43d5-8288-94be542da4af?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "77822f84-13a2-4ff0-a106-abf2176d0397",
+      "title": "Creative Professional (Domain Expert)",
+      "domain_slug": "arts-design",
+      "date_posted": "2026-11-19 02:03:57",
+      "skills": [
+        "creative judgment",
+        "portfolio development",
+        "written and verbal communication",
+        "feedback and critique",
+        "ai tools for creative workflows"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (United States or Canada)",
+      "referral_url": "https://jobs.micro1.ai/post/77822f84-13a2-4ff0-a106-abf2176d0397?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "16976333-465a-41b8-ac6e-c168e958f423",
+      "title": "Teacher (US/CAN based)",
+      "domain_slug": "education",
+      "date_posted": "2026-11-19 02:00:25",
+      "skills": [
+        "lesson plan evaluation",
+        "curriculum design",
+        "assessment writing",
+        "written communication",
+        "verbal communication"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (United States or Canada)",
+      "referral_url": "https://jobs.micro1.ai/post/16976333-465a-41b8-ac6e-c168e958f423?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "33e8cb50-49fd-4fb9-996c-0b2d1744e069",
       "title": "Travel Operations Specialist",
@@ -8003,6 +8072,28 @@
       "referral_url": "https://jobs.micro1.ai/post/c476c74d-96cc-4254-ab50-282849e9de5b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "82310fe1-2ad6-4b48-9434-57f2ea679bac",
+      "title": "At-Home Video Recorder (LATAM)",
+      "domain_slug": "generalist",
+      "date_posted": "2026-10-19 17:27:13",
+      "skills": [
+        "Smartphone",
+        "Video Recording",
+        "Attention to Detail",
+        "Household Tasks"
+      ],
+      "hourly_min": 6,
+      "hourly_max": 6,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 6.0,
+      "pay_max": 6.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
+      "referral_url": "https://jobs.micro1.ai/post/82310fe1-2ad6-4b48-9434-57f2ea679bac?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "7827dcd2-17d7-46a7-8d58-3ef6ff3930f4",
       "title": "At-Home Video Recorder",
       "domain_slug": "generalist",
@@ -9245,6 +9336,28 @@
       "pay_unit": "hour",
       "location_raw": "Remote - experts based in Latin America and the Caribbean. Selected countries include:",
       "referral_url": "https://jobs.micro1.ai/post/a1ecbac3-a024-4732-bce7-7ac2e447571d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "de83ff2f-bdd2-4862-aff9-7158cd327038",
+      "title": "At-Home Video Recorder (U.S)",
+      "domain_slug": "robotics",
+      "date_posted": "2026-08-10 11:30:05",
+      "skills": [
+        "Smartphone",
+        "Video Recording",
+        "Attention to detail",
+        "Household Task"
+      ],
+      "hourly_min": 10,
+      "hourly_max": 15,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 10.0,
+      "pay_max": 15.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
+      "referral_url": "https://jobs.micro1.ai/post/de83ff2f-bdd2-4862-aff9-7158cd327038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0e76b5a5-9305-47cc-8c1a-86f03e28f4f6",
