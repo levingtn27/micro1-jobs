@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T04:30:03Z",
-  "count": 385,
+  "updated_at": "2026-11-20T08:30:04Z",
+  "count": 386,
   "jobs": [
     {
       "job_id": "06614178-bc75-4fd3-ad14-4a2c1e09bbd5",
@@ -8736,6 +8736,31 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b7222393-60d2-4a14-b038-52eb7493c50b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "09891468-1722-465f-b47e-f420c9f1e154",
+      "title": "Research Marketing Lead",
+      "domain_slug": "sales-marketing",
+      "date_posted": "2026-10-04 02:41:09",
+      "skills": [
+        "Research QA",
+        "GTM Strategy",
+        "Technical Marketing",
+        "Industry Partnerships"
+      ],
+      "hourly_min": 7,
+      "hourly_max": 8,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 350000,
+        "min": 250000
+      },
+      "pay_min": 250000.0,
+      "pay_max": 350000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/09891468-1722-465f-b47e-f420c9f1e154?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "333fddbb-5e71-406c-aa0c-e88d0a33b538",
