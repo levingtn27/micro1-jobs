@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-20T12:30:07Z",
-  "count": 388,
+  "updated_at": "2026-11-20T16:30:03Z",
+  "count": 389,
   "jobs": [
+    {
+      "job_id": "a9b8446c-a093-40bd-933d-6c17d62fa88a",
+      "title": "Music Teacher",
+      "domain_slug": "language-audio",
+      "date_posted": "2026-11-20 13:44:47",
+      "skills": [
+        "Chord Progression",
+        "Key Progressions",
+        "Music Teaching",
+        "Composing",
+        "Instrument Proficiency"
+      ],
+      "hourly_min": 15,
+      "hourly_max": 45,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 15.0,
+      "pay_max": 45.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a9b8446c-a093-40bd-933d-6c17d62fa88a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "8530dd0e-d167-4c96-9f90-afc9d089a796",
       "title": "Telecommunications Customer Support Specialist",
