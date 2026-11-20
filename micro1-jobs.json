@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T20:30:08Z",
-  "count": 387,
+  "updated_at": "2026-11-20T00:30:02Z",
+  "count": 385,
   "jobs": [
     {
       "job_id": "06614178-bc75-4fd3-ad14-4a2c1e09bbd5",
@@ -8029,50 +8029,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/2f7c4611-a5b1-4e6a-be39-d11c167573a0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "55901470-d138-47d9-a2b2-cc5566df2cea",
-      "title": "Inpatient Medical Coder",
-      "domain_slug": "other",
-      "date_posted": "2026-10-21 19:15:53",
-      "skills": [
-        "ICD-10-CM",
-        "Inpatient Coding",
-        "MS-DRG",
-        "ICD-10-PCS"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/55901470-d138-47d9-a2b2-cc5566df2cea?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c476c74d-96cc-4254-ab50-282849e9de5b",
-      "title": "Domain Contributor - Evaluation Specialist ",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-10-21 10:08:33",
-      "skills": [
-        "Domain depth",
-        "Source verification",
-        "Reasoning clarity",
-        "Evaluation expertise"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c476c74d-96cc-4254-ab50-282849e9de5b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "82310fe1-2ad6-4b48-9434-57f2ea679bac",
