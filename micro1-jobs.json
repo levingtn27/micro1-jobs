@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-11-20T16:30:03Z",
-  "count": 389,
+  "updated_at": "2026-11-20T20:30:07Z",
+  "count": 391,
   "jobs": [
+    {
+      "job_id": "32f53086-51ef-4e17-8865-0b8f0bf8a6fa",
+      "title": "GPU Programming Software Engineer",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-20 16:36:06",
+      "skills": [
+        "CUDA",
+        "WebGPU",
+        "GLSL",
+        "C++"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/32f53086-51ef-4e17-8865-0b8f0bf8a6fa?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "76b0e621-b4f4-4fa4-bd7b-c4fe96f96610",
+      "title": "CUDA Engineering Expert",
+      "domain_slug": "software-engineering",
+      "date_posted": "2026-11-20 16:28:23",
+      "skills": [
+        "CUDA",
+        "C++",
+        "GLSL",
+        "WebGPU"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/76b0e621-b4f4-4fa4-bd7b-c4fe96f96610?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "a9b8446c-a093-40bd-933d-6c17d62fa88a",
       "title": "Music Teacher",
@@ -4452,32 +4496,6 @@
       "referral_url": "https://jobs.micro1.ai/post/e9241ebd-302b-4bd5-b4af-65a017b5f02f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "b884c432-4a78-4169-bd33-2e6c6320f987",
-      "title": "AI Agent Evaluator",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-04 13:59:39",
-      "skills": [
-        "ChatGPT",
-        "Muse",
-        "AI agents",
-        "Attention to Detail",
-        "Following Instructions",
-        "Screen Recording",
-        "Dots",
-        "Mobile"
-      ],
-      "hourly_min": 25,
-      "hourly_max": 45,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 25.0,
-      "pay_max": 45.0,
-      "pay_unit": "hour",
-      "location_raw": "U.S based",
-      "referral_url": "https://jobs.micro1.ai/post/b884c432-4a78-4169-bd33-2e6c6320f987?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "72cb0145-c070-4a38-bee7-633f8d50ae55",
       "title": "Materials Scientist (Nanoparticle Sizing & Lot Release)",
       "domain_slug": "other",
@@ -7719,6 +7737,29 @@
       "pay_unit": "hour",
       "location_raw": "US-based (Remote)",
       "referral_url": "https://jobs.micro1.ai/post/dc2ca458-5a54-4d0a-971b-3e9aff15a123?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9701abf9-febd-4f13-9183-80257478f22a",
+      "title": "Mathematics Expert ",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-10-22 17:36:33",
+      "skills": [
+        "Mathematics",
+        "Python",
+        "Programming Languages",
+        "Research",
+        "Applied Math"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Global, fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/9701abf9-febd-4f13-9183-80257478f22a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "eacb1c2b-82a3-4395-87cb-168ccf8adcf8",
