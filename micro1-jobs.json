@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T00:30:04Z",
-  "count": 371,
+  "updated_at": "2026-11-21T04:30:03Z",
+  "count": 370,
   "jobs": [
     {
       "job_id": "a8c0d211-1f48-46aa-b552-fd1e3fb6c8ba",
@@ -7563,31 +7563,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e9f8e23d-b13f-46d1-9e7c-01f56a2c0450?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6a124045-dbe2-4435-aadd-e1f1ebaa5e8f",
-      "title": "Generalist",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-23 04:58:38",
-      "skills": [
-        "Generalist",
-        "ChatGPT Proficiency",
-        "Problem Solving",
-        "Attention to Detail",
-        "Communication",
-        "Task Execution",
-        "Documentation"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 49,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "location_raw": "United States",
-      "referral_url": "https://jobs.micro1.ai/post/6a124045-dbe2-4435-aadd-e1f1ebaa5e8f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "dc341efb-fab5-4d87-8916-e0f6fdb283fa",
