@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T12:30:02Z",
-  "count": 375,
+  "updated_at": "2026-11-22T16:30:03Z",
+  "count": 374,
   "jobs": [
     {
       "job_id": "b9160cd0-6896-4788-9935-596c225594b7",
@@ -4818,28 +4818,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/515ae213-2193-4711-88b8-1d89d1281dda?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c619b632-b151-492c-8bf5-02a7728f13d6",
-      "title": "Visual Content Evaluator",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-04 02:18:14",
-      "skills": [
-        "image evaluation",
-        "visual content",
-        "imagen editing",
-        "constructive feedback"
-      ],
-      "hourly_min": 40,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 40.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c619b632-b151-492c-8bf5-02a7728f13d6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "5eac67b3-dea2-40b1-bab3-b36607847f74",
