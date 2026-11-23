@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-23T04:30:11Z",
-  "count": 370,
+  "updated_at": "2026-11-23T08:30:04Z",
+  "count": 371,
   "jobs": [
+    {
+      "job_id": "433a031d-e683-4547-8695-738f1a43871d",
+      "title": "Tax Expert (EA/CPA)",
+      "domain_slug": "law",
+      "date_posted": "2026-11-23 08:19:18",
+      "skills": [
+        "individual income tax preparation (form 1040)",
+        "tax law expertise (ty2025 rules)",
+        "complex return preparation (schedule c, k-1s, investments, credits)",
+        "federal tax computation and analysis",
+        "written communication (clarity, objectivity, reproducibility)"
+      ],
+      "hourly_min": 30,
+      "hourly_max": 60,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 30.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "location_raw": "US, Remote",
+      "referral_url": "https://jobs.micro1.ai/post/433a031d-e683-4547-8695-738f1a43871d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "16a30c0f-7cb0-4587-82e1-0de5c2762cd7",
       "title": "Mathlib Contributor",
