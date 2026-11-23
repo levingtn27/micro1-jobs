@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T16:30:31Z",
-  "count": 392,
+  "updated_at": "2026-11-23T20:30:10Z",
+  "count": 396,
   "jobs": [
     {
       "job_id": "3ed0c9b9-2bb6-4fdc-8923-21f4a3dc9b7e",
@@ -6551,28 +6551,6 @@
       "referral_url": "https://jobs.micro1.ai/post/51b59eaf-48a6-427c-94d0-7a125b25425c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "448f7fb3-a4cf-44e8-9a13-de2de0f257a1",
-      "title": "Imagery Analyst —AI/ML Training Data",
-      "domain_slug": "generalist",
-      "date_posted": "2026-10-29 23:23:13",
-      "skills": [
-        "Data labeling",
-        "Data annotation",
-        "Labeling accuracy",
-        "Attention to detail"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 60,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote, U.S.-based",
-      "referral_url": "https://jobs.micro1.ai/post/448f7fb3-a4cf-44e8-9a13-de2de0f257a1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "548b77cc-d398-414f-a92d-4ba203bb1c31",
       "title": "Imagery Analyst (Drone & Maritime)",
       "domain_slug": "generalist",
@@ -7775,6 +7753,116 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/7feee246-52db-48df-880c-58a87bbc9c65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
+      "title": "Humanitarian Aid Representative",
+      "domain_slug": "humanities",
+      "date_posted": "2026-10-23 19:19:23",
+      "skills": [
+        "Civilian-protection judgment",
+        "IHL grounding",
+        "Proportionality reasoning"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/6ea926f9-3711-40d7-ba08-6b53367ebbb5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "21bb587d-cd06-407b-95eb-44a44a5dc803",
+      "title": "Military Legal Advisor ",
+      "domain_slug": "law",
+      "date_posted": "2026-10-23 19:03:18",
+      "skills": [
+        "LOAC",
+        "International-law application",
+        "Lawful-boundary discrimination",
+        "Legal-uncertainty reasoning"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/21bb587d-cd06-407b-95eb-44a44a5dc803?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "36174963-012b-4a8d-b955-12d48aac7b6f",
+      "title": "Human Intelligence Collector (HUMINT)",
+      "domain_slug": "other",
+      "date_posted": "2026-10-23 18:51:54",
+      "skills": [
+        "Elicitation strategy",
+        "Real-time cue reading",
+        "Reliability assessment",
+        "Interrogation/investigative questioning",
+        "Attention to detail",
+        "HUMINT"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US-based preferred.",
+      "referral_url": "https://jobs.micro1.ai/post/36174963-012b-4a8d-b955-12d48aac7b6f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "e9f8e23d-b13f-46d1-9e7c-01f56a2c0450",
+      "title": "Intelligence Analyst ",
+      "domain_slug": "other",
+      "date_posted": "2026-10-23 18:47:52",
+      "skills": [
+        "Analytic rigor",
+        "Source handling",
+        "Over-refusal detection",
+        "All-Source Intelligence Analysis"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e9f8e23d-b13f-46d1-9e7c-01f56a2c0450?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "a287e691-92ad-4e86-bacc-322b0e92aeec",
+      "title": "Combat Arms & Targeting SME",
+      "domain_slug": "other",
+      "date_posted": "2026-10-22 23:37:06",
+      "skills": [
+        "Targeting & fires judgment",
+        "Boundary discrimination",
+        "Utility assessment"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/a287e691-92ad-4e86-bacc-322b0e92aeec?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "dc341efb-fab5-4d87-8916-e0f6fdb283fa",
