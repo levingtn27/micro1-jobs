@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-11-23T08:30:04Z",
-  "count": 371,
+  "updated_at": "2026-11-23T12:30:04Z",
+  "count": 372,
   "jobs": [
+    {
+      "job_id": "259a1131-004b-4537-871a-86dfbf4670a0",
+      "title": "Accounting Expert",
+      "domain_slug": "finance",
+      "date_posted": "2026-11-23 10:17:27",
+      "skills": [
+        "accounting principles",
+        "gaap",
+        "ifrs",
+        "financial statement analysis",
+        "auditing",
+        "attention to detail",
+        "analytical skills",
+        "written communication",
+        "verbal communication",
+        "problem-solving",
+        "content annotation",
+        "remote collaboration",
+        "adaptability",
+        "digital collaboration tools",
+        "regulatory compliance"
+      ],
+      "hourly_min": 20,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 20.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/259a1131-004b-4537-871a-86dfbf4670a0?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "433a031d-e683-4547-8695-738f1a43871d",
       "title": "Tax Expert (EA/CPA)",
@@ -224,7 +257,7 @@
     },
     {
       "job_id": "b9160cd0-6896-4788-9935-596c225594b7",
-      "title": "Robotics Data Collection Specialist",
+      "title": "Robotics Data Collection Specialist (U.S Based)",
       "domain_slug": "robotics",
       "date_posted": "2026-11-21 05:29:47",
       "skills": [
