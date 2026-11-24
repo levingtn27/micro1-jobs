@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-11-23T20:30:10Z",
-  "count": 396,
+  "updated_at": "2026-11-24T00:30:07Z",
+  "count": 398,
   "jobs": [
+    {
+      "job_id": "3caa66c3-ef7a-42d6-be2d-1b0b7dc778cf",
+      "title": "AI Product Tester (Consumer Safety & Security)",
+      "domain_slug": "cybersecurity",
+      "date_posted": "2026-11-23 23:38:53",
+      "skills": [
+        "Personal Cybersecurity Awareness",
+        "Scam & Phishing Detection",
+        "Identity Theft Prevention & Recovery",
+        "Online Privacy & Data Removal",
+        "AI Chatbot Usage",
+        "Product Testing",
+        "Written Feedback & Reporting",
+        "Attention to Detail"
+      ],
+      "hourly_min": 21,
+      "hourly_max": 35,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 21.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
+      "location_raw": "United States (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/3caa66c3-ef7a-42d6-be2d-1b0b7dc778cf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "9f1e63d5-0494-4124-9a1f-94be2378c42b",
+      "title": "Autodesk Fusion CAM Expert",
+      "domain_slug": "skilled-trades-construction",
+      "date_posted": "2026-11-23 20:48:29",
+      "skills": [
+        "Autodesk Fusion",
+        "Fusion360",
+        "CAM",
+        "Computer-Aided Manufacturing",
+        "CNC"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Fully Remote-Open Worldwide",
+      "referral_url": "https://jobs.micro1.ai/post/9f1e63d5-0494-4124-9a1f-94be2378c42b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "3ed0c9b9-2bb6-4fdc-8923-21f4a3dc9b7e",
       "title": "Manufacturing Process Expert -CNC, CAM & Semiconductors",
@@ -4745,28 +4794,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/526b27c6-df46-441e-b04d-97dbeb4f5904?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "32dd2150-5c80-486b-bdb1-19223b728f33",
-      "title": "AI Image Specialist (US Based)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-05 20:08:59",
-      "skills": [
-        "Graphic Design",
-        "AI Evaluation",
-        "Photo Editing",
-        "Retouching"
-      ],
-      "hourly_min": 21,
-      "hourly_max": 35,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 21.0,
-      "pay_max": 35.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/32dd2150-5c80-486b-bdb1-19223b728f33?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "98885f6c-0276-4d24-a965-76f7520a8975",
@@ -9519,6 +9546,29 @@
       "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/de83ff2f-bdd2-4862-aff9-7158cd327038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "55e3a797-5ed9-4f99-bfd6-f90947d9b05b",
+      "title": "Autodesk Fusion CAM Expert",
+      "domain_slug": "skilled-trades-construction",
+      "date_posted": "2026-08-07 21:39:44",
+      "skills": [
+        "Autodesk Fusion",
+        "Fusion360",
+        "CAM",
+        "Computer-Aided Manufacturing",
+        "CNC"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Fully Remote-Open Worldwide",
+      "referral_url": "https://jobs.micro1.ai/post/55e3a797-5ed9-4f99-bfd6-f90947d9b05b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0e76b5a5-9305-47cc-8c1a-86f03e28f4f6",
