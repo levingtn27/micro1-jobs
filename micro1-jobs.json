@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T04:32:22Z",
-  "count": 399,
+  "updated_at": "2026-11-24T08:30:04Z",
+  "count": 400,
   "jobs": [
     {
       "job_id": "fa161b1d-6445-4a93-8f54-4b0cdd2771ca",
@@ -8144,6 +8144,26 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f3648a6f-d267-445f-b861-b1be29ae322f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "c3af6520-9ea8-4717-b8c6-2b9dee8ee470",
+      "title": "Education Practitioner - Learning & Assessment Specialist",
+      "domain_slug": "education",
+      "date_posted": "2026-10-15 04:52:00",
+      "skills": [
+        "instructional designers",
+        "educators"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote - USA Preferred",
+      "referral_url": "https://jobs.micro1.ai/post/c3af6520-9ea8-4717-b8c6-2b9dee8ee470?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d484ab8c-eb8b-4b2f-b742-3d00719ca143",
