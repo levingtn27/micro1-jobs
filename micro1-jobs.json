@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-24T00:30:07Z",
-  "count": 398,
+  "updated_at": "2026-11-24T04:30:03Z",
+  "count": 399,
   "jobs": [
+    {
+      "job_id": "fa161b1d-6445-4a93-8f54-4b0cdd2771ca",
+      "title": "Mechanical Design Engineer — Aerospace CNC Parts ",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-24 02:04:39",
+      "skills": [
+        "mechanical design engineer",
+        "design engineer",
+        "aerospace",
+        "satellite",
+        "design for manufacturing",
+        "machined components"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 155,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 155.0,
+      "pay_unit": "hour",
+      "location_raw": "Fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/fa161b1d-6445-4a93-8f54-4b0cdd2771ca?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "3caa66c3-ef7a-42d6-be2d-1b0b7dc778cf",
       "title": "AI Product Tester (Consumer Safety & Security)",
