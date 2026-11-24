@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-11-24T16:30:22Z",
-  "count": 410,
+  "updated_at": "2026-11-24T20:30:05Z",
+  "count": 408,
   "jobs": [
+    {
+      "job_id": "e907f607-30db-415a-9d0a-7cb7eac15cdd",
+      "title": "Distinguished Researcher, Research Program",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-24 20:14:35",
+      "skills": [
+        "Research",
+        "Result verification",
+        "Problem framing",
+        "Computational rigor"
+      ],
+      "hourly_min": 200,
+      "hourly_max": 400,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 200.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/e907f607-30db-415a-9d0a-7cb7eac15cdd?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "4ed0c33d-ec2f-40b5-bbc0-e9651e3f2881",
       "title": "Federal Labor & Employee Relations Specialist",
@@ -3564,31 +3586,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/39b344d9-4774-4c9e-8220-620084da3df5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "9429d8c8-9631-4d7c-8e29-3ac9cbfe12e1",
-      "title": "Assistant",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-11-09 21:11:05",
-      "skills": [
-        "Calendar Management",
-        "Scheduling",
-        "Organization",
-        "Time Management",
-        "Communication",
-        "Task Coordination",
-        "Problem-Solving"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Canada, and LATAM",
-      "referral_url": "https://jobs.micro1.ai/post/9429d8c8-9631-4d7c-8e29-3ac9cbfe12e1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4e0beed7-fd35-4d80-8392-0d3531784fc2",
@@ -7806,6 +7803,35 @@
       "referral_url": "https://jobs.micro1.ai/post/7feee246-52db-48df-880c-58a87bbc9c65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "badffe8c-c9c5-475e-bf6a-3f718a8b6a0b",
+      "title": "Military Operations Expert",
+      "domain_slug": "other",
+      "date_posted": "2026-10-24 07:31:09",
+      "skills": [
+        "military operations expertise",
+        "tactical decision-making",
+        "operational planning",
+        "rules of engagement (roe)",
+        "law of armed conflict (loac)",
+        "scenario evaluation",
+        "written communication",
+        "critical thinking",
+        "attention to detail",
+        "military intelligence",
+        "combat operations assessment"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/badffe8c-c9c5-475e-bf6a-3f718a8b6a0b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
       "title": "Humanitarian Aid Representative",
       "domain_slug": "humanities",
@@ -8275,29 +8301,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US-based only",
       "referral_url": "https://jobs.micro1.ai/post/47ae77fa-cc3b-40f5-bdc6-eca4d11cc73e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "2623e26a-77a6-4e1f-891e-eff91cf455f1",
-      "title": "Personal Financial Advisor ",
-      "domain_slug": "finance",
-      "date_posted": "2026-10-14 00:06:54",
-      "skills": [
-        "personal financial planning",
-        "investment strategies",
-        "regulatory compliance",
-        "written and verbal communication",
-        "analytical skills"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 110,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "location_raw": "Northern America, Latin America.",
-      "referral_url": "https://jobs.micro1.ai/post/2623e26a-77a6-4e1f-891e-eff91cf455f1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "64592ac1-f184-4c0f-9e5d-796cccdd499b",
@@ -9847,55 +9850,6 @@
       "pay_unit": "hour",
       "location_raw": "Fully Remote-Open Worldwide",
       "referral_url": "https://jobs.micro1.ai/post/55e3a797-5ed9-4f99-bfd6-f90947d9b05b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0e76b5a5-9305-47cc-8c1a-86f03e28f4f6",
-      "title": "Arabic Voice Actor (Egypt dialect)",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-07-25 05:31:07",
-      "skills": [
-        "egyptian arabic fluency",
-        "voice acting",
-        "audio recording",
-        "audio editing software",
-        "script interpretation",
-        "pronunciation accuracy",
-        "attention to detail",
-        "verbal communication",
-        "written communication",
-        "remote collaboration",
-        "feedback implementation",
-        "professional audio equipment",
-        "cultural sensitivity",
-        "adaptability"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0e76b5a5-9305-47cc-8c1a-86f03e28f4f6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c6094969-6b8c-47ca-a40b-0bb5b53d0885",
-      "title": "Arabic Voice Actor (Saudi dialect)",
-      "domain_slug": "language-audio",
-      "date_posted": "2026-07-25 05:09:13",
-      "skills": [],
-      "hourly_min": 30,
-      "hourly_max": 65,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c6094969-6b8c-47ca-a40b-0bb5b53d0885?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "0f435bd2-e7f0-4d24-9e32-de34b71c2a97",
