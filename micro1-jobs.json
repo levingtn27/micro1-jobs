@@ -1,7 +1,104 @@
 {
-  "updated_at": "2026-11-24T12:30:04Z",
-  "count": 401,
+  "updated_at": "2026-11-24T16:30:22Z",
+  "count": 410,
   "jobs": [
+    {
+      "job_id": "4ed0c33d-ec2f-40b5-bbc0-e9651e3f2881",
+      "title": "Federal Labor & Employee Relations Specialist",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-11-24 16:08:15",
+      "skills": [
+        "federal hr policy knowledge",
+        "employee relations",
+        "labor relations",
+        "written communication",
+        "scenario development",
+        "federal government procedures",
+        "case analysis",
+        "feedback delivery",
+        "attention to detail",
+        "collaboration"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US-based only",
+      "referral_url": "https://jobs.micro1.ai/post/4ed0c33d-ec2f-40b5-bbc0-e9651e3f2881?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "cd7f2cd5-08e9-455e-af45-9851a206aa22",
+      "title": "Social Security Claims Specialist – Remote",
+      "domain_slug": "other",
+      "date_posted": "2026-11-24 16:01:28",
+      "skills": [
+        "Fraud Detection",
+        "System Operations",
+        "Adjudicate Claims",
+        "GS-0105"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 85,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US-based only",
+      "referral_url": "https://jobs.micro1.ai/post/cd7f2cd5-08e9-455e-af45-9851a206aa22?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "40d4db1d-4c11-48fd-a276-f1e97d80b192",
+      "title": "Federal HR & Equal Employment Opportunity (EEO) Specialist",
+      "domain_slug": "other",
+      "date_posted": "2026-11-24 15:51:38",
+      "skills": [
+        "EEO Law",
+        "Conflict Resolution",
+        "Discrimination Complaints",
+        "Position Classification",
+        "GS-0260"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US-based only",
+      "referral_url": "https://jobs.micro1.ai/post/40d4db1d-4c11-48fd-a276-f1e97d80b192?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "b7894c37-b541-4141-839f-7b61e2265243",
+      "title": "Federal Procurement Specialist",
+      "domain_slug": "other",
+      "date_posted": "2026-11-24 15:43:18",
+      "skills": [
+        "Federal Contracting",
+        "Contract Negotiation",
+        "Pre-Award and Post-Award Procedures",
+        "GS-1102",
+        "Procurement",
+        "Proposal Evaluation"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote, US-based only",
+      "referral_url": "https://jobs.micro1.ai/post/b7894c37-b541-4141-839f-7b61e2265243?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "fa161b1d-6445-4a93-8f54-4b0cdd2771ca",
       "title": "Mechanical Design Engineer — Aerospace CNC Parts ",
@@ -2223,30 +2320,6 @@
       "referral_url": "https://jobs.micro1.ai/post/b72e8b41-eadc-4b75-ba24-60fb852792c1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "446f05ac-d089-4214-ada6-02df5f1c12fe",
-      "title": "Contract Specialist",
-      "domain_slug": "other",
-      "date_posted": "2026-11-13 17:47:20",
-      "skills": [
-        "Federal Contracting",
-        "Contract Negotiation",
-        "Pre-Award and Post-Award Procedures",
-        "GS-1102",
-        "Procurement",
-        "Proposal Evaluation"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 80,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/446f05ac-d089-4214-ada6-02df5f1c12fe?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "92adefba-ef8c-4d8f-8eee-ed78c1c663b8",
       "title": "Software Engineer (Staff), Financial Platform & Infra",
       "domain_slug": "software-engineering",
@@ -2958,29 +3031,6 @@
       "referral_url": "https://jobs.micro1.ai/post/03ef0cc7-8c09-466f-9b37-b4d8b3c97de5?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "ea0f5010-c2e8-4102-b715-72d1a368a19f",
-      "title": "Federal Equal Employment Specialist",
-      "domain_slug": "other",
-      "date_posted": "2026-11-10 23:49:58",
-      "skills": [
-        "EEO Law",
-        "Conflict Resolution",
-        "Discrimination Complaints",
-        "Position Classification",
-        "GS-0260"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ea0f5010-c2e8-4102-b715-72d1a368a19f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "f773a48d-1b5f-4bb6-8b56-a6d72f3fb9c5",
       "title": "Software Engineer -  Open Source Contributions",
       "domain_slug": "software-engineering",
@@ -3082,28 +3132,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, United States only",
       "referral_url": "https://jobs.micro1.ai/post/51a68d9c-317c-49bd-bf15-8acc722179c6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "b97a4898-3ce1-4aeb-bb5a-a4c51e6e422b",
-      "title": "Social Insurance Specialist",
-      "domain_slug": "other",
-      "date_posted": "2026-11-10 17:52:10",
-      "skills": [
-        "Fraud Detection",
-        "System Operations",
-        "Adjudicate Claims",
-        "GS-0105"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 85,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 85.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/b97a4898-3ce1-4aeb-bb5a-a4c51e6e422b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "61506be4-d46b-40fe-bd20-0fc245c4aa4e",
@@ -5025,34 +5053,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/6928f6ef-24cf-4227-99a2-1eb722ac6b79?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "33814129-0645-4b89-b48a-c3be860148e4",
-      "title": "Federal HR Specialist (Employee & Labor Relations)",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-11-04 16:25:35",
-      "skills": [
-        "federal hr policy knowledge",
-        "employee relations",
-        "labor relations",
-        "written communication",
-        "scenario development",
-        "federal government procedures",
-        "case analysis",
-        "feedback delivery",
-        "attention to detail",
-        "collaboration"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 90,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/33814129-0645-4b89-b48a-c3be860148e4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "e947caa4-612c-4ea0-9806-18630309f12a",
@@ -8850,6 +8850,30 @@
       "referral_url": "https://jobs.micro1.ai/post/190225df-d67a-402d-bd7f-d9c7c40bb693?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "9a648ee0-2d83-4453-89f5-19df3deb295c",
+      "title": "SaaS Contracts Counsel",
+      "domain_slug": "law",
+      "date_posted": "2026-10-06 16:20:10",
+      "skills": [
+        "SaaS",
+        "Software as a Service",
+        "NDA",
+        "MSA",
+        "DPA",
+        "Non-disclosure agreement"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9a648ee0-2d83-4453-89f5-19df3deb295c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "b8ed43ea-dc5c-4da1-80f4-633cb15d94a9",
       "title": "British English Voice Expert",
       "domain_slug": "language-audio",
@@ -8991,6 +9015,29 @@
       "referral_url": "https://jobs.micro1.ai/post/333fddbb-5e71-406c-aa0c-e88d0a33b538?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "ca43d8de-7ded-4a6d-a8e1-bfc294d42914",
+      "title": "Derivatives Counsel (ISDA Specialist)",
+      "domain_slug": "law",
+      "date_posted": "2026-10-01 14:38:04",
+      "skills": [
+        "ISDAs",
+        "Derivatives",
+        "Contract Negotiation",
+        "Contract Redlining",
+        "Contract Drafting"
+      ],
+      "hourly_min": 150,
+      "hourly_max": 200,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 150.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ca43d8de-7ded-4a6d-a8e1-bfc294d42914?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "36e1b1f6-b8bf-4273-a09a-94116a1f4b39",
       "title": "Car-Mounted 360° Video Recorder",
       "domain_slug": "robotics",
@@ -9082,6 +9129,127 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US only.",
       "referral_url": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "482ee7a8-ec42-4dd7-9b90-1f3186fcb0ef",
+      "title": "Contract Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-23 14:17:14",
+      "skills": [
+        "Contract Redlining",
+        "Contract Drafting",
+        "Contract Negotiation",
+        "MSAs",
+        "DPAs",
+        "NDAs"
+      ],
+      "hourly_min": 85,
+      "hourly_max": 105,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 85.0,
+      "pay_max": 105.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/482ee7a8-ec42-4dd7-9b90-1f3186fcb0ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0936cd2a-a0a9-4105-802a-a4ec81cbf466",
+      "title": "In-House Counsel",
+      "domain_slug": "law",
+      "date_posted": "2026-09-22 14:55:42",
+      "skills": [
+        "Contract Redlining",
+        "Contract Drafting",
+        "Contract Negotiation",
+        "ISDA's",
+        "MSA's",
+        "NDA's"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0936cd2a-a0a9-4105-802a-a4ec81cbf466?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "4efbbbb6-4536-482a-8f28-9895e719424d",
+      "title": "Transactional Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-22 14:40:12",
+      "skills": [
+        "Contract Redlining",
+        "Contract Drafting",
+        "Contract Negotiation",
+        "ISDA's",
+        "MSA's",
+        "NDA's"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 130,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/4efbbbb6-4536-482a-8f28-9895e719424d?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "81bef975-1ec5-404c-a1a6-7efe49dec2a3",
+      "title": "Investment Funds Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-22 14:13:15",
+      "skills": [
+        "Contract Redlining",
+        "Contract Negotiation",
+        "Fund Formation",
+        "Fund Management",
+        "LPA's",
+        "ISDA's",
+        "M&A"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 180,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 180.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/81bef975-1ec5-404c-a1a6-7efe49dec2a3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "15fe5ebb-b057-4a33-b0c3-14510fe1065e",
+      "title": "General Counsel",
+      "domain_slug": "law",
+      "date_posted": "2026-09-22 14:03:11",
+      "skills": [
+        "Contract Negotiation",
+        "Contract Redlining",
+        "Contract Drafting",
+        "NDAs",
+        "MSAs",
+        "ISDAs"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/15fe5ebb-b057-4a33-b0c3-14510fe1065e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "4510e771-d8d4-4c2f-8326-4f6de96d2ce8",
@@ -9177,6 +9345,50 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/f7ff5f2a-cbff-4e3d-ad83-1019155c246a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "076f4149-4798-4082-b157-d35d179a869f",
+      "title": "Commercial Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-16 18:53:56",
+      "skills": [
+        "Contract Drafting",
+        "Technology Transactions",
+        "Contract Negotiation",
+        "Contract Redlining"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (US Based)",
+      "referral_url": "https://jobs.micro1.ai/post/076f4149-4798-4082-b157-d35d179a869f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "d01b226a-f47e-4c65-b4ef-4245b4d4ea37",
+      "title": "Contracts Attorney",
+      "domain_slug": "law",
+      "date_posted": "2026-09-16 18:52:39",
+      "skills": [
+        "Contract Drafting",
+        "Technology Transactions",
+        "Contract Negotiation",
+        "Contract Redlining"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 110,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 110.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (US Based)",
+      "referral_url": "https://jobs.micro1.ai/post/d01b226a-f47e-4c65-b4ef-4245b4d4ea37?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "b1316606-46fb-4c3d-a4f9-5a2368e88d70",
