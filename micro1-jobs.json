@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T08:30:04Z",
-  "count": 400,
+  "updated_at": "2026-11-24T12:30:04Z",
+  "count": 401,
   "jobs": [
     {
       "job_id": "fa161b1d-6445-4a93-8f54-4b0cdd2771ca",
@@ -9082,6 +9082,28 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US only.",
       "referral_url": "https://jobs.micro1.ai/post/50d0cd3d-0d16-4c70-9094-8a66bbc9dffb?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "4510e771-d8d4-4c2f-8326-4f6de96d2ce8",
+      "title": "Recruiter",
+      "domain_slug": "other",
+      "date_posted": "2026-09-19 18:56:11",
+      "skills": [
+        "Sourcing",
+        "Recruitment pipeline",
+        "Remote work self-management",
+        "Stakeholder communication"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 50,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 50.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (US Only)",
+      "referral_url": "https://jobs.micro1.ai/post/4510e771-d8d4-4c2f-8326-4f6de96d2ce8?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "6edb7bba-063e-423e-bc2d-40758b70092f",
