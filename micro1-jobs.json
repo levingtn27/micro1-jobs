@@ -1,7 +1,121 @@
 {
-  "updated_at": "2026-11-25T12:30:24Z",
-  "count": 432,
+  "updated_at": "2026-11-25T16:30:17Z",
+  "count": 441,
   "jobs": [
+    {
+      "job_id": "b7a0623b-f333-4183-a744-9879576aa933",
+      "title": "Mechanical Design Engineer — Robotics CNC Parts (Remote)",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-25 14:05:07",
+      "skills": [
+        "GD&T",
+        "Tolerance Analysis",
+        "Robotics",
+        "Precision Machining",
+        "SolidWorks"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 155,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 155.0,
+      "pay_unit": "hour",
+      "location_raw": "Fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/b7a0623b-f333-4183-a744-9879576aa933?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0e974b30-6b11-4670-b70d-b18075b08793",
+      "title": "Optomechanical Design Engineer — Precision CNC Parts (Remote)",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-25 13:57:14",
+      "skills": [
+        "Optomechanical Design",
+        "Mechanical Design",
+        "CNC Part Design",
+        "GD&T",
+        "Tolerance Analysis",
+        "Optical Alignment",
+        "SolidWorks"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 155,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 155.0,
+      "pay_unit": "hour",
+      "location_raw": "Fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/0e974b30-6b11-4670-b70d-b18075b08793?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "02be2f29-8914-413c-ac06-201f1b5b8909",
+      "title": " Mechanical Design Engineer — Semiconductor & Vacuum Hardware",
+      "domain_slug": "applied-engineering",
+      "date_posted": "2026-11-25 13:33:30",
+      "skills": [
+        "Design for Manufacturing",
+        "Vacuum Systems",
+        "Semiconductor Equipment",
+        "SolidWorks",
+        "CNC Part Design"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 155,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 155.0,
+      "pay_unit": "hour",
+      "location_raw": "Fully remote",
+      "referral_url": "https://jobs.micro1.ai/post/02be2f29-8914-413c-ac06-201f1b5b8909?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "19dd49c8-27c4-4fd7-a171-6f7626c17de1",
+      "title": "Research Scientist - Computer Science & Computational Physics",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-25 12:31:41",
+      "skills": [
+        "Computational rigor",
+        "Complex problem solving - Research",
+        "Problem framing"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 400,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/19dd49c8-27c4-4fd7-a171-6f7626c17de1?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "10d08059-db58-47b3-8456-be749e353a08",
+      "title": "Principal Research Scientist (Computer Science / Computational Physics)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-25 12:31:24",
+      "skills": [
+        "Novelty judgment",
+        "Research direction",
+        "Computational rigor",
+        "Complex problem solving - Research"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 400,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 400.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/10d08059-db58-47b3-8456-be749e353a08?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "53b35cc0-377e-4c11-b23f-289b0cf02a72",
       "title": "Engineering Education Practitioner – Learning & Assessment Specialist",
@@ -808,15 +922,9 @@
         "evidence-based reasoning",
         "regulatory compliance",
         "administrative law",
-        "attention to detail",
-        "written communication",
-        "verbal communication",
         "familiarity with federal register",
         "familiarity with regulations.gov",
-        "omb regulatory review",
-        "scenario-based assignment development",
-        "peer review",
-        "summarization skills"
+        "omb regulatory review"
       ],
       "hourly_min": 50,
       "hourly_max": 70,
@@ -8330,6 +8438,34 @@
       "referral_url": "https://jobs.micro1.ai/post/a287e691-92ad-4e86-bacc-322b0e92aeec?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
+      "job_id": "1031bd16-b859-454b-a97c-a3b8ce1c606c",
+      "title": "Lawyer",
+      "domain_slug": "law",
+      "date_posted": "2026-10-22 20:37:28",
+      "skills": [
+        "legal research and analysis",
+        "bluebook citation formatting",
+        "legal writing and editing",
+        "cite-checking",
+        "us legal system knowledge",
+        "written and verbal communication",
+        "attention to detail",
+        "remote collaboration",
+        "feedback and critique",
+        "interpretation and synthesis of complex legal issues"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "US-Based (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/1031bd16-b859-454b-a97c-a3b8ce1c606c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
       "job_id": "dc341efb-fab5-4d87-8916-e0f6fdb283fa",
       "title": "Senior Marine Cargo and Draft Surveyor",
       "domain_slug": "other",
@@ -8373,6 +8509,62 @@
       "pay_unit": "hour",
       "location_raw": "Global, fully remote",
       "referral_url": "https://jobs.micro1.ai/post/fb90c558-6459-4695-aea3-9a5959526f67?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "0e78e401-56d5-423c-8b26-bcf85bab25ff",
+      "title": "Junior Lawyer ",
+      "domain_slug": "law",
+      "date_posted": "2026-10-22 18:24:54",
+      "skills": [
+        "legal document review",
+        "bluebook citation",
+        "legal writing and editing",
+        "legal analysis",
+        "cite-checking",
+        "attention to detail",
+        "remote collaboration",
+        "clear written and verbal communication",
+        "quality assurance",
+        "summarizing complex legal concepts"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/0e78e401-56d5-423c-8b26-bcf85bab25ff?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "dc2ca458-5a54-4d0a-971b-3e9aff15a123",
+      "title": "Law Student",
+      "domain_slug": "law",
+      "date_posted": "2026-10-22 18:11:19",
+      "skills": [
+        "legal research",
+        "legal writing",
+        "bluebook citation formatting",
+        "cite-checking",
+        "editorial review",
+        "us legal system knowledge",
+        "analytical reasoning",
+        "written communication",
+        "verbal communication",
+        "attention to detail"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 80,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "location_raw": "US-based (Remote)",
+      "referral_url": "https://jobs.micro1.ai/post/dc2ca458-5a54-4d0a-971b-3e9aff15a123?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "9701abf9-febd-4f13-9183-80257478f22a",
@@ -9876,6 +10068,31 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b1316606-46fb-4c3d-a4f9-5a2368e88d70?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "44668e06-3191-4b5f-a41c-b19e05f46eb7",
+      "title": "Forward Deployed Engineer",
+      "domain_slug": "ai-machine-learning",
+      "date_posted": "2026-09-14 22:44:06",
+      "skills": [
+        "Python",
+        "LLM Systems",
+        "ML Infrastructure",
+        "RAG/AI Automation"
+      ],
+      "hourly_min": 250000,
+      "hourly_max": 400000,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": {
+        "max": 650000,
+        "min": 300000
+      },
+      "pay_min": 300000.0,
+      "pay_max": 650000.0,
+      "pay_unit": "year",
+      "location_raw": "Remote / Travel-required",
+      "referral_url": "https://jobs.micro1.ai/post/44668e06-3191-4b5f-a41c-b19e05f46eb7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "c37ac96c-2116-4c5e-92c7-180da9b502db",
