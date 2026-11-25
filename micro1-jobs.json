@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-11-25T16:30:17Z",
-  "count": 441,
+  "updated_at": "2026-11-25T20:30:08Z",
+  "count": 444,
   "jobs": [
+    {
+      "job_id": "9edded39-4798-484c-9973-1b1a5628cd19",
+      "title": "Radiation Oncologist",
+      "domain_slug": "medicine",
+      "date_posted": "2026-11-25 19:49:14",
+      "skills": [
+        "radiation oncology",
+        "clinical data review",
+        "evidence-based medicine",
+        "written communication",
+        "verbal communication"
+      ],
+      "hourly_min": 100,
+      "hourly_max": 150,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 100.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/9edded39-4798-484c-9973-1b1a5628cd19?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "775e01a4-c2ea-47a4-ae2e-7c9e129a4409",
+      "title": "Military Operations Expert",
+      "domain_slug": "other",
+      "date_posted": "2026-11-25 19:25:56",
+      "skills": [
+        "military operations expertise",
+        "tactical decision-making",
+        "operational planning",
+        "rules of engagement (roe)",
+        "law of armed conflict (loac)",
+        "scenario evaluation",
+        "written communication",
+        "critical thinking",
+        "attention to detail",
+        "military intelligence",
+        "combat operations assessment"
+      ],
+      "hourly_min": 90,
+      "hourly_max": 170,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 90.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/775e01a4-c2ea-47a4-ae2e-7c9e129a4409?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "313ccd2b-f8ef-4b33-a51b-6aed0715e19e",
+      "title": "Imagery Analyst (Drone & Maritime)",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-25 17:08:49",
+      "skills": [
+        "Data labeling",
+        "Data annotation",
+        "Labeling accuracy",
+        "Attention to detail",
+        "Navy & Martime familiarity",
+        "Active CAC"
+      ],
+      "hourly_min": 35,
+      "hourly_max": 85,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 35.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote (U.S.)",
+      "referral_url": "https://jobs.micro1.ai/post/313ccd2b-f8ef-4b33-a51b-6aed0715e19e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "b7a0623b-f333-4183-a744-9879576aa933",
       "title": "Mechanical Design Engineer — Robotics CNC Parts (Remote)",
@@ -8299,35 +8375,6 @@
       "referral_url": "https://jobs.micro1.ai/post/7feee246-52db-48df-880c-58a87bbc9c65?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "badffe8c-c9c5-475e-bf6a-3f718a8b6a0b",
-      "title": "Military Operations Expert",
-      "domain_slug": "other",
-      "date_posted": "2026-10-24 07:31:09",
-      "skills": [
-        "military operations expertise",
-        "tactical decision-making",
-        "operational planning",
-        "rules of engagement (roe)",
-        "law of armed conflict (loac)",
-        "scenario evaluation",
-        "written communication",
-        "critical thinking",
-        "attention to detail",
-        "military intelligence",
-        "combat operations assessment"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 170.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/badffe8c-c9c5-475e-bf6a-3f718a8b6a0b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "6ea926f9-3711-40d7-ba08-6b53367ebbb5",
       "title": "Humanitarian Aid Representative",
       "domain_slug": "humanities",
@@ -9845,9 +9892,9 @@
         "Contract Redlining",
         "Contract Drafting",
         "Contract Negotiation",
-        "ISDA's",
         "MSA's",
-        "NDA's"
+        "NDA's",
+        "DPA"
       ],
       "hourly_min": 90,
       "hourly_max": 130,
@@ -10234,6 +10281,29 @@
       "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/8944ed79-063d-43e2-a244-bd3185fbfb43?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "b97e5024-93da-4f54-bf63-4b42230d729a",
+      "title": "General Counsel",
+      "domain_slug": "law",
+      "date_posted": "2026-08-19 17:39:04",
+      "skills": [
+        "Contract Redlining",
+        "Contract Drafting",
+        "Contract Review",
+        "Technology Transactions",
+        "In-house Experience"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 105,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 105.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/b97e5024-93da-4f54-bf63-4b42230d729a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "382cf385-16da-4536-8a32-95947e0197a7",
