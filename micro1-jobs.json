@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T20:30:08Z",
-  "count": 444,
+  "updated_at": "2026-11-26T00:30:03Z",
+  "count": 437,
   "jobs": [
     {
       "job_id": "9edded39-4798-484c-9973-1b1a5628cd19",
@@ -8124,29 +8124,6 @@
       "referral_url": "https://jobs.micro1.ai/post/76ebe7ba-7dd2-48c5-bf47-46773bbc0e89?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "642573d8-555a-4eef-939a-b479af309c25",
-      "title": "Wearable Electronic User",
-      "domain_slug": "other",
-      "date_posted": "2026-10-27 22:51:27",
-      "skills": [
-        "wearable device proficiency",
-        "data exporting",
-        "file organization",
-        "data privacy awareness",
-        "attention to detail"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/642573d8-555a-4eef-939a-b479af309c25?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "ab040b63-3e78-47d4-87b5-319193171cc2",
       "title": "Member of Technical Staff, Model Training (infra & platform)",
       "domain_slug": "sciences-research",
@@ -8170,110 +8147,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ab040b63-3e78-47d4-87b5-319193171cc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "cfaf2d70-673a-4edb-aeba-558fcf33eb9a",
-      "title": "Member of Technical Staff, Model Training (applied research)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-10-27 21:33:18",
-      "skills": [
-        "Model Training & Adaptation",
-        "Multimodal AI",
-        "Robotics & Agent Learning",
-        "Applied ML Evaluation",
-        "Inference Optimization & Model Deployment"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 8,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 1800000,
-        "min": 600000
-      },
-      "pay_min": 600000.0,
-      "pay_max": 1800000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/cfaf2d70-673a-4edb-aeba-558fcf33eb9a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "0a40f373-eb85-4269-a115-07d75e7e59a2",
-      "title": "Member of Technical Staff, Model Training (post-training research)",
-      "domain_slug": "sciences-research",
-      "date_posted": "2026-10-27 21:28:43",
-      "skills": [
-        "Reinforcement Learning & Optimization",
-        "Post-Training Algorithms",
-        "Training Data Strategy & Curriculum Learning",
-        "ML Research & Experimental Design"
-      ],
-      "hourly_min": 7,
-      "hourly_max": 8,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": {
-        "max": 1800000,
-        "min": 600000
-      },
-      "pay_min": 600000.0,
-      "pay_max": 1800000.0,
-      "pay_unit": "year",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/0a40f373-eb85-4269-a115-07d75e7e59a2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "8e9b3e88-5bdc-4bbd-92bb-09a5a36b4e40",
-      "title": "Certified Inpatient Medical Coder",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-27 09:26:49",
-      "skills": [
-        "Inpatient Coding",
-        "Inpatient Records",
-        "ICD-10",
-        "CIC",
-        "CPC",
-        "AAPC",
-        "CPT"
-      ],
-      "hourly_min": 50,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 50.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8e9b3e88-5bdc-4bbd-92bb-09a5a36b4e40?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "f0a479de-d301-42c3-93ec-b68b0074ce6e",
-      "title": "Registered Nurse",
-      "domain_slug": "medicine",
-      "date_posted": "2026-10-27 08:48:48",
-      "skills": [
-        "inpatient clinical expertise",
-        "clinical documentation review",
-        "annotation of medical records",
-        "nursing judgment",
-        "evaluation of ai-generated clinical outputs",
-        "attention to detail",
-        "written and verbal communication",
-        "feedback provision",
-        "knowledge of inpatient workflows",
-        "collaboration with stakeholders"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 70,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "location_raw": "United States, Remote",
-      "referral_url": "https://jobs.micro1.ai/post/f0a479de-d301-42c3-93ec-b68b0074ce6e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "6009f546-2ac3-4072-9f5a-1bd8094154ef",
@@ -10577,51 +10450,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote - based in Alabama, Alaska, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Illinois, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, New York, Montana, Nebraska, Nevada, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin, and Wyoming.",
       "referral_url": "https://jobs.micro1.ai/post/de83ff2f-bdd2-4862-aff9-7158cd327038?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "55e3a797-5ed9-4f99-bfd6-f90947d9b05b",
-      "title": "Autodesk Fusion CAM Expert",
-      "domain_slug": "skilled-trades-construction",
-      "date_posted": "2026-08-07 21:39:44",
-      "skills": [
-        "Autodesk Fusion",
-        "Fusion360",
-        "CAM",
-        "Computer-Aided Manufacturing",
-        "CNC"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 120,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "location_raw": "Fully Remote-Open Worldwide",
-      "referral_url": "https://jobs.micro1.ai/post/55e3a797-5ed9-4f99-bfd6-f90947d9b05b?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e511d686-859b-422d-8562-70f7c8257035",
-      "title": "Manufacturing Specialist (Fusion360 CAM)",
-      "domain_slug": "skilled-trades-construction",
-      "date_posted": "2026-08-06 20:45:19",
-      "skills": [
-        "CAM",
-        "CNC",
-        "Manufacturing",
-        "Fusion 360"
-      ],
-      "hourly_min": 60,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 60.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e511d686-859b-422d-8562-70f7c8257035?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "07d29f55-367b-48a5-a5d8-6f993006d4be",
