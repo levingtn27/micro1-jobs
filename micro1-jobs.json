@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-11-26T08:30:07Z",
-  "count": 424,
+  "updated_at": "2026-11-26T12:30:05Z",
+  "count": 425,
   "jobs": [
+    {
+      "job_id": "17edfc7b-72f4-4a51-9e8d-7b2d2e58ce21",
+      "title": "Hospitality Worker (Toast POS User)",
+      "domain_slug": "business-operations",
+      "date_posted": "2026-11-26 11:14:32",
+      "skills": [
+        "Toast POS",
+        "Restaurant Operations",
+        "Point of Sale (POS) Systems",
+        "Order & Payment Management"
+      ],
+      "hourly_min": 28,
+      "hourly_max": 92,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 28.0,
+      "pay_max": 92.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/17edfc7b-72f4-4a51-9e8d-7b2d2e58ce21?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "83bbbcf2-f61d-474f-afdc-f9b7168d0ba2",
       "title": "Formulation Scientist (Consumer & Household Products)",
@@ -320,6 +342,29 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/e02bd279-4664-4cb3-8bcc-f8a123bfb5bf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "ff9cf300-37ac-48e5-b898-c963b75edfd4",
+      "title": "Nextdoor Specialist",
+      "domain_slug": "generalist",
+      "date_posted": "2026-11-25 06:17:27",
+      "skills": [
+        "Nextdoor",
+        "Community Engagement",
+        "Social Networking",
+        "Community Management",
+        "Online Communication"
+      ],
+      "hourly_min": 70,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 70.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/ff9cf300-37ac-48e5-b898-c963b75edfd4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "3952399d-c44b-4a5a-9dac-bce9265569c3",
@@ -7862,28 +7907,6 @@
       "pay_unit": "year",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/ab040b63-3e78-47d4-87b5-319193171cc2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6009f546-2ac3-4072-9f5a-1bd8094154ef",
-      "title": "Hospitality Worker (Toast POS User)",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-10-26 19:17:35",
-      "skills": [
-        "Toast POS",
-        "Restaurant Operations",
-        "Point of Sale (POS) Systems",
-        "Order & Payment Management"
-      ],
-      "hourly_min": 28,
-      "hourly_max": 92,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 28.0,
-      "pay_max": 92.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6009f546-2ac3-4072-9f5a-1bd8094154ef?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "57f7606f-5b4f-42a5-af38-e4b148f2c06a",
