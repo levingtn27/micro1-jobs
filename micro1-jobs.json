@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-11-26T04:30:03Z",
-  "count": 437,
+  "updated_at": "2026-11-26T08:30:07Z",
+  "count": 424,
   "jobs": [
+    {
+      "job_id": "83bbbcf2-f61d-474f-afdc-f9b7168d0ba2",
+      "title": "Formulation Scientist (Consumer & Household Products)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-26 06:28:57",
+      "skills": [
+        "formulation development",
+        "chemical engineering",
+        "technical writing",
+        "regulatory compliance (consumer products)",
+        "remote collaboration",
+        "household cleaning product expertise",
+        "analytical skills",
+        "problem-solving",
+        "ingredient compatibility assessment",
+        "product performance evaluation"
+      ],
+      "hourly_min": 50,
+      "hourly_max": 90,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 50.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/83bbbcf2-f61d-474f-afdc-f9b7168d0ba2?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "209cffd5-91a1-456a-8996-b706f3bb727e",
+      "title": "Polymer Scientist (Plastics & Additives Formulation)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-26 06:24:30",
+      "skills": [
+        "polymer chemistry",
+        "plastics formulation",
+        "additives formulation",
+        "materials engineering",
+        "performance testing",
+        "technical writing",
+        "scientific communication",
+        "regulatory awareness",
+        "sustainability considerations",
+        "problem-solving"
+      ],
+      "hourly_min": 60,
+      "hourly_max": 100,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 60.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/209cffd5-91a1-456a-8996-b706f3bb727e?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
+    {
+      "job_id": "131b694b-e7e3-439d-a097-39ed17a4045c",
+      "title": "Scientist (Natural Sweetener Discovery)",
+      "domain_slug": "sciences-research",
+      "date_posted": "2026-11-26 05:19:52",
+      "skills": [
+        "natural product discovery",
+        "computational chemistry",
+        "cheminformatics",
+        "molecular modeling",
+        "high-throughput screening",
+        "structure elucidation",
+        "data annotation",
+        "dataset curation",
+        "scientific communication",
+        "collaborative teamwork"
+      ],
+      "hourly_min": 80,
+      "hourly_max": 120,
+      "monthly_min": null,
+      "monthly_max": null,
+      "yearly": null,
+      "pay_min": 80.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "location_raw": "Remote",
+      "referral_url": "https://jobs.micro1.ai/post/131b694b-e7e3-439d-a097-39ed17a4045c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
+    },
     {
       "job_id": "9edded39-4798-484c-9973-1b1a5628cd19",
       "title": "Radiation Oncologist",
@@ -214,54 +298,6 @@
       "referral_url": "https://jobs.micro1.ai/post/53b35cc0-377e-4c11-b23f-289b0cf02a72?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "3f75d1ab-9163-409d-bdb0-6304fa760d15",
-      "title": "Home Depot Specialist",
-      "domain_slug": "retail-hospitality",
-      "date_posted": "2026-11-25 06:24:58",
-      "skills": [
-        "Home Depot",
-        "E-commerce",
-        "Home Improvement",
-        "Online Shopping",
-        "Product Research",
-        "Order Management"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/3f75d1ab-9163-409d-bdb0-6304fa760d15?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "a1838465-cbeb-49cf-af1d-05f73eaf62cc",
-      "title": "Quizlet Specialist",
-      "domain_slug": "education",
-      "date_posted": "2026-11-25 06:22:42",
-      "skills": [
-        "Quizlet",
-        "Educational Technology",
-        "Flashcards",
-        "Study Tools",
-        "Digital Learning",
-        "Learning Assessment"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/a1838465-cbeb-49cf-af1d-05f73eaf62cc?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "e02bd279-4664-4cb3-8bcc-f8a123bfb5bf",
       "title": "IXL Specialist",
       "domain_slug": "education",
@@ -286,53 +322,6 @@
       "referral_url": "https://jobs.micro1.ai/post/e02bd279-4664-4cb3-8bcc-f8a123bfb5bf?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "ff9cf300-37ac-48e5-b898-c963b75edfd4",
-      "title": "Nextdoor Specialist",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-25 06:17:27",
-      "skills": [
-        "Nextdoor",
-        "Community Engagement",
-        "Social Networking",
-        "Community Management",
-        "Online Communication"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/ff9cf300-37ac-48e5-b898-c963b75edfd4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "e9a02c5a-1c96-46c9-a3ff-a70151542421",
-      "title": "Costco Specialist",
-      "domain_slug": "retail-hospitality",
-      "date_posted": "2026-11-25 06:14:47",
-      "skills": [
-        "Costco",
-        "E-commerce",
-        "Online Shopping",
-        "Retail",
-        "Product Research",
-        "Order Management"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/e9a02c5a-1c96-46c9-a3ff-a70151542421?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "3952399d-c44b-4a5a-9dac-bce9265569c3",
       "title": "Desmos Specialist",
       "domain_slug": "education",
@@ -355,30 +344,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/3952399d-c44b-4a5a-9dac-bce9265569c3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "58e2e063-5384-4c5e-8867-a9b74b1e6121",
-      "title": "IKEA Specialist",
-      "domain_slug": "retail-hospitality",
-      "date_posted": "2026-11-25 06:09:35",
-      "skills": [
-        "IKEA",
-        "Home Furnishing",
-        "Interior Design",
-        "E-commerce",
-        "Furniture Planning",
-        "Online Shopping"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 100,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/58e2e063-5384-4c5e-8867-a9b74b1e6121?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "80dd1e53-af83-4816-a900-6a56f23380f6",
@@ -669,56 +634,6 @@
       "referral_url": "https://jobs.micro1.ai/post/6b5f38f7-3df7-4c87-8850-52cfda026b8f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "5282b89f-63a5-4c98-9139-2536a020ce1a",
-      "title": "AWS Console Specialist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-11-25 05:32:32",
-      "skills": [
-        "AWS Management Console",
-        "Amazon Web Services",
-        "EC2",
-        "S3",
-        "IAM",
-        "VPC",
-        "Cloud Computing"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/5282b89f-63a5-4c98-9139-2536a020ce1a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6973d3fe-7ffa-4336-a601-842d53239580",
-      "title": "Microsoft Azure Specialist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-11-25 05:29:19",
-      "skills": [
-        "Microsoft Azure",
-        "Azure Portal",
-        "Cloud Computing",
-        "Azure Virtual Machines",
-        "Azure Storage",
-        "Cloud Infrastructure",
-        "Azure Networking"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6973d3fe-7ffa-4336-a601-842d53239580?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "3f5d773b-80f7-4472-8123-7f54a4550c24",
       "title": "CrowdStrike Specialist",
       "domain_slug": "cybersecurity",
@@ -767,30 +682,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/70717804-93d7-4e80-95e7-066896bef24f?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "87dc6e0b-2c68-417f-a4ca-9e11fc02df37",
-      "title": "Zoho Desk Specialist",
-      "domain_slug": "business-operations",
-      "date_posted": "2026-11-25 05:10:15",
-      "skills": [
-        "Zoho Desk",
-        "Customer Support",
-        "Help Desk",
-        "Ticket Management",
-        "Workflow Automation",
-        "Customer Service"
-      ],
-      "hourly_min": 90,
-      "hourly_max": 170,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 90.0,
-      "pay_max": 170.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/87dc6e0b-2c68-417f-a4ca-9e11fc02df37?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "1a0d6a4e-8993-49cf-aaed-447a1374cdcb",
@@ -842,31 +733,6 @@
       "referral_url": "https://jobs.micro1.ai/post/6ba8152f-48f3-4afe-9165-8895d1b6a82a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
-      "job_id": "43010f6e-4e92-4b43-b3b7-574686b5c137",
-      "title": "Vercel Specialist",
-      "domain_slug": "software-engineering",
-      "date_posted": "2026-11-25 04:59:42",
-      "skills": [
-        "Vercel",
-        "Web Development",
-        "Next.js",
-        "Frontend Development",
-        "Web Deployment",
-        "Git",
-        "CI/CD"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/43010f6e-4e92-4b43-b3b7-574686b5c137?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
       "job_id": "5f8a86a6-3218-49ba-b1ab-e3ae4fc32010",
       "title": "Federal Grants Specialist",
       "domain_slug": "other",
@@ -911,31 +777,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote, US-based only",
       "referral_url": "https://jobs.micro1.ai/post/6dfc21d0-1a51-445a-9952-45b54a67f79a?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d9d9f98e-5930-413a-9abd-9d4dfa5de220",
-      "title": "PubMed Specialist",
-      "domain_slug": "medicine",
-      "date_posted": "2026-11-25 04:52:15",
-      "skills": [
-        "PubMed",
-        "Medical Research",
-        "Biomedical Research",
-        "Scientific Research",
-        "Evidence-Based Medicine",
-        "MeSH",
-        "Literature Review"
-      ],
-      "hourly_min": 70,
-      "hourly_max": 130,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 70.0,
-      "pay_max": 130.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d9d9f98e-5930-413a-9abd-9d4dfa5de220?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "5c636ea0-d345-4e44-8649-917a24a63b8e",
@@ -1683,132 +1524,6 @@
       "pay_unit": "hour",
       "location_raw": "Remote",
       "referral_url": "https://jobs.micro1.ai/post/b9160cd0-6896-4788-9935-596c225594b7?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "8d344840-7000-4bbd-9441-79d3823d194c",
-      "title": "Generalist (Canada)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-21 04:46:51",
-      "skills": [
-        "Generalist",
-        "Tester",
-        "English communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 49,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/8d344840-7000-4bbd-9441-79d3823d194c?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d5c197cc-d9fb-4664-8116-2209a288e558",
-      "title": "Generalist (United Kingdom)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-21 04:44:46",
-      "skills": [
-        "Generalist",
-        "Tester",
-        "English communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 49,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d5c197cc-d9fb-4664-8116-2209a288e558?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "16bbdc5d-e18e-4c12-a4e1-2b88498a5bf6",
-      "title": "Generalist (Germany)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-21 04:42:02",
-      "skills": [
-        "Generalist",
-        "Tester",
-        "English communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 49,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/16bbdc5d-e18e-4c12-a4e1-2b88498a5bf6?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "6ac1bc21-812e-439c-93ac-1fb8aec41d06",
-      "title": "Generalist (Australia)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-21 04:39:27",
-      "skills": [
-        "Generalist",
-        "Tester",
-        "English communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 49,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/6ac1bc21-812e-439c-93ac-1fb8aec41d06?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "c76acdbd-57bb-4ab3-a0d6-ec2d8b3a0ce3",
-      "title": "Generalist (Brazil)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-21 04:36:30",
-      "skills": [
-        "Generalist",
-        "Tester",
-        "English communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 49,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/c76acdbd-57bb-4ab3-a0d6-ec2d8b3a0ce3?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
-    },
-    {
-      "job_id": "d91dafe2-acc2-437c-b2df-f91e02a662d4",
-      "title": "Generalist (France)",
-      "domain_slug": "generalist",
-      "date_posted": "2026-11-21 04:34:44",
-      "skills": [
-        "Generalist",
-        "Tester",
-        "English communication"
-      ],
-      "hourly_min": 30,
-      "hourly_max": 49,
-      "monthly_min": null,
-      "monthly_max": null,
-      "yearly": null,
-      "pay_min": 30.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "location_raw": "Remote",
-      "referral_url": "https://jobs.micro1.ai/post/d91dafe2-acc2-437c-b2df-f91e02a662d4?referralCode=e1b5c4f0-aaa5-4d6b-a6e7-5dd6ab2ae21c&utm_source=referral&utm_medium=share&utm_campaign=job_referral"
     },
     {
       "job_id": "d9e9993e-0539-45f6-9000-e7b51b0c71c3",
